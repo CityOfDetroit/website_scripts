@@ -136,7 +136,7 @@ class EMDocsParser():
                             line = ''
 
             data = {
-                "base_url": "/files/emergency_manager_docs/",
+                "base_path": "/files/emergency_manager_docs/",
                 "reports": content
             }
 

@@ -134,6 +134,9 @@ def parse_lines(input_file):
             else:
                 if not info.is_complete():
                     raise Exception("info {} not complete (line num {}".format(info, line_num))
+
+                # TODO remove "schools/" from beginning of path
+
                 water_test_info.append(info)
 
         elif not ignore_line(line):
@@ -156,7 +159,7 @@ if __name__ == "__main__":
         water_test_info = parse_lines(input_file)
 
     output = {
-        "base_url": "/files/water_testing/",
+        "base_path": "/files/water_testing/",
         "locations": [ info.get_json() for info in water_test_info ]
     }
 
