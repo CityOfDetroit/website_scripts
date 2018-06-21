@@ -39,7 +39,7 @@ if __name__ == '__main__':
 	url = "http://www.detroitmi.gov/How-Do-I/View-City-of-Detroit-Reports/Budget-Audit-and-other-Financial-Reports"
 
 	content = {
-		"base_path": "/sites/detroitmi.localhost/files/financial-reports/",
+		"base_path": "/sites/detroitmi.localhost/files/migrated_docs/financial-reports/",
 		"reports": {}
 	}
 
