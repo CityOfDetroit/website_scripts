@@ -1,19 +1,24 @@
 #!/usr/bin/env python
 
 from lxml import html
+import json
 import requests
 
 
-import pdb
+def parse_link(link):
 
+	path = link.get('href')
+	title = link.get('title')
 
-def parse_list_item(li):
+	pos = path.rfind('/')
+	if pos >= 0:
+		path = path[pos + 1 : ]
 
+	pos = path.find('?')
+	if pos > 0:
+		path = path[ : pos]
 
-	pdb.set_trace()
-
-	link = li.xpath('a')
-
+	return path, title
 
 
 def get_item(elt, tag):
@@ -33,25 +38,39 @@ if __name__ == '__main__':
 
 	url = "http://www.detroitmi.gov/How-Do-I/View-City-of-Detroit-Reports/Budget-Audit-and-other-Financial-Reports"
 
+	content = {
+		"base_path": "/sites/detroitmi.localhost/files/financial-reports/",
+		"reports": {}
+	}
+
 	page = requests.get(url)
 	tree = html.fromstring(page.content)
 	reports = tree.xpath('//div[@class="dnntitle"]')
 
 	for report in reports:
 
-		subtitle = report.xpath('span')[0].text
-		print(subtitle)
-
+		reports = []
 		contents = report.xpath('following-sibling::div[@class="contentmain1"]')
 		for div in contents:
 
 			ul = get_item(div, tag='ul')
+			if ul is None:
 
-			if ul is not None:
+				link = get_item(div, tag='a')
+				if link is not None:
+					path, title = parse_link(link=link)
+					reports.append({ title : path })
+
+			else:
 
 				list_items = ul.xpath('li')
 				for li in list_items:
 
-					parse_list_item(li)
+					path, title = parse_link(link=li.xpath('a')[0])
+					reports.append({ title : path })
 
-					print(list_item.text)
+		if reports:
+			subtitle = report.xpath('span')[0].text
+			content["reports"][subtitle] = reports
+
+	print(json.dumps(content))
