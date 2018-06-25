@@ -21,17 +21,20 @@ def parse_link(link):
 	return path, title
 
 
-def get_item(elt, tag):
+def get_child_items(elt, tag):
 
-	if elt.tag == tag:
-		return elt
+    if elt.tag == tag:
+        return [elt]
 
-	children = elt.getchildren()
-	for child in children:
+    items = []
+    children = elt.getchildren()
+    for child in children:
 
-		item = get_item(child, tag=tag)
-		if item is not None:
-			return item
+        tmp = get_child_items(child, tag=tag)
+        if tmp is not None and len(tmp):
+            items.extend(tmp)
+
+    return items
 
 
 if __name__ == '__main__':
@@ -53,17 +56,17 @@ if __name__ == '__main__':
 		contents = report.xpath('following-sibling::div[@class="contentmain1"]')
 		for div in contents:
 
-			ul = get_item(div, tag='ul')
-			if ul is None:
+			uls = get_child_items(elt=div, tag='ul')
+			if uls is None or len(uls) == 0:
 
-				link = get_item(div, tag='a')
-				if link is not None:
-					path, title = parse_link(link=link)
+				links = get_child_items(elt=div, tag='a')
+				if links is not None and len(links):
+					path, title = parse_link(link=links[0])
 					reports.append({ title : path })
 
 			else:
 
-				list_items = ul.xpath('li')
+				list_items = uls[0].xpath('li')
 				for li in list_items:
 
 					path, title = parse_link(link=li.xpath('a')[0])
