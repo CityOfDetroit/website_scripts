@@ -49,7 +49,7 @@ class TranslatedContentParser():
         Output the translated content.
         """
 
-        self.output.write(url)
+        self.output.write("\n" + url)
         self.output.write("\n")
         self.output.write("\ntitle:  " + title.rstrip())
         self.output.write("\ndescription:  " + desc.rstrip())
