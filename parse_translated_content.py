@@ -30,6 +30,7 @@ class TranslatedContentParser():
             # get destination url
             url = input.readline().rstrip()
             print(url)
+            self.output.write(url)
 
             # skip blank line
             input.readline()
