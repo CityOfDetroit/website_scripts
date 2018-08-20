@@ -30,7 +30,6 @@ class TranslatedContentParser():
             # get destination url
             url = input.readline().rstrip()
             print(url)
-            self.output.write(url)
 
             # skip blank line
             input.readline()
@@ -43,13 +42,15 @@ class TranslatedContentParser():
             desc = self.parse_value(data, 'description')
             summary = self.parse_value(data, 'field_summary')
 
-            self.output_file(title=title, desc=desc, summary=summary)
+            self.output_file(url=url, title=title, desc=desc, summary=summary)
 
-    def output_file(self, title, desc, summary):
+    def output_file(self, url, title, desc, summary):
         """
         Output the translated content.
         """
 
+        self.output.write(url)
+        self.output.write("\n")
         self.output.write("\ntitle:  " + title.rstrip())
         self.output.write("\ndescription:  " + desc.rstrip())
         self.output.write("\nsummary:   " + summary.rstrip())
