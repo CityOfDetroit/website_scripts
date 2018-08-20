@@ -7,9 +7,6 @@ import json
 import glob
 
 
-import pdb
-
-
 class TranslatedContentParser():
 
     def parse_value(self, data, name):
@@ -52,11 +49,11 @@ class TranslatedContentParser():
         Output the translated content.
         """
 
-        print("\ntitle:  " + title.rstrip())
-        print("\ndescription:  " + desc.rstrip())
-        print("\nsummary:   " + summary.rstrip())
-        print("\n")
-        print('\n*******************************************************************************\n')
+        self.output.write("\ntitle:  " + title.rstrip())
+        self.output.write("\ndescription:  " + desc.rstrip())
+        self.output.write("\nsummary:   " + summary.rstrip())
+        self.output.write("\n")
+        self.output.write('\n*******************************************************************************\n')
 
     def parse(self, argv):
         """
@@ -65,6 +62,8 @@ class TranslatedContentParser():
 
         directory = sys.argv[1]
         lang = sys.argv[2]
+
+        self.output = open(lang + "_content.txt", newline='', mode='wt', encoding='utf-8')
 
         for filename in glob.glob(directory + "/*.txt"):
 
