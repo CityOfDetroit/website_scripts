@@ -7,14 +7,26 @@ import json
 import glob
 
 
+import pdb
+
+
 class TranslatedContentParser():
+
+    def parse_value(self, data, name):
+
+        ret_val = ''
+
+        val = data.get(name, {})
+        if val:
+            val = val[0]
+            ret_val = val.get('value', '')
+
+        return ret_val
 
     def parse_file(self, filename):
         """
         Parse an individual file.
         """
-
-        print(filename)
 
         with open(filename) as input:
 
@@ -29,9 +41,9 @@ class TranslatedContentParser():
             data = input.readline()
             data = json.loads(data)
 
-            title = data['name'][0]['value']
-            desc = data['description'][0]['value']
-            summary = data['field_summary'][0]['value']
+            title = self.parse_value(data, 'name')
+            desc = self.parse_value(data, 'description')
+            summary = self.parse_value(data, 'field_summary')
 
             self.output_file(title=title, desc=desc, summary=summary)
 
@@ -44,6 +56,7 @@ class TranslatedContentParser():
         print("\ndescription:  " + desc.rstrip())
         print("\nsummary:   " + summary.rstrip())
         print("\n")
+        print('\n*******************************************************************************\n')
 
     def parse(self, argv):
         """
