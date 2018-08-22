@@ -743,6 +743,754 @@ summary:   <p>El DDOT es el transporte de Detroit. Como el organismo de transpor
 
 *******************************************************************************
 
+http://detroitmi.theneighborhoods.org/departments/health-department/birth-and-death-certificates
+
+title:  Certificados de nacimiento y de defunción
+description:  <p>Desde el 2014, todas las personas deben obtener los certificados de nacimiento y de defunción emitidos por Detroit a través de la Secretaría del condado de Wayne. El Departamento de Promoción de la Salud y el Bienestar de Detroit (Detroit Department of Health and Wellness Promotion) cerró su División de Registro Civil permanentemente en&nbsp;diciembre de 2013.<br/>
+&nbsp;</p>
+
+<p><strong>Obtenga los certificados de nacimiento y de defunción emitidos por Detroit en:</strong></p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.text_teaser_large" data-entity-type="node" data-entity-uuid="7939a5c5-3385-45cd-b90b-d18e921ac44d"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>Para obtener más información sobre cómo adquirir los certificados de nacimiento y de defunción emitidos por Detroit a través de la Secretaría del condado de Wayne, visite&nbsp;<strong><a href="http://www.waynecounty.com/clerk/" target="_blank" title="http://www.waynecounty.com/clerk">http://www.waynecounty.com/clerk</a></strong><br/>
+<br/>
+<strong>Estado de Michigan</strong><br/>
+Los certificados de nacimiento y de defunción también se pueden obtener a través de la&nbsp;<strong>Oficina</strong>&nbsp;<strong>del Registro Civil</strong> del Estado de Michigan<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<strong>Por correo postal:</strong>&nbsp;P.O. Box 30721, Lansing, MI 48909<br/>
+<strong><strong>Para obtener más información:</strong>&nbsp;</strong>&lt;a href="tel:(517) 335-8666"&gt;(517) 335-8666&nbsp;</a></p>
+
+<p>&nbsp;</p>
+
+<p>&lt;a href="http://www.waynecounty.com/clerk/248.htm" target="_blank" title="Birth and Death Certificates"&gt;Birth and Death Certificates Online</a></p>
+summary:   <p>Certificados de nacimiento y de defunción</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/detroit-animal-care-and-control
+
+title:  Control y Cuidado de Animales de Detroit
+description:  <p>La misión de la Oficina de Control y Cuidado de Animales de Detroit es promover y proteger la salud, la seguridad y el bienestar de los residentes y visitantes de la ciudad de Detroit, evitando mordeduras de animales, zoonosis o peligros de tránsito; manteniendo los estándares más altos en los refugios de animales, promoviendo la ubicación de animales en hogares y fomentando la tenencia responsable de una mascota a través de la educación, la aplicación y la participación comunitaria.</p>
+
+<p>¡Los servicios, que están disponibles todos los días, incluyen la identificación de perros perdidos, el otorgamiento de licencias, adopciones y más!&nbsp;</p>
+summary:   <p>La misión de la Oficina de Control y Cuidado de Animales de Detroit es promover y proteger la salud, la seguridad y el bienestar de los residentes y visitantes de la ciudad de Detroit, evitando mordeduras de animales, zoonosis o peligros de tránsito; manteniendo los estándares más altos en los refugios de animales, promoviendo la ubicación de animales en hogares y fomentando la tenencia responsable de una mascota a través de la educación, la aplicación y la participación comunitaria.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/detroit-id/schedule-appointment
+
+title:  Programe una cita
+description:  <p>Seleccione un centro a continuación a fin de programar una cita para obtener la tarjeta de identificación de Detroit</p>
+summary:   <p>Programe una cita para obtener la tarjeta de identificación de Detroit</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/detroit-id
+
+title:  Tarjeta de identificación de Detroit
+description:  &lt;drupal-entity alt="Detroit ID Image" data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="974e0ed6-5511-4e2b-acac-178472894657" title="Detroit ID Image"&gt;</drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>La Identificación de Detroit es para todas las personas de Detroit, incluyendo ciudadanos de regreso, personas en situación de calle e inmigrantes sin importar el estado migratorio. Úselo para:</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Acceder a los servicios de la ciudad: interactúe con el Departamento de Policía de la ciudad de Detroit y las escuelas públicas de Detroit</li>
+	<li>Abrir cuentas de servicios públicos con DTE y DWSD.</li>
+	<li>Abrir una cuenta corriente o una caja de ahorro con One Detroit Credit Union</li>
+	<li>Recibir descuentos para muchísimos locales comerciales y actividades culturales en Detroit</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Es muy fácil</p>
+
+<ol>
+	<li>Reúna la<strong>&nbsp;prueba de identidad</strong>&nbsp;y&nbsp;<strong>la prueba de residencia</strong>&nbsp;
+
+	<drupal-entity data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="d8856b1b-b02c-4e0e-9955-7dd8c69b775e"></drupal-entity>
+	</li>
+	<li>Programe una&nbsp;<a href="/departments/health-department/detroit-id/schedule-appointment"><strong>cita</strong></a>&nbsp;en su centro de atención más cercano</li>
+	<li>Complete la solicitud</li>
+</ol>
+
+<p><a href="/departments/health-department/detroit-id/benefits">Aquí puede encontrar una lista completa de beneficios.</a></p>
+
+<p>&nbsp;</p>
+summary:   <p>Resumen de cómo obtener una identificación de Detroit</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/food-safety
+
+title:  Seguridad de los Alimentos
+description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Departamento de Salud de Detroit (Detroit Health Department's Food Safety Unit) es proteger a las personas de los alimentos contaminados y de las enfermedades transmitidas por los alimentos.</p>
+
+<p>&nbsp;</p>
+
+<h2>Seguridad de los Alimentos</h2>
+
+<ul>
+	<li>Educa a la comunidad en temas relacionados con la manipulación y la conservación de alimentos.</li>
+	<li>Responde a quejas sobre restaurantes.</li>
+	<li>Inspecciona, otorga licencias y&nbsp;revisa las propuestas para la apertura de&nbsp;pequeñas y medianas empresas de comidas y eventos temporales donde se sirven alimentos.</li>
+	<li>
+	&lt;drupal-entity data-caption="Boletín informativo sobre la seguridad de los alimentos, verano de 2017" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="462ed4cd-396b-44d8-b589-25fa0931021b"&gt;</drupal-entity>
+	</li>
+</ul>
+
+<p><strong>NOTA para los establecimientos de comida: De acuerdo con la política del Departamento de Salud de Detroit (Detroit Health Department), a los inspectores de Salud Ambiental y Seguridad de los Alimentos no se les debe ofrecer ningún tipo de bienes (como agua, alimentos, dinero, etc.) o servicios durante el transcurso de su inspección en un establecimiento, ni ellos deben solicitar estos bienes o servicios. Es ilegal ofrecerle a un inspector cualquier artículo de valor a cambio de una inspección con resultados o informes favorables, y cualquier oferta de bienes o servicios será informada ante la alta dirección del departamento.</strong></p>
+
+<p>&nbsp;</p>
+
+<h2>Presente una queja sobre seguridad de los alimentos</h2>
+
+<p>Llame al &nbsp;<a href="tel:%20%20(313)%20876-0135%20">(313) 876-0135&nbsp;</a>para presentar una queja&nbsp;si considera que la comida servida en un restaurante de Detroit:</p>
+
+<ul>
+	<li>hizo que usted o un miembro de su familia se enfermara;</li>
+	<li>se preparó, manipuló o conservó en condiciones insalubres;</li>
+	<li>no cumplía de algún modo con las leyes de seguridad de los alimentos.</li>
+</ul>
+
+<p>Si su queja&nbsp;tiene que ver con una tienda de comestibles, supermercado, panadería o&nbsp;gasolinera, llame a la línea directa de quejas del consumidor del Departamento de Agricultura y Desarrollo Rural de Michigan (Michigan Department of Agriculture and Rural Development) al&nbsp;<a href="tel:%20%20(800)%20292-3939%20">(800) 292-3939</a>.</p>
+
+<p>&nbsp;</p>
+
+<h2>Solicite o renueve su Licencia de Seguridad de los Alimentos</h2>
+
+<p>Todos los que preparen o sirvan comida al público deben obtener una licencia.</p>
+
+<p>&nbsp;</p>
+
+<h2>Establecimientos de comida</h2>
+
+<p>Todos los establecimientos de servicios de comida (es decir, restaurantes, escuelas, estadios, casinos y&nbsp;bares) de Detroit deben tener una licencia. Las licencias de servicio de comida vencen el 30 de abril de cada año y deben renovarse. Las licencias de servicios de comida no son transferibles. Se debe obtener una nueva licencia cada vez que haya un cambio de propietario en un establecimiento.</p>
+
+<ul>
+	<li>
+	&lt;drupal-entity data-caption="Solicitud de licencia" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="39bb9fd6-bc2c-4245-94c0-7dabbaee5568"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Tabla de tarifas" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef75c625-07a3-4781-ad2c-10180d0dc1a8"&gt;</drupal-entity>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>Empresas de comida móviles</h2>
+
+<p>Las empresas de comida móviles (es decir, camiones de comidas, camiones de helados, puestos ambulantes de comida, carros de perros calientes y Unidades de Alimentos Transitorias Especiales [Special Transitory Food Units, STFU]) deben tener una licencia. Para obtener más información sobre seguridad de los alimentos, revisión de planes y otorgamientos de licencias para empresas de comida móviles, consulte los siguientes recursos.</p>
+
+<ul>
+	<li>
+	&lt;drupal-entity data-caption="Cómo iniciar una empresa de comida móvil en Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8255329e-6440-409c-9803-8df37bb9d7ac"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Guía para empresas de comida móviles" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4884655b-0294-4551-af5d-5c37e7f4e1f4"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Revisión de planes de empresas móviles/STFU" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1001d54a-7e03-46f5-b2c9-d7c9e1b09d57"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Aviso de intención de STFU" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0da9c4a5-dafb-4902-9201-31e40bb59609"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Formulario de verificación de establecimientos de servicios para empresas de comida móviles" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="492d57bf-c0a7-4fb7-9087-15ea976aefe1"&gt;</drupal-entity>
+	</li>
+	<li>
+	<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8ca90ada-4cde-48b3-8532-dabb67974d90"></drupal-entity>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>Eventos temporales</h2>
+
+<p>Si está planificando un evento en la ciudad (es decir, un festival, carnaval, evento vecinal, etc.) que incluya servicio de comida, debe presentar una solicitud de licencia temporal de servicios de comida al menos 10 días antes de su evento.</p>
+
+<ul>
+	<li>
+	&lt;drupal-entity data-caption="Guía para la obtención de licencia de seguridad de los alimentos para un establecimiento de comida temporal" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4617835f-ad35-4804-8a22-1e8780a9cc2c"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Solicitud de licencia temporal" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="09661254-67c3-42f2-a631-6917c1a7f924"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Cómo celebrar un evento temporal en Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0523d8e-f8cf-4efa-b55a-1d196e1aec10"&gt;</drupal-entity>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>Interrupción de servicios eléctricos</h2>
+
+<p>Consulte los&nbsp;</p>
+
+&lt;drupal-entity data-caption="Planes de acción de emergencia para establecimientos de comida minoristas" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="df472dd1-f9cf-47fa-8853-47d805756f76"&gt;</drupal-entity>
+
+<p>&nbsp;si a su restaurante le sucede alguna de las siguientes eventualidades:</p>
+
+<ul>
+	<li>interrupción del servicio eléctrico</li>
+	<li>interrupción del servicio de agua</li>
+	<li>suministro de agua contaminada (biológica)</li>
+	<li>obstrucción de alcantarillado</li>
+	<li>incendio</li>
+	<li>inundación</li>
+</ul>
+
+<p>Si necesita esta información en otro idioma, visite el sitio web del Departamento de Agricultura y Desarrollo Rural del Estado de Michigan&nbsp;(State of Michigan Department of Agriculture and Rural Development)&nbsp;<a href="http://www.michigan.gov/mda">www.michigan.gov/mda</a>.</p>
+
+<p>&nbsp;</p>
+
+<h2>Solicite una revisión del plan para una nueva empresa de comida</h2>
+
+<p>Las nuevas empresas de comida pueden solicitar una revisión de planos y propuestas a fin de garantizar que los establecimientos de comida nuevos (o remodelados) cumplan con las normas de seguridad de los alimentos. A continuación, se incluyen fuentes de información útiles sobre la revisión de los planes:</p>
+
+<ul>
+	<li>
+	&lt;drupal-entity data-caption="Paquete completo de revisión de los planes de la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="756e2f73-52d2-4dd0-af2d-6fee47943f02"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Cómo iniciar una empresa de comida en la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e60beaac-67ba-4691-93a3-fce4c94b2d8e"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Paquete completo de revisión de los planes de la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f4e70361-822b-489e-9430-57c631f4aaf3"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Ejemplos de procedimientos operativos estándar" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="95833bc2-4ad6-4277-b6a4-fbe26485c342"&gt;</drupal-entity>
+	</li>
+	<li>
+	&lt;drupal-entity data-caption="Formulario de variación" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c3392d79-3eb7-49db-874e-e5852b69ccf9"&gt;</drupal-entity>
+	</li>
+	<li>&lt;a href="https://www.youtube.com/watch?v=QRmTOKujejY" target="_blank" title="Submit Plan Review for Food Establishment"&gt;Cómo presentar una revisión del plan para un establecimiento de comida (video)</a></li>
+	<li>&lt;a href="https://www.youtube.com/watch?v=B6Ebe2PEBMg" target="_blank" title="Setting up Food Establishment"&gt;Cómo abrir un establecimiento de comida en Michigan (video)</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>Obtenga más información sobre la seguridad de los alimentos</h2>
+
+<p>La seguridad de los alimentos es importante para la buena salud. Todos cumplimos un papel importante en la seguridad de nuestros alimentos. Los proveedores de servicios de comida tienen la responsabilidad de producir alimentos seguros y están regulados por los organismos gubernamentales. En nuestros hogares, hay pasos simples que todos podemos seguir para prevenir enfermedades trasmitidas&nbsp;por los alimentos,&nbsp;incluida la práctica de buena higiene a la hora de manipular los alimentos, cocinar los alimentos a la temperatura correcta y tener en cuenta las pautas de conservación de los alimentos. Para obtener más información&nbsp;sobre la seguridad de los alimentos en el hogar, consulte&nbsp;&lt;a href="http://www.foodsafety.gov/" target="_blank" title="Food Safety"&gt;www.foodsafety.gov</a>.</p>
+summary:   <p>Información sobre la Unidad de Seguridad de los Alimentos del Departamento de Salud (Health Department's Food Safety Unit), donde se indican problemas de seguridad de los alimentos y la forma de evitarlos.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/immunizations
+
+title:  Vacunaciones
+description:  <p>El objetivo del Programa de Vacunaciones es prevenir las enfermedades que pueden prevenirse mediante vacunas y que afectan a las personas de todas las edades en Detroit. Trabajamos para hacer que los servicios de vacunación sean accesibles y para aumentar la cantidad de niños en Detroit que reciben las vacunas necesarias de acuerdo con el calendario de vacunación. Participamos en el Programa de Vacunas para Niños (Vaccines for Children, VFC) y llevamos adelante prácticas de difusión y educación en la comunidad sobre la importancia de las vacunas.&nbsp;<br/>
+&nbsp;</p>
+
+<p>El Programa de Vacunaciones del Departamento de Salud de Detroit (Detroit Health Department) ofrece vacunaciones en su&nbsp;sede en el Samaritan Center&nbsp;para niños y adultos.&nbsp; En la Clínica de Vacunaciones&nbsp;usted podrá obtener sus antecedentes de vacunas (a solicitud) y recibir educación sobre vacunas una vez que reciba el servicio.<br/>
+<br/>
+&nbsp;</p>
+
+<h2>Información de exención no médica</h2>
+
+<p>En diciembre de 2014, el Comité Conjunto de Reglas Administrativas (Joint Committee on Administrative Rules) aprobó un nuevo requisito educativo para los padres de Michigan que optaran por que sus hijos no reciban vacunas antes de ingresar en la escuela y en centros de cuidado infantil. La nueva regla entró en vigor el 1 de enero de 2015, y esta exigía que los padres o tutores que deseaban solicitar una exención no médica recibieran información del Departamento de Salud de Detroit.</p>
+
+<h2>Vacunas para niños</h2>
+
+<p>El Programa de VFC ayuda a proporcionar vacunas a niños cuyos padres o tutores no tienen el dinero para pagarlas. Esto ayuda a garantizar que todos los niños tengan más oportunidades de recibir las vacunas recomendadas según el calendario de vacunación. Estas vacunas protegen a los bebés, los niños pequeños y los adolescentes de las siguientes 16 enfermedades:</p>
+
+<ul>
+	<li>Varicela</li>
+	<li>Gripe</li>
+	<li>Difteria</li>
+	<li>Haemophilus influenzae tipo B (HIB)</li>
+	<li>Poliomielitis</li>
+	<li>Sarampión, paperas y rubéola</li>
+	<li>Culebrilla (Zostavax)</li>
+	<li>Tétanos</li>
+	<li>Rotavirus</li>
+	<li>Rubéola</li>
+	<li>Neumococo</li>
+	<li>Tos ferina</li>
+	<li>Meningitis (meningococos)</li>
+	<li>Virus del papiloma humano (VPH)</li>
+	<li>Hepatitis A</li>
+	<li>Tétanos Hepatitis B</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Para obtener más información sobre el Programa de VFC, comuníquese con&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b1e09825-5937-464a-9917-ca19bd752928"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<h2>Información de contacto</h2>
+
+<p><b>Para que su hijo reciba las vacunas, llame al&nbsp;</b></p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b052d015-b97f-48c7-8e3d-8618edae9ed5"></drupal-entity>
+summary:   <p>Información sobre cómo recibir vacunaciones</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/sexually-transmitted-diseases-clinic
+
+title:  Clínica de Atención de Enfermedades de Transmisión Sexual
+description:  &lt;drupal-entity alt="Clínica de Atención de Enfermedades de Transmisión Sexual" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="e7af841e-57ac-4b3d-8a30-bff79eed388a"&gt;</drupal-entity>
+
+<h2>Servicios</h2>
+
+<ul>
+	<li>Detección,&nbsp;análisis y tratamiento de enfermedades de transmisión sexual (Sexually Transmitted Diseases, STD) para los pacientes y sus parejas</li>
+	<li>Análisis instantáneo de VIH en el centro</li>
+	<li>Profilaxis preexposición (Pre-Exposure Prophylaxis, PrEP), medicamento de prevención del VIH que se toma por vía oral todos los días</li>
+	<li>Profilaxis posexposición (Post-Exposure Prophylaxis, PEP), ciclo de tratamiento farmacológico para la prevención del VIH después de una exposición de alto riesgo</li>
+	<li>Condones y lubricantes gratuitos</li>
+	<li>Vinculación inmediata con el programa de tratamiento para el VIH de la Wayne State University (WSU)</li>
+	<li>Servicios proporcionados independientemente de la posibilidad de pago</li>
+</ul>
+
+<p><br/>
+&nbsp;</p>
+
+<h2>Servicios adicionales que se prestarán próximamente</h2>
+
+<ul>
+	<li>Vacunas contra la hepatitis A y B</li>
+</ul>
+
+<div class="read-more"><a href="https://gettested.cdc.gov/" role="button" target="_blank">¡Hágase los análisis!</a></div>
+
+<h2>Acerca de la PrEP</h2>
+
+<p><br/>
+&nbsp;</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 806px;">
+	<tbody>
+		<tr>
+			<td style="width: 400px;">
+			<drupal-entity alt="prep-basic" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="4738d8be-b3b4-4461-8a06-1641bcf8512d"></drupal-entity>
+			</td>
+			<td style="width: 403px;">
+			<drupal-entity alt="prep-pay" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="56eef6b1-d29d-4122-a431-cbc95b321d95"></drupal-entity>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 400px;">
+			<drupal-entity alt="prep-how-it-works" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="904e7985-cfc7-44e2-b330-3db5460314d3"></drupal-entity>
+			</td>
+			<td style="width: 403px;">
+			<drupal-entity alt="prep-start" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="5a9bfd0b-158f-4b5a-b549-d0c0e676c93b"></drupal-entity>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2><a href="https://www.cdc.gov/std/healthcomm/fact_sheets.htm" target="_blank">Ficha informativa sobre las STD</a></h2>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li><a href="https://www.cdc.gov/std/gonorrhea/stdfact-gonorrhea.htm" target="_blank">Gonorrea</a></li>
+	<li><a href="https://www.cdc.gov/std/chlamydia/stdfact-chlamydia.htm" target="_blank">Clamidia</a></li>
+	<li><a href="https://www.cdc.gov/std/syphilis/stdfact-syphilis.htm" target="_blank">Sífilis</a></li>
+	<li><a href="https://www.cdc.gov/std/hiv/stdfact-std-hiv.htm" target="_blank">Virus de inmunodeficiencia humana (VIH) y STD</a></li>
+	<li><a href="https://www.cdc.gov/std/life-stages-populations/stdfact-msm.htm" target="_blank">Lo que los homosexuales, bisexuales y otros hombres que tienen relaciones sexuales con hombres necesitan saber sobre las enfermedades de transmisión sexual</a></li>
+	<li><a href="https://www.cdc.gov/std/syphilis/stdfact-msm-syphilis.htm" target="_blank">La sífilis y los hombres que tienen relaciones sexuales con otros hombres</a></li>
+	<li><a href="https://www.cdc.gov/condomeffectiveness/index.html" target="_blank">Efectividad de los condones</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>&nbsp;</h2>
+
+<ul>
+</ul>
+summary:   <p>Información sobre cómo hacerse los análisis,&nbsp;vacunarse o recibir tratamiento para enfermedades de transmisión sexual.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department
+
+title:  Departamento de Salud
+description:  <p>El objetivo del Departamento de Salud de Detroit (Detroit Health Department) es proteger y fomentar la salud, el bienestar, la seguridad y la resiliencia de todos los ciudadanos de Detroit. El Departamento de Salud ofrece vacunaciones, conecta a las mujeres embarazadas con los cuidados prenatales, ofrece exámenes de la vista y se enfoca en mejorar la salud de la comunidad de Detroit.</p>
+summary:   <p>El objetivo del Departamento de Salud de Detroit (Detroit Health Department) es proteger y fomentar la salud, el bienestar, la seguridad y la resiliencia de todos los ciudadanos de Detroit. El Departamento de Salud ofrece vacunaciones, conecta a las mujeres embarazadas con los cuidados prenatales, ofrece exámenes de la vista y se enfoca en mejorar la salud de la comunidad de Detroit.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/human-resources-department/apply-job
+
+title:  Postúlese para un empleo
+description:  <p>La ciudad de Detroit es un empleador que brinda oportunidades equitativas. Ningún solicitante será discriminado por raza, religión, color de la piel, edad, género, lugar de nacimiento, discapacidad u otro criterio prohibido por las leyes de la ciudad, del estado o federales.</p>
+
+<p>Para calificar para un trabajo, el solicitante debe cumplir con los requisitos de educación, capacitación, experiencia y cualquier licencia o certificado necesario para el tipo de empleo. Es responsabilidad del postulante brindar todas las pruebas admisibles de sus antecedentes personales y laborales.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="476ca8d8-fbdc-49ce-a474-16ca1d7a49c0"></drupal-entity>
+summary:   <p>Información para solicitar un empleo en la ciudad de Detroit</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/human-resources-department/city-employee-information
+
+title:  Información de empleados de la ciudad
+description:  &lt;drupal-entity alt="Información de empleados de la ciudad" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="0631508b-afb6-4945-8b4a-84986e483976" title="Información de empleados de la ciudad"&gt;</drupal-entity>
+
+<p>&nbsp;</p>
+
+<p><strong>Resumen de beneficios para empleados de la ciudad</strong><br/>
+La ciudad de Detroit ofrece un paquete de beneficios completo y competitivo. Nos enorgullecemos de la trayectoria de nuestros empleados.&nbsp; La baja tasa de recambio de personal se debe, en parte, al paquete de beneficios excepcional que se enumera a continuación.&nbsp; Los beneficios incluyen, entre otros, los siguientes:</p>
+
+<p><strong>Beneficios médicos</strong><br/>
+Elegibles para beneficios hospitalarios, quirúrgicos y de medicamentos con receta después de noventa y un (91) días de empleo.</p>
+
+<p><strong>Beneficios dentales</strong><br/>
+Elegibles para atención dental después de seis (6) meses de empleo.</p>
+
+<p><strong>Beneficios de servicios para la vista</strong><br/>
+Elegibles para atención de la vista después de seis (6) meses de empleo. &nbsp;</p>
+
+<p><strong>Seguro de vida</strong><br/>
+Seguro colectivo opcional disponible para los empleados y sus familias.&nbsp; La ciudad paga el 60 % de las primas correspondientes a los primeros $12,500 del seguro de vida de los empleados.&nbsp; El empleado puede comprar, a su propio cargo, un seguro de vida para su cónyuge y cada dependiente. &nbsp;</p>
+
+<p><strong>Seguro por discapacidad a largo plazo (plan de protección de ingresos)</strong><br/>
+La ciudad ofrece seguro por discapacidad mediante deducciones de nómina a las personas que quedan discapacitadas y aún no son elegibles para jubilarse.</p>
+
+<p><strong>VACACIONES Y PERÍODOS DE LICENCIA</strong></p>
+
+<p><em><strong>Días festivos</strong></em><br/>
+&nbsp;Año nuevo<br/>
+&nbsp;Cumpleaños de Martin Luther King<br/>
+&nbsp;Viernes Santo<br/>
+&nbsp;Día de los Caídos<br/>
+&nbsp;Día de la Independencia<br/>
+&nbsp;Día del Trabajador<br/>
+&nbsp;Día de los Veteranos<br/>
+&nbsp;Día de Acción de Gracias<br/>
+&nbsp;Día siguiente al Día de Acción de Gracias<br/>
+&nbsp;Víspera de Navidad<br/>
+&nbsp;Día de Navidad<br/>
+&nbsp;Víspera de año nuevo</p>
+
+<p><strong>Licencia por enfermedad</strong><br/>
+Los empleados de la ciudad acumulan días de licencia por enfermedad de acuerdo con la cantidad de horas de trabajo habituales.&nbsp; Los empleados a tiempo completo tienen derecho a noventa y seis (96) horas de licencia por enfermedad al año.&nbsp; Los días de ausencia por enfermedad que no se hayan utilizado pueden acumularse para otro período. Desde el 7 de julio de 2012, la acumulación máxima es de 300 horas.</p>
+
+<p><strong>Otras políticas sobre las licencias</strong><br/>
+La ciudad también tiene las siguientes licencias con y sin goce de sueldo: permiso para asistir a un funeral, licencia médica y familiar, servicio de jurado, licencia para prestar servicio militar, ausencia personal sin goce de sueldo.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Sistema de jubilación de empleados de la ciudad</strong></p>
+
+<p><strong><a href="http://www.rscd.org/" target="_blank">RSCD.org</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Compañías de seguro de salud</strong></p>
+
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td colspan="3"><strong>Planes médicos</strong></td>
+		</tr>
+		<tr>
+			<td>Blue Cross/Blue Shield Community Blue PPO</td>
+			<td><a href="tel:1-877-354-2583">1-877-354-2583</a></td>
+			<td><strong><a href="http://www.bcbsm.com/" target="_blank" title="www.bcbsm.com">www.bcbsm.com</a></strong></td>
+		</tr>
+		<tr>
+			<td>Línea de enfermería las 24 horas de Blue Cross Blue Shield of Michigan (BCBSM)</td>
+			<td><a href="tel:1-800-775-2583">1-800-775-2583</a></td>
+			<td><strong><a href="http://www.bcbsm.com/" target="_blank" title="www.bcbsm.com">www.bcbsm.com</a></strong></td>
+		</tr>
+		<tr>
+			<td>Health Alliance Plan (HAP)</td>
+			<td><a href="tel:1-313-872-8100">1-313-872-8100</a><br/>
+			<a href="tel:1-800-422-4641">1-800-422-4641</a></td>
+			<td><strong><a href="http://www.hap.org" target="_blank" title="www.bcbsm.com">www.hap.org</a></strong></td>
+		</tr>
+		<tr>
+			<td>PCP Focus (Blue Care Network)</td>
+			<td><a href="tel:1-800-422-4641">1-800-422-4641</a></td>
+			<td><strong><a href="http://www.bcbsm.com" target="_blank" title="www.hap.org">www.bcbsm.com</a></strong></td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Farmacia</strong></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>CVS Caremark</td>
+			<td><a href="tel:1-855-467-8417">1-855-467-8417</a></td>
+			<td><a href="http://www.caremark.com"><strong>www.caremark.com</strong></a></td>
+		</tr>
+		<tr>
+			<td colspan="3"><strong>Planes dentales</strong></td>
+		</tr>
+		<tr>
+			<td>Blue Cross/Blue Shield Traditional Plus</td>
+			<td><a href="tel:1-800-826-8152">1-800-826-8152</a></td>
+			<td><strong><a href="http://www.bcbsm.com/bluedental" target="_blank" title="www.bcbsm.com/bluedental">www.bcbsm.com/bluedental</a></strong></td>
+		</tr>
+		<tr>
+			<td>Dencap Dental Plans</td>
+			<td><a href="tel:1-313-972-1400">1-313-972-1400</a></td>
+			<td>&nbsp;<a href="http://www.dencap.net"><strong>www.dencap.net</strong></a></td>
+		</tr>
+		<tr>
+			<td>Golden Dental Plans</td>
+			<td><a href="tel:1-800-451-5918">1-800-451-5918</a></td>
+			<td>&nbsp;<a href="http://www.goldendentalplans.com"><strong>www.goldendentalplans.com</strong></a></td>
+		</tr>
+		<tr>
+			<td colspan="3"><strong>Administrador de cuentas de gastos flexibles</strong></td>
+		</tr>
+		<tr>
+			<td>Navia Benefit Solutions</td>
+			<td><a href="tel:1-800-669-3539">1-800-669-FLEX</a></td>
+			<td><strong><a href="http://www.naviabenefits.com" target="_blank" title="www.flex-plan.com">www.naviabenefits.com</a></strong></td>
+		</tr>
+		<tr>
+			<td colspan="3"><strong>Planes de beneficios para la vista</strong></td>
+		</tr>
+		<tr>
+			<td>Heritage Vision Plans</td>
+			<td><a href="tel:1-800-252-2053">1-800-252-2053</a></td>
+			<td><strong><a href="http://www.heritagevisionplans.com/" target="_blank" title="www.heritagevisionplans.com">www.heritagevisionplans.com</a></strong></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><u><strong>AVISO IMPORTANTE</strong></u></p>
+
+<p>Desde el 1 de enero de 2018, usted ya no necesitará proporcionar constancia de estudiante a tiempo completo ni declaraciones de impuestos para dependientes mayores de 19 años. Los dependientes son elegibles para recibir cobertura hasta los 26 años.</p>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td><strong>BCBSM COMMUNITY BLUE (PPO)</strong></td>
+			<td style="text-align: center;"><strong>&nbsp;Prima mensual total&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>&nbsp;Ciudad paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>&nbsp;Empleado paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>&nbsp;Empleado paga c/15 días</strong></td>
+			<td style="text-align: center;"><strong>&nbsp;Empleado paga por semana&nbsp;</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>INDIVIDUAL</strong></td>
+			<td style="text-align: center;"><strong>$472.00</strong></td>
+			<td style="text-align: center;"><strong>$377.60</strong></td>
+			<td style="text-align: center;"><strong>$94.40</strong></td>
+			<td style="text-align: center;"><strong>$43.57</strong></td>
+			<td style="text-align: center;"><strong>$21.78</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>2 PERSONAS</strong></td>
+			<td style="text-align: center;"><strong>$991.21</strong></td>
+			<td style="text-align: center;"><strong>$792.97</strong></td>
+			<td style="text-align: center;"><strong>$198.24</strong></td>
+			<td style="text-align: center;"><strong>$91.50</strong></td>
+			<td style="text-align: center;"><strong>$45.75</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>FAMILIAR</strong></td>
+			<td style="text-align: center;"><strong>$1321.61</strong></td>
+			<td style="text-align: center;"><strong>$1057.29</strong></td>
+			<td style="text-align: center;"><strong>$264.32</strong></td>
+			<td style="text-align: center;"><strong>$121.99</strong></td>
+			<td style="text-align: center;"><strong>$61.00</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td><strong>HEALTH ALLIANCE PLAN (HMO)</strong></td>
+			<td style="text-align: center;"><strong>Prima mensual total</strong></td>
+			<td style="text-align: center;"><strong>Ciudad paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga c/15 días</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por semana&nbsp;</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>INDIVIDUAL</strong></td>
+			<td style="text-align: center;"><strong>$560.92</strong></td>
+			<td style="text-align: center;"><strong>$448.74</strong></td>
+			<td style="text-align: center;"><strong>$112.18</strong></td>
+			<td style="text-align: center;"><strong>$51.78</strong></td>
+			<td style="text-align: center;"><strong>$25.89</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>2 PERSONAS</strong></td>
+			<td style="text-align: center;"><strong>$1,177.92</strong></td>
+			<td style="text-align: center;"><strong>$942.34</strong></td>
+			<td style="text-align: center;"><strong>$235.58</strong></td>
+			<td style="text-align: center;"><strong>$108.73</strong></td>
+			<td style="text-align: center;"><strong>$54.37</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>FAMILIAR</strong></td>
+			<td style="text-align: center;"><strong>$1,570.56</strong></td>
+			<td style="text-align: center;"><strong>$1,256.45</strong></td>
+			<td style="text-align: center;"><strong>$314.11</strong></td>
+			<td style="text-align: center;"><strong>$144.97</strong></td>
+			<td style="text-align: center;"><strong>$72.49</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td><strong>BCN PCP FOCUS (HMO)</strong></td>
+			<td style="text-align: center;"><strong>Prima mensual total&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Ciudad paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga c/15 días</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por semana&nbsp;</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>INDIVIDUAL</strong></td>
+			<td style="text-align: center;"><strong>$364.46</strong></td>
+			<td style="text-align: center;"><strong>$351.13</strong></td>
+			<td style="text-align: center;"><strong>$13.33</strong></td>
+			<td style="text-align: center;"><strong>$6.15</strong></td>
+			<td style="text-align: center;"><strong>$3.08</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>2 PERSONAS</strong></td>
+			<td style="text-align: center;"><strong>$874.71</strong></td>
+			<td style="text-align: center;"><strong>$846.72</strong></td>
+			<td style="text-align: center;"><strong>$27.99</strong></td>
+			<td style="text-align: center;"><strong>$12.92</strong></td>
+			<td style="text-align: center;"><strong>$6.46</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>FAMILIAR</strong></td>
+			<td style="text-align: center;"><strong>$1,093.39</strong></td>
+			<td style="text-align: center;"><strong>$1,056.07</strong></td>
+			<td style="text-align: center;"><strong>$37.32</strong></td>
+			<td style="text-align: center;"><strong>$17.22</strong></td>
+			<td style="text-align: center;"><strong>$8.61</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td><strong>PLAN DENTAL individual, familiar o para 2 personas&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Prima mensual total&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Ciudad paga por mes </strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga c/15 días</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por semana&nbsp;</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; vertical-align: middle;"><strong>BCBSM DENTAL</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong>$53.73</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong>$43.08</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong>$10.77</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong>$4.97</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong>$2.49</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>DENCAP DENTAL</strong></td>
+			<td style="text-align: center;"><strong>$35.87</strong></td>
+			<td style="text-align: center;"><strong>$28.70</strong></td>
+			<td style="text-align: center;"><strong>$7.17</strong></td>
+			<td style="text-align: center;" valign="top"><strong>$3.31</strong></td>
+			<td style="text-align: center;" valign="top"><strong>$1.66</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>GOLDEN DENTAL</strong></td>
+			<td style="text-align: center;"><strong>$39.00</strong></td>
+			<td style="text-align: center;"><strong>$31.20</strong></td>
+			<td style="text-align: center;"><strong>$7.80</strong></td>
+			<td style="text-align: center;" valign="top"><strong>$3.60</strong></td>
+			<td style="text-align: center;" valign="top"><strong>$1.80</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td><strong>HERITAGE VISION individual, familiar o para 2 personas&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Prima mensual total &nbsp; &nbsp;&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Ciudad paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por mes&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>&nbsp;Empleado paga c/15 días</strong></td>
+			<td style="text-align: center;"><strong>Empleado paga por semana&nbsp;</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>BÁSICO</strong></td>
+			<td style="text-align: center;"><strong>$5.55</strong></td>
+			<td style="text-align: center;"><strong>$4.44</strong></td>
+			<td style="text-align: center;"><strong>$1.11</strong></td>
+			<td style="text-align: center;"><strong>$0.51</strong></td>
+			<td style="text-align: center;"><strong>$0.26</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>MEJORADO</strong></td>
+			<td style="text-align: center;"><strong>$8.82</strong></td>
+			<td style="text-align: center;"><strong>$4.44</strong></td>
+			<td style="text-align: center;"><strong>$4.38</strong></td>
+			<td style="text-align: center;"><strong>$2.02</strong></td>
+			<td style="text-align: center;"><strong>$1.01</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>&nbsp;PREMIER</strong></td>
+			<td style="text-align: center;"><strong>$12.48</strong></td>
+			<td style="text-align: center;"><strong>$4.44</strong></td>
+			<td style="text-align: center;"><strong>$8.04</strong></td>
+			<td style="text-align: center;"><strong>$3.71</strong></td>
+			<td style="text-align: center;"><strong>$1.86</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong><strong>Nota: Los dependientes pueden obtener cobertura de planes médicos, dentales, de la vista y de seguro de vida hasta los 26 años.</strong></strong></p>
+
+<p>&nbsp;</p>
+summary:   <p>Información sobre beneficios para empleados de la ciudad</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/human-resources-department/employee-forms
+
+title:  Formularios para empleados
+description:  <p>Formularios para empleados de la ciudad de Detroit y preguntas frecuentes sobre los formularios</p>
+summary:   <p>Formularios para empleados de la ciudad de Detroit y preguntas frecuentes sobre los formularios</p>
+
+*******************************************************************************
+
 http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-1/task-force
 
 title:  Grupo de trabajo
