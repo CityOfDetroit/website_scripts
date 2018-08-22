@@ -1,0 +1,1170 @@
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
+
+title:   معلومات تصاريح المباني
+description:  <p dir='rtl'>يُعد <strong dir='rtl'>قسم مراجعة الخطط (Plan Review Division)</strong> هو المسؤول عن ضمان امتثال مشاريع التطوير والبناء للمراسيم والقوانين المُتبعة في مدينة ديترويت. يعمل الموظفون على مراجعة طلبات التصريح وخطط المشاريع المقترحة. ويتضمن ذلك التحقق من امتثال المشاريع لمرسوم تخصيص أراضي مدينة ديترويت، وقوانين البناء والسكن وإعادة التأهيل وقانون الكهرباء والقانون الميكانيكي وقانون السباكة السارية في ولاية ميشيغان، وقانون غاز الوقود الدولي وقانون المصاعد وقانون المراجل المُطبقة في المدينة.&nbsp;<br/>
+<br/>
+ويعمل هذا القسم أيضًا على تنسيق مراجعة الخطط مع الإدارات والوكالات الأخرى المختلفة في المدينة؛ مثل إدارة الصحة والمياه والصرف الصحي (Health, Water &amp; Sewerage)، وهندسة المدن (City Engineering)، وهندسة وتخطيط وتطوير المرور (Traffic Engineering, Planning &amp; Development)، ولجنة تخطيط المدينة (City Planning Commission)، ورئيس دائرة الإطفاء (Fire Marshal) لطلب مراجعاتهم وموافقاتهم، وبالتالي التأكد من اتباع القوانين والمراسيم الأخرى ذات الصلة عند تصميم المشروع وتنفيذه.&nbsp;<br/>
+&nbsp;</p>
+
+<p dir='rtl'>يعمل القسم على مراجعة تصاريح البناء والهدم واللافتات وتصاريح تعليق سقيفة أو مظلة وتصاريح الكهرباء والميكانيكا والسباكة الخاصة بمُلاك المنازل واعتمادها. ويقومون أيضًا بمراجعة خرائط المواقع ودراسات الملاءمة وتأكيد تخصيص الأراضي، ومعالجة طلبات تباين التخصيص.</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="940f85fb-a3de-4296-8279-d9443acd9408" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8f78fe52-beac-412b-97db-85c898e12ed4" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="9c7cf4fb-e2ed-4aa5-9b0b-8970c58e89c4" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="6bd4eaf7-f5c7-4a87-899e-9c7d1690d120" dir='rtl'></drupal-entity>
+
+<drupal-entity data-caption="title" data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="a40b0ec0-c014-4dde-bdd7-266d5aa1e4c3" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="56f814d6-0bf7-488c-b290-d3c266dcd79b" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f097c1b9-a090-49fe-be76-4ed0fff960ab" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="560b5354-ef89-4cf6-bb10-a4cfa88d9c26" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="2ec09e15-b77c-4621-b7e0-0d09f4a56d2f" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="733a7487-f620-47f0-811d-09b2c4a8a402" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+summary:   <p dir='rtl'>معلومات حول قسم مراجعة الخطط التابع لإدارة BSEED (إدارة البيئة والمباني وهندسة السلامة)؛ بما في ذلك القوانين والمراسيم والمسائل التنظيمية الأخرى المتعلقة&nbsp;بتصاريح البناء.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-license-center
+
+title:  مركز ترخيص الأعمال (Business License Center)
+description:  <p dir='rtl'>لافتتاح مشروع تجاري في مدينة ديترويت، حدد ما إذا كان يلزم إصدار تصريح بتغيير الاستخدام من أجل استخدام المبنى للغرض التجاري المقصود أو للحصول على أي تصاريح مطلوبة. سيتم إصدار شهادة إشغال عند إكمال أي تصريح.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="4de377f4-bb89-429e-9aa9-47dde5d46aa4" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>بعد اعتماد المبنى لاستخدامك التجاري المقصود، يجب عليك الحصول على ترخيص تجاري&nbsp;قبل افتتاح مشروعك التجاري.&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="98011625-9c7f-493b-badb-5f0093e6e15c" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.text_teaser_small" data-entity-type="node" data-entity-uuid="2c85a623-fd83-484c-8199-369188e0052b" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+summary:   <p dir='rtl'>معلومات عن فحص تخصيص الأراضي وتغييره، من أجل افتتاح مشروع تجاري.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
+
+title:  قائمة مراجعة التراخيص التجارية
+description:  <p dir='rtl'><strong dir='rtl'>الخطوة الأولى</strong></p>
+
+<p dir='rtl'><strong dir='rtl'>يجب أن تحصل على ترخيص بناء أو تصريح إشغال</strong><br/>
+يجب عليك زيارة قسم تخصيص الأراضي (Zoning Division) في BSEED للحصول على التصريح اللازم لافتتاح نشاطك التجاري. هذه خطوة مهمة جدًا&nbsp;يجب القيام بها.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.token" data-entity-type="node" data-entity-uuid="2e74b6f1-256f-40a8-9885-d6d574d7f307" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>سيتم إصدار شهادة إشغال عند إكمال أي تصريح.&nbsp;بعد اعتماد المبنى لاستخدامك المقصود، انتقل إلى الخطوة 2.</p>
+
+<p dir='rtl'><strong dir='rtl'>الخطوة الثانية</strong> </p>
+
+<p dir='rtl'><strong dir='rtl'>اختيار اسم لنشاطك التجاري أو إذا كنت تؤسس شركة تجارية فيجب عليك تسجيلها</strong><br/>
+<strong dir='rtl'>أ) اختيار اسم لنشاطك التجاري</strong><br/>
+إذا كنت تمارس نشاطًا تجاريًا في ديترويت تحت اسم تجاري مستعار (اسم بخلاف اسمك الحقيقي)، فيجب عليك تقديم طلب للحصول على شهادة اسم تجاري مُستعار من مقاطعة وين. تتوفر نماذج طلبات الاسم المُستعار في مكتب كاتب مقاطعة وين.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="7939a5c5-3385-45cd-b90b-d18e921ac44d" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>&lt;a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names"&gt;Online information on assumed names.</a></p>
+
+<p dir='rtl'><strong dir='rtl'>ب) إذا كنت تؤسس شركة تجارية فيجب عليك تسجيلها</strong><br/>
+إذا كنت تؤسس شركة تجارية أو شراكة محدودة، فيجب عليك تسجيلها في ولاية ميشيغان. يرجى الحصول على استشارة قانونية بشأن إدارة عملك كمالك وحيد أو كشراكة أو شراكة محدودة أو مؤسسة. تتوفر نماذج طلبات تأسيس الشركات في:</p>
+
+<p dir='rtl'><a href="http://www.mi.gov/lara/0,4601,7-154-35299_61343---,00.html" target="_blank" dir='rtl'>إدارة العمل والنمو الاقتصادي (Department of Labor and Economic Growth)</a></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>الخطوة الثالثة</strong> </p>
+
+<p dir='rtl'><strong dir='rtl'>يجب الحصول على رقم هوية ضريبة المبيعات أو التقدم بطلب للحصول على رقم بطاقة هوية الضريبة الفيدرالية</strong> </p>
+
+<p dir='rtl'><strong dir='rtl'>أ) يجب الحصول على رقم هوية ضريبة المبيعات</strong> </p>
+
+<p dir='rtl'>إذا كان لديك أي نوع من أنواع الشركات التجارية  في مدينة ديترويت فيجب أن يكون لديك رقم هوية ضريبة مبيعات. يتوفر نموذج رقم هوية ضريبة المبيعات على:<br/>
+&lt;a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax"&gt;Michigan Department of Treasury, Collections Division.</a></p>
+
+<p dir='rtl'><strong dir='rtl'>ب) التقدم بطلب للحصول على رقم بطاقة هوية الضريبة الفيدرالية</strong> </p>
+
+<p dir='rtl'>يتطلب تأسيس الشركات والشراكات رقم بطاقة هوية الضريبة الفيدرالية. قدم للحصول على رقم بطاقة هوية الضريبة الفيدرالية في:</p>
+
+<p dir='rtl'>McNamara Building<br/>
+477 Michigan Avenue (عند التقاطع مع Cass)<br/>
+ديترويت، ميشيغان 48226.</p>
+
+<p dir='rtl'>&lt;a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number"&gt;التقدم بطلب للحصول على رقم بطاقة هوية الضريبة الفيدرالية عبر الإنترنت</a><br/>
+<br/>
+<strong dir='rtl'>الخطوة 4</strong>&nbsp; &nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>تقدم بطلب لاستخراج ترخيص مزاولة الأعمال بمدينة ديترويت</strong> </p>
+
+<p dir='rtl'>تتطلب إدارة أنواع معينة من الشركات التجارية في المدينة الحصول على ترخيص مزاولة أعمال في ديترويت.&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c8d2abcb-847f-4382-9268-aea6451ae557" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>قدِّم طلبًا لاستخراج الترخيص إلى:</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="98011625-9c7f-493b-badb-5f0093e6e15c" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="80dd17bb-31c0-4ca8-95d3-d8f74de45dc6" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>يجب عليك دفع جميع رسوم استخراج التراخيص عند تقديم الطلب.</p>
+
+<p dir='rtl'><strong dir='rtl'>يجب أن يوفر مقدم الطلب ما يلي:</strong> </p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>أوراق الاسم التجاري أو عقد تأسيس الشركة</li>
+	<li dir='rtl'>معلومات لجميع مقدمي الطلب و / أو أصحاب المصالح / موظفي الشركة.</li>
+	<li dir='rtl'>أرقام الهاتف</li>
+	<li dir='rtl'>رخصة القيادة أو بطاقة هوية الولاية</li>
+	<li dir='rtl'>طرق الدفع المقبولة: نقدًا، أو بشيك معتمد، أو بحوالة بريدية، أو ببطاقة الائتمان (ماستركارد وفيزا)</li>
+	<li dir='rtl'>رقم بطاقة الهوية الفيدرالية (إن وجد)</li>
+	<li dir='rtl'>إثبات ملكية العقار – كعقد الإيجار (الموثق) أو عقد الأرض / سند الملكية (المسجل لدى مقاطعة&nbsp;وين)</li>
+	<li dir='rtl'>ترخيص البناء أو تصريح الإشغال (من Zoning Counter, Room 409, Coleman A. Young&nbsp;Municipal Center)</li>
+</ul>
+
+<p dir='rtl'><stong dir='rtl'>يجب على مقدم الطلب كذلك تقديم المستندات الداعمة التالية:</stong></p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>اطلع على متطلبات <a href="/document/income-tax-clearance-request-instructions-7" dir='rtl'>مستند تخليص ضريبة الدخل</a>.</li>
+	<li dir='rtl'>أكمل طلب <a href="/document/income-tax-clearance-request-instructions-7" dir='rtl'>نموذج تخليص ضريبة الدخل</a>.&nbsp;</li>
+	<li dir='rtl'>أكمل <a href="/document/employers-withholding-registration-form" dir='rtl'>نموذج تسجيل اقتطاع الضريبة الخاص بصاحب العمل</a>.&nbsp;</li>
+	<li dir='rtl'>أكمل<a href="/forms/accounts-receivable-clearance" dir='rtl'> نموذج تخليص حسابات المدينين</a>.</li>
+</ul>
+
+<p dir='rtl'><strong dir='rtl'>لا يمكن تقديم الطلبات إلكترونيًا هذه المرة</strong> </p>
+
+<p dir='rtl'><strong dir='rtl'>الخطوة الخامسة&nbsp;</strong>&nbsp;</p>
+
+<p dir='rtl'>تسليم الطلب المكتمل بما في ذلك جميع المستندات القانونية والداعمة المذكورة في الخطوة الرابعة.</p>
+
+<p dir='rtl'><strong dir='rtl'>الخطوة السادسة</strong> </p>
+
+<p dir='rtl'>تحديد مواعيد جميع عملية التفتيش اللازمة على موقع عملك التجاري<br/>
+<strong dir='rtl'>ملاحظة هامة:</strong>&nbsp;سيتطلب الحصول على التصاريح وإنهاء عمليات التفتيش قبل افتتاح نشاطك التجاري.</p>
+
+<p dir='rtl'><strong dir='rtl'>الخطوة السابعة</strong> </p>
+
+<p dir='rtl'>ستُصدَر شهادة التراخيص بمجرد ضمان الحصول على جميع الاعتمادات.&nbsp;تُجدد كافة الرتاخيص سنويًا</p>
+
+<p dir='rtl'>تتوفر مراسيم المدينة في City Clerk's Office (مكتب كاتب المدينة) الكائن في Room 200 في مركز البلدية Coleman A. Young Municipal Center.<br/>
+<br/>
+وإذا لم تكن تدير نشاطًا تجاريًا داخل مدينة ديترويت، فيرجى الرجوع إلى المدينة أو البلدة التي تخطط لممارسة أنشطة تجارية بها.</p>
+summary:   <p dir='rtl'>معلومات وقوائم المراجعة&nbsp;لبدء ممارسة نشاط تجاري</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/boiler-inspection-team
+
+title:  فريق تفتيش المراجل
+description:  <p dir='rtl'>يتحمل فريق تفتيش المراجل التابع لدائرة الإنشاءات (Construction Division) في إدارة البيئة وهندسة السلامة والمباني (BSEED) مسؤولية إنفاذ مرسوم مدينة ديترويت (Ordinance 705-G) الذي يُنظِّم التصميم والتشييد والتركيب والتغيير والإصلاح والتفتيش والاختبار والصيانة الآمنة ومنح التراخيص لتشغيل المراجل وأوعية الضغط والملاحق. ويعمل أيضًا على التحقق من الالتزام بمرسوم مدينة ديترويت 706-G الخاص بقوانين تراخيص مهندس التشغيل، ومُشغل المراجل، ومُشغل التبريد.</p>
+
+<p dir='rtl'>ويتحمل هذا الفريق أيضًا مسؤولية تقييم الوثائق لتحديد ما إذا كان يلزم الحصول على تصريح من أجل القيام بأعمال الإصلاح والتركيب المطلوبة. وتتمثل أيضًا مهمة أخرى من مهام وحدة المراجل (Boiler Unit) في الموافقة على الشركات والفنيين المؤهلين من أجل إكمال المهام المحددة.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h3 dir='rtl'>معلومات ترخيص المراجل</h3>
+
+<p dir='rtl'><strong dir='rtl'>شهادة المراجل وأوعية &nbsp;الضغط</strong></p>
+
+<p dir='rtl'>تتطلب هيئات مختلفة شهادات المراجل وأوعية الضغط؛ بما في ذلك: مدارس ديترويت العامة، ومدارس ديترويت المستقلة، ودور رعاية المسنين، وإسكان كبار السن، وبرامج مساعدة الأطفال ذوي الدخل المنخفض وأطفال الروضة، وتأمين المستشفيات والتأمين ضد إصابات العمل. يُرجى التواصل مع قسم المراجل للحصول على مزيد من المعلومات.&nbsp;</p>
+summary:   <p dir='rtl'>معلومات عن&nbsp;فريق فحص المراجل والحصول على ترخيص مرجل</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-codes-ordinances-and-acts
+
+title:  قوانين البناء والمراسيم والتشريعات
+description:  <drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="f4097b4d-782b-4e20-ac70-78e95a0dbd2c" dir='rtl'></drupal-entity>
+
+<p dir='rtl'><br/>
+فيما يلي مراسيم البناء، ولكن ليس على سبيل الحصر:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>قانون البناء الخاص بولاية ميشيغان (2015 Michigan Building Code)</li>
+	<li dir='rtl'>القانون السكني الخاص بولاية ميشيغان (2015 Michigan Residential Code)</li>
+	<li dir='rtl'>قانون إعادة تأهيل المباني الحالية الخاص بولاية ميشيغان (2015 Michigan Rehabilitation Code for Existing Buildings)</li>
+	<li dir='rtl'>مرسوم تخصيص الأراضي (مدينة ديترويت)</li>
+	<li dir='rtl'>مرسوم 290-H (الهدم)</li>
+</ul>
+
+<p dir='rtl'>نظرًا لصدور عدد كبير من مراسيم البناء، يمكن الحصول على نُسخ من مكتب كاتب المدينة:</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.text_teaser_small" data-entity-type="node" data-entity-uuid="b61bfa15-13e1-4bf5-9813-a585e65ac722" dir='rtl'></drupal-entity>
+
+<p dir='rtl'><br/>
+&nbsp;</p>
+summary:   <p dir='rtl'>يمكنك العثور على مراسيم البناء الخاصة بمدينة ديترويت وولاية ميشيغان</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-inspection-information
+
+title:  معلومات فحص المباني
+description:  <p dir='rtl'>يتحمل فريق المباني مسؤولية القيام بعمليات تفتيش للبناء وفقًا لتصاريح البناء، للتأكد من أن المنشآت مطابقة للمواصفات المعتمدة في الخطة، وتمتثل لقوانين البناء ومعاييره.</p>
+
+<p dir='rtl'>بالإضافة لذلك، يفحص فريق المباني الهدم واللافتات والمظلات؛ ويُباشر عمليات حسابات التأمينات المعلقة من أجل القيام بالإصلاحات اللازمة بعد الحرائق والشكاوى المتعلقة بأنشطة التشييد؛ ويُصدِر شهادة إشغال للمنشآت الجديدة فقط.&nbsp;&nbsp;<strong dir='rtl'><em dir='rtl'>القوانين الحالية تعمل على إنفاذ: قانون البناء الخاص بولاية ميشيغان (2012 Michigan Building Code)، القانون السكني الخاص بولاية ميشيغان (2015 Michigan Residential Code)</em></strong>.</p>
+
+<p dir='rtl'>يعمل فريق المباني على التجريب والاختبار لمُقدمي الطلبات الذين يسعون للحصول على تراخيص مقاولين لمُشيِّدي اللافتات والمظلات والسقيفة (السقائف) والهدم.  ويعمل فريق المباني أيضًا على اعتماد تسجيل جميع التراخيص، التي يتم إصدارها من ولاية ميشيغان، في مدينة ديترويت للبنَّائين السكنيين والمتعاقدين من أجل إجراء الصيانة والتعديلات.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="a7204e76-11f6-4b52-b8a4-b323f0f4720e" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="7aa90e09-2d14-4885-9d3a-ddc5dfb0ec91" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>أو</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="cefabf09-3b09-4e36-9f6f-4ba7b7bacb1e" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="17842574-c09e-4bd4-bb5a-195690b0887f" dir='rtl'></drupal-entity>
+summary:   <p dir='rtl'>يمكنك العثور على معلومات عن عمليات الفحص واللوائح الخاصة بالمباني التابعة لإدارة BSEED.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
+
+title:  الإنشاءات
+description:  <p dir='rtl'>تتحمل&nbsp;<strong dir='rtl'>دائرة الإنشاءات (Construction Division)</strong>&nbsp;مسؤولية إجراء عمليات التفتيش على أنشطة الإنشاءات لضمان أن تستوفي مشاريع الإنشاءات الخطط المعتمدة، وأن تمتثل لقوانين البناء ومعاييره. وتعتبر فرق التجارة الستة هي<strong dir='rtl'>&nbsp;المراجل والأبنية والأعمال الكهربية والميكانيكية </strong> &nbsp;<strong dir='rtl'>والسباكة</strong>.&nbsp;<br/>
+<br/>
+وتجري <strong dir='rtl'>&nbsp;دائرة الإنشاءات &nbsp; (Construction Division)</strong>&nbsp; التفتيش على أعمال الهدم الخاصة، وتركيب اللافتات والمظلات، وتعالج حسابات الضمان المودعة لإصلاح الحرائق. وتحقق دائرة الإنشاءات (Construction Division) في الشكاوى المتعلقة بأنشطة البناء والتصاريح وإصدار شهادات القبول وكذلك شهادات الإشغال في مشاريع البناء والتطويرات الجديدة.</p>
+
+<p dir='rtl'><strong dir='rtl'>خدمات العملاء العامة&nbsp;</strong>:&nbsp;<a href="tel:+1.313.224.3202" dir='rtl'>(313) 224-3202</a><br/>
+<strong dir='rtl'>البريد الإلكتروني لدائرة الإنشاءات (Construction Division) </strong>:&nbsp;<a href="mailto:BSEED-Construction@detroitmi.gov" dir='rtl'>BSEED-Construction@detroitmi.gov</a><br/>
+<strong dir='rtl'>الاختبار والتراخيص التجارية:&nbsp;&nbsp;</strong>الهندسة / المراجل<a href="tel:+1.313.224.3184" dir='rtl'> 3184-224 (313)</a>&nbsp; أو المصاعد&nbsp;<a href="tel:+1.313.224.9401" dir='rtl'>9401-224(313)</a><br/>
+<strong dir='rtl'>ساعات العمل:</strong>&nbsp;أيام الاثنين إلى الجمعة من الساعة 8:00 صباحًا إلى 4:30 عصرًا<br/>
+<strong dir='rtl'>Coleman A.Young Municipal Center , Suite 408</strong>&nbsp;<br/>
+<br/>
+<strong dir='rtl'>رئيس عمليات التفتيش بدائرة الإنشاءات:</strong>&nbsp;جلين أيه ديفيس<br/>
+<strong dir='rtl'>الهاتف:</strong>&nbsp;<a href="tel:+1.313.224.9102" dir='rtl'>9102-224 (313)&nbsp;</a><br/>
+<strong dir='rtl'>البريد الإلكتروني</strong>:&nbsp;<a href="mailto:davisgl@detroitmi.gov" dir='rtl'>davisgl@detroitmi.gov</a> </p>
+
+<p dir='rtl'><strong dir='rtl'>نائب رئيس عمليات التفتيش بدائرة الإنشاءات</strong>: روبرت ديبيراردينو<br/>
+<strong dir='rtl'>هاتف رقم:</strong>&nbsp;&lt;a href="tel: 2457-628 (313)"&gt;2457-628 (313)&nbsp;</a><br/>
+<strong dir='rtl'>البريد الإلكتروني:</strong>&nbsp;<a href="mailto:DeberardinoR@detroitmi.gov?subject=construction%20Information" dir='rtl'>DeberardinoR@detroitmi.gov</a></p>
+
+<p dir='rtl'><strong dir='rtl'>مساعد مدير المكتب :</strong>&nbsp;جلين كيرسي<br/>
+<strong dir='rtl'>هاتف:&nbsp;</strong>&lt;a href="هاتف: (313) 224-3201"&gt;(313) 224-3201&nbsp;</a><br/>
+<strong dir='rtl'>البريد الإلكتروني:&nbsp;</strong><a href="mailto:KerseyG@detroitm.gov" dir='rtl'>KerseyG@detroitm.gov</a></p>
+
+<p dir='rtl'><strong dir='rtl'>تأمينات الحرائق:&nbsp;</strong>كاساندرا إيدموندز&nbsp;&lt;a href="tel: 2425-628 (313)"&gt;2425-628 (313)&nbsp;</a>أو دوج جلافاك&nbsp;&lt;a href="هاتف رقم: 2660-628 (313)"&gt;2660-628 (313)</a></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>مشرفو التفتيش التجاري:</strong> </p>
+
+<p dir='rtl'>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</p>
+
+<table dir='rtl'>
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>المراجل</strong> </td>
+			<td dir='rtl'>&nbsp;&nbsp;كورتني جاكسون</td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:JacksonCo@detroitmi.gov" dir='rtl'>JacksonCo@detroitmi.gov</a> </td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 2425-628 (313)"&gt;2425-628 (313)</a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>الأبنية</strong> </td>
+			<td dir='rtl'>&nbsp;&nbsp;راندي هارجريفز</td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:HargavesR@detroitmi.gov" dir='rtl'>HargavesR@detroitmi.gov</a> </td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 2458-628 (313"&gt;2458-628 (313)</a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>الأعمال الكهربية</strong> </td>
+			<td dir='rtl'>&nbsp;&nbsp;فنسنت كولي</td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:CooleyV@detroitmi.gov" dir='rtl'>CooleyV@detroitmi.gov</a> </td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 3130-628 (313"&gt;3130-628 (313)</a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>المصاعد</strong> </td>
+			<td dir='rtl'>&nbsp;&nbsp;كورت جونسون</td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:KurtJ@detroitmi.gov" dir='rtl'>KurtJ@detroitmi.gov</a> </td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 9401-628 (313)"&gt;9401-628 (313)</a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>الأعمال الميكانيكية</strong> </td>
+			<td dir='rtl'>&nbsp;&nbsp;إدي سميث</td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:SmithEd@detroitmi.gov" dir='rtl'>SmithEd@detroitmi.gov</a> </td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 3189-628 (313)"&gt;3189-628 (313)</a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>السباكة</strong> </td>
+			<td dir='rtl'>&nbsp;&nbsp;روجرز ستروتر</td>
+			<td dir='rtl'>&nbsp;&nbsp;<a href="mailto:StraughterR@detroitmi.gov" dir='rtl'>StraughterR@detroitmi.gov</a> </td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 3157-628 (313)"&gt;3157-628 (313)</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<p dir='rtl'>&nbsp;</p>
+summary:   <p dir='rtl'>معلومات عن عمليات التفتيش لمشاريع البناء، بما في ذلك المراجل والأبنية والأعمال الكهربائية والمصاعد والأعمال الميكانيكية والسباكة.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/medical-marijuana
+
+title:  الماريجوانا الطبية
+description:  <h2 dir='rtl'>ملاحظة هامة: تم إلغاء برنامج مركز رعاية الماريجوانا الطبية</h2>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>أدى إقرار المُصوِّتين على المُقترحين &quot;أ&quot; و&quot;ب&quot; في انتخابات 7 نوفمبر من عام 2017 إلى إلغاء برنامج مركز رعاية الماريجوانا الطبية الخاص بالمدينة. لم تعد الطلبات الجديدة لمراكز رعاية الماريجوانا الطبية مقبولة بعد الآن. سوف تبدأ BSEED قبول الطلبات لمنشآت الماريجوانا الطبية في بداية عام 2018.</p>
+summary:   <p dir='rtl'>معلومات عن الماريجوانا الطبية ومراكز الماريجوانا الطبية</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/certificate-compliance/quick-steps-obtain-certificate
+
+title:  خطوات سريعة للحصول على شهادة مطابقة مستندات
+description:  <p dir='rtl'>بصفتك مالكًا لعقار تأجير يجب عليك، بالإضافة إلى الحصول على سند ملكية، اجتياز عملية الفحص التي تقوم بها المدينة أو مفتش المدينة المؤهل الذي يمثل طرفًا ثالثًا، فضلًا عن الحصول على تقرير خلو من الرصاص للتأهل للحصول على شهادة مطابقة مستندات. يجب أيضًا أن تكون على دراية بضرائب الممتلكات. توضح شهادة مطابقة المستندات أن ملكيتك آمنة الآن للإشغال. وتُعد الشهادة صالحة لمدة عام واحد من تاريخ صدورها.</p>
+summary:   <p dir='rtl'>بدء تسجيل ملكية إيجار.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/certificate-compliance
+
+title:  شهادة مطابقة المستندات
+description:  <p dir='rtl'>بصفتك مالكًا لعقار تأجير يجب عليك، بالإضافة إلى الحصول على سند ملكية، اجتياز عملية الفحص التي تقوم بها المدينة أو مفتش المدينة المؤهل الذي يمثل طرفًا ثالثًا، فضلًا عن الحصول على تقرير خلو من الرصاص للتأهل للحصول على شهادة مطابقة مستندات. يجب أيضًا أن تكون على دراية بضرائب الممتلكات. توضح شهادة مطابقة المستندات أن ملكيتك آمنة الآن للإشغال. وتُعد الشهادة صالحة لمدة عام واحد من تاريخ صدورها.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>ما عواقب عدم امتلاك شهادة مطابقة مستندات سارية؟</strong></p>
+
+<p dir='rtl'><strong dir='rtl'>يجب الحصول على شهادة مطابقة مستندات قبل إشغال العقار، ويجب أن تكون سارية طوال وقت إشغال العقار.</strong>&nbsp;إذا كان لديك مستأجرون في عقارك وليس لديك شهادة مطابقة مستندات سارية، فقد يدفع المستأجرون في حساب ضمان ثابت بدلًا من دفع إيجارهم لك مباشرةً بصفتك المالك. وسوف تواجه أيضًا إمكانية دفع غرامات لعدم الامتثال للوائح المحلية واللوائح الخاصة بالولاية. يمكنك معرفة المزيد عن&nbsp;<a href="/departments/department-of-appeals-and-hearings/blight-ticket-information" dir='rtl'>عواقب عدم الامتثال.</a></p>
+
+<p dir='rtl'>تنزيل:&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="3b52e9e6-9a24-42ca-b546-dc291a58c565" dir='rtl'></drupal-entity>
+summary:   <p dir='rtl'>شهادة مطابقة المستندات   </p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division
+
+title:  قسم صيانة الممتلكات
+description:  &lt;drupal-entity data-caption="بدء التسجيل Process" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"&gt;</drupal-entity>
+
+<p dir='rtl'>تتحمل إدارة البيئة وهندسة السلامة والمباني (BSEED) مسؤولية التأكد من أن جميع العقارات المُؤجرة في المدينة مُسجلة بشكل سليم، حسب القانون، ومن حصولها على شهادة مطابقة المستندات (CofC).</p>
+
+<p dir='rtl'>لقد أقرت المدينة&nbsp;</p>
+
+<drupal-entity data-caption="ordinance" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="d7baf53c-a55c-4027-9b24-d43b741b6986" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;سيقوم بعدة أشياء من أجل تحسين عملية الالتزام بالإيجار؛ بما في ذلك:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>قدرة المدينة على رفض تسليم شهادة مطابقة المستندات للمُلاك الذين يتأخرون عن سداد ضرائب ممتلكاتهم لما يزيد عن ستة أشهر ويدينون بأكثر من 1,000 دولار أمريكي.</li>
+	<li dir='rtl'>توفير إجراءات طعن سريعة للمُلاك على رفض منح شهادة مطابقة المستندات أو تعليقها.</li>
+	<li dir='rtl'>عمليات تفتيش أقل تكرارًا للمُلاك الملتزمين الذين حافظوا على سداد ضرائبهم في الموعد المحدد لمدة لا تقل عن عام واحد ولم تصدر لهم أي مخالفات فساد. يمنح المرسوم حق تمديد الشهادات من سنة واحدة حتى سنتين للمساكن متعددة الأسر، وحتى ثلاث سنوات للمساكن المكونة من أسرة واحدة أو أسرتين.</li>
+	<li dir='rtl'>الحفاظ على عمليات تفتيش سنوية للكشف عن مخاطر الرصاص. سوف تتطلب جميع العقارات المُؤجرة، حتى تلك الحاصلة على شهادات لمدة عامين أو ثلاثة أعوام، عملية سنوية لتقييم مخاطر الرصاص وتأكيد خلوها منه بموجب المرسوم المقترح. لا يمكن التنازل عن التقييم السنوي إلا إذا كان مالك العقار قد اتخذ المزيد من التدابير الطويلة الأجل أو الدائمة للحد من الرصاص.</li>
+</ul>
+summary:   <p dir='rtl'>اللوائح اللازمة لصيانة الممتلكات المؤجرة وتفتيشها واعتمادها.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/zoning
+
+title:  تخصيص الأراضي
+description:  <p dir='rtl'>يراجع قسم تخصيص الأراضي (Zoning Division) جميع المشاريع الجديدة لضمان الامتثال إلى مرسوم تخصيص الأراضي الخاص بمدينة ديترويت. تُعد هذه الخطوة الأولى لعملية الحصول على تصريح. يقدم موظفو شباك تخصيص الأراضي (Zoning Counter) أدق المعلومات المتعلقة بأسئلة تخصيص الأراضي ذات الصلة بمشروعك أو نشاطك.</p>
+
+<p dir='rtl'>ويُجري قسم تخصيص الأراضي (Zoning Division) أيضًا جلسات استماع عامة لتحديد استخدامات الأراضي المشروطة، ويُصدر المنح المتعلقة بتخصيص الأراضي، ويساعد في إنفاذها.</p>
+
+<p dir='rtl'><strong dir='rtl'>تبنت مدينة ديترويت مرسوم تخصيص الأراضي للأغراض التالية:</strong></p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>لتعزيز الصحة والسلامة والأخلاقيات العامة ومصلحة المجتمع العامة وحمايتها؛</li>
+	<li dir='rtl'>لتصنيف جميع المباني والمنشآت والأراضي بطريقة تعكس ملاءمتها الخاصة للاستخدامات الخاصة؛</li>
+	<li dir='rtl'>لتنظيم الموقع والإنشاء وإعادة الإنشاء والتعديل واستخدام المباني والمنشآت والأراضي:</li>
+	<li dir='rtl'>لضمان توفير درجة كافية من الإضاءة والهواء والخصوصية وسهولة الوصول إلى العقارات؛</li>
+	<li dir='rtl'>للحفاظ على قيم الممتلكات؛</li>
+	<li dir='rtl'>لوضع معايير مقبولة تلتزم بها المباني والمنشآت وتُراعى في الاستخدامات؛</li>
+	<li dir='rtl'>لتتطلب وقوف السيارات بعيدًا عن الطريق وتحميل المركبات التجارية وتفريغها بشكل مناسب؛</li>
+	<li dir='rtl'>لتحديد صلاحيات الموظفين والهيئات الإدارية وواجباتهم؛</li>
+	<li dir='rtl'>لوضع عقوبات لانتهاك هذا المرسوم؛</li>
+	<li dir='rtl'>وتحمل أعباء مجلس طعون تخصيص الأراضي</li>
+</ul>
+summary:   <p dir='rtl'>معلومات عن تخصيص الأراضي في مدينة ديترويت، بما في ذلك كيفية الحصول على الطعون والتصاريح الخاصة بتخصيص الأراضي.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department
+
+title:  إدارة البيئة وهندسة السلامة والمباني
+description:  <p dir='rtl'>تتمثل مهمة إدارة البيئة وهندسة السلامة والمباني (BSEED) في تحمل تكلفة توفير السلامة والصحة والرفاهية العامة للجمهور فيما يتعلق بالمباني والمناطق المجاورة لها بطريقة تتسم بالكفاءة والفعالية من حيث التكلفة وسهولة الاستخدام والمهنية. تعمل BSEED على إنفاذ قوانين الإنشاءات وصيانة الممتلكات ومصادقة البيئة وتخصيص الأراضي؛ والتي تعزز قيم الممتلكات وتحسنها وتعزز جودة الحياة لكي تجعل مدينة ديترويت مكانًا مفضلًا للسكن وإقامة المشاريع التجارية.&nbsp;</p>
+summary:   <p dir='rtl'>معلومات عن BSEED بما في ذلك اللوائح وعمليات التفتيش والتصاريح.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/birth-and-death-certificates
+
+title:  شهادات الميلاد والوفاة
+description:  <p dir='rtl'>ابتداءً من عام 2014، يجب الحصول على شهادات الميلاد والوفاة في ديترويت من خلال مكتب كاتب’مقاطعة وين (Wayne County Clerk's Office). لقد أغلقت إدارة تعزيز الصحة والعافية (Department of Health and Wellness Promotion) في ديترويت قسم السجلات المدنية (Vital Records Division) التابع لها للأبد في&nbsp;ديسمبر 2013.<br/>
+&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>احصل على شهادات الميلاد والوفاة في ديترويت من:</strong></p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.text_teaser_large" data-entity-type="node" data-entity-uuid="7939a5c5-3385-45cd-b90b-d18e921ac44d" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>للاطلاع على معلومات إضافية عن كيفية الحصول على شهادة ميلاد أو وفاة في ديترويت من مكتب ’كاتب مقاطعة وين(Wayne County Clerk's Office)، تفضل بزيارة&nbsp;<strong dir='rtl'><a href="http://www.waynecounty.com/clerk/" target="_blank" title="http://www.waynecounty.com/clerk" dir='rtl'>http://www.waynecounty.com/clerk</a></strong><br/>
+<br/>
+<strong dir='rtl'>ولاية ميتشغان</strong><br/>
+يمكن أيضًا الحصول على شهادات الميلاد والوفاة من &nbsp;<strong dir='rtl'>مكتب</strong>&nbsp;<strong dir='rtl'>السجلات المدنية التابع لولاية ميتشغان</strong><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<strong dir='rtl'>من خلال المراسلة على البريد:</strong>&nbsp;صندوق بريد 30721, Lansing, MI 48909<br/>
+<strong dir='rtl'><strong dir='rtl'>لمزيد من المعلومات:</strong>&nbsp;</strong>&lt;a href="tel:(517) 335-8666"&gt;(517) 335-8666&nbsp;</a></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>&lt;a href="http://www.waynecounty.com/clerk/248.htm" target="_blank" title="Birth and Death Certificates"&gt;Birth and Death Certificates Online</a></p>
+summary:   <p dir='rtl'>شهادات الميلاد والوفاة</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/detroit-animal-care-and-control
+
+title:  إدارة رعاية ومراقبة الحيوانات في ديترويت (Detroit Animal Care and Control)
+description:  <p dir='rtl'>تتمثل مهمة إدارة رعاية ومراقبة الحيوانات في ديترويت في تعزيز وحماية صحة سكان وزوار مدينة ديترويت وسلامتهم ورفاهيتهم من عضّات الحيوانات أو أمراض الحيوانات أو مخاطر المرور؛ والحفاظ على أعلى معايير إيواء الحيوانات الإنسانية؛ وتعزيز وضع الحيوانات في المنازل؛ وتشجيع الاقتناء المسؤول للحيوانات الأليفة من خلال التعليم وإنفاذ القوانين والشراكة المجتمعية.</p>
+
+<p dir='rtl'>جميع الخدمات متاحة يوميًا بما في ذلك تحديد هوية الكلاب المفقودة، والتراخيص، والتبني وأكثر!&nbsp;</p>
+summary:   <p dir='rtl'>تتمثل مهمة إدارة رعاية ومراقبة الحيوانات في ديترويت في تعزيز وحماية صحة سكان وزوار مدينة ديترويت وسلامتهم ورفاهيتهم من عضّات الحيوانات أو أمراض الحيوانات أو مخاطر المرور؛ والحفاظ على أعلى معايير إيواء الحيوانات الإنسانية؛ وتعزيز وضع الحيوانات في المنازل؛ وتشجيع الاقتناء المسؤول للحيوانات الأليفة من خلال التعليم وإنفاذ القوانين والشراكة المجتمعية.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/detroit-id/schedule-appointment
+
+title:  تحديد موعد
+description:  <p dir='rtl'>اختر أحد المراكز التالية لتحديد موعد من أجل الحصول على بطاقة هوية ديترويت</p>
+summary:   <p dir='rtl'>تحديد موعد لتقديم طلب للحصول على هوية ديترويت</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/detroit-id
+
+title:  Detroit ID
+description:  &lt;drupal-entity alt="Detroit ID Image" data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="974e0ed6-5511-4e2b-acac-178472894657" title="Detroit ID Image"&gt;</drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>تتاح بطاقة هوية مدينة ديترويت لجميع مواطني مدينة ديترويت، بما في ذلك المواطنين العائدين والمشردين والمهاجرين بغض النظر عن حالة الهجرة. تُستخدم في:</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>الوصول إلى خدمات المدينة: تواصل مع إدارة شرطة مدينة ديترويت (Detroit Police Department) ومدارس ديترويت الحكومية</li>
+	<li dir='rtl'>فتح حسابات المرافق لدى Detroit وإدارة المياه والصرف الصحي في ديترويت (Detroit Water and Sewerage Department)</li>
+	<li dir='rtl'>فتح حساب جارٍ أو حساب ادخار لدى One Detroit Credit Union</li>
+	<li dir='rtl'>الحصول على خصومات على عشرات من الشركات التجارية المحلية والأنشطة الثقافية في جميع أنحاء ديترويت.</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>العملية’سهلة ويسيرة كأن تعد 1-2-3</p>
+
+<ol dir='rtl'>
+	<li dir='rtl'>وفر<strong dir='rtl'>&nbsp;إثباتًا للهوية</strong>&nbsp;&nbsp;<strong dir='rtl'>وإثباتًا للسكن</strong>&nbsp;
+
+	<drupal-entity data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="d8856b1b-b02c-4e0e-9955-7dd8c69b775e" dir='rtl'></drupal-entity>
+	</li>
+	<li dir='rtl'>حدد&nbsp;<a href="/departments/health-department/detroit-id/schedule-appointment" dir='rtl'><strong dir='rtl'>موعدًا</strong></a>&nbsp;بأقرب مركز خدمة</li>
+	<li dir='rtl'>أكمل طلب تقدم</li>
+</ol>
+
+<p dir='rtl'><a href="/departments/health-department/detroit-id/benefits" dir='rtl'>يمكنك العثور على قائمة كاملة بالمخصصات هنا</a></p>
+
+<p dir='rtl'>&nbsp;</p>
+summary:   <p dir='rtl'>نظرة عامة حول كيفية الحصول على بطاقة هوية مدينة ديترويت</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/food-safety
+
+title:  السلامة الغذائية
+description:  <p dir='rtl'>يتمثل هدف وحدة السلامة الغذائية (Food Safety Unit) التابعة لإدارة الصحة بديترويت (Detroit Health Department) في حماية الجمهور من الطعام الملوث والأمراض التي تُنقل عن طريق الطعام.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>وحدة السلامة الغذائية (Food Safety)</h2>
+
+<ul dir='rtl'>
+	<li dir='rtl'>تعمل على تثقيف المجتمع بشأن التعامل الآمن مع الطعام وتخزينه</li>
+	<li dir='rtl'>وتتعامل مع شكاوى المطاعم</li>
+	<li dir='rtl'>تفحص وتُرخِّص&nbsp;وتستعرض الاقتراحات المُقدَّمة لافتتاح&nbsp;الأعمال التجارية الغذائية الصغيرة والكبيرة والمناسبات التي يتم فيها تقديم الطعام</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="نشرة السلامة الغذائية لصيف 2017" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="462ed4cd-396b-44d8-b589-25fa0931021b"&gt;</drupal-entity>
+	</li>
+</ul>
+
+<p dir='rtl'><strong dir='rtl'>منشآت الأطعمة يُرجى ملاحظة: طبقًا لسياسة إدارة الصحة في ديترويت (Detroit Health Department)، يجب عدم تقديم أي شكل من أشكال السلع (يشمل ذلك الماء والغذاء والأموال وما إلى ذلك) أو الخدمات لمفتشي الصحة البيئية والسلامة الغذائية، وينبغي ألا يطلبوها في أثناء القيام بمهام التفتيش في منشأتك. ويُعد تقديم أي شيء ذي قيمة مقابل الحصول على تقرير / نتيجة تفتيش محابية فعلًا غير قانوني، وسيتم الإبلاغ عن أي نوع من أنواع تقديم السلع أو الخدمات إلى قيادة الإدارة العليا.</strong></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>تقديم شكاوى السلامة الغذائية</h2>
+
+<p dir='rtl'>يُرجى الاتصال بالرقم &nbsp;<a href="tel:%20%20(313)%20876-0135%20" dir='rtl'>(313) 876-0135&nbsp;</a>لتقديم شكوى&nbsp;إذا كنت تعتقد أن الطعام المُقدم في أحد مطاعم ديترويت:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>قد سبب لك أو لأحد أفراد أسرتك مرضًا</li>
+	<li dir='rtl'>قد تم تحضيره أو التعامل معه أو تخزينه في بيئة غير نظيفة</li>
+	<li dir='rtl'>خرق قوانين السلامة الغذائية بأي طريقة أخرى</li>
+</ul>
+
+<p dir='rtl'>إذا كانت شكواك&nbsp;تتعلق بمتجر بقالة أو سوق مركزية أو مخبز أو&nbsp;محطة وقود، فيُرجى الاتصال على الخط الساخن لشكاوى المستهلكين الخاص بإدارة الزراعة والتنمية الريفية (Agriculture and Rural Development) في ولاية ميتشغان على الرقم&nbsp;<a href="tel:%20%20(800)%20292-3939%20" dir='rtl'>(800) 292-3939</a>.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'> التقدم بطلب للحصول على ترخيص سلامة غذائية أو تجديده</h2>
+
+<p dir='rtl'>أي شخص يقوم بتحضير الطعام أو تقديمه للجمهور يحتاج إلى الحصول على ترخيص.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>منشآت الأطعمة</h2>
+
+<p dir='rtl'>يجب ترخيص جميع المنشآت التي تُقدِّم الخدمات الغذائية (مثل المطاعم والمدارس والملاعب الرياضية والكازينوهات و&nbsp;الحانات) في ديترويت. تنتهي صلاحية تراخيص خدمات الطعام في 30 أبريل من كل عام ويجب تجديدها. تراخيص خدمات الطعام غير قابلة للتحويل. يجب الحصول على ترخيص جديد في أي وقت يحدث فيه تغيير في ملكية المنشأة.</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="طلب الحصول على ترخيص" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="39bb9fd6-bc2c-4245-94c0-7dabbaee5568"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="جدول الرسوم" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef75c625-07a3-4781-ad2c-10180d0dc1a8"&gt;</drupal-entity>
+	</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>الأعمال التجارية المتنقلة الخاصة ببيع الأطعمة </h2>
+
+<p dir='rtl'>يجب أن تحصل الأعمال التجارية المتنقلة الخاصة ببيع الطعام (مثل العربات المتنقلة، وعربات الآيس كريم، وعربات النقانق، ووحدات الطعام العابرة الخاصة أو STFUs) على تراخيص. لمزيد من المعلومات المتعلقة بالسلامة الغذائية ومراجعة الخطط ومنح التراخيص للأعمال التجارية الخاصة ببيع الأطعمة المتنقلة، يُرجى الاطلاع على الموارد التالية.</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="كيفية بدء عمل تجاري متنقل خاص بالأطعمة في ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8255329e-6440-409c-9803-8df37bb9d7ac"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="إرشادات الأطعمة المتنقلة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4884655b-0294-4551-af5d-5c37e7f4e1f4"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="مراجعة خطة وحدات الأطعمة العابرة الخاصة (STFU)/المتنقلة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1001d54a-7e03-46f5-b2c9-d7c9e1b09d57"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="إخطار نية وحدات الأطعمة العابرة الخاصة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0da9c4a5-dafb-4902-9201-31e40bb59609"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="نموذج تحقق وحدة الدعم" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="492d57bf-c0a7-4fb7-9087-15ea976aefe1"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8ca90ada-4cde-48b3-8532-dabb67974d90" dir='rtl'></drupal-entity>
+	</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>المناسبات العابرة</h2>
+
+<p dir='rtl'>إذا كنت تخطط لإقامة مناسبة في المدينة (كمهرجان أو احتفال أو حدث في الحي السكني أو غير ذلك) تشتمل على تقديم الأطعمة، فيجب عليك تقديم طلب للحصول على ترخيص تقديم الأطعمة مؤقت بما لا يقل عن 10 أيام قبل موعد المناسبة.</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="دليل التراخيص والسلامة الغذائية الخاصة بمنشآت تقديم الأطعمة المؤقتة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4617835f-ad35-4804-8a22-1e8780a9cc2c"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="طلب الحصول على ترخيص مؤقت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="09661254-67c3-42f2-a631-6917c1a7f924"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="كيفية إقامة مناسبة مؤقتة في ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0523d8e-f8cf-4efa-b55a-1d196e1aec10"&gt;</drupal-entity>
+	</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>انقطاع الخدمات الكهربية</h2>
+
+<p dir='rtl'>يُرجى الرجوع إلى&nbsp;</p>
+
+&lt;drupal-entity data-caption="خطط عمل الطوارئ لمنشآت بيع الأطعمة بالتجزئة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="df472dd1-f9cf-47fa-8853-47d805756f76"&gt;</drupal-entity>
+
+<p dir='rtl'>&nbsp;في حالة حدوث انقطاع في مطعمك في:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>الكهرباء</li>
+	<li dir='rtl'>الماء</li>
+	<li dir='rtl'>إمداد الماء الملوث (بيولوجية)</li>
+	<li dir='rtl'>نظام الصرف الصحي الاحتياطي</li>
+	<li dir='rtl'>الحرائق</li>
+	<li dir='rtl'>الفيضانات</li>
+</ul>
+
+<p dir='rtl'>إذا كنت بحاجة إلى الاطلاع على هذه المعلومات بلغة أخرى، فيُرجى الدخول على الموقع الإلكتروني الخاص بإدارة الزراعة والتنمية الريفية (Department of Agriculture and Rural Development) في ولاية ميتشغان&nbsp;في العنوان&nbsp;<a href="http://www.michigan.gov/mda" dir='rtl'>www.michigan.gov/mda</a>.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>اطلب مراجعة الخطة للأعمال التجارية الخاصة الجديدة بالطعام</h2>
+
+<p dir='rtl'>يمكن للأعمال التجارية الخاصة الجديدة بالطعام طلب مراجعة المخططات والمقترحات لضمان امتثال منشآت الأطعمة الجديدة (أو المُعاد تجديدها) للوائح السلامة الغذائية. يُرجى العثور على موارد مراجعة الخطط المفيدة هنا:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="City of Detroit Complete Plan Review Packet" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="756e2f73-52d2-4dd0-af2d-6fee47943f02"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="How to Start a Food Business in the City of Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e60beaac-67ba-4691-93a3-fce4c94b2d8e"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="City of Detroit Complete Plan Review Packet" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f4e70361-822b-489e-9430-57c631f4aaf3"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="Examples of Standard Operating Procedures" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="95833bc2-4ad6-4277-b6a4-fbe26485c342"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>
+	&lt;drupal-entity data-caption="Variance Form" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c3392d79-3eb7-49db-874e-e5852b69ccf9"&gt;</drupal-entity>
+	</li>
+	<li dir='rtl'>&lt;a href="https://www.youtube.com/watch?v=QRmTOKujejY" target="_blank" title="Submit Plan Review for Food Establishment"&gt;تقديم مراجعة خطة لمنشأة الأطعمة (فيديو)</a></li>
+	<li dir='rtl'>&lt;a href="https://www.youtube.com/watch?v=B6Ebe2PEBMg" target="_blank" title="Setting up Food Establishment"&gt;تأسيس منشأة غذائية في ميتشغان (فيديو)</a></li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>تعرف أكثر على السلامة الغذائية</h2>
+
+<p dir='rtl'>الطعام الآمن ضروري للصحة الجيدة. إننا جميعًا نلعب دورًا رئيسيًا في الحفاظ على سلامة غذائنا. يتحمل مُقدمو خدمات التغذية مسؤولية إنتاج طعام وفي منازلنا، هناك خطوات بسيطة يمكننا جميعًا اتخاذها لوقاية أنفسنا من الأمراض التي تُنقل عبر&nbsp;الطعام،&nbsp;بما في ذلك ممارسة العادات الصحية الجيدة عند مناولة الطعام أو طهيه في درجة حرارة مناسبة أو الدراية بإرشادات تخزين الطعام. لمزيد من المعلومات&nbsp;عن السلامة الغذائية في المنزل، اطلع على&nbsp;&lt;a href="http://www.foodsafety.gov/" target="_blank" title="Food Safety"&gt;www.foodsafety.gov</a>.</p>
+summary:   <p dir='rtl'>معلومات عن وحدة السلامة الغذائية (Food Safety Unit) التابعة لإدارة الصحة (Health Department) والإبلاغ عن مشكلات السلامة الغذائية وكيفية تجنبها.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/immunizations
+
+title:  التطعيمات
+description:  <p dir='rtl'>يتمثل هدف برنامج التطعيمات في الوقاية من الأمراض التي يمكن الوقاية منها بالتطعيم؛ والتي تؤثر على الناس من جميع الأعمار في ديترويت. إننا نعمل على إتاحة خدمات التطعيم وزيادة عدد الأطفال في ديترويت الذين يحصلون على التطعيمات اللازمة في الموعد المحدد. نحن نشارك في برنامج &quot;التطعيمات للأطفال (Vaccines for Children, VFC)&quot;، ونقوم بتوعية المجتمع وتثقيفه حول أهمية التطعيمات.&nbsp;<br/>
+&nbsp;</p>
+
+<p dir='rtl'>يوفر برنامج التطعيمات التابع لإدارة الصحة بديترويت التطعيمات في&nbsp;مكانه في Samaritan Center&nbsp;للأطفال والبالغين.&nbsp; في عيادة التطعيمات&nbsp;يمكنك الحصول على سجل تاريخ الحُقن (عند الطلب) والتثقيف بخصوص التطعيم عند الحصول على الخدمة.<br/>
+<br/>
+&nbsp;</p>
+
+<h2 dir='rtl'>معلومات الإعفاء غير الطبية</h2>
+
+<p dir='rtl'>في ديسمبر من عام 2014، وافقت اللجنة المشتركة المعنية بالقواعد الإدارية (Joint Committee on Administrative Rules) على شرط تعليمي جديد لأولياء الأمور في ولاية ميتشغان الذين يختارون لأطفالهم عدم الحصول على التطعيم قبل دخول المدرسة ومراكز رعاية الطفل. كانت القاعدة الجديدة سارية المفعول من 1 يناير 2015 وألزمت أولياء الأمور / الأوصياء الراغبين في المطالبة بإعفاء غير طبي لتلقي التعليم من إدارة الصحة بديترويت (Detroit Health Department).</p>
+
+<h2 dir='rtl'>لقاحات الأطفال</h2>
+
+<p dir='rtl'>يساعد برنامج VFC في توفير اللقاحات للأطفال الذين قد لا يستطيع آباؤهم أو الأوصياء عليهم تحمل تكلفتها. ويساعد هذا في ضمان أن يتمتع جميع الأطفال بفرصة أفضل للحصول على اللقاحات الموصى بها لهم في الموعد المحدد. فهذه اللقاحات تحمي الأطفال الرُضع والأطفال الصغار والمراهقين من الأمراض الستة عشر التالية:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>الجديري المائي (الحُماق)</li>
+	<li dir='rtl'>إنفلونزا</li>
+	<li dir='rtl'>الدفتيريا</li>
+	<li dir='rtl'>اللقاح المتقارن ضد المستدمية النزلية من النوع B (Hib)</li>
+	<li dir='rtl'>شلل الأطفال</li>
+	<li dir='rtl'>الحصبة والنكاف والحصبة الألمانية</li>
+	<li dir='rtl'>هِرْبِس نُطاقِيّ (Zostavax)</li>
+	<li dir='rtl'>التيتانوس</li>
+	<li dir='rtl'>الفيروسة العَجَلِيَّة</li>
+	<li dir='rtl'>الحصبة الألمانية</li>
+	<li dir='rtl'>المكورات الرئوية</li>
+	<li dir='rtl'>السعال الديكي</li>
+	<li dir='rtl'>التهاب السحايا (المكورات السحائية)</li>
+	<li dir='rtl'>فيروس الورم الحليمي البشري (HPV)</li>
+	<li dir='rtl'>التهاب الكبد الوبائي أ</li>
+	<li dir='rtl'>التيتانوس التهاب الكبد الوبائي B</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>لمزيد من المعلومات عن برنامج VFC، تواصل مع&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b1e09825-5937-464a-9917-ca19bd752928" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>معلومات الاتصال</h2>
+
+<p dir='rtl'><b dir='rtl'>للحصول على تطعيمات لطفلك، اتصل بـ&nbsp;</b></p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b052d015-b97f-48c7-8e3d-8618edae9ed5" dir='rtl'></drupal-entity>
+summary:   <p dir='rtl'>معلومات عن كيفية الحصول على التطعيمات</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department/sexually-transmitted-diseases-clinic
+
+title:  Sexually Transmitted Diseases Clinic
+description:  &lt;drupal-entity alt="Sexually Transmitted Diseases Clinic" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="e7af841e-57ac-4b3d-8a30-bff79eed388a"&gt;</drupal-entity>
+
+<h2 dir='rtl'>الخدمات</h2>
+
+<ul dir='rtl'>
+	<li dir='rtl'>الأمراض المنقولة جنسيًا (STD) &nbsp;الفحص والاختبار والعلاج للمرضى وشركائهم</li>
+	<li dir='rtl'>اختبار فيروس نقص المناعة البشرية (HIV) السريع في الموقع</li>
+	<li dir='rtl'>المعالجة الوقائية السابقة للتعرض (PrEP)، معالجة وقائية من فيروس نقص المناعة البشرية (HIV) يومية عن طريق الفم</li>
+	<li dir='rtl'>المعالجة الوقائية بعد التعرض (PEP)، برنامج معالجة وقائية من فيروس نقص المناعة البشرية (HIV) بعد التعرض عالي الخطورة</li>
+	<li dir='rtl'>أوقية ذكرية ومادة مزلقة مجانية</li>
+	<li dir='rtl'>الربط الفوري ببرنامج العلاج من فيروس نقص المناعة البشرية (HIV) التابع لجامعة وين ستيت (WSU)</li>
+	<li dir='rtl'>الخدمات المقدمة بغض النظر عن’القدرة على الدفع</li>
+</ul>
+
+<p dir='rtl'><br/>
+&nbsp;</p>
+
+<h2 dir='rtl'>خدمات إضافية قريبًا</h2>
+
+<ul dir='rtl'>
+	<li dir='rtl'>لقاحات الالتهاب الكبدي الوبائي A والالتهاب الكبدي الوبائي B</li>
+</ul>
+
+<div class="read-more" dir='rtl'><a href="https://gettested.cdc.gov/" role="button" target="_blank" dir='rtl'>اخضع للاختبار!</a></div>
+
+<h2 dir='rtl'>عن برنامج تعليم اللاجئين في باينلاس (Pinellas Refugee Education Program, PREP)</h2>
+
+<p dir='rtl'><br/>
+&nbsp;</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 806px;">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td style="width: 400px;">
+			<drupal-entity alt="prep-basic" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="4738d8be-b3b4-4461-8a06-1641bcf8512d" dir='rtl'></drupal-entity>
+			</td>
+			<td style="width: 403px;">
+			<drupal-entity alt="prep-pay" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="56eef6b1-d29d-4122-a431-cbc95b321d95" dir='rtl'></drupal-entity>
+			</td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="width: 400px;">
+			<drupal-entity alt="prep-how-it-works" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="904e7985-cfc7-44e2-b330-3db5460314d3" dir='rtl'></drupal-entity>
+			</td>
+			<td style="width: 403px;">
+			<drupal-entity alt="prep-start" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="5a9bfd0b-158f-4b5a-b549-d0c0e676c93b" dir='rtl'></drupal-entity>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2 dir='rtl'><a href="https://www.cdc.gov/std/healthcomm/fact_sheets.htm" target="_blank" dir='rtl'>صحيفة حقائق الأمراض المنقولة جنسيًا (STD)</a></h2>
+
+<p dir='rtl'>&nbsp;</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'><a href="https://www.cdc.gov/std/gonorrhea/stdfact-gonorrhea.htm" target="_blank" dir='rtl'>السيلان</a></li>
+	<li dir='rtl'><a href="https://www.cdc.gov/std/chlamydia/stdfact-chlamydia.htm" target="_blank" dir='rtl'>المتدثرة (الكلاميديا)</a></li>
+	<li dir='rtl'><a href="https://www.cdc.gov/std/syphilis/stdfact-syphilis.htm" target="_blank" dir='rtl'>الزهري</a></li>
+	<li dir='rtl'><a href="https://www.cdc.gov/std/hiv/stdfact-std-hiv.htm" target="_blank" dir='rtl'>فيروس نقص المناعة البشرية المكتسب (HIV) والأمراض المنقولة جنسيًا (STD)</a></li>
+	<li dir='rtl'><a href="https://www.cdc.gov/std/life-stages-populations/stdfact-msm.htm" target="_blank" dir='rtl'>ما يحتاج المثليون وذوو الميول الجنسية المزدوجة الذين يقيمون علاقات جنسية مع رجال معرفته عن الأمراض التي تنتقل من خلال الممارسات الجنسية</a></li>
+	<li dir='rtl'><a href="https://www.cdc.gov/std/syphilis/stdfact-msm-syphilis.htm" target="_blank" dir='rtl'>الزهري والرجال الذين يقيمون علاقات جنسية مع الرجال</a></li>
+	<li dir='rtl'><a href="https://www.cdc.gov/condomeffectiveness/index.html" target="_blank" dir='rtl'>فعالية العازل الذكري</a></li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>&nbsp;</h2>
+
+<ul dir='rtl'>
+</ul>
+summary:   <p dir='rtl'>معلومات عن كيفية الخضوع إلى الاختبار أو&nbsp;الحصول على اللقاح أو العلاج من الأمراض التي تنتقل من خلال الممارسات الجنسية.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/health-department
+
+title:  Health Department
+description:  <p dir='rtl'>يتمثل هدف إدارة الصحة بديترويت (Detroit Health Department)’في حماية صحة جميع سكان ديترويت وعافيتهم وسلامتهم وقوتهم الصحية والجسدية. توفر إدارة الصحة التطعيمات، وبرامج رعاية ما قبل الولادة للأمهات الحوامل، وفحص البصريات، وتُركِّز على تحسين صحة مجتمع مدينة ديترويت.</p>
+summary:   <p dir='rtl'>يتمثل هدف إدارة الصحة بديترويت (Detroit Health Department)’في حماية صحة جميع سكان ديترويت وعافيتهم وسلامتهم وقوتهم الصحية والجسدية. توفر إدارة الصحة التطعيمات، وبرامج رعاية ما قبل الولادة للأمهات الحوامل، وفحص البصريات، وتُركِّز على تحسين صحة مجتمع مدينة ديترويت.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/human-resources-department/apply-job
+
+title:  Apply for a Job
+description:  <p dir='rtl'>تُعد مدينة ديترويت مكان عمل يقدم فرصًا متكافئة. ولا يجوز التمييز ضد أي متقدم للوظيفة على أساس العرق أو الدين أو اللون أو العمر أو الجنس أو الأصل القومي أو الإعاقة أو أي معايير أخرى تحظرها قوانين المدينة أو الولاية أو القانون الاتحادي.</p>
+
+<p dir='rtl'>وللتأهل للحصول على وظيفة، يجب على مقدم الطلب استيفاء متطلبات التعليم والتدريب والخبرة وأي متطلبات ترخيص أو شهادة سارية لهذه الوظيفة. ويتحمل مقدم الطلب’مسؤولية تقديم إثبات مقبول لسجل عمله السابق وسجله الشخصي.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="476ca8d8-fbdc-49ce-a474-16ca1d7a49c0" dir='rtl'></drupal-entity>
+summary:   <p dir='rtl'>معلومات حول كيفية التقدم للحصول على وظيفة لدى مدينة ديترويت</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/human-resources-department/city-employee-information
+
+title:  City Employee Information
+description:  &lt;drupal-entity alt="City Employee Info" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="0631508b-afb6-4945-8b4a-84986e483976" title="City Employee Info"&gt;</drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>ملخص مخصصات موظفي المدينة</strong><br/>
+توفر مدينة ديترويت حزمة مخصصات شاملة وتنافسية للموظفين. إننا نفتخر بطول عمر موظفينا.&nbsp; يتمثل جزء من سبب انخفاض معدل تبدل الموظفين في حزمة المخصصات الاستثنائية المذكورة أدناه.&nbsp; تشمل المخصصات، على سبيل الذكر لا الحصر، ما يلي:</p>
+
+<p dir='rtl'><strong dir='rtl'>الطبية</strong><br/>
+مؤهل للحصول على مخصصات المستشفيات والعمليات الجراحية والعقاقير الطبية الموصوفة بعد واحد وتسعين (91) يومًا من التوظيف.</p>
+
+<p dir='rtl'><strong dir='rtl'>الأسنان</strong><br/>
+مؤهل للحصول على خدمات العناية بالأسنان بعد ستة (6) أشهر من التوظيف.</p>
+
+<p dir='rtl'><strong dir='rtl'>البصريات</strong><br/>
+مؤهل للحصول على خدمات العناية بالعيون بعد ستة (6) أشهر من التوظيف. &nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>التأمين على الحياة</strong><br/>
+تتوفر إمكانية التأمين على حياة الموظف وأسرته بشكل اختياري.&nbsp; تدفع المدينة 60% من قسط التأمين من أول 12,500 دولار من التأمين على حياة الموظف.&nbsp; يمكن للموظف شراء تأمين على الحياة للزوجة وكل مُعال على نفقته الخاصة. &nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>تأمين الإعاقة طويل الأمد (خطة حماية الدخل)</strong><br/>
+توفر المدينة تأمين إعاقة من خلال استقطاعات الرواتب للأشخاص الذين يصبحون معاقين والذين لا يمكنهم التأهل للتقاعد من الخدمة بعد.</p>
+
+<p dir='rtl'><strong dir='rtl'>العطلة والإجازة</strong></p>
+
+<p dir='rtl'><em dir='rtl'><strong dir='rtl'>العطلات</strong></em><br/>
+&nbsp;يوم رأس السنة ’<br/>
+&nbsp;ذكرى ميلاد’مارتن لوثر كينج<br/>
+&nbsp;ذكرى الجمعة<br/>
+&nbsp;الحزينة يوم<br/>
+&nbsp;الاستقلال يوم<br/>
+&nbsp;العمال<br/>
+&nbsp;يوم المحاربين القدامى<br/>
+&nbsp;عيد الشكر<br/>
+&nbsp;يوم بعد عيد الشكر<br/>
+&nbsp;عشية عيد الميلاد<br/>
+&nbsp;يوم عيد الميلاد<br/>
+&nbsp;عشية’رأس السنة</p>
+
+<p dir='rtl'><strong dir='rtl'>إجازة مرضية</strong><br/>
+يحصل الموظفون على إجازة مرضية مجمعة بحسب عدد ساعات العمل العادية.&nbsp; يحصل موظفو الدوام الكلي على ست وتسعين (96) ساعة إجازة مرضية في السنة.&nbsp; يمكنك ترحيل إجازتك المرضية غير المستخدمة. يسري ذلك بدءًا من 7 يوليو من عام 2012 بحد أقصى للتراكم 300 ساعة.</p>
+
+<p dir='rtl'><strong dir='rtl'>سياسات الإجازات الأخرى</strong><br/>
+تمنح المدينة أيضًا الإجازات المدفوعة الأجر وغير مدفوعة الأجر التالية؛ إجازة دفن، إجازة عائلية وإجازة طبية، واجب الخدمة في هيئة المحلفين وإجازة أداء الخدمة العسكرية، والإجازات الشخصية غير المدفوعة،</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>نظام تقاعد الموظفين في المدينة</strong></p>
+
+<p dir='rtl'><strong dir='rtl'><a href="http://www.rscd.org/" target="_blank" dir='rtl'>RSCD.org</a></strong></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>الناقلات الصحية</strong></p>
+
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td colspan="3" dir='rtl'><strong dir='rtl'>الخطط الطبية</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>Blue Cross/Blue Shield Community Blue PPO</td>
+			<td dir='rtl'><a href="tel:1-877-354-2583" dir='rtl'>1-877-354-2583</a></td>
+			<td dir='rtl'><strong dir='rtl'><a href="http://www.bcbsm.com/" target="_blank" title="www.bcbsm.com" dir='rtl'>www.bcbsm.com</a></strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>خط ممرضات BCBSM على مدار 24 ساعة</td>
+			<td dir='rtl'><a href="tel:1-800-775-2583" dir='rtl'>1-800-775-2583</a></td>
+			<td dir='rtl'><strong dir='rtl'><a href="http://www.bcbsm.com/" target="_blank" title="www.bcbsm.com" dir='rtl'>www.bcbsm.com</a></strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>Health Alliance Plan (HAP)</td>
+			<td dir='rtl'><a href="tel:1-313-872-8100" dir='rtl'>1-313-872-8100</a><br/>
+			<a href="tel:1-800-422-4641" dir='rtl'>1-800-422-4641</a></td>
+			<td dir='rtl'><strong dir='rtl'><a href="http://www.hap.org" target="_blank" title="www.bcbsm.com" dir='rtl'>www.hap.org</a></strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>مقدمو الرعاية الأولية (PCP) التابعون لشبكة (Blue Care Network)</td>
+			<td dir='rtl'><a href="tel:1-800-422-4641" dir='rtl'>1-800-422-4641</a></td>
+			<td dir='rtl'><strong dir='rtl'><a href="http://www.bcbsm.com" target="_blank" title="www.hap.org" dir='rtl'>www.bcbsm.com</a></strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td colspan="2" dir='rtl'><strong dir='rtl'>الصيدلية</strong></td>
+			<td dir='rtl'>&nbsp;</td>
+			<td dir='rtl'>&nbsp;</td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>CVS Caremark</td>
+			<td dir='rtl'><a href="tel:1-855-467-8417" dir='rtl'>1-855-467-8417</a></td>
+			<td dir='rtl'><a href="http://www.caremark.com" dir='rtl'><strong dir='rtl'>www.caremark.com</strong></a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td colspan="3" dir='rtl'><strong dir='rtl'>خطط العناية بالأسنان</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>Blue Cross/Blue Shield Traditional Plus</td>
+			<td dir='rtl'><a href="tel:1-800-826-8152" dir='rtl'>1-800-826-8152</a></td>
+			<td dir='rtl'><strong dir='rtl'><a href="http://www.bcbsm.com/bluedental" target="_blank" title="www.bcbsm.com/bluedental" dir='rtl'>www.bcbsm.com/bluedental</a></strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>خطط العناية بالأسنان من Dencap</td>
+			<td dir='rtl'><a href="tel:1-313-972-1400" dir='rtl'>1-313-972-1400</a></td>
+			<td dir='rtl'>&nbsp;<a href="http://www.dencap.net" dir='rtl'><strong dir='rtl'>www.dencap.net</strong></a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>خطط العناية بالأسنان من Golden</td>
+			<td dir='rtl'><a href="tel:1-800-451-5918" dir='rtl'>1-800-451-5918</a></td>
+			<td dir='rtl'>&nbsp;<a href="http://www.goldendentalplans.com" dir='rtl'><strong dir='rtl'>www.goldendentalplans.com</strong></a></td>
+		</tr>
+		<tr dir='rtl'>
+			<td colspan="3" dir='rtl'><strong dir='rtl'>مسؤول حساب الإنفاق المرن</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>حلول مخصصات Navia</td>
+			<td dir='rtl'><a href="tel:1-800-669-3539" dir='rtl'>1-800-669-FLEX</a></td>
+			<td dir='rtl'><strong dir='rtl'><a href="http://www.naviabenefits.com" target="_blank" title="www.flex-plan.com" dir='rtl'>www.naviabenefits.com</a></strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td colspan="3" dir='rtl'><strong dir='rtl'>خطط البصريات</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>خطط البصريات من Heritage</td>
+			<td dir='rtl'><a href="tel:1-800-252-2053" dir='rtl'>1-800-252-2053</a></td>
+			<td dir='rtl'><strong dir='rtl'><a href="http://www.heritagevisionplans.com/" target="_blank" title="www.heritagevisionplans.com" dir='rtl'>www.heritagevisionplans.com</a></strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td dir='rtl'>&nbsp;</td>
+			<td dir='rtl'>&nbsp;</td>
+			<td dir='rtl'>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><u dir='rtl'><strong dir='rtl'>إخطار مهم</strong></u></p>
+
+<p dir='rtl'>اعتبارًا من 1 يناير من عام 2018، لن تحتاج بعد ذلك إلى تقديم نموذج تحقق من هوية طالب بدوام كامل أو سجلات ضريبية للمُعالين الأكبر من 19 عامًا. المُعالون مؤهلون للحصول على تغطية حتى سن 26 عامًا.</p>
+
+<div class="table-responsive" dir='rtl'>
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>BCBSM COMMUNITY BLUE (PPO)</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>&nbsp;إجمالي الأقساط الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>&nbsp;مدفوعات المدينة الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>&nbsp;مدفوعات الموظف الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>&nbsp;مدفوعات الموظف كل أسبوعين</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>&nbsp;مدفوعات الموظف الأسبوعية&nbsp;</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>فرد واحد</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$472,00</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$377,60</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$94,40</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$43,57</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$21,78</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>فردان</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$991,21</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$792,97</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$198,24</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$91,50</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$45,75</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>عائلة</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1321,61</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1057,29</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$264,32</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$121,99</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$61,00</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="table-responsive" dir='rtl'>
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>خطة تحالف الصحة (HEALTH ALLIANCE PLAN) (HMO)</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>إجمالي الأقساط الشهرية</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات المدينة الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف كل أسبوعين</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الأسبوعية&nbsp;</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>فرد واحد</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$560,92</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$448,74</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$112,18</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$51,78</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$25,89</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>شخصان</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1 177,92</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$942,34</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$235,58</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$108,73</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$54,37</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>عائلة</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1 570,56</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1 256,45</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$314,11</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$144,97</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$72,49</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="table-responsive" dir='rtl'>
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>BCN PCP FOCUS (HMO)</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>إجمالي الأقساط الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات المدينة الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف كل أسبوعين</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الأسبوعية&nbsp;</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>فرد واحد</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$364,46</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$351,13</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$13,33</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$6,15</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$3,08</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>شخصان</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$874,71</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$846,72</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$27,99</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$12,92</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$6,46</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>عائلة</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1 093,39</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1 056,07</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$37,32</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$17,22</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$8,61</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p dir='rtl'>&nbsp;</p>
+
+<div class="table-responsive" dir='rtl'>
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>DENTAL فرد واحد، أو فردان، أو عائلة&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>إجمالي الأقساط الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات المدينة الشهرية </strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف كل أسبوعين</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الأسبوعية&nbsp;</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center; vertical-align: middle;"><strong dir='rtl'>BCBSM DENTAL</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong dir='rtl'>$53,73</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong dir='rtl'>$43,08</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong dir='rtl'>$10,77</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong dir='rtl'>$4,97</strong></td>
+			<td style="text-align: center; vertical-align: middle;"><strong dir='rtl'>$2,49</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>DENCAP DENTAL</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$35,87</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$28,70</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$7,17</strong></td>
+			<td style="text-align: center;" valign="top"><strong dir='rtl'>$3,31</strong></td>
+			<td style="text-align: center;" valign="top"><strong dir='rtl'>$1,66</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>GOLDEN DENTAL</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$39,00</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$31,20</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$7,80</strong></td>
+			<td style="text-align: center;" valign="top"><strong dir='rtl'>$3,60</strong></td>
+			<td style="text-align: center;" valign="top"><strong dir='rtl'>$1,80</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>HERITAGE VISION فرد واحد، أو فردان، أو عائلة&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>إجمالي الأقساط الشهرية &nbsp; &nbsp;&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات المدينة الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الشهرية&nbsp;</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>&nbsp;مدفوعات الموظف كل أسبوعين</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>مدفوعات الموظف الأسبوعية&nbsp;</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>الرئيسي</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$5,55</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$4,44</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1,11</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$0,51</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$0,26</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>المُحسَّن</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$8,82</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$4,44</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$4,38</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$2,02</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1,01</strong></td>
+		</tr>
+		<tr dir='rtl'>
+			<td style="text-align: center;"><strong dir='rtl'>&nbsp;PREMIER</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$12,48</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$4,44</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$8,04</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$3,71</strong></td>
+			<td style="text-align: center;"><strong dir='rtl'>$1,86</strong></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'><strong dir='rtl'>ملاحظة: يمكن للمُعالين الحصول على تغطية حتى 26 سنة في خطط التأمين الطبية وخطط العناية بالأسنان والبصريات والتأمين على الحياة</strong></strong></p>
+
+<p dir='rtl'>&nbsp;</p>
+summary:   <p dir='rtl'>معلومات عن مخصصات الموظفين في المدينة</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/human-resources-department/employee-forms
+
+title:  Employee Forms
+description:  <p dir='rtl'>نموذج موظفي مدينة ديترويت والأسئلة الشائعة عن النماذج</p>
+summary:   <p dir='rtl'>نموذج موظفي مدينة ديترويت والأسئلة الشائعة عن النماذج</p>
+
+*******************************************************************************
