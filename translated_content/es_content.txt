@@ -1,0 +1,1366 @@
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
+
+title:  Información sobre permisos de construcción
+description:  <p>La <strong>División de Revisión de Planos</strong> es responsable de garantizar que las obras o proyectos de construcción cumplan con las Ordenanzas y los Códigos adoptados por la ciudad de Detroit. El personal realiza una revisión de la solicitud de permiso y de los planos de los proyectos propuestos. Esto incluye la verificación de cumplimiento de la Ordenanza de Zonificación de la ciudad de Detroit, el Código de Construcción de Michigan, el Código Residencial de Michigan, el Código de Rehabilitación de Michigan, el Código Eléctrico de Michigan, el Código Mecánico de Michigan, el Código de Plomería de Michigan, el Código Internacional de Gas Combustible, el Código de Ascensores de la Ciudad y el Código de Calderas.&nbsp;<br/>
+<br/>
+La División también coordina las revisiones del plano con muchos otros departamentos y organismos de la ciudad, como Salud, Agua y Desechos, Ingeniería Municipal, Ingeniería de Tráfico, Planificación y Desarrollo, la Comisión de Planificación Municipal y el Departamento de Bomberos para sus recibir sus revisiones y aprobaciones, y de esta forma asegurarse de que se respeten otros códigos y ordenanzas pertinentes en el diseño y la ejecución del proyecto.&nbsp;<br/>
+&nbsp;</p>
+
+<p>La División revisa y aprueba los permisos de construcción, permisos de demolición, permisos para fijar carteles, permisos para fijar toldos, permisos para fijar marquesinas, permisos eléctricos, mecánicos y de plomería del propietario de vivienda. Además, esta división lleva a cabo revisiones de planos de obra, estudios de compatibilidad y verificación de zonificación, y procesa solicitudes de variación de zonificación.</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="940f85fb-a3de-4296-8279-d9443acd9408"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8f78fe52-beac-412b-97db-85c898e12ed4"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="9c7cf4fb-e2ed-4aa5-9b0b-8970c58e89c4"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="6bd4eaf7-f5c7-4a87-899e-9c7d1690d120"></drupal-entity>
+
+<drupal-entity data-caption="title" data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="a40b0ec0-c014-4dde-bdd7-266d5aa1e4c3"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="56f814d6-0bf7-488c-b290-d3c266dcd79b"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f097c1b9-a090-49fe-be76-4ed0fff960ab"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="560b5354-ef89-4cf6-bb10-a4cfa88d9c26"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="2ec09e15-b77c-4621-b7e0-0d09f4a56d2f"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="733a7487-f620-47f0-811d-09b2c4a8a402"></drupal-entity>
+
+<p>&nbsp;</p>
+summary:   <p>Información sobre la División de Revisión de Planos del Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente de Detroit (Buildings, Safety Engineering and Environmental Department, BSEED), incluidos códigos, ordenanzas y demás asuntos normativos relacionados&nbsp;con los permisos de construcción.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-license-center
+
+title:  Centro de Licencias Comerciales
+description:  <p>Para abrir un negocio en la ciudad de Detroit, averigüe si se requiere un permiso de cambio de uso para utilizar el edificio para el negocio pretendido o si debe obtener permisos obligatorios. Cuando se complete el permiso, se emitirá un certificado de ocupación.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="4de377f4-bb89-429e-9aa9-47dde5d46aa4"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>Después de que el edificio haya sido certificado para su uso comercial previsto, debe obtener una licencia comercial&nbsp;antes de abrir su negocio.&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="98011625-9c7f-493b-badb-5f0093e6e15c"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.text_teaser_small" data-entity-type="node" data-entity-uuid="2c85a623-fd83-484c-8199-369188e0052b"></drupal-entity>
+
+<p>&nbsp;</p>
+summary:   <p>Información sobre la verificación y el cambio de zonificación de la propiedad para poder abrir un negocio.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
+
+title:  Lista de verificación para licencias comerciales
+description:  <p><strong>PASO 1</strong></p>
+
+<p><strong>Debe obtener un permiso de construcción o de ocupación</strong><br/>
+Debe ir a la División de Zonificación del Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente de Detroit (Buildings, Safety Engineering and Environmental Department, BSEED) para obtener el permiso necesario para abrir su negocio. Este es un paso muy importante&nbsp;que debe seguir.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.token" data-entity-type="node" data-entity-uuid="2e74b6f1-256f-40a8-9885-d6d574d7f307"></drupal-entity>
+
+<p>Cuando se complete el permiso, se emitirá un certificado de ocupación.&nbsp;Luego de que se haya certificado el edificio para el uso previsto, siga con el paso 2.</p>
+
+<p><strong>PASO 2</strong></p>
+
+<p><strong>Elija un nombre para su negocio o, si crea una sociedad para su negocio, debe registrarse</strong><br/>
+<strong>a) Elija un nombre para su negocio:</strong><br/>
+Si usted tiene un negocio en Detroit con un nombre ficticio (otro nombre que no es su nombre real), debe presentar una solicitud para un certificado de nombre ficticio ante el condado de Wayne. Los formularios de solicitud de nombre ficticio están disponibles en la Secretaría del condado de Wayne.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="7939a5c5-3385-45cd-b90b-d18e921ac44d"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>&lt;a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names"&gt;Online information on assumed names.</a></p>
+
+<p><strong>b)Si incorpora su negocio, debe registrarse:</strong><br/>
+Si incorpora o establece una sociedad limitada, debe registrarse en el estado de Michigan. Obtenga asesoramiento legal para gestionar como propietario único, sociedad, sociedad limitada o empresa. Los formularios de incorporación se encuentran disponibles en:</p>
+
+<p><a href="http://www.mi.gov/lara/0,4601,7-154-35299_61343---,00.html" target="_blank">Departamento de Trabajo y Crecimiento Económico</a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>PASO 3</strong></p>
+
+<p><strong>Debe obtener un número de impuestos sobre las ventas o solicitar su número de identificación de impuestos federales</strong></p>
+
+<p><strong>a) Debe obtener un número de impuestos sobre las ventas:</strong></p>
+
+<p>Si tiene algún tipo de negocio en Detroit, debe obtener un número de impuesto sobre la venta. El formulario para obtener el número de impuesto sobre la venta se encuentra disponible en:<br/>
+&lt;a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax"&gt;Michigan Department of Treasury, Collections Division.</a></p>
+
+<p><strong>b) Solicite su número de identificación de impuestos federales:</strong></p>
+
+<p>Las empresas y sociedades requieren un número de identificación de impuestos federales. Obtenga los formularios para el número de identificación de impuestos federales en:</p>
+
+<p>McNamara Building<br/>
+477 Michigan Avenue (at Cass)<br/>
+Detroit, MI 48226.</p>
+
+<p>&lt;a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number"&gt;Solicite su número de identificación fiscal federal en línea</a><br/>
+<br/>
+<strong>Paso 4</strong>&nbsp; &nbsp;</p>
+
+<p><strong>Solicite su licencia comercial de Detroit</strong></p>
+
+<p>Debe tener una licencia comercial de Detroit para realizar determinadas actividades comerciales en la ciudad.&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c8d2abcb-847f-4382-9268-aea6451ae557"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>Solicite la licencia en:</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="98011625-9c7f-493b-badb-5f0093e6e15c"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="80dd17bb-31c0-4ca8-95d3-d8f74de45dc6"></drupal-entity>
+
+<p>Debe pagar todas las tarifas de la licencia cuando presente la solicitud.</p>
+
+<p><strong>El solicitante debe traer lo siguiente:</strong></p>
+
+<ul>
+	<li>Los documentos relativos al nombre ficticio o a los estatutos de la empresa</li>
+	<li>Información sobre todos los solicitantes y/o accionistas o ejecutivos de la empresa</li>
+	<li>Números de teléfono</li>
+	<li>Licencia de conducir o tarjeta de identificación del estado</li>
+	<li>Formas de pago aceptadas: Efectivo, cheque certificado, giro postal o tarjeta de crédito (Master Card y Visa)</li>
+	<li>Número de Identificación Federal (si corresponde)</li>
+	<li>Prueba de titularidad de la propiedad – Alquiler (certificado por notario) o contrato de compraventa a plazo o escritura de la propiedad (registrada en el&nbsp;condado de Wayne)</li>
+	<li>Permiso de construcción o de ocupación (de Zoning Counter, Room 409, Coleman A. Young&nbsp;Municipal Center)</li>
+</ul>
+
+<p><stong>El solicitante también debe presentar la siguiente documentación de apoyo:</stong></p>
+
+<ul>
+	<li>Lea los requisitos para el <a href="/document/income-tax-clearance-request-instructions-7">documento de libre deuda de impuesto sobre la renta</a>.</li>
+	<li>Complete la solicitud para el <a href="/document/income-tax-clearance-request-instructions-7">formulario de libre deuda de impuesto sobre la renta</a>.&nbsp;</li>
+	<li>Complete el <a href="/document/employers-withholding-registration-form">formulario de registro de retención del empleador</a>.&nbsp;</li>
+	<li>Complete el<a href="/forms/accounts-receivable-clearance"> formulario de verificación de cuentas por cobrar</a>.</li>
+</ul>
+
+<p><strong>Los formularios no se pueden completar de manera electrónica en este momento</strong></p>
+
+<p><strong>Paso 5&nbsp;</strong>&nbsp;</p>
+
+<p>Presente la solicitud completa incluyendo todos los documentos legales y de apoyo listados en el paso 4.</p>
+
+<p><strong>Paso 6</strong></p>
+
+<p>Programe todas las inspecciones necesarias en el lugar del negocio.<br/>
+<strong>Aviso importante:</strong>&nbsp;los permisos y las inspecciones se solicitarán antes de que abra su negocio.</p>
+
+<p><strong>Paso 7</strong></p>
+
+<p>Se emitirá un Certificado de Licencia una vez que se tengan todas las aprobaciones.&nbsp;Todas las licencias se renuevan anualmente</p>
+
+<p>Las ordenanzas de la ciudad están disponibles en la Secretaría de la ciudad ubicada en el Room 200 del Coleman A. Young Municipal Center.<br/>
+<br/>
+Si no tiene un negocio en la ciudad de Detroit, consulte en la ciudad o el municipio donde piensa tenerlo.</p>
+summary:   <p>Información y listas de verificación para&nbsp;comenzar un negocio</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/boiler-inspection-team
+
+title:  Equipo de inspección de calderas
+description:  <p>El Equipo de Inspección de Calderas de la División de Construcción del Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED) es responsable del cumplimiento de la Ordenanza 705-G de la ciudad de Detroit, que regula el diseño, la construcción, la instalación, la alteración, la reparación, la inspección, la evaluación, el mantenimiento y el otorgamiento de licencias de calderas, recipientes a presión y accesorios realizados de forma segura. Además, inspecciona la conformidad con la Ordenanza 706-G de la ciudad de Detroit para el Código de Licencias de Ingenieros de Equipos Fijos, Operadores de Calderas y Operadores de Refrigeración.</p>
+
+<p>Este equipo también está a cargo de evaluar los documentos para determinar si se necesita un permiso para realizar las reparaciones e instalaciones solicitadas. Otra responsabilidad de la Unidad de Calderas consiste en aprobar a las empresas y los técnicos calificados para que lleven a cabo las tareas especificadas.</p>
+
+<p>&nbsp;</p>
+
+<h3>Información sobre licencias de calderas</h3>
+
+<p><strong>Certificación de calderas y &nbsp;recipientes a presión</strong></p>
+
+<p>Existen diversas autoridades que exigen certificaciones de calderas y recipientes a presión, por ejemplo, escuelas públicas de Detroit, escuelas autónomas de Detroit, hogares de cuidado tutelar para adultos, hogares para ancianos, programas preescolares y programa Head Start, seguros hospitalarios y seguros industriales. Para obtener más información, comuníquese con la División de Calderas.&nbsp;</p>
+summary:   <p>Información sobre el&nbsp;Equipo de Inspección de Calderas y sobre la obtención de una licencia de caldera</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-codes-ordinances-and-acts
+
+title:  Códigos, ordenanzas y leyes de construcción
+description:  <drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="f4097b4d-782b-4e20-ac70-78e95a0dbd2c"></drupal-entity>
+
+<p><br/>
+Las ordenanzas de construcción incluyen, entre otras, las siguientes:</p>
+
+<ul>
+	<li>Código de Construcción de Michigan de 2015</li>
+	<li>Código Residencial de Michigan de 2015</li>
+	<li>Código de Rehabilitación de Michigan para edificios existentes de 2015</li>
+	<li>Ordenanza de Zonificación (ciudad de Detroit)</li>
+	<li>Ordenanza 290-H (demolición)</li>
+</ul>
+
+<p>Debido al gran número de ordenanzas de construcción, pueden recogerse copias en la oficina de la Secretaría de la ciudad:</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.text_teaser_small" data-entity-type="node" data-entity-uuid="b61bfa15-13e1-4bf5-9813-a585e65ac722"></drupal-entity>
+
+<p><br/>
+&nbsp;</p>
+summary:   <p>Busque las ordenanzas de construcción de la ciudad de Detroit y el estado de Michigan</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-inspection-information
+
+title:  Información sobre la inspección edilicia
+description:  <p>El equipo de Construcciones es responsable de llevar a cabo las inspecciones de construcción en relación con los permisos de construcción para garantizar que las estructuras cumplan con las especificaciones de los planos aprobados y con los códigos y normas edilicios.</p>
+
+<p>Además, el equipo de Construcciones inspecciona las demoliciones, los carteles y toldos; procesa las cuentas de seguro de garantía para reparaciones por incendio y quejas relacionadas con las actividades de construcción; y emite certificados de ocupación solo para construcciones nuevas.&nbsp;&nbsp;<strong><em>Los códigos actuales que se aplican son el Código de Construcción de Michigan de 2012 y el Código Residencial de Michigan de 2015</em></strong>.</p>
+
+<p>El equipo de Construcciones proporciona evaluaciones para los solicitantes que desean obtener licencias de contratista para instaladores de carteles, instaladores de toldos y marquesinas, y demolición. El equipo de Construcciones también aprueba el registro en la ciudad de Detroit de todas las licencias emitidas por el estado de Michigan para los constructores residenciales y los contratistas de mantenimiento y alteraciones.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="a7204e76-11f6-4b52-b8a4-b323f0f4720e"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="7aa90e09-2d14-4885-9d3a-ddc5dfb0ec91"></drupal-entity>
+
+<p>o</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="cefabf09-3b09-4e36-9f6f-4ba7b7bacb1e"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="17842574-c09e-4bd4-bb5a-195690b0887f"></drupal-entity>
+summary:   <p>Busque información sobre las normas e inspecciones edilicias del BSEED.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
+
+title:  Construcción
+description:  <p>La&nbsp;<strong>División de Construcción</strong>&nbsp;es responsable de llevar a cabo las inspecciones de las actividades de construcción para asegurarse de que los proyectos de construcción cumplan con los planos aprobados y con los códigos y normas de edificación. Los seis equipos de negocio son<strong>&nbsp;Calderas, Edificios, Electricidad, Ascensores, Mecánica</strong> y&nbsp;<strong>Plomería</strong>.&nbsp;<br/>
+<br/>
+La<strong>&nbsp;División de&nbsp; Construcción</strong>&nbsp;también inspecciona trabajos de demolición privados e instalaciones de carteles y toldos, y procesa cuentas de seguro de garantía para reparaciones por incendios. La División de construcción investiga las demandas relacionadas con las actividades de construcción y los permisos, y emite certificados de admisión y de ocupación para proyectos nuevos de construcción y desarrollo.</p>
+
+<p><strong>Atención al cliente general&nbsp;</strong>:&nbsp;<a href="tel:+1.313.224.3202">(313) 224-3202</a><br/>
+<strong>Correo electrónico de la División de Construcción</strong>:&nbsp;<a href="mailto:BSEED-Construction@detroitmi.gov">BSEED-Construction@detroitmi.gov</a><br/>
+<strong>Licencias y pruebas de comercio:&nbsp;&nbsp;</strong>Ingeniería /Calderas<a href="tel:+1.313.224.3184">(313) 224-3184</a>&nbsp;o Ascensores&nbsp;<a href="tel:+1.313.224.9401">(313) 224-9401</a><br/>
+<strong>Horario de atención:</strong>&nbsp;lunes a viernes de 8:00 a. m. a 4:30 p. m.<br/>
+<strong>Coleman A.Young Municipal Center , Suite 408</strong>&nbsp;<br/>
+<br/>
+<strong>Director de Inspecciones de Construcción:</strong>&nbsp;Glenn A. Davis<br/>
+<strong>Teléfono:</strong>&nbsp;<a href="tel:+1.313.224.9102">(313) 224-9102&nbsp;</a><br/>
+<strong>Correo electrónico</strong>:&nbsp;<a href="mailto:davisgl@detroitmi.gov">davisgl@detroitmi.gov</a></p>
+
+<p><strong>Vicedirector de Inspecciones de Construcción</strong>: Robert DeBerardino<br/>
+<strong>Teléfono:</strong>&nbsp;&lt;a href="tel: (313) 628-2457"&gt;(313) 628-2457&nbsp;</a><br/>
+<strong>Correo electrónico:</strong>&nbsp;<a href="mailto:DeberardinoR@detroitmi.gov?subject=construction%20Information">DeberardinoR@detroitmi.gov</a></p>
+
+<p><strong>Asistente de Dirección:</strong>&nbsp;Glenn Kersey<br/>
+<strong>Teléfono:&nbsp;</strong>&lt;a href="tel: (313) 224-3201"&gt;(313) 224-3201&nbsp;</a><br/>
+<strong>Correo electrónico:&nbsp;</strong><a href="mailto:KerseyG@detroitm.gov">KerseyG@detroitm.gov</a></p>
+
+<p><strong>Garantía contra incendios:&nbsp;</strong>Casandra Edmonds&nbsp;&lt;a href="tel: (313) 628-2425"&gt;(313) 628-2425&nbsp;</a>o Doug Glavac&nbsp;&lt;a href="tel: (313) 628-2660"&gt;(313) 628-2660</a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Supervisores de Inspección de Oficios:</strong></p>
+
+<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Calderas</strong></td>
+			<td>&nbsp;&nbsp;Courtney Jackson</td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:JacksonCo@detroitmi.gov">JacksonCo@detroitmi.gov</a></td>
+			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 628-2425"&gt;(313) 628-2425</a></td>
+		</tr>
+		<tr>
+			<td><strong>Edificios</strong></td>
+			<td>&nbsp;&nbsp;Randy Hargraves</td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:HargavesR@detroitmi.gov">HargavesR@detroitmi.gov</a></td>
+			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 628-2458"&gt;(313) 628-2458</a></td>
+		</tr>
+		<tr>
+			<td><strong>Electricidad</strong></td>
+			<td>&nbsp;&nbsp;Vincent Cooley</td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:CooleyV@detroitmi.gov">CooleyV@detroitmi.gov</a></td>
+			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-3130"&gt;(313) 224-3130</a></td>
+		</tr>
+		<tr>
+			<td><strong>Ascensores</strong></td>
+			<td>&nbsp;&nbsp;Kurt Johnson</td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:KurtJ@detroitmi.gov">KurtJ@detroitmi.gov</a></td>
+			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-9401"&gt;(313) 224-9401</a></td>
+		</tr>
+		<tr>
+			<td><strong>Mecánica</strong></td>
+			<td>&nbsp;&nbsp;Eddie Smith</td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:SmithEd@detroitmi.gov">SmithEd@detroitmi.gov</a></td>
+			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-3189"&gt;(313) 224-3189</a></td>
+		</tr>
+		<tr>
+			<td><strong>Plomería</strong></td>
+			<td>&nbsp;&nbsp;Rogers Straughter</td>
+			<td>&nbsp;&nbsp;<a href="mailto:StraughterR@detroitmi.gov">StraughterR@detroitmi.gov</a></td>
+			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-3157"&gt;(313) 224-3157</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+summary:   <p>Información sobre procesos de inspección de proyectos de construcción, incluidos calderas, edificios, electricidad, ascensores, mecánica y plomería.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/medical-marijuana
+
+title:  Marihuana medicinal
+description:  <h2>Aviso importante: Se deroga el programa de centros de cuidados de marihuana medicinal</h2>
+
+<p>&nbsp;</p>
+
+<p>Las propuestas A y B promulgadas por los votantes en la elección del 7 de noviembre de 2017 derogaron de forma efectiva el programa de centros de cuidados de marihuana medicinal de la ciudad. Ya no se aceptan nuevas solicitudes para centros de cuidados de marihuana medicinal. El Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED) comenzará a aceptar solicitudes para centros de marihuana medicinal a principios de 2018.</p>
+summary:   <p>Información sobre marihuana medicinal y centros de marihuana medicinal</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/certificate-compliance/quick-steps-obtain-certificate
+
+title:  Pasos rápidos para obtener un certificado de cumplimiento
+description:  <p>Además de obtener un certificado de registro, como propietario de vivienda para alquiler, debe aprobar correctamente una inspección realizada por la ciudad o por un inspector externo calificado de la ciudad y obtener un Informe de ausencia de plomo para calificar para un certificado de cumplimiento. También debe tener al día los impuestos a la propiedad. El certificado de cumplimiento demuestra que ahora es seguro ocupar la propiedad. Tiene un año de validez a partir de la fecha de emisión.</p>
+summary:   <p>Comience el registro de propiedad para alquiler.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/certificate-compliance
+
+title:  Certificado de cumplimiento
+description:  <p>Además de obtener un certificado de registro, como propietario de vivienda para alquiler, debe aprobar correctamente una inspección realizada por la ciudad o por un inspector externo calificado de la ciudad y obtener un Informe de ausencia de plomo para calificar para un certificado de cumplimiento. También debe tener al día los impuestos a la propiedad. El certificado de cumplimiento demuestra que ahora es seguro ocupar la propiedad. Tiene un año de validez a partir de la fecha de emisión.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>¿Cuáles son las consecuencias de no tener un certificado de cumplimiento válido?</strong></p>
+
+<p><strong>Un certificado de cumplimiento se debe obtener antes de que se pueda ocupar la propiedad y debe mantener su validez en todo momento mientras se ocupa la propiedad.</strong>&nbsp;Si tiene inquilinos en su propiedad y no cuenta con un certificado de cumplimiento válido, es posible que ellos deban depositar el pago en una cuenta de garantía establecida en lugar de pagarle el alquiler directamente a usted como propietario. Además, incurrirá en multas por no cumplir con las normas estatales y locales. Obtenga más información sobre las&nbsp;<a href="/departments/department-of-appeals-and-hearings/blight-ticket-information">consecuencias de incumplimiento.</a></p>
+
+<p>Descargue:&nbsp;</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="3b52e9e6-9a24-42ca-b546-dc291a58c565"></drupal-entity>
+summary:   <p>Certificado de cumplimiento</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division
+
+title:  División de Mantenimiento de Propiedades
+description:  &lt;drupal-entity data-caption="Comience con el proceso de registro" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"&gt;</drupal-entity>
+
+<p>El Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED) se encarga de controlar que todas las propiedades para alquilar de la ciudad estén debidamente registradas, respeten el código y hayan obtenido un certificado de cumplimiento (certificate of compliance, CofC).</p>
+
+<p>La ciudad ha aprobado la&nbsp;</p>
+
+<drupal-entity data-caption="ordinance" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="d7baf53c-a55c-4027-9b24-d43b741b6986"></drupal-entity>
+
+<p>&nbsp;que haría varias cosas para mejorar el proceso de cumplimiento de alquiler, por ejemplo, lo siguiente:</p>
+
+<ul>
+	<li>La ciudad tendría la capacidad de retener certificados de cumplimiento de los propietarios que tengan una deuda de más de seis meses de los impuestos a la propiedad y adeuden más de $1000.</li>
+	<li>Se les proporcionaría a los propietarios un proceso acelerado para apelar la negación o suspensión de un certificado de cumplimiento.</li>
+	<li>Habría menos inspecciones frecuentes para los propietarios de calidad que, durante al menos un año, hayan tenido al día sus impuestos y no hayan recibido violaciones por deterioro. La ordenanza extendería certificaciones de un año a dos años para viviendas multifamiliares y a tres años para viviendas de una y dos familias.</li>
+	<li>Se harían inspecciones anuales de riesgos asociados al plomo. De acuerdo con la ordenanza propuesta, todas las propiedades en alquiler, incluso aquellas con certificaciones de dos o tres años, requerirán una evaluación y aprobación anuales de riesgos asociados al plomo. La evaluación anual puede anularse solo si el dueño de la propiedad ha tomado más medidas a largo plazo o permanentes para reducir el plomo.</li>
+</ul>
+summary:   <p>Normas para el mantenimiento, la inspección y la certificación de propiedades para alquiler.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/zoning
+
+title:  Zonificación
+description:  <p>La División de Zonificación revisa todos los proyectos entrantes para asegurarse de que estos cumplen con la Ordenanza de Zonificación de la ciudad de Detroit. En realidad, este es el primer paso del proceso de otorgamiento del permiso. El personal de Zonificación proporciona la información más precisa sobre cuestiones de zonificación relacionadas con su proyecto o actividad.</p>
+
+<p>La División de Zonificación también lleva a cabo audiencias públicas para usos de terrenos condicionales, emite subsidios de zonificación y ayuda en su implementación.</p>
+
+<p><strong>La ciudad de Detroit adopta la Ordenanza de Zonificación con los siguientes fines:</strong></p>
+
+<ul>
+	<li>Promover y proteger la salud pública, la seguridad, la moral y el bienestar general de la comunidad.</li>
+	<li>Clasificar todos los edificios, estructuras y terrenos de forma tal que reflejen su adecuación peculiar para usos particulares.</li>
+	<li>Regular la ubicación, construcción, reconstrucción, alteración y el uso de edificios, estructuras y terrenos.</li>
+	<li>Garantizar la luz, el aire, la privacidad y la comodidad de acceso a la propiedad adecuados.</li>
+	<li>Mantener los valores de las propiedades.</li>
+	<li>Fijar estándares razonables que deben ser respetados en los edificios, estructuras y usos.</li>
+	<li>Requerir el estacionamiento fuera de la calle de vehículos motorizados y la carga y descarga correspondientes de vehículos comerciales.</li>
+	<li>Definir las facultades y obligaciones de los funcionarios y organismos administrativos.</li>
+	<li>Proporcionar sanciones por violaciones de esta Ordenanza.</li>
+	<li>Facilitar una Junta de Apelaciones de Zonificación.</li>
+</ul>
+summary:   <p>Información sobre la zonificación en la ciudad de Detroit, incluida la forma de obtener apelaciones y permisos de zonificación.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department
+
+title:  Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente
+description:  <p>La misión del Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED) consiste en proteger la seguridad, salud y bienestar del público en general en lo que concierne a edificios y sus entornos en una forma eficiente, rentable, fácil de usar y profesional. El BSEED asegura el cumplimiento de los códigos de construcción, mantenimiento de propiedades, cumplimiento ambiental y zonificación, que conservan y mejoran los valores de las propiedades y fomentan una calidad de vida que hace de Detroit un lugar preferido para residir y realizar actividades comerciales.&nbsp;</p>
+summary:   <p>Información sobre el BSEED, incluidas normas, inspecciones y permisos.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/department-appeals-and-hearings/blight-ticket-information
+
+title:  Información sobre las infracciones por deterioro
+description:  <p>El Departamento de Audiencias Administrativas (Department of Administrative Hearings, DAH) se creó en enero de 2005 como componente fundamental de los esfuerzos de Detroit para abordar el deterioro de la ciudad. El DAH es un organismo semijudicial que resuelve los casos de violaciones por deterioro en Detroit y constituye un departamento independiente de la ciudad de Detroit. El Director es designado por el Alcalde y se desempeña como Director de Audiencias. El departamento también cuenta con abogados con licencia que trabajan como funcionarios de las audiencias administrativas.&nbsp; Las violaciones por deterioro son casos civiles, que anteriormente se procesaban como delitos penales menores y hasta hace poco eran resueltos por el Tribunal de Distrito 36. Estas violaciones solían acumularse y quedaba una gran cantidad de casos pendientes en dicho tribunal, por lo que muchos de ellos no se procesaban efectivamente. El nuevo método de abordar las violaciones por deterioro, a cargo del DAH, fue diseñado para ser más eficaz.</p>
+
+<p>Los propietarios de viviendas para alquiler, al igual que otros propietarios de viviendas en la ciudad, son responsables de mantener sus propiedades de acuerdo con el código de mantenimiento de propiedades de la ciudad de Detroit. Si no realiza el mantenimiento interior y exterior adecuado de su propiedad, puede recibir una citación de violación por deterioro, más comúnmente llamada “infracción por deterioro”, de los inspectores de la ciudad, los oficiales de policía y otros funcionarios de la ciudad con la autoridad para investigar y emitir citaciones por violaciones del código. Si no se ha registrado o no tiene un certificado de cumplimiento, puede recibir infracciones por deterioro.</p>
+
+<p>Informe los problemas a través de&nbsp;</p>
+
+&lt;drupal-entity data-caption="Improve Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c1fc5da2-4e64-45af-96a6-8ae086e43f74"&gt;</drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;El DAH consta de tres divisiones:</p>
+
+<ol>
+	<li>Mantenimiento de Propiedades</li>
+	<li>Zonificación</li>
+	<li>Vertido Ilegal/Residuos Sólidos</li>
+</ol>
+
+<p>La <strong>División de Mantenimiento de Propiedades</strong>&nbsp; resuelve casos presentados por el Departamento de Infraestructura e Ingeniería de Seguridad (Buildings and Safety Engineering Department). En estos casos, las notificaciones de violación por deterioro son emitidas por inspectores de construcción y de salud, y por oficiales de policía. Algunos ejemplos de violaciones por deterioro incluyen los siguientes casos:</p>
+
+<ul>
+	<li>No obtener el certificado de cumplimiento</li>
+	<li>No obtener un certificado de registro de alquiler</li>
+	<li>Refugio de ratas</li>
+	<li>No retirar la nieve y el hielo</li>
+	<li>Vehículos inoperables</li>
+	<li>No mantener el exterior de la propiedad</li>
+	<li>No cumplir con órdenes de emergencia</li>
+</ul>
+
+<p>La <strong>División de Zonificación</strong>&nbsp;resuelve casos presentados por el Departamento de Infraestructura e Ingeniería de Seguridad. En estos casos, las notificaciones de violación por deterioro son emitidas por inspectores de edificios.</p>
+
+<p>Algunos ejemplos de violaciones por deterioro incluyen los siguientes casos:</p>
+
+<ul>
+	<li>Violaciones de permisos especiales de uso de terrenos</li>
+	<li>Cambio en el uso de terrenos sin un permiso</li>
+	<li>Cambio en el uso de edificios sin un permiso</li>
+	<li>No obtener el certificado requerido de mantenimiento de las condiciones de la subvención</li>
+</ul>
+
+<p>La <strong>División de Vertido Ilegal y Residuos Sólidos</strong>&nbsp; resuelve casos presentados por el Departamento de Asuntos Ambientales (Department of Environmental Affairs). En estos casos, las notificaciones de violación por deterioro son emitidas por inspectores ambientales y de salud, y por oficiales de policía. Algunos ejemplos de violaciones por deterioro incluyen los siguientes casos:</p>
+
+<ul>
+	<li>Colocación anticipada o tardía de contenedores de Courville en la acera</li>
+	<li>Disposición inadecuada de los residuos a granel</li>
+	<li>Almacenamiento inadecuado de los residuos sólidos</li>
+	<li>Violaciones por excremento de animales y aves</li>
+	<li>Vertido ilegal</li>
+</ul>
+summary:   <p>Información sobre las infracciones por deterioro</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/bus-schedules
+
+title:  Horarios de autobús
+description:  <div class="container">
+<p>En esta sección del sitio web, puede acceder al horario de autobús que desee e imprimirlo.</p>
+
+<p>Todas las publicaciones del Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT) están en formato PDF para que se las pueda visualizar e imprimir. Para ver e imprimir estas publicaciones, necesitará tener instalado el complemento de Adobe Acrobat Reader en el navegador. Si no tiene el complemento, lo puede descargar en forma gratuita desde el <a href="http://www.adobe.com/" target="_blank">sitio web</a>&nbsp;de Adobe.</p>
+
+<p>Todos los siguientes documentos están en formato PDF:</p>
+
+<p>(<strong>El tamaño aproximado de cada archivo es de 1 Mb</strong>)</p>
+
+<p>Seleccione una ruta:</p>
+
+<p>&nbsp;</p>
+
+<div class="row">
+<div class="col-sm-4">
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="58fa73c8-1a0f-45ba-9417-36593fb640bc"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ad163a97-b1b5-48e8-96ba-9e2d620c8290"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="53f0689e-1072-4dfc-83ee-384ff339d042"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="01ce0493-6c42-4dd8-9216-7fa1d0ac86b3"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b894d3ca-0aef-42f2-bf9a-a10e87016542"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="a232921a-fe3d-41c0-a776-ec1a5751d95f"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="57b07060-c79a-41b4-b536-c328948ca365"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="3835d9dc-1cfc-484d-852e-3dee7f6fb456"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1ab558e1-fab4-4e73-bcf2-c032da5a84d0"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0f9ac9f3-51ae-4404-bcf3-7ddb323c7199"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="7d11d4a3-e5dc-43a8-adad-09dc35061757"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e70799a1-99e7-4922-b2f7-50c367de507e"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="7229969b-0886-41de-a258-ae3b556fd6e5"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="314514f0-9c43-438b-8872-130cceafc5c6"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="02372208-40cc-40d1-82ba-2070ed8a53ac"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b4347d40-1bd5-491a-ac5d-ff0cebb75f60"></drupal-entity>
+</div>
+
+<div class="col-sm-4">
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c43f71c3-a28e-47fb-97c5-6f8d80a5c2c9"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="5042d0db-ee18-489f-affb-95009d08d30f"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef29c179-e9c8-4d31-b1b1-4e1d1bdbb62e"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="852422e6-7732-490c-85a9-27532e736928"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="18473923-dec8-4c79-b788-0678eb6b54f3"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="03bec851-5824-44d5-97bc-150a2e47b399"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ba647f44-30b0-496b-afc7-f92de27f6d0b"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ec8cd74d-0d39-4a5c-bca1-6bfa1e5f333b"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="01b565a5-b870-4caf-9036-0dcad28ec198"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b7ea391b-9960-4198-bee1-c3a3573f0857"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b5a322a8-f3a2-4345-bdb4-b8b53ecbf4ad"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0a873be-3f16-4657-88de-ae45a9754e55"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="90c85da2-ad31-4787-b980-450cbc5c7bc9"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="af5d6eec-755b-4851-8709-10a6e71b76f7"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="bda6a89d-15ea-4f7e-a4c4-de323ee38ae4"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="095d18e7-6c15-46ca-a3c1-5e0f7bfaa94e"></drupal-entity>
+</div>
+
+<div class="col-sm-4">
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e61f759d-4820-487b-8bed-b39aca323cbe"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="34462cde-951f-4c2b-8490-065308686ba0"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="91ce51c0-eca0-4545-aab4-b3091fb21084"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f18f08a3-9974-49e9-8e4d-30451e4ed71b"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="9d7012a8-8242-44b3-9d1a-9d9cbc044f46"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="9696003c-8c86-4579-a271-740299b975e2"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="eebb83d3-1b51-4b95-ad88-905f6914d0cc"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="cb2e0f1d-b338-40b0-9a92-422b94404e76"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="68e228e2-b6da-4499-96ea-437a57bc270a"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b6cdbbcb-1606-4242-b608-8c4df8136cb6"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="674630de-2b3a-4e6b-b910-40888feadaac"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="2b8ee727-fbb8-4457-8901-8cb711026fd8"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="219bcee2-1342-4547-93ad-082eb451ce3d"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00e3fe96-d7eb-4d51-aae1-dc35f7bdefd9"></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="08090200-96aa-44ee-8ffc-2804499313cb"></drupal-entity>
+</div>
+</div>
+</div>
+summary:   <p>Acceda a horarios de autobús e imprímalos</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/buy-pass
+
+title:  Comprar un pase
+description:  <p>&nbsp;Para obtener más información, comuníquese con el Servicio de Atención al Cliente del Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT):&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="65abe3ab-a036-486f-8318-3e3d5a52a522"></drupal-entity>
+summary:   <p>Comprar un pase</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/metrolift-ada-paratransit-services
+
+title:  Servicios de paratránsito de ADA MetroLift
+description:  <p>La Ley sobre Estadounidenses con Discapacidades (Americans With Disabilities Act, ADA) de 1990 exige que el Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT) y otros organismos de transporte público de todo el país brinden un servicio de paratránsito complementario, o un transporte público equivalente, a personas con discapacidades que no pueden abordar, usar o llegar a un autobús accesible de ruta fija u otra forma de transporte público debido a sus discapacidades. Este servicio debe ser comparable al nivel de servicio que se ofrece a las personas sin discapacidades que utilizan los sistemas de rutas fijas de los organismos.</p>
+summary:   <p>Servicios de paratránsito (ADA) ofrecidos por el Departamento de Transporte de Detroit.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/transportation-fares
+
+title:  Tarifas del transporte
+description:  <p>A continuación, se ofrece una lista integral de todos los distintos tipos de pases que vende el Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT), tanto para el público en general como para los grupos de pasajeros específicos. Si tiene alguna pregunta sobre nuestra política de tarifas, no dude en comunicarse con nosotros al&lt;a href="tel: (313) 933-1300"&gt;&nbsp;(313) 933-1300</a>&nbsp;o al&nbsp;<a href="tel:1-888-336-8287">1-888-DDOT-BUS</a>.</p>
+
+<p>&nbsp;</p>
+
+<table class="table-striped">
+	<thead>
+	</thead>
+	<tbody>
+		<tr align="left" valign="top">
+			<td><strong>Tipo</strong></td>
+			<td align="left" valign="middle"><strong>Tarifa</strong></td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Tarifa base para adulto</td>
+			<td>$1.50</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<p>Tarifa para estudiante (con identificación de estudiante del DDOT)</p>
+
+			<p><em>Transbordo</em></p>
+			</td>
+			<td>$0.75<br/>
+			<br/>
+			$0.25</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Adulto mayor/discapacitado*<br/>
+			<br/>
+			<em>Transbordo</em></td>
+			<td>$0.50<br/>
+			<br/>
+			$0.10</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Titular de tarjeta de Medicare**<br/>
+			<br/>
+			<em>Transbordo</em></td>
+			<td>$0.75<br/>
+			<br/>
+			$0.10</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Niños de menos de 44" de alto con adulto (3 como máximo)</td>
+			<td>Gratuito</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>GoPass mensual del DDOT</td>
+			<td>$47.00</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>GoPass quincenal del DDOT</td>
+			<td>$27.50</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>GoPass semanal del DDOT</td>
+			<td>$14.40</td>
+		</tr>
+		<tr>
+			<td colspan="1">Tarjeta por el valor de $10 del DDOT&nbsp;</td>
+			<td colspan="1">$10.00</td>
+		</tr>
+		<tr>
+			<td colspan="1">Pase para 5 días del DDOT</td>
+			<td colspan="1">$14.00&nbsp;</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Pase mensual regional del DDOT/SMART</td>
+			<td>$49.50</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>GoPass mensual para adulto mayor/discapacitado del DDOT</td>
+			<td>$17.00</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>*Para recibir la tarifa con descuento, los pasajeros adultos mayores (de 65 años o más) y discapacitados deben presentar uno de los siguientes documentos:</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Tarjeta de identificación de tarifas especiales del DDOT</li>
+	<li>Identificación estatal con designación de discapacidad visual</li>
+</ul>
+
+<p>**Los titulares de tarjeta de Medicare pagan la mitad (1/2) de la tarifa para todo el servicio de rutas fijas.<br/>
+&nbsp;</p>
+
+<p>Las solicitudes de tarifa reducida y las tarjetas se procesan en los siguientes centros:</p>
+
+<p><strong>Northwest Activities Center</strong><br/>
+18100 Meyers<br/>
+Detroit, MI 48235</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Butzel Family Center </strong><br/>
+7737 Kercheval<br/>
+Detroit, MI 48214</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Rosa Parks Transit Center</strong><br/>
+360 Michigan Avenue<br/>
+Detroit, MI 48226</p>
+summary:   <p>Tarifas del&nbsp;transporte del Departamento de Transporte de Detroit</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation
+
+title:  Departamento de Transporte de Detroit
+description:  <p>El Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT) es el proveedor de transporte de Detroit. Como el organismo de transporte público más grande de Michigan, el DDOT ofrece servicio, principalmente, a la ciudad de Detroit, pero también conecta con las ciudades vecinas, incluidas Dearborn, Hamtramck, Highland Park, Harper Woods, Livonia, Redford Township, River Rouge y Southfield. El DDOT tiene 48 rutas fijas de autobús, incluidas once rutas las 24 horas y seis rutas rápidas, que conectan los vecindarios de la ciudad con los principales centros de trabajo en el centro y la periferia del centro. Con un promedio diario de alrededor de 85 000 pasajeros, el DDOT se enorgullece en brindar un servicio de transporte que es fiable, limpio, seguro y eficiente.</p>
+summary:   <p>El DDOT es el transporte de Detroit. Como el organismo de transporte público más grande de Michigan, el DDOT ofrece servicio, principalmente, a la ciudad de Detroit, pero también cubre en forma limitada a las ciudades vecinas, incluidas Dearborn, Hamtramck, Highland Park, Harper Woods, Livonia, Redford Township, River Rouge y Southfield. El DDOT tiene 48 rutas fijas de autobús, incluidas (9) rutas las 24 horas (así es, las 24 horas, funcionan todo el día Y toda la noche) y 6 rutas rápidas, que conectan los vecindarios de la ciudad con los principales centros de trabajo en el centro y la periferia del centro. Con un promedio diario de alrededor de 85 000 pasajeros, el DDOT se enorgullece en brindar un servicio de transporte que es fiable, limpio, seguro y eficiente.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-1/task-force
+
+title:  Grupo de trabajo
+description:  <p><strong>GRUPO DE TRABAJO SOBRE LA PARTICIPACIÓN DE LOS HOMBRES NEGROS</strong></p>
+
+<p><strong>Misión:</strong> Acceder a los recursos individuales y organizativos destinados a la exposición y al desarrollo de los hombres negros.</p>
+
+<p><strong>Visión:</strong>Asegurar que todos los hombres negros sean líderes responsables de sus familias y comunidades a nivel mental, espiritual y emocional.</p>
+
+<p>Por medio de una resolución oficial del Concejo Municipal de Detroit (Detroit City Council), los miembros del Concejo James Tate y André Spivey pusieron en marcha el Grupo de Trabajo sobre la Participación de Hombres Negros (Task Force on Black Male Engagement) el 18 de diciembre de 2013. En la actualidad, el grupo de trabajo está presidido exclusivamente por el miembro Tate.</p>
+
+<p><br/>
+Para obtener más información, incluidos los lugares de las reuniones, consulte el calendario y los eventos de la ciudad de Detroit o llame a la oficina de James Tate al 313-224-1027.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-1
+
+title:  Concejo Municipal del Distrito 1
+description:  <p>James Tate es el representante del Concejo Municipal de Detroit (Detroit City Council) para el Distrito 1. Tate, que es residente del Distrito 1 de toda la vida y defensor de los servicios comunitarios, ha representado a su comunidad desde noviembre de 2009.</p>
+
+<div class="join-email-list"><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_64" target="_blank">Únase a la lista de correo electrónico</a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2/mental-health-task-force
+
+title:  Grupo de Trabajo de Salud Mental
+description:  <p>El objetivo del Grupo de Trabajo de Salud Mental (Mental Health Task Force) es utilizar la plataforma del Concejo para apoyar el campo de la salud mental y así atender mejor las necesidades de los ciudadanos del Distrito 2 y de la ciudad en general.&nbsp; De acuerdo con nuestro plazo de seis meses para implementar el Grupo de Trabajo de Salud Mental y con la renovación anual de la declaración, los objetivos iniciales serán los siguientes:</p>
+
+<ul>
+	<li>Educar a los ciudadanos de Detroit sobre la situación de la salud mental.</li>
+	<li>Aumentar el conocimiento de los servicios de salud mental actualmente disponibles.&nbsp;</li>
+	<li>Apoyar la coordinación de los servicios de salud mental cuando fuera posible.</li>
+</ul>
+
+<p>Este grupo trabajará para garantizar que abordemos el problema (correcto) de raíz.&nbsp; También elaborará un consenso por escrito sobre la verdadera problemática y creará una lista pública de soluciones estratégicas.</p>
+
+<p>Las fechas, los horario y los lugares de las reuniones son los siguientes:</p>
+
+<p>&nbsp;</p>
+
+<h2>Fechas de reuniones del Grupo de Trabajo de Salud Mental</h2>
+
+<p>Fecha:<br/>
+<strong>martes 5 de junio de 2018</strong></p>
+
+<p>Hora:&nbsp;&nbsp;<br/>
+<strong>3:00 p. m. a 4:30 p. m.</strong></p>
+
+<p>Lugar:<br/>
+Coleman A. Young Building -&nbsp;<strong>13th Floor</strong>&nbsp;(dentro de la sala del Concejo Plenario), 2 Woodward, Detroit 48226</p>
+
+<p>Fecha:<br/>
+<strong>martes 17 de julio de 2018</strong></p>
+
+<p>Hora:<br/>
+<strong>3:00 p. m. a 4:30 p. m.</strong></p>
+
+<p>Lugar:<br/>
+Coleman A. Young Building -&nbsp;<strong>13th Floor</strong>&nbsp;(dentro de la sala del Concejo Plenario), 2 Woodward, Detroit 48226</p>
+
+<p>Fecha:&nbsp;<br/>
+<strong>martes 14 de agosto de 2018</strong></p>
+
+<p>Hora:&nbsp;&nbsp;<br/>
+<strong>3:00 p. m. a 4:30 p. m.</strong></p>
+
+<p>Lugar:<br/>
+Detroit Medical Center (DMC) Sinai Grace, 6071 W. Outer Drive (Auditorio)</p>
+
+<p>&nbsp;</p>
+
+<p>Nuestra página de Facebook es:&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="a8967b6e-15ef-4ca5-8770-cd624671a3bd"></drupal-entity>
+
+<p>Esta página de Facebook funcionará como una herramienta de comunicación para ayudarnos a educar y a aumentar la conciencia en la comunidad.&nbsp; También servirá como una plataforma para que los principales interesados en la salud mental puedan compartir información y establecer contactos.&nbsp;</p>
+
+<p>Todas las personas que deseen unirse al grupo de trabajo son bienvenidas y pueden comunicarse con la oficina central llamando al (313) 224-4535 o ingresar a&nbsp;<a href="https://www.eventbrite.com/e/councilman-roy-mccalister-jr-mental-health-task-force-tickets-46283970602?aff=ebdssbdestsearch" target="_blank">nuestro registro en Event Brite y buscar “Mental Health Task Force” (Grupo de Trabajo de Salud Mental).</a></p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2
+
+title:  Concejo Municipal del Distrito 2
+description:  <p>Roy McCalister Jr. es el representante recientemente electo del Concejo Municipal de Detroit (Detroit City Council) para el Distrito 2. Es oriundo de Detroit y está comprometido con los residentes de su comunidad a través del trabajo arduo y del apoyo a las demás personas.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-3/green-task-force
+
+title:  Grupo de Trabajo Ambiental
+description:  <h2>Misión del Grupo de Trabajo Ambiental:</h2>
+
+<p>Nuestro objetivo: El Grupo de Trabajo Ambiental (Green Task Force) está conformado por varios grupos de defensa del medioambiente, organizaciones sin fines de lucro, empresas ambientales, empleados gubernamentales y residentes. Trabaja para crear empleos ecológicos, mejorar la política medioambiental y construir una ciudad más sustentable.</p>
+
+<p>&nbsp;</p>
+
+<h2>Cronograma de reuniones</h2>
+
+<p>El Grupo de Trabajo Ambiental se reúne el tercer&nbsp; jueves de cada mes de 3:00 a 4:30 p. m. El lugar se informará mediante un aviso por correo electrónico. Las personas que deseen asistir a las reuniones del Grupo de Trabajo Ambiental pueden enviar un correo electrónico a&nbsp;<a href="mailto:wimberleyke@detroitmi.gov?subject=Green%20Task%20Force%20Meetings">wimberleyke@detroitmi.gov</a>&nbsp;para que agreguemos su dirección a nuestra lista de correo electrónico.</p>
+
+<p>Para conocer los documentos o el material de referencia del Grupo de Trabajo Ambiental que promueven las políticas de desarrollo sustentable en la ciudad, consulte la Detroit Water Agenda (Agenda sobre Recursos Hídricos de Detroit).</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-3
+
+title:  Concejo Municipal del Distrito 3
+description:  <p>Scott Benson es el representante del Concejo Municipal de Detroit (Detroit City Council) para el Distrito 3. Scott, que es ciclista y defensor de la sustentabilidad, ha sido un líder incansable e innovador en su comunidad desde enero de 2014.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-4/task-forces
+
+title:  Grupos de trabajo
+description:  <p>Grupo de Trabajo de Belle Isle:<br/>
+Se reúne el cuarto lunes de cada mes<br/>
+(19 de abril, 24 de mayo, 28 de junio y 26 de julio)<br/>
+Lugar: Belle Isle - Flynn Pavilion</p>
+
+<p><br/>
+Grupo de Trabajo del Censo:<br/>
+En diferentes lugares de la comunidad</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-4
+
+title:  Concejo Municipal del Distrito 4
+description:  <p>André L. Spivey es el representante del Concejo Municipal de Detroit (Detroit City Council) para el Distrito 4. Spivey, que es oriundo de Detroit y egresado de la escuela secundaria Cass Tech, fue elegido en toda la ciudad por primera vez en noviembre de 2009.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/district-5-neighborhood-police
+
+title:  Policía de los vecindarios del Distrito 5
+description:  <h2>Comisaría 1.ª</h2>
+
+<p>(313) 237-2850<br/>
+20 Atwater<br/>
+Cap. Conway Petty<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/1st%20Precinct%20Map.pdf" target="_blank">Descargar el mapa</a></p>
+
+<h2>Comisaría 3.ª</h2>
+
+<p>(313) 596-1300<br/>
+7310 Woodward Ave.<br/>
+Cap. Aric Tosqui (313) 596-1310<br/>
+<strong>Oficiales de policía de los vecindarios</strong><br/>
+Ofic. D. Dorsey, 4467 – (313) 596-5110 – Áreas: 3-4, 3-5, 3-7<br/>
+Ofic. C. Fairfax-Thomas, 4170 – (313) 596-1315 – Áreas: 3-2, 3-3<br/>
+Ofic. G. Munoz, 1038 – (313) 596-1318 – Áreas: 3-6, 3-8, 3-9<br/>
+Ofic. T. Harris-Hardy, 2429 – Área 4: 1-1 (Comisaría 1.ª), 3-10<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/map.pdf" target="_blank"><img alt="map" height="199" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/PCT13.png" width="152"/><br/>
+Descargar el mapa</a></p>
+
+<h2>Comisaría 5.ª</h2>
+
+<p>(313) 596-5900<br/>
+11187 Gratiot Ave.<br/>
+<strong>Oficiales de policía de los vecindarios</strong><br/>
+Ofic. Hollis – Área 1: 5-1, 5-2, 5-3<br/>
+Ofic. D. Gaines, 333 – Área 2: 5-4, 5-6<br/>
+Ofic. H. King, 1057 – Área 3: 5-5, 5-7<br/>
+Ofic. S. Robins, 3700 – Área 4: 5-8, 5-9, 5-10, 5-11, 5-12<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/PCT5.pdf" target="_blank"><img alt="map" height="200" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/Map_pct5.png" width="152"/><br/>
+Descargar el mapa</a></p>
+
+<h2>Comisaría 7.ª</h2>
+
+<p>(313) 596-1101<br/>
+5100 E. Nevada<br/>
+Cap. Kyra Hope – (313) 596-1109<br/>
+Tte. Martin Stefan – (313) 596-5731<br/>
+<strong>Oficiales de policía de los vecindarios</strong><br/>
+Ofic. S. Duncan – Área 2: 7-6, 7-8- 7-9<br/>
+Ofic. S. Balogun, 4872 – Área 3: 7-4, 7-7, 7-10<br/>
+Ofic. J. Corbett, 95 – Área 1: 7-1, 7-2, 7-3, 7-5, 7-12<br/>
+<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/7THPCT_1.pdf" target="_blank"><img alt="map" height="169" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/Map-7.png" width="200"/><br/>
+Descargar el mapa</a></p>
+
+<h2>Comisaría 10.ª</h2>
+
+<p>(313) 596-1025<br/>
+12000 Livernois<br/>
+Detroit, Michigan 48204<br/>
+<strong>Oficiales de policía de los vecindarios</strong><br/>
+Ofic. D. Brown, 3954 – Área 1: 10-1, 10-2<br/>
+Ofic. M. Chuney, 2779 – Área 2: 10-3, 10-4, 13-1<br/>
+Ofic. R. Berry, 446 – Área 3: 10-5, 10-6, 10-7, 10-8<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/PCT10.pdf" target="_blank"><img alt="map" height="200" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/Map_pct10.png" width="153"/><br/>
+Descargar el mapa</a></p>
+
+<p>&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/statements
+
+title:  Declaraciones
+description:  <ul>
+	<li><a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/Docs/Inclusionaryhousing.docx.pdf?ver=2016-01-19-092249-100&amp;timestamp=1453213480037" target="_blank">Ordenanza de Vivienda Inclusiva Actualizada</a></li>
+	<li><a href="http://www.detroitmi.gov/LinkClick.aspx?fileticket=e0uYDsiBB0U%3d&amp;portalid=0&amp;timestamp=1452621027716" target="_blank">Comunicado de prensa: La concejala Mary Sheffield preside el foro de debate sobre las viviendas para adultos mayores y personas de bajos ingresos en el Distrito 5 con el fin de evitar el aburguesamiento</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/StatementonNovoteCDBGhomerepairs-2.pdf">Declaración sobre el voto en contra de la consolidación de CDBG y HUD</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Statement%20-%20Opposition%20to%20DPS%20Land%20Acquisition.pdf" target="_blank">Declaración sobre la oposición a la adquisición de propiedades del DPS</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Memo%20-%20Member%20Sheffield%20Suggestions%20for%20Filling%20Vacated%20Council%20Seats.pdf" target="_blank">Memorando sobre recomendaciones para ocupar escaños vacantes en el Concejo</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Filling%20Council%20Vacancy%20Resolution.pdf" target="_blank">Resolución sobre el proceso de ocupación de escaños vacantes en el Concejo Municipal</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/FGIC%20Settlement%20Letter.pdf" target="_blank">Carta de convenio con FGIC</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City%20of%20Detroit%20-%20DPS%20Purchase%20Agreement.pdf" target="_blank">Contrato de compraventa del DPS</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/GLRWA%20-%20EM%20Order%2034.pdf" target="_blank">Autoridad del Agua de los Grandes Lagos</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Statement%20-%20GLRWA%20Final%20edits%20.pdf" target="_blank">Declaración de oposición a la Autoridad Regional del Agua de los Grandes Lagos</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Parking%20RFP.pdf" target="_blank">Solicitud de RFP para un estacionamiento municipal</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Land%20Transer%20-%20NITC.pdf" target="_blank">Propuesta sobre el Puente Internacional para el Comercio</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Community%20for%20Change%20.pdf" target="_blank">Documento de Community for Change</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Community%20for%20Change%20Lawn%20Equipment%20Loan.xlsx" target="_blank">Formulario de préstamo de equipos para césped de Community for Change</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/Inclusionary%20housing.docx?ver=2015-12-11-104529-740" target="_blank">Ordenanza de Vivienda Inclusiva</a></li>
+</ul>
+
+<h2>Programas de asistencia para pagar las facturas del agua:</h2>
+
+<ul>
+	<li><a href="https://www.waynemetro.org/content/we-can-help" target="_blank">Wayne Metro</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/1Nonprofit%20faith%20based%20DLBA%20Partnership%20Policy%20w%20CC%20edits-2.pdf" target="_blank">Asociaciones comunitarias con DLBA</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Nonprofit%20DLBA%20Partnership%20council%20resolution%20w%20CC%20edits%206._1.pdf" target="_blank">Resolución sobre las asociaciones comunitarias con DLBA</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/CBA%20Draft%20Ordinance.pdf" target="_blank">Ordenanza propuesta de acuerdos de beneficios comunitarios</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City-of-Detroit-Operating-License-Agreement.pdf" target="_blank">Acuerdo operativo entre la Ciudad de Detroit y M1 Rail</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Brilar%202014%20Vacant%20Lot%20Schedule.pdf" target="_blank">Cronograma de cortes de césped en lotes baldíos de 2014: Brilar</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Payne%20Mowing%20Schedule%202014.pdf" target="_blank">Cronograma de cortes de césped en lotes baldíos de 2014: Payne</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Special%20Assessment%20District%20Ordinance,%20revi.pdf" target="_blank">Ordenanza de evaluación especial del Distrito</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City%20of%20Detroit%20FY%202015-17%20Triennial%20Budget_1.pdf" target="_blank">Presupuesto trienal para los ejercicios fiscales 2015 a 2017</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/DWSD%20Rate%20Increase%20Package%202014.pdf" target="_blank">Resolución e información sobre el aumento de la tarifa del agua</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Retail_Rates_Presentation_FY_2014-15_ver_6..pdf" target="_blank">Presentación en PowerPoint sobre el aumento de la tarifa del agua</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/DPD%20Hiring%20Flyer.pdf" target="_blank">Información de contratación: Departamento de Policía de Detroit</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/EM%20Orders%2025%20and%2026%20Pension%20Accrual%20(6-24-14).pdf" target="_blank">Órdenes del director de Emergencias: Finalización de la acumulación de beneficios de jubilación</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/DLBA%20LTA%20(Residential%20Parcels)%20Final%204-14-2_1.pdf" target="_blank">Transferencia de tierras a DLBA</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City%20Owned%20GIS%20040914_V.2_1.pdf" target="_blank">Lista de transferencia de parcelas</a></li>
+	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Parking%20Ordinances%20EM%20Amendments%204-8-14.pdf" target="_blank">Nuevas multas por mal estacionamiento</a></li>
+</ul>
+
+<p>&lt;a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield"&gt;Council Update from Councilmember Mary Sheffield</a></p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5
+
+title:  Concejo Municipal del Distrito 5
+description:  <p>Mary Sheffield es la representante del Concejo Municipal de Detroit (Detroit City Council) para el Distrito 5. Su comprobada trayectoria de servicio y liderazgo en la comunidad la ayudó a convertirse, en noviembre de 2013, en la miembro más joven que se haya elegido para el Concejo Municipal de Detroit.</p>
+<!-- div class="read-more"><a href="#">read more</a></div -->
+
+<div class="join-email-list"><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_53" target="_blank">Únase a la lista de correo electrónico </a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-6/immigation-task-force
+
+title:  Grupo de Trabajo de Inmigración
+description:  <!--<p>Castañeda-López founded Detroit's Immigration Task Force with Council Member Spivey to support existing and future immigrant communities and build international relations as Detroit moves towards becoming an inclusive, diverse global city.</p>-->
+<h4>Declaración de la misión</h4>
+
+<p>El Grupo de Trabajo de Inmigración de la Ciudad de Detroit (City of Detroit Immigration Task Force, ITF) está conformado por colaboradores interesados y comprometidos con la misión de crear una ciudad más diversa, inclusiva y global.</p>
+
+<p>&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-6
+
+title:  Concejo Municipal del Distrito 6
+description:  <p>Raquel Castañeda-López, residente de Detroit de toda la vida, hizo historia en noviembre de 2013 al convertirse en la primera miembro latina electa del Concejo Municipal de Detroit (Detroit City Council). Castañeda-López, que es trabajadora social de profesión, tiene más de diez años de experiencia en el sector de organizaciones sin fines de lucro y está comprometida con la justicia social para mejorar la calidad de vida de todos los habitantes de Detroit. Desarrolló un sólido programa de servicios para los residentes a través de la organización comunitaria y una oficina móvil, con el fin de ayudar a los residentes y a las empresas a reducir los trámites burocráticos para acceder a los servicios y recursos. Trabaja para garantizar que los habitantes de Detroit tengan voz en el Concejo Municipal y puedan apoyar las políticas que promueven el acceso, la inclusión y la igualdad.</p>
+
+<p><strong>Visión:</strong> Una ciudad en la que se valoren todas las voces<br/>
+<strong>Misión:</strong> Promover una ciudad justa y próspera mediante la defensa de la comunidad, los servicios públicos y las políticas de inclusión<br/>
+<strong>Valores:</strong> Integridad, igualdad, acceso, bienestar&nbsp;</p>
+
+<div class="join-email-list"><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_52" target="_blank">Únase a la lista de correo electrónico</a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-7
+
+title:  Concejo Municipal del Distrito 7
+description:  <p>El concejal Gabe Leland es un ejemplo del firme liderazgo evidente en muchos jóvenes profesionales de hoy en día, y representa el compromiso con el resurgimiento de esta gran ciudad.&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-large/letter-residents-detroit
+
+title:  Carta para los residentes de Detroit
+description:  <p>Estimada Detroit:</p>
+
+<p>No puedo expresar con palabras lo bendecida que me siento cada día que tengo la oportunidad de atender las necesidades de cada uno de los ciudadanos de esta gran ciudad de Detroit. Soy muy consciente de los complejos desafíos que enfrenta nuestra ciudad, en especial aquellos que afectan nuestra salud y seguridad, la educación de nuestros hijos y nuestra estabilidad financiera. Soy la única miembro del Concejo Municipal que forma parte de los cuatro comités: el Comité de Operaciones Internas (Internal Operations Committee); el Comité de Presupuesto, Auditoría y Finanzas (Budget, Audit &amp; Finance Committee); el Comité Regulador (Rules Committee); y el Comité de Salud y Seguridad Pública (Public Health &amp; Safety Committee).</p>
+
+<p>Inspirada por la lucha de mi padre, que estuvo involucrado en delitos, establecí el Grupo de Trabajo para la Reinserción de los Ciudadanos (Returning Citizen’s Task Force) con el fin de ayudar a reintegrar a los ciudadanos de Detroit que estuvieron encarcelados y a reducir las tasas de reincidencia. Combatí el deterioro mediante la aprobación de una enmienda a la ordenanza vigente para que los infractores ya no puedan recibir nuevos permisos de construcción si tienen otras propiedades que deterioran nuestra ciudad. También tengo otras ordenanzas en progreso que abordan cuestiones como la mejora de la seguridad de los lugares públicos (p. ej., los espacios de estacionamiento y las gasolineras), los descuentos para los adultos mayores en los impuestos inmobiliarios y las oportunidades de vivienda y empleo para los ciudadanos que se reinsertan.</p>
+
+<p>He pasado muchas horas trabajando para familiarizarme con estas cuestiones y encontrar formas de resolverlas. Independientemente de si estoy trabajando con el departamento legal para redactar una nueva ley, con nuestros departamentos de policía y de bomberos para mejorar los procedimientos que ya están establecidos o con los grupos comunitarios para entender mejor los problemas que enfrentan todos los habitantes de Detroit, siempre trabajo para mejorar el lugar al que tanto ustedes como yo llamamos “hogar”.</p>
+
+<p>Mi personal y yo ya hemos tenido el privilegio de hablar con muchos residentes de Detroit. Si todavía no nos conocemos, los invito a que se comuniquen con mi oficina y estén atentos a los próximos eventos y a las reuniones de los grupos comunitarios, donde me encantaría conocerlos personalmente.</p>
+
+<p>No duden en comunicarse conmigo en cualquier momento por teléfono al (313) 224-4248 o por correo electrónico a <a href="mailto:councilmemberayers@detroitmi.gov"><strong>councilmemberayers@detroitmi.gov</strong></a>.</p>
+
+<p>Atentamente.</p>
+
+<p>Janeé L. Ayers<br/>
+Miembro general del Concejo<br/>
+Ciudad de Detroit</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-large/returning-citizens-task-force
+
+title:  Grupo de Trabajo para la Reinserción de los Ciudadanos
+description:  <p><strong>Resumen:</strong><br/>
+En el otoño de 2015, la miembro general del Concejo, Janeé Ayers, aprobó una resolución para crear el Grupo de Trabajo para la Reinserción de los Ciudadanos (Returning Citizens Task Force) de la Ciudad de Detroit para atender las necesidades de una gran parte de los residentes de Detroit que deben enfrentar el desafío de reinsertarse exitosamente en la comunidad después de salir del sistema correccional. La mayoría de las personas que han estado en la cárcel no han logrado rehabilitarse completamente debido a los obstáculos sistemáticos a los que deben enfrentarse los ciudadanos después de salir en libertad. Hay falta de oportunidades en términos de empleo, vivienda, transporte, apoyo comunitario y otros aspectos de la vida diaria.</p>
+
+<p>El objetivo general del grupo de trabajo es crear un servicio “integral” comunitario que servirá como el principal recurso para los ciudadanos una vez que salgan en libertad. La ciudad de Detroit está construyendo actualmente un servicio “integral” dentro del Centro de Reinserción de Detroit (Detroit Reentry Center) del Departamento de Correccionales de Míchigan (Michigan Department of Corrections) ubicado en el antiguo centro correccional Ryan. Queremos garantizar que, una vez en libertad, las personas tengan un mecanismo para seguir accediendo a estos mismos tipos de recursos y que el grupo de trabajo cierre las brechas con respecto al apoyo que reciben estos ciudadanos al reinsertarse en la comunidad.</p>
+
+<p>La primera medida del grupo de trabajo será organizar una feria informativa para reunir a los proveedores que actualmente prestan servicios a los ciudadanos que se reinsertan. Lo invitamos a que participe en el debate en la próxima reunión que se llevará acabo el cuarto lunes a las 6 p. m. en la Detroit Hispanic Development Corporation ubicada en 1211 Trumbull St., Detroit, MI 48201. Usted ha sido elegido por el trabajo que realiza actualmente para ayudar a los ciudadanos que se reinsertan en la comunidad a superar los obstáculos. Le pedimos que le informe a su respectivo contacto del grupo de trabajo si planea asistir.</p>
+
+<p><br/>
+<strong>Declaración de la misión:</strong><br/>
+La misión del Grupo de Trabajo para la Reinserción de los Ciudadanos es proporcionar una variedad de servicios a fin de ayudar a los ciudadanos que se reinsertan a adaptarse a todos los aspectos de la vida necesarios para tener éxito personal y profesionalmente fuera de la prisión. Ofrecer diferentes servicios en un solo lugar permitirá que la mayoría de las necesidades frecuentemente desatendidas de los ciudadanos se satisfagan de manera más fácil y eficaz. Reunir a entidades que ya ayudan a los ciudadanos que se reinsertan garantizará que el grupo de trabajo ofrezca servicios de calidad y permitirá que estas entidades colaboren para brindar un servicio más eficaz.</p>
+
+<p>Las reuniones se llevan a cabo el 4.º lunes de cada mes.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-large
+
+title:  Miembro general del Concejo
+description:  <style type="text/css">@media (min-width: 768px) and (max-width: 1024px) {
+.join-email-list {clear: both;}
+</style>
+<p>Janeé Ayers es miembro general del Concejo Municipal de Detroit (Detroit City Council). Ayers, que es oriunda de Detroit y exalumna de la Renaissance High School, trabaja de manera incansable a fin de crear un entorno sólido, saludable y seguro para los residentes de todas las edades y de todos los orígenes.</p>
+
+<div class="join-email-list">&lt;a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;Únase a la lista de correo electrónico</a> &lt;a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;Contacto</a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-president/skilled-trades-task-force
+
+title:  Grupo de Trabajo de Oficios Calificados
+description:  <p>Me comunico para pedirles a los grandes y pequeños empleadores del área metropolitana de Detroit que contraten a trabajadores de Detroit.&nbsp; Como presidente del Grupo de Trabajo de Oficios Calificados (Skilled Trades Task Force), llevo a cabo reuniones mensuales para debatir sobre las oportunidades de proyectos en materia de trabajo, formación profesional y empleo, y sobre cómo ayudar a superar los obstáculos a las personas que se desempeñan en las industrias de los oficios calificados.</p>
+
+<p>Objetivo: El Grupo de Trabajo de Oficios Calificados se estableció para conectar a los ciudadanos de la ciudad de Detroit con oportunidades para obtener capacitación, formación profesional y empleo con empleadores viables.</p>
+
+<p>Muchas reuniones se llevan a cabo en la sala del Comité Plenario (Committee of the Whole Room) de 4:00 a 6:00 p. m.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-president
+
+title:  Presidenta del Concejo Municipal
+description:  <p>Brenda Jones es la presidenta del Concejo Municipal de Detroit (Detroit City Council). Conocida por su amplio trabajo en la comunidad, Jones ha servido a los ciudadanos de Detroit como funcionaria pública desde noviembre de 2005.</p>
+
+<div class="join-email-list"><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_63" target="_blank">Únase a la lista de correo electrónico </a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-standing-committees-information
+
+title:  Información sobre los Comités Permanentes del Concejo Municipal
+description:  <div class="panel-group accordion_3" id="accordion3">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-parent="#accordion3" data-toggle="collapse" href="#item1">Comité de Presupuesto, Finanzas y Auditorías (Budget, Finance &amp; Audit Committee) </a></h4>
+</div>
+
+<div class="panel-collapse collapse in" id="item1">
+<div class="panel-body">
+<p><strong>Miércoles 1:00 p. m.</strong><br/>
+Miembro del Concejo Janeé L. Ayers, presidenta<br/>
+Miembro del Concejo André Spivey, vicepresidente<br/>
+Presidenta interina del Concejo Mary Sheffield, miembro<br/>
+Presidenta del Concejo Brenda Jones, miembro ex officio<br/>
+<br/>
+<strong>Áreas de responsabilidad:</strong><br/>
+Presupuesto<br/>
+Finanzas<br/>
+Auditoría General</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item2">Comité Formal (Formal Committee) </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item2">
+<div class="panel-body">Martes a las 10:00 a. m. Brenda Jones, presidenta</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item3">Comité de Operaciones Internas (Internal Operations Committee)</a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item3">
+<div class="panel-body">
+<p><strong>Miércoles a las 10:00 a. m.</strong><br/>
+Miembro del Concejo Roy McCalister, presidente<br/>
+Miembro del Concejo Raquel Castañeda-López, vicepresidenta<br/>
+Miembro del Concejo James Tate, miembro<br/>
+Presidenta del Concejo Brenda Jones, miembro ex officio<br/>
+<br/>
+<strong>Áreas de responsabilidad:</strong><br/>
+Concejo Municipal de Detroit<br/>
+Secretaría Municipal<br/>
+Tribunal de Distrito 36<br/>
+Recursos Humanos<br/>
+Derechos Humanos<br/>
+Servicios Generales<br/>
+Sistemas de Pensiones y Jubilaciones<br/>
+Autoridad Conjunta de Construcción de Detroit-Wayne (Detroit-Wayne Joint Building Authority)<br/>
+Juntas y Comisiones nombradas por el Concejo<br/>
+Alcaldía<br/>
+Comisión de Elecciones<br/>
+Asuntos Legales<br/>
+ITS<br/>
+Comité de Ética<br/>
+Comisión del Cable<br/>
+Comité de Revisión<br/>
+Autoridad de Construcción de Detroit (Detroit Building Authority)</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item4">Comité de Servicios para la Comunidad y los Vecindarios (Neighborhood &amp; Community Services Committee)</a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item4">
+<div class="panel-body">
+<p><strong>Jueves a la 1:00 p. m.</strong><br/>
+Presidenta interina del Concejo Mary Sheffield, presidenta<br/>
+Miembro del Concejo André Spivey, vicepresidente<br/>
+Miembro del Concejo Raquel Castañeda-López, miembro<br/>
+Presidenta del Concejo Brenda Jones, miembro ex officio<br/>
+<br/>
+<strong>Áreas de responsabilidad:</strong><br/>
+Artes<br/>
+Centro Cívico<br/>
+Biblioteca<br/>
+Servicios Humanos<br/>
+Asuntos Históricos<br/>
+Jóvenes<br/>
+Adultos Mayores<br/>
+Radiopatrullas de Ciudadanos<br/>
+Coordinación para Personas sin Hogar<br/>
+Asuntos Culturales<br/>
+Museos<br/>
+Recreación<br/>
+Defensoría del Pueblo<br/>
+Zoológico<br/>
+Vecindarios de los distritos</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item5">Nuevos Negocios (New Business) </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item5">
+<div class="panel-body">Martes a las 10:00 a. m. Brenda Jones, presidenta</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item6">Comité de Desarrollo Económico y Planificación (Planning &amp; Economic Committee) </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item6">
+<div class="panel-body">
+<p><strong>Jueves a las 10:00 a. m.</strong><br/>
+Miembro del Concejo James Tate, presidente<br/>
+Miembro del Concejo Scott Benson, vicepresidente<br/>
+Miembro del Concejo Gabe Leland, miembro<br/>
+Presidenta del Concejo Brenda Jones, miembro ex officio<br/>
+<br/>
+<strong>Áreas de responsabilidad:</strong><br/>
+Planificación y Desarrollo<br/>
+Zona de Empoderamiento<br/>
+Desarrollo de la Fuerza de Trabajo<br/>
+Consejo Distrital de Ciudadanos (Citizens District Council)<br/>
+Corporación de Desarrollo Económico (Economic Development Corporation, EDC)<br/>
+Autoridad de Desarrollo del Centro Urbano (Downtown Development Authority, DDA)<br/>
+Autoridad Portuaria del Condado de Detroit/Wayne (Detroit/Wayne County Port Authority, DWCPA)<br/>
+Corporación de Crecimiento Económico de Detroit (Detroit Economic Growth Corporation, DEGC)<br/>
+Autoridad Financiera de Desarrollo Local (Local Development Finance Authority, LDFA)<br/>
+Autoridad de Reurbanización de Terrenos Baldíos de Detroit (Detroit Brownfield Redevelopment Authority, DBRA)<br/>
+Autoridad del Estadio del Condado de Detroit-Wayne (Detroit Wayne County Stadium Authority)<br/>
+Zonificación<br/>
+Otorgamiento de Licencias y Protección al Consumidor</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item7">Comité de Salud y Seguridad Pública (Public Health &amp; Safety Committee) </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item7">
+<div class="panel-body">
+<p><strong>Lunes a las 10:00 a. m.</strong><br/>
+<strong>Audiencias sobre construcciones peligrosas: lunes a las 2:00 p. m.</strong><br/>
+Miembro del Concejo Scott Benson, presidente<br/>
+Miembro del Concejo Janeé L. Ayers, vicepresidenta<br/>
+Miembro del Concejo Roy McCalister, miembro<br/>
+Presidenta del Concejo Brenda Jones, miembro ex officio<br/>
+<br/>
+<strong>Áreas de responsabilidad:</strong><br/>
+Aeropuerto<br/>
+Construcción, Ingeniería de la Seguridad y Medioambiente<br/>
+Incendios<br/>
+Estacionamiento Municipal<br/>
+Policía<br/>
+Corporación de Transporte de Detroit (Detroit Transportation Corporation)<br/>
+Departamento de Audiencias Administrativas (Department of Administrative Hearings)<br/>
+Autoridad Regional de Transporte Público del Área de Detroit (Detroit Area Regional Transit Authority, DARTA)<br/>
+Autoridad de Salud del Condado de Detroit Wayne (Detroit Wayne County Health Authority)<br/>
+Obras Públicas<br/>
+Alumbrado Público<br/>
+Departamento de Agua y Alcantarillado de Detroit (Detroit Water and Sewerage Department, DWSD)<br/>
+Asuntos Ambientales<br/>
+Promoción de la Salud y el Bienestar<br/>
+Seguridad Nacional<br/>
+Transporte<br/>
+Autoridad de Recuperación de Recursos de la Gran Detroit (Greater Detroit Resource Recovery Authority, GDRRA)<br/>
+Consejo de Gobiernos del Sudeste de Míchigan (Southeast Michigan Council of Government, SEMCOG)</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item8">Comité Regulador (Rules Committee) </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item8">
+<div class="panel-body">
+<p>Miembro del Concejo André Spivey, presidente<br/>
+Miembro del Concejo Gabe Leland, vicepresidente<br/>
+Miembro del Concejo Roy McCalister, miembro<br/>
+Presidenta del Concejo Brenda Jones, miembro ex officio</p>
+</div>
+</div>
+</div>
+</div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/council-awards-and-resolutions
+
+title:  Premios y resoluciones del Concejo
+description:  <p>Aviso: Cualquiera de los premios mencionados a continuación debe solicitarse únicamente a una de las nueve oficinas del Concejo por evento.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/legislative-policy-division/fiscal-analysis-reports
+
+title:  Informes de análisis fiscal
+description:  <p>Esta información brinda un panorama del estado fiscal de la ciudad de Detroit y contiene indicadores de rendimiento de los servicios que proporcionamos. Estos documentos proporcionan un análisis fácil de entender acerca de cómo funciona la Ciudad y cómo se usa el dinero de sus impuestos.</p>
+
+<p>Tenga a bien volver a consultar esta información, ya que se actualiza durante el año.</p>
+
+<p>El ejercicio fiscal comienza el 1 de julio y finaliza el 30 de junio.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/legislative-policy-division
+
+title:  División de Políticas Legislativas
+description:  <p>La División de Políticas Legislativas (Legislative Policy Division, LPD) proporciona servicios de investigación, análisis de políticas y apoyo legislativo general al Concejo Municipal de Detroit (Detroit City Council). &nbsp;Opera bajo la dirección del Concejo Municipal y depende directamente de este. &nbsp;Esta división recientemente rediseñada está conformada por el personal de la antigua División de Investigación y Análisis (Research and Analysis Division), de la antigua División de Análisis Fiscal (Fiscal Analysis Division) y de la antigua Comisión de Planificación Urbana (City Planning Commission), incluido el personal del Comité Asesor de Designaciones Históricas (Historic Designation Advisory Board). &nbsp;La dotación de personal centralizada está diseñada para proporcionar de manera eficiente servicios de investigación y análisis integrales y multidisciplinarios sobre los diferentes problemas que enfrenta el órgano legislativo de la ciudad y para facilitar ciertos servicios de la Ciudad por código de ciudad y ley estatal.</p>
+
+<p>Esta división cuenta con personal idóneo para ofrecer al Concejo Municipal asesoramiento legal, fiscal y de planificación independiente. &nbsp;El personal de la división redacta ordenanzas, resoluciones, textos de estatutos y textos de papeletas bajo la dirección del Concejo, proporciona análisis de políticas y apoyo al personal del Concejo Municipal (incluidos sus comités y grupos de trabajo) y, según sea necesario, consulta con asesores y expertos externos para asistir al Concejo. &nbsp;</p>
+
+<p>El personal fiscal proporciona al Concejo Municipal asesoramiento fiscal independiente. &nbsp;El personal analiza las fuentes de ingresos y las partidas de gastos según las recomendaciones del alcalde en el Presupuesto Ejecutivo propuesto del Concejo Municipal, realiza investigaciones sobre los cambios propuestos para las políticas públicas municipales, estatales y federales que tendrían un impacto fiscal en el presupuesto de la Ciudad y formula recomendaciones al Concejo Municipal sobre los distintos programas y objetivos que deben cumplirse en el año en relación con el presupuesto fiscal anual. &nbsp;El personal fiscal también revisa el Presupuesto Ejecutivo propuesto por el alcalde, lo que incluye una revisión de cada departamento de la Ciudad para el Concejo Municipal, y cuantifica los cambios del Concejo Municipal en el presupuesto propuesto. &nbsp;</p>
+
+<p>El personal de planificación hace revisiones y recomendaciones al Concejo Municipal sobre diferentes cuestiones, entre otras, &nbsp;el Plan Maestro propuesto por el alcalde para las políticas de desarrollo social, económico y físico; la Agenda Capital de cinco años y el Presupuesto Anual; el desarrollo de proyectos de renovación; las propuestas para el desarrollo de la comunidad y la conservación de vecindarios; las propuestas para la adquisición y la disposición de bienes inmuebles públicos; y las modificaciones propuestas de la Ordenanza de Zonificación.&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council
+
+title:  Concejo Municipal
+description:  <p>El Concejo Municipal de Detroit (Detroit City Council) es el órgano legislativo de Detroit, Míchigan, Estados Unidos. El concejo a tiempo completo debe reunirse todos los días hábiles al menos 10 meses del año, y por lo menos ocho de estas reuniones deben llevarse a cabo en un lugar cerca del Ayuntamiento. El Concejo podrá convocar reuniones especiales a solicitud del alcalde o de al menos cuatro miembros del Concejo.</p>
+summary:   
+
+*******************************************************************************
