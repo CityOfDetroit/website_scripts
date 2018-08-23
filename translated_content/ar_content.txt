@@ -421,6 +421,328 @@ summary:   <p dir='rtl'>معلومات عن BSEED بما في ذلك اللوا�
 
 *******************************************************************************
 
+http://detroitmi.theneighborhoods.org/departments/department-appeals-and-hearings/blight-ticket-information
+
+title:  معلومات عن مخالفات الفساد
+description:  <p dir='rtl'>تأسست إدارة جلسات الاستماع الإدارية (Department of Administrative Hearings, DAH) في يناير 2005 كأحد الجهود الرئيسية التي تبذلها مدينة ديترويت للتعامل مع الفساد في المدينة.  وتُعد DAH هيئة شبه قضائية تفصل في انتهاكات الفساد التي تحدث في مدينة ديترويت، وهي إدارة مستقلة في ديترويت. يُعيَّن مديرها بواسطة العمدة ويشغل منصب رئيس جلسات الاستماع، ويعمل المحامون المرخصون كموظفين إداريين في جلسات الاستماع.&nbsp; انتهاكات الفساد هي قضايا مدنية، أُحضِرت إلى المحكمة مُسبقًا على أنها جنح جنائية، وكان يُفصل فيها في محكمة المقاطعة (36th District Court) حتى وقت قريب. هذه الانتهاكات أصبحت في الغالب جزءًا من تراكم القضايا الكبير في هذه المحكمة، وكذلك لم تُباشَر قضايا كثيرة على نحو فعّال. إلا أن الطريقة الجديدة للتعامل مع انتهاكات الفساد، داخل DAH،صُممت لكي يكون أكثر كفاءةً.</p>
+
+<p dir='rtl'>يتحمل مُلاك ممتلكات التأجير، كغيرهم من مُلاك الممتلكات في المدينة، مسؤولية الحفاظ على ممتلكاتهم وصيانتها وفقًا لقواعد صيانة الممتلكات الخاصة بمدينة ديترويت. وفي حالة عدم الحفاظ على الممتلكات من الداخل والخارج كما ينبغي، فقد يصدر استدعاء انتهاك فساد، والمعروف أكثر باسم “مخالفة فساد،” من مُفتشي المدينة وضباط الشرطة وغيرهم من الموظفين المسؤولين في المدينة الذين يتمتعون بسلطة التحقيق والإبلاغ عن مخالفات القانون. إذا لم تكن مُسجَّلًا أو إذا لم يكن لديك شهادة مطابقة مستندات، فإنك تُعرض نفسك للاستدعاء للتحقيق في مخالفة فساد.</p>
+
+<p dir='rtl'>قم بالإبلاغ عن المشكلات باستخدام&nbsp;</p>
+
+&lt;drupal-entity data-caption="تحسين ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c1fc5da2-4e64-45af-96a6-8ae086e43f74"&gt;</drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>&nbsp;تنقسم DAH إلى ثلاثة أقسام:</p>
+
+<ol dir='rtl'>
+	<li dir='rtl'>صيانة الممتلكات (Property Maintenance)</li>
+	<li dir='rtl'>تقسيم المدينة (Zoning)</li>
+	<li dir='rtl'>إلقاء النفايات غير القانوني / النفايات الصلبة (Illegal Dumping/Solid Waste)</li>
+</ol>
+
+<p dir='rtl'><strong dir='rtl'>قسم صيانة الممتلكات</strong>:&nbsp; مسؤول عن جلسات الاستماع للقضايا المقدمة من إدارة الهندسة الوقائية وهندسة المباني (Buildings and Safety Engineering Department). في هذه القضايا، يتم إصدار بلاغات انتهاكات الفساد بواسطة مفتشي الصحة والمباني وضباط الشرطة. وتشمل الانتهاكات التي تنطوي عليها هذه القضايا، على سبيل المثال لا الحصر:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>عدم الحصول على شهادة مطابقة مستندات</li>
+	<li dir='rtl'>عدم الحصول على شهادة تسجيل إيجار</li>
+	<li dir='rtl'>إيواء فئران</li>
+	<li dir='rtl'>عدم إزالة الثلج والجليد</li>
+	<li dir='rtl'>مركبات لا يمكن تشغيلها</li>
+	<li dir='rtl'>عدم الحفاظ على المظهر الخارجي للممتلكات</li>
+	<li dir='rtl'>عدم الامتثال لأوامر الطوارئ</li>
+</ul>
+
+<p dir='rtl'><strong dir='rtl'>قسم تقسيم المدينة</strong>:&nbsp; مسؤول عن جلسات الاستماع للقضايا المقدمة من إدارة الهندسة الوقائية وهندسة المباني (Buildings and Safety Engineering). في هذه القضايا، يتم إصدار بلاغات انتهاكات الفساد بواسطة مفتشي المباني.</p>
+
+<p dir='rtl'>وتشمل الانتهاكات التي تنطوي عليها هذه القضايا، على سبيل المثال لا الحصر:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>مخالفة الاستخدام الخاص للأراضي الممنوحة</li>
+	<li dir='rtl'>تغيير استخدام الأراضي بدون تصريح</li>
+	<li dir='rtl'>تغيير استخدام المبنى بدون تصريح</li>
+	<li dir='rtl'>عدم الحصول على شهادة الصيانة المطلوبة التي تحتوي على شروط المنح</li>
+</ul>
+
+<p dir='rtl'><strong dir='rtl'>قسم إلقاء النفايات غير القانوني / النفايات الصلبة:</strong>&nbsp; مسؤول عن جلسات الاستماع للقضايا المقدمة من إدارة شؤون البيئة (Department of Environmental Affairs). يتم إصدار بلاغات انتهاكات الفساد في هذه القضايا من مفتشي الصحة والبيئة وضباط الشرطة. . وتشمل الانتهاكات التي تنطوي عليها هذه القضايا، على سبيل المثال لا الحصر:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>وضع حاويات Courville مبكرًا أو متأخرًا على الرصيف</li>
+	<li dir='rtl'>وضع النفايات الكبيرة بطريقة غير صحيحة</li>
+	<li dir='rtl'>تخزين النفايات الصلبة بطريقة غير صحيحة</li>
+	<li dir='rtl'>مخالفات روث الحيوانات والطيور</li>
+	<li dir='rtl'>التخلص من المخلفات غير القانوني</li>
+</ul>
+summary:   <p dir='rtl'>معلومات عن مخالفات الفساد    </p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/bus-schedules
+
+title:  جداول مواعيد الحافلات
+description:  <div class="container" dir='rtl'>
+<p dir='rtl'>يمكنك الدخول إلى جدول مواعيد الحافلات الذي تريد الاطلاع عليه وطباعته باستخدام هذا القسم من موقع الويب.</p>
+
+<p dir='rtl'>جميع منشورات DDOT (إدارة النقل في ديترويت) متوفرة بتنسيق PDF (صيغة الوثائق القابلة للنقل) لأغراض المشاهدة والطباعة. للاطلاع على هذه المنشورات وطباعتها، سوف تحتاج إلى تثبيت المكون الإضافي Adobe Acrobat Reader في المستعرض. إذا لم يكن لديك المكون الإضافي، فيمكن تنزيله مجانًا من&nbsp;<a href="http://www.adobe.com/" target="_blank" dir='rtl'>موقع الويب</a> الخاص بـ Adobe.</p>
+
+<p dir='rtl'>جميع المستندات التالية عبارة عن ملفات بصيغة PDF:</p>
+
+<p dir='rtl'>(<strong dir='rtl'>الحجم التقريبي لكل ملف 1 ميجابايت</strong>)</p>
+
+<p dir='rtl'>يُرجى تحديد المسار:</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<div class="row" dir='rtl'>
+<div class="col-sm-4" dir='rtl'>
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="58fa73c8-1a0f-45ba-9417-36593fb640bc" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ad163a97-b1b5-48e8-96ba-9e2d620c8290" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="53f0689e-1072-4dfc-83ee-384ff339d042" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="01ce0493-6c42-4dd8-9216-7fa1d0ac86b3" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b894d3ca-0aef-42f2-bf9a-a10e87016542" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="a232921a-fe3d-41c0-a776-ec1a5751d95f" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="57b07060-c79a-41b4-b536-c328948ca365" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="3835d9dc-1cfc-484d-852e-3dee7f6fb456" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1ab558e1-fab4-4e73-bcf2-c032da5a84d0" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0f9ac9f3-51ae-4404-bcf3-7ddb323c7199" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="7d11d4a3-e5dc-43a8-adad-09dc35061757" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e70799a1-99e7-4922-b2f7-50c367de507e" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="7229969b-0886-41de-a258-ae3b556fd6e5" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="314514f0-9c43-438b-8872-130cceafc5c6" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="02372208-40cc-40d1-82ba-2070ed8a53ac" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b4347d40-1bd5-491a-ac5d-ff0cebb75f60" dir='rtl'></drupal-entity>
+</div>
+
+<div class="col-sm-4" dir='rtl'>
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c43f71c3-a28e-47fb-97c5-6f8d80a5c2c9" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="5042d0db-ee18-489f-affb-95009d08d30f" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef29c179-e9c8-4d31-b1b1-4e1d1bdbb62e" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="852422e6-7732-490c-85a9-27532e736928" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="18473923-dec8-4c79-b788-0678eb6b54f3" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="03bec851-5824-44d5-97bc-150a2e47b399" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ba647f44-30b0-496b-afc7-f92de27f6d0b" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ec8cd74d-0d39-4a5c-bca1-6bfa1e5f333b" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="01b565a5-b870-4caf-9036-0dcad28ec198" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b7ea391b-9960-4198-bee1-c3a3573f0857" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b5a322a8-f3a2-4345-bdb4-b8b53ecbf4ad" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0a873be-3f16-4657-88de-ae45a9754e55" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="90c85da2-ad31-4787-b980-450cbc5c7bc9" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="af5d6eec-755b-4851-8709-10a6e71b76f7" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="bda6a89d-15ea-4f7e-a4c4-de323ee38ae4" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="095d18e7-6c15-46ca-a3c1-5e0f7bfaa94e" dir='rtl'></drupal-entity>
+</div>
+
+<div class="col-sm-4" dir='rtl'>
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e61f759d-4820-487b-8bed-b39aca323cbe" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="34462cde-951f-4c2b-8490-065308686ba0" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="91ce51c0-eca0-4545-aab4-b3091fb21084" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f18f08a3-9974-49e9-8e4d-30451e4ed71b" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="9d7012a8-8242-44b3-9d1a-9d9cbc044f46" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="9696003c-8c86-4579-a271-740299b975e2" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="eebb83d3-1b51-4b95-ad88-905f6914d0cc" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="cb2e0f1d-b338-40b0-9a92-422b94404e76" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="68e228e2-b6da-4499-96ea-437a57bc270a" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b6cdbbcb-1606-4242-b608-8c4df8136cb6" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="674630de-2b3a-4e6b-b910-40888feadaac" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="2b8ee727-fbb8-4457-8901-8cb711026fd8" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="219bcee2-1342-4547-93ad-082eb451ce3d" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00e3fe96-d7eb-4d51-aae1-dc35f7bdefd9" dir='rtl'></drupal-entity>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="08090200-96aa-44ee-8ffc-2804499313cb" dir='rtl'></drupal-entity>
+</div>
+</div>
+</div>
+summary:   <p dir='rtl'>الوصول إلى جداول مواعيد الحافلات وطباعته</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/buy-pass
+
+title:  اشترِ تذكرة
+description:  <p dir='rtl'>&nbsp;للاطلاع على مزيد من المعلومات، اتصل بخدمة عملاء DDOT (إدارة النقل في ديترويت):&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="65abe3ab-a036-486f-8318-3e3d5a52a522" dir='rtl'></drupal-entity>
+summary:   <p dir='rtl'>اشترِ تذكرة   </p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/metrolift-ada-paratransit-services
+
+title:  خدمات النقل التكميلية MetroLift للمعاقين بموجب قانون ADA
+description:  <p dir='rtl'>يلزم قانون الأمريكيين ذوي الإعاقة (Americans With Disabilities Act, ADA) لعام 1990 إدارة النقل في ديترويت (Detroit Department of Transportation, DDOT) ووكالات النقل العام الأخرى في جميع أنحاء البلاد بتوفير خدمة نقل تكميلية للمعاقين (paratransit)، أو وسائل نقل عام متكافئة، للأشخاص المعاقين الذين لا يستطيعون صعود الحافلات الانتظامية المُجهزة للمعاقين أو أي وسيلة أخرى من وسائل المواصلات العامة أو ركوبها أو الوصول إليها بسبب الإعاقة. يجب أن تكون هذه الخدمة مماثلة لمستوى الخدمة المقدمة للأشخاص العاديين الذين لا يعانون من أي إعاقات ويستخدمون نظام وسائل النقل الانتظامية الخاصة بأي وكالة.</p>
+summary:   <p dir='rtl'>خدمات النقل التكميلية للمعاقين بموجب قانون ADA المقدمة من إدارة النقل بديترويت.</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/transportation-fares
+
+title:  تسعيرات وسائل المواصلات
+description:  <p dir='rtl'>فيما يلي قائمة شاملة بجميع أنواع التذاكر المختلفة المبيعة من إدارة النقل بديترويت (DDOT)، لكل من جمهور الرُكاب العام ومجموعات الرُكاب الخصوصيين. من فضلك لا تتردد في التواصل معنا في حالة وجود أي أسئلة بخصوص سياسة الأجور الخاصة بنا في&lt;a href="هاتف رقم: 1300-933 (313)"&gt;&nbsp;1300-933 (313)</a>&nbsp;أو على الرقم&nbsp;<a href="tel:1-888-336-8287" dir='rtl'>BUS-DDOT-888-1</a>.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<table class="table-striped" dir='rtl'>
+	<thead dir='rtl'>
+	</thead>
+	<tbody dir='rtl'>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'><strong dir='rtl'>النوع</strong></td>
+			<td align="left" valign="middle" dir='rtl'><strong dir='rtl'>الأجر</strong></td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>أجرة كاملة للبالغ</td>
+			<td dir='rtl'>1.50 دولار</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>
+			<p dir='rtl'>أجرة الطالب (ببطاقة تعريف الطالب الخاصة بـDDOT)</p>
+
+			<p dir='rtl'><em dir='rtl'>تحويل</em></p>
+			</td>
+			<td dir='rtl'> 0,75 دولار<br/>
+			<br/>
+			0,25 دولار</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>كبار السن /  المعاقون*<br/>
+			<br/>
+			<em dir='rtl'>تحويل</em></td>
+			<td dir='rtl'>0.50<br/>دولار
+			<br/>
+			0.10 دولار</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>حامل بطاقة Medicare**<br/>
+			<br/>
+			<em dir='rtl'>تحويل</em></td>
+			<td dir='rtl'>0.75<br/>دولار
+			<br/>
+			0.10 دولار </td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>الأطفال البالغ طولهم أقل من 44" مع بالغ (بحد 3)</td>
+			<td dir='rtl'>مجانًا</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>DDOT GoPass الشهري</td>
+			<td dir='rtl'>47,00 دولارًا</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>DDOT GoPass نصف أسبوعي</td>
+			<td dir='rtl'>27,50 دولار</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>DDOT GoPass أسبوعي</td>
+			<td dir='rtl'>14,40 دولار</td>
+		</tr>
+		<tr dir='rtl'>
+			<td colspan="1" dir='rtl'>بطاقة DDOT بقيمة 10 دولارات&nbsp;</td>
+			<td colspan="1" dir='rtl'>10,00 دولار</td>
+		</tr>
+		<tr dir='rtl'>
+			<td colspan="1" dir='rtl'>تذكرة DDOT 5 أيام</td>
+			<td colspan="1" dir='rtl'>14,00 دولار&nbsp;</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>تذكرة DDOT/SMART شهرية محلية</td>
+			<td dir='rtl'>49,50 دولار</td>
+		</tr>
+		<tr align="left" valign="top" dir='rtl'>
+			<td dir='rtl'>DDOT GoPass شهرية لكبار السن / المعاقين</td>
+			<td dir='rtl'>17,00 دولار</td>
+		</tr>
+	</tbody>
+</table>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>*للحصول على الأجرة المخفضة، يجب على الركاب من كبار السن (البالغ عمرهم 65 سنة أو أكثر) والمعاقين إظهار أحد المستندات التالية:</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>بطاقة تعريف الأجور الخاصة من DDOT</li>
+	<li dir='rtl'>بطاقة تعريف الولاية المذكور بها وجود إعاقة بصرية</li>
+</ul>
+
+<p dir='rtl'>**يدفع حاملو بطاقات Medicare نصف (1/2) أجرة لجميع خدمات حافلات الطريق الثابت.<br/>
+&nbsp;</p>
+
+<p dir='rtl'>يتم معالجة بطاقات وطلبات الأجور المخفضة في</p>
+
+<p dir='rtl'><strong dir='rtl'>Northwest Activities Center</strong><br/>
+18100 Meyers<br/>
+Detroit, MI 48235</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>Butzel Family Center </strong><br/>
+7737 Kercheval<br/>
+Detroit,MI 48214</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>Rosa Parks Transit Center</strong><br/>
+360 Michigan Avenue<br/>
+Detroit, MI 48226</p>
+summary:   <p dir='rtl'>أجور المواصلات&nbsp;من إدارة النقل في ديترويت</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation
+
+title:  إدارة النقل في ديترويت (Detroit Department of Transportation, DDOT)
+description:  <p dir='rtl'>DDOT هي مُقدم خدمات النقل في ديترويت! تُقدم DDOT خدماتها لمدينة ديترويت في المقام الأول، باعتبارها أكبر وكالة نقل عام في ميشيغان، ولكنها  توفر خدمات نقل أيضًا للمدن المجاورة، بما في ذلك ديربورن وهامتراميك وهايلاند بارك وهاربروودز وليفونيا وريدفورد تاونشيب وريفر روج وساوثفيلد. تمتلك DDOT 48 طريق حافلة ثابتًا؛ بما في ذلك أحد عشر طريقًا يعمل على مدار 24 ساعة وستة طرق سريعة، وتربط الأحياء في جميع أنحاء المدينة بمراكز العمل الرئيسية في وسط المدينة (Downtown) و(Midtown). وبوصول معدل الركوب اليومي إلى حوالي 85,000 راكب، تعتز DDOT بتوفيرها خدمة نقل موثوقة ونظيفة وآمنة وفعالة.</p>
+summary:   <p dir='rtl'>DDOT هي مُقدم خدمات النقل في ديترويت! تُقدم DDOT خدماتها لمدينة ديترويت في المقام الأول، باعتبارها أكبر وكالة نقل عام في ميشيغان، ولكنها  توفر خدمة نقل محدودة للمدن المجاورة، بما في ذلك ديربورن وهامتراميك وهايلاند بارك وهاربروودز وليفونيا وريدفورد تاونشيب وريفر روج وساوثفيلد. تمتلك DDOT 48 طريق حافلة ثابتًا؛ بما في ذلك 9 طرق تعمل على مدار 24 ساعة (والتي يعمل على مدار 24 ساعة طوال النهار وطوال الليل) و6 طرق سريعة، ترتط الأحياء في جميع أنحاء المدينة بمراكز العمل الرئيسية في وسط المدينة (Downtown) و(Midtown). وبوصول معدل الركوب اليومي إلى حوالي 85,000 راكب، تعتز DDOT بتوفيرها خدمة نقل موثوقة ونظيفة وآمنة وفعالة.</p>
+
+*******************************************************************************
+
 http://detroitmi.theneighborhoods.org/departments/health-department/birth-and-death-certificates
 
 title:  شهادات الميلاد والوفاة
@@ -1166,5 +1488,627 @@ http://detroitmi.theneighborhoods.org/departments/human-resources-department/emp
 title:  Employee Forms
 description:  <p dir='rtl'>نموذج موظفي مدينة ديترويت والأسئلة الشائعة عن النماذج</p>
 summary:   <p dir='rtl'>نموذج موظفي مدينة ديترويت والأسئلة الشائعة عن النماذج</p>
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-1/task-force
+
+title:  فريق العمل
+description:  <p dir='rtl'><strong dir='rtl'>فريق العمل المعني بمشاركة الرجال السود</strong></p>
+
+<p dir='rtl'><strong dir='rtl'>الرسالة:</strong> للوصول إلى الموارد الفردية والتنظيمية الملتزمة بتسليط الضوء على الرجال ذوي البشرة السوداء وتطويرهم.</p>
+
+<p dir='rtl'><strong dir='rtl'>الرؤية:</strong>للتأكد من أن كل رجل أسود البشرة سيكون قائدًا مسؤولاً عقليًا وروحيًا وعاطفيًا عن أسرته ومجتمعه</p>
+
+<p dir='rtl'>قام عضو مجلس مدينة ديترويت جيمس تيت وأندريه سبيفي من خلال قرار رسمي من مجلس المدينة بإطلاق فريق عمل حول مشاركة الرجال السود في 18 ديسمبر 2013. ويترأسه الآن بشكل حصري عضو المجلس تيت.</p>
+
+<p dir='rtl'><br/>
+لمزيد من المعلومات، بما في ذلك مواقع الاجتماعات، يرجى التحقق من تقويم وفعاليات مدينة ديترويت أو الاتصال بمكتبه على الرقم 1027-224-313.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-1
+
+title:  مجلس المدينة المنطقة 1
+description:  <p dir='rtl'>يعمل جيمس تيت كعضو مجلس مدينة ديترويت للمنطقة 1. وقد كان يمثل مجتمعه منذ نوفمبر 2009، حيث عاش طوال حياته بالمنطقة 1 وكان داعيًا لخدمة المجتمع المحلي.</p>
+
+<div class="join-email-list" dir='rtl'><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_64" target="_blank" dir='rtl'>انضم إلى قائمة البريد الإلكتروني</a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2/mental-health-task-force
+
+title:  فريق العمل المعني بالصحة العقلية
+description:  <p dir='rtl'>يتمثل الهدف من وجود فريق عمل معني بالصحة العقلية في استخدام منصة المجلس لدعم مساحة الصحة العقلية لخدمة المواطنين بشكل أفضل في المنطقة 2 والمدينة بشكل عام.&nbsp; بناءً على الإطار الزمني الذي وضعناه بستة أشهر لتنفيذ فريق العمل المعني بالصحة العقلية والتجديد السنوي للشهادة، سيكون الهدف الأولي هو:</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>تثقيف مواطني ديترويت بشأن حالة الصحة العقلية</li>
+	<li dir='rtl'>زيادة الوعي بخدمات الصحة العقلية المتاحة حاليًا&nbsp;</li>
+	<li dir='rtl'>دعم تنسيق خدمات الصحة النفسية عند الإمكان</li>
+</ul>
+
+<p dir='rtl'>سيعمل فريق العمل على ضمان معالجة المشكلة الجذرية (الحقيقية).&nbsp; كما سيقوم الفريق بإعداد إجماع مكتوب بشأن ماهية المشكلة، وإنشاء قائمة عامة بالحلول الاستراتيجية.</p>
+
+<p dir='rtl'>وتكون مواعيد الاجتماعات وتوقيتاتها ومواقعها كما يلي:</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>مواعيد اجتماعات فريق العمل المعني بالصحة العقلية</h2>
+
+<p dir='rtl'>التاريخ:<br/>
+<strong dir='rtl'>الثلاثاء 5 يونيو 2018</strong></p>
+
+<p dir='rtl'>الوقت:&nbsp;&nbsp;<br/>
+<strong dir='rtl'>3:00 مساءً إلى 4:30 مساءً</strong></p>
+
+<p dir='rtl'>الموقع:<br/>
+Coleman A. Young Building –&nbsp;<strong dir='rtl'>الطابق الـ13</strong>&nbsp;(داخل المجلس الجامع، Council of the Whole), 2 Woodward, Detroit 48226</p>
+
+<p dir='rtl'>التاريخ:<br/>
+<strong dir='rtl'>الثلاثاء 17 يوليو 2018</strong></p>
+
+<p dir='rtl'>الوقت:<br/>
+<strong dir='rtl'>3:00 مساءً إلى 4:30 مساءً</strong></p>
+
+<p dir='rtl'>الموقع:<br/>
+Coleman A. Young Building –&nbsp;<strong dir='rtl'>الطابق الـ13</strong>&nbsp;(داخل المجلس الجامع، Council of the Whole), 2 Woodward, Detroit 48226</p>
+
+<p dir='rtl'>التاريخ:&nbsp;<br/>
+<strong dir='rtl'>الثلاثاء 14 أغسطس 2018</strong></p>
+
+<p dir='rtl'>الوقت:&nbsp;&nbsp;<br/>
+<strong dir='rtl'>3:00 مساءً إلى 4:30 مساءً</strong></p>
+
+<p dir='rtl'>الموقع:<br/>
+Detroit Medical Center (DMC) Sinai Grace, 6071 W. Outer Drive (Auditorium)</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>صفحة الفيسبوك الخاصة بنا هي&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="a8967b6e-15ef-4ca5-8770-cd624671a3bd" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>تعمل صفحة Facebook هذه بمثابة أداة اتصال لمساعدتنا في تثقيف وزيادة الوعي المجتمعي كثيرًا.&nbsp; كما ستعمل هذه الصفحة أيضًا كمنصة للمشاركة والتواصل الشبكي بين أصحاب المصلحة الرئيسيين في مجال الصحة العقلية.&nbsp;</p>
+
+<p dir='rtl'>نرحب بجميع المهتمين بالانضمام إلى فريق العمل ويمكنهم الاتصال بمكتب وسط المدينة على الرقم 4535-224 (313) أو زيارة&nbsp;<a href="https://www.eventbrite.com/e/councilman-roy-mccalister-jr-mental-health-task-force-tickets-46283970602?aff=ebdssbdestsearch" target="_blank" dir='rtl'>صفحة التسجيل الخاصة بفعالية Event Brite من خلال البحث عن فريق العمل المعني بالصحة العقلية.</a></p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2
+
+title:  مجلس المدينة المنطقة 2
+description:  <p dir='rtl'>يُعد روي مكاليستر جونيور عضو المجلس المنتخب حديثًا عن المنطقة 2. ويلتزم مكاليستر ابن مدينة ديترويت بخدمة السكان في مجتمعه وذلك من خلال العمل الجاد والدعوة من أجل الآخرين.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-3/green-task-force
+
+title:  فريق العمل الأخضر
+description:  <h2 dir='rtl'>رسالة فريق العمل الأخضر:</h2>
+
+<p dir='rtl'>غرضنا: يتكون فريق العمل الأخضر من العديد من مجموعات الدفاع عن البيئة، والمنظمات غير الربحية، والشركات البيئية، وموظفي الحكومة، والمقيمين. ويعمل فريق العمل الأخضر على إيجاد وظائف نظيفة، وتحسين السياسة البيئية وبناء مدينة أكثر استدامة.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>جدول الاجتماعات</h2>
+
+<p dir='rtl'>يجتمع فريق العمل الأخضر في يوم الخميس الثالث&nbsp; من كل شهر من الساعة 3:00 - 4:30 مساءً. وسيتم إرسال الموقع بإخطار بالبريد الإلكتروني. ويمكن للمهتمين بحضور اجتماعات فريق العمل الأخضر إرسال بريد إلكتروني إلى&nbsp;<a href="mailto:wimberleyke@detroitmi.gov?subject=Green%20Task%20Force%20Meetings" dir='rtl'>wimberleyke@detroitmi.gov</a>&nbsp;ليتم إضافتهم إلى قائمتنا البريدية.</p>
+
+<p dir='rtl'>للاطلاع على وثائق أو مراجع فريق العمل الأخضر التي تعزز سياسات التنمية المستدامة في المدينة، يُرجى الاطلاع على جدول أعمال ديترويت للمياه.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-3
+
+title:  مجلس المدينة المنطقة 3
+description:  <p dir='rtl'>يعمل سكوت بنسون كعضو مجلس مدينة ديترويت للمنطقة 3. وقد كان بنسون معتادًا على قيادة الدراجة وداعمًا للاستدامة، وكان قائدًا مبدعًا لا يكل ولا يمل في العمل في مجتمعه منذ يناير 2014.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-4/task-forces
+
+title:  فريق العمل
+description:  <p dir='rtl'>فريق عمل Belle Isle:<br/>
+يلتقي كل رابع يوم اثنين من كل شهر<br/>
+(19 أبريل، و24 مايو، و28 يونيو، و26 يوليو)<br/>
+الموقع: Belle Isle - Flynn Pavilion</p>
+
+<p dir='rtl'><br/>
+فرقة عمل التعداد:<br/>
+مواقع مختلفة في جميع أنحاء المجتمع</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-4
+
+title:  مجلس المدينة المنطقة 4
+description:  <p dir='rtl'>يعمل أندريه إل سبيفي كعضو مجلس مدينة ديترويت للمنطقة 4. انتُخب ابن ديترويت وخريج مدرسة Cass Technical لأول مرة على مستوى المدينة في نوفمبر 2009.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/district-5-neighborhood-police
+
+title:  شرطة حي المنطقة 5
+description:  <h2 dir='rtl'>الدائرة الأولى</h2>
+
+<p dir='rtl'>(313) 237-2850<br/>
+20 Atwater<br/>
+الكابتن Conway Petty<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/1st%20Precinct%20Map.pdf" target="_blank" dir='rtl'>تنزيل الخريطة!</a></p>
+
+<h2 dir='rtl'>الدائرة الثالثة</h2>
+
+<p dir='rtl'>(313) 596-1300<br/>
+7310 Woodward Ave.<br/>
+الكابتن Aric Tosqui (313)596-1310<br/>
+<strong dir='rtl'>ضباط شرطة الحي</strong><br/>
+الضابط D. Dorsey, 4467 – (313)596-5110 المناطق: 3-4, 3-5, 3-7<br/>
+الضابط C. Fairfax-Thomas, 4170 (313)596-1315 المناطق: 3-2, 3-3<br/>
+الضابط G. Munoz, 1038 – (313)596-1318 المناطق: 3-6, 3-8, 3-9<br/>
+الضابط T. Harris-Hardy, 2429 المنطقة 4: 1-1(الدائرة الأولى), 3-10<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/map.pdf" target="_blank" dir='rtl'><img alt="map" height="199" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/PCT13.png" width="152" dir='rtl' /><br/>
+تنزيل الخريطة!</a></p>
+
+<h2 dir='rtl'>الدائرة الخامسة</h2>
+
+<p dir='rtl'>(313) 596-5900<br/>
+11187 Gratiot Ave.<br/>
+<strong dir='rtl'>ضباط شرطة الحي</strong><br/>
+الضابط Hollis المنطقة 1: 5-1, 5-2, 5-3<br/>
+الضابط D. Gaines, 333 المنطقة 2: 5-4, 5-6<br/>
+الضابط H. King, 1057 المنطقة 3: 5-5, 5-7<br/>
+الضابط S. Robins, 3700 المنطقة 4: 5-8, 5-9, 5-10, 5-11, 5-12<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/PCT5.pdf" target="_blank" dir='rtl'><img alt="map" height="200" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/Map_pct5.png" width="152" dir='rtl' /><br/>
+تنزيل الخريطة!</a></p>
+
+<h2 dir='rtl'>الدائرة السابعة</h2>
+
+<p dir='rtl'>(313) 596-1101<br/>
+5100 E. Nevada<br/>
+الكابتن Kyra Hope – (313)596-1109<br/>
+Lt. Martin Stefan – (313)596-5731<br/>
+<strong dir='rtl'>ضباط شرطة الحي</strong><br/>
+الضابط S. Duncan المنطقة 2: 7-6, 7-8- 7-9<br/>
+الضابط S. Balogun4872 المنطقة 3: 7-4, 7-7, 7-10<br/>
+الضابط J. Corbett, 95 المنطقة 1: 7-1, 7-2, 7-3, 7-5, 7-12<br/>
+<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/7THPCT_1.pdf" target="_blank" dir='rtl'><img alt="map" height="169" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/Map-7.png" width="200" dir='rtl' /><br/>
+تنزيل الخريطة!</a></p>
+
+<h2 dir='rtl'>الدائرة العاشرة</h2>
+
+<p dir='rtl'>(313) 596-1025<br/>
+12000 Livernois<br/>
+Detroit, Michigan 48204<br/>
+<strong dir='rtl'>ضباط شرطة الحي</strong><br/>
+الضابط D. Brown, 3954 المنطقة 1: 10-1, 10-2<br/>
+الضابط M. Chuney, 2779 المنطقة 2: 10-3, 10-4, 13-1<br/>
+الضابط R. Berry, 446 المنطقة 3: 10-5, 10-6, 10-7, 10-8<br/>
+<a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/PCT10.pdf" target="_blank" dir='rtl'><img alt="map" height="200" src="http://www.detroitmi.gov/portals/0/docs/CM%205%20-%20Sheffield/Map_pct10.png" width="153" dir='rtl' /><br/>
+تنزيل الخريطة!</a></p>
+
+<p dir='rtl'>&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/statements
+
+title:  بيانات
+description:  <ul dir='rtl'>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/Docs/Inclusionaryhousing.docx.pdf?ver=2016-01-19-092249-100&amp;timestamp=1453213480037" target="_blank" dir='rtl'>مرسوم الإسكان الإجباري المحدث</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/LinkClick.aspx?fileticket=e0uYDsiBB0U%3d&amp;portalid=0&amp;timestamp=1452621027716" target="_blank" dir='rtl'>بيان صحفي: تستضيف عضو مجلس الإدارة ماري شيفيلد منتدى لمناقشة إسكان كبار السكن وذوي الدخل المنخفض في المنطقة 5 في محاولة لتجنب تجديد الأحياء القديمة</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/StatementonNovoteCDBGhomerepairs-2.pdf" dir='rtl'>بيان - معارضة التصويت عل دمج CDBG HUD</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Statement%20-%20Opposition%20to%20DPS%20Land%20Acquisition.pdf" target="_blank" dir='rtl'>بيان - معارضة حيازة الأراضي DPS</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Memo%20-%20Member%20Sheffield%20Suggestions%20for%20Filling%20Vacated%20Council%20Seats.pdf" target="_blank" dir='rtl'>مذكرة - اقتراحات لشغل مقعد شاغر</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Filling%20Council%20Vacancy%20Resolution.pdf" target="_blank" dir='rtl'>تقديم قرار بالمقاعد الشاغرة في مجلس المدينة</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/FGIC%20Settlement%20Letter.pdf" target="_blank" dir='rtl'>رسالة تسوية مع شركة تأمين ضمان مالي (FGIC)</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City%20of%20Detroit%20-%20DPS%20Purchase%20Agreement.pdf" target="_blank" dir='rtl'>اتفاقية شراء مدارس ديترويت العامة (DPS)</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/GLRWA%20-%20EM%20Order%2034.pdf" target="_blank" dir='rtl'>هيئة مياه البحيرات العظمى</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Statement%20-%20GLRWA%20Final%20edits%20.pdf" target="_blank" dir='rtl'>بيان المعارضة لهيئة المياه الإقليمية لمنطقة البحيرات العظمى</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Parking%20RFP.pdf" target="_blank" dir='rtl'>طلب تقديم عرض للبلدية لوقوف السيارات</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Land%20Transer%20-%20NITC.pdf" target="_blank" dir='rtl'>اقتراح جديد عبر التجارة الدولية</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Community%20for%20Change%20.pdf" target="_blank" dir='rtl'>وثيقة المجتمع من أجل التغيير (Community for Change)</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Community%20for%20Change%20Lawn%20Equipment%20Loan.xlsx" target="_blank" dir='rtl'>نموذج اقتراض معدات الحدائق الخاص بالمجتمع من أجل التغيير</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/docs/CM%205%20-%20Sheffield/Inclusionary%20housing.docx?ver=2015-12-11-104529-740" target="_blank" dir='rtl'>مرسوم الإسكان الإجباري</a></li>
+</ul>
+
+<h2 dir='rtl'>برامج المساعدة في فاتورة المياه:</h2>
+
+<ul dir='rtl'>
+	<li dir='rtl'><a href="https://www.waynemetro.org/content/we-can-help" target="_blank" dir='rtl'>حاضرة وين</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/1Nonprofit%20faith%20based%20DLBA%20Partnership%20Policy%20w%20CC%20edits-2.pdf" target="_blank" dir='rtl'>الشراكات المجتمعية DLBA</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Nonprofit%20DLBA%20Partnership%20council%20resolution%20w%20CC%20edits%206._1.pdf" target="_blank" dir='rtl'>قرار الشراكة المجتمعية DLBA</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/CBA%20Draft%20Ordinance.pdf" target="_blank" dir='rtl'>مرسوم الاتفاقية المقترحة للمزايا المجتمعية</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City-of-Detroit-Operating-License-Agreement.pdf" target="_blank" dir='rtl'>اتفاقية تشغيل خط السكة الحديد M1 بمدينة ديترويت</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Brilar%202014%20Vacant%20Lot%20Schedule.pdf" target="_blank" dir='rtl'>جدول قطع الأراضي الشاغرة لعام 2014: Brilar</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Payne%20Mowing%20Schedule%202014.pdf" target="_blank" dir='rtl'>جدول قطع الأراضي الشاغرة لعام 2014: Payne</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Special%20Assessment%20District%20Ordinance,%20revi.pdf" target="_blank" dir='rtl'>مرسوم منطقة التقييم الخاصة</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City%20of%20Detroit%20FY%202015-17%20Triennial%20Budget_1.pdf" target="_blank" dir='rtl'>الميزانية لثلاث سنوات FY 2015 -2017</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/DWSD%20Rate%20Increase%20Package%202014.pdf" target="_blank" dir='rtl'>قرار ومعلومات زيادة معدل المياه</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Retail_Rates_Presentation_FY_2014-15_ver_6..pdf" target="_blank" dir='rtl'>زيادة معدل المياه في ملف PowerPoint</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/DPD%20Hiring%20Flyer.pdf" target="_blank" dir='rtl'>التوظيف: قسم شرطة ديترويت</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/EM%20Orders%2025%20and%2026%20Pension%20Accrual%20(6-24-14).pdf" target="_blank" dir='rtl'>أوامر مدير الطوارئ: مستحقات المعاش النهائية</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/DLBA%20LTA%20(Residential%20Parcels)%20Final%204-14-2_1.pdf" target="_blank" dir='rtl'>نقل الأراضي حسب اتفاقية البنك العقاري بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/City%20Owned%20GIS%20040914_V.2_1.pdf" target="_blank" dir='rtl'>قائمة نقل الطرود</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Parking%20Ordinances%20EM%20Amendments%204-8-14.pdf" target="_blank" dir='rtl'>الغرامات الجديدة لوقوف السيارات</a></li>
+</ul>
+
+<p dir='rtl'>&lt;a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield"&gt;Council Update from Councilmember Mary Sheffield</a></p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5
+
+title:  مجلس المدينة المنطقة 5
+description:  <p dir='rtl'>تعمل ماري شيفيلد كعضو مجلس مدينة ديترويت للمنطقة 5. أظهرت شيفيلد سجلاً حافلاً من الخدمة والقيادة داخل المجتمع ساعدها على أن تصبح أصغر شخص يتم انتخابه على الإطلاق لمجلس مدينة ديترويت في نوفمبر 2013.</p>
+<!-- div class="read-more"><a href="#">read more</a></div -->
+
+<div class="join-email-list" dir='rtl'><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_53" target="_blank" dir='rtl'>انضم إلى قائمة البريد الإلكتروني </a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-6/immigation-task-force
+
+title:  فريق العمل المعني بالهجرة
+description:  <!--<p>Castañeda-López founded Detroit's Immigration Task Force with Council Member Spivey to support existing and future immigrant communities and build international relations as Detroit moves towards becoming an inclusive, diverse global city.</p>-->
+<h4 dir='rtl'>بيان المهمة</h4>
+
+<p dir='rtl'>إن فريق العمل المعني بالهجرة في مدينة ديترويت هو تعاون بين أصحاب المصلحة الملتزمين بمهمة إنشاء مدينة أكثر تنوعًا وشمولية وعالمية.</p>
+
+<p dir='rtl'>&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-6
+
+title:  مجلس المدينة المنطقة 6
+description:  <p dir='rtl'>دخلت راكيل كاستيدا لوبيز، ابنة ديترويت، التاريخ في نوفمبر 2013 حيث أصبحت أول لاتينية يتم انتخابها لمجلس مدينة ديترويت. تعمل كاستيدا لوبيز في العمل الاجتماعي عن طريق التجارة، وتتمتع بخبرة تزيد عن عشر سنوات في القطاع غير الربحي، وهي ملتزمة بالعمل من أجل العدالة الاجتماعية لتحسين نوعية الحياة لجميع سكان ديترويت. وقامت بوضع برنامج خدمة قوي للمواطنين، من خلال تنظيم القاعدة الشعبية والمكتب المتنقل، لمساعدة السكان والشركات في اختراق &quot;الروتين&quot; من أجل الوصول إلى الخدمات والموارد. وهي تعمل على ضمان أن يكون لدى سكان ديترويت صوت في سياسات مناصرة مجلس المدينة التي تعزز الوصول والشمولية والعدالة.</p>
+
+<p dir='rtl'><strong dir='rtl'>الرؤية:</strong> أن توجد مدينة ديترويت التي يقدر فيها كل صوت<br/>
+<strong dir='rtl'>الرسالة:</strong> تعزيز وجود مدينة ديترويت العادلة والمزدهرة من خلال الدعوة المجتمعية والخدمة العامة والسياسة الشاملة<br/>
+<strong dir='rtl'>القيم:</strong> النزاهة والعدالة والوصول والعافية&nbsp;</p>
+
+<div class="join-email-list" dir='rtl'><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_52" target="_blank" dir='rtl'>انضم إلى قائمة البريد الإلكتروني</a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-7
+
+title:  مجلس المدينة المنطقة 7
+description:  <p dir='rtl'>يمثل عضو المجلس جايب ليلاند أحد القيادات القوية التي تبرز بين العديد من المهنيين الشباب في يومنا هذا – التزامًا منهم بتحقيق نهضة تلك المدينة العظيمة.&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-large/letter-residents-detroit
+
+title:  خطاب موجه إلى سكان مدينة ديترويت
+description:  <p dir='rtl'>أعزائي سكان ديترويت:</p>
+
+<p dir='rtl'>تعجز الكلمات عن وصف مدى سعادتي بكل يوم أُتيحت لي فيه فرصة خدمتكم، وخدمة كل مواطن داخل مدينتنا العظيمة ديترويت. إنني أقدر بشدة التحديات المعقدة التي تواجهها مدينتنا، خاصة تلك التي تهدد صحتنا وسلامتنا، وتعليم أطفالنا، واستقرارنا المالي. فأنا العضو الوحيد بالمجلس الذي يشارك في عضوية أربع لجان، وهي: لجنة العمليات الداخلية، ولجنة الميزانية والتدقيق والمالية، ولجنة القواعد ولجنة الصحة والسلامة العامة.</p>
+
+<p dir='rtl'>وقد ألهمتني الصراعات التي خاضها والدي، بصفته مذنبًا سابقًا، إلى إنشاء فرق عمل خاصة بالمواطنين العائدين بعد إطلاق سراحهم من السجن للمساعدة في إعادة دمج السجناء السابقين من سكان ديترويت، وخفض معدلات العودة إلى الجريمة.  وقد عالجت مشكلة المباني المخالفة، بالحصول على تعديل اعتمده القانون الحالي، وفيه لم يعد للأشخاص المخالفين حق استلام تصاريح بناء جديدة، في حالة امتلاكهم عقارًا آخر يسبب الدمار للمدينة. كما أعمل على إعداد العديد من التشريعات التي تتناول علاج بعض المشكلات، مثل جعل الأماكن العامة كمواقف السيارات، ومحطات البنزين أماكن أكثر أمانًا، وخفض الضرائب المفروضة على العقارات بنسبة كبيرة، ومنح السجناء الذين قضوا فترة عقوبتهم فرصة عادلة في الحصول على السكن والعمل.</p>
+
+<p dir='rtl'>ولقد قضيت ساعات لا حصر لها في العمل للإلمام بتلك المشكلات وإيجاد طرق للتغلب عليها. سواء كان ذلك بعملي مع الإدارة القانونية لصياغة تشريع جديد، أو بالعمل مع أقسام الشرطة والمطافئ بمدينتنا لتحسين ما لدينا بالفعل، أو بلقاء الجماعات المحلية لفهم المشكلات التي تواجه سكان ديترويت بشكل أفضل؛ فأنا أعمل دائمًا على تحسين المكان الذي أدعوه أنا وأنتم بالوطن.</p>
+
+<p dir='rtl'>ولقد حظيت بالفعل، أنا وطاقم عملي، بشرف التحدث إلى العديد من سكان ديترويت. فإذا لم نتقابل بعد فأنا أدعوكم للاتصال بمكتبي لتكونوا ضمن الأشخاص المرتقب حضورهم في الفعاليات القادمة، واللقاءات التي تنعقد مع الجماعات المحلية، ويسرني أن ألتقي بكم شخصيًا.</p>
+
+<p dir='rtl'>رجاءً لا تترددوا في الاتصال بي في أي وقت على الرقم 4248-224 (313) أو عن طريق البريد الإلكتروني <a href="mailto:councilmemberayers@detroitmi.gov" dir='rtl'><strong dir='rtl'>councilmemberayers@detroitmi.gov</strong></a>.</p>
+
+<p dir='rtl'>مع خالص التحية،</p>
+
+<p dir='rtl'>جاين إل. آيرز<br/>
+العضو العام بمجلس <br/>
+مدينة ديترويت.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-large/returning-citizens-task-force
+
+title:  فرق عمل خاصة بالمواطنين العائدين بعد إطلاق سراحهم من السجن
+description:  <p dir='rtl'><strong dir='rtl'>لمحة عامة:</strong><br/>
+في خريف عام 2015، مررت العضو العام للمجلس، جاين آيرز،’ قرارًا بإنشاء فرق عمل خاصة بالمواطنين العائدين بعد إطلاق سراحهم من سجن مدينة ديترويت للوفاء باحتياجات عدد كبير من سكان ديترويت، ممن يواجهون صعوبة في إعادة الاندماج في المجتمع مرة أخرى بشكل ناجح، بعد خروجهم من المؤسسات الإصلاحية. فقد أعاقت الحواجز النظامية التي واجهها أغلب المساجين عقب إطلاق سراحهم، استيعابهم لعملية إعادة التأهيل استيعابًا كاملاً. فحين يتعلق الأمر بالحصول على وظيفة، ومسكن، ووسائل نقل، ودعم مجتمعي، وغير ذلك من جوانب الحياة اليومية، نجد أن هناك انعدامًا للفرص.</p>
+
+<p dir='rtl'>والهدف الشامل الذي يهدف إليه فريق العمل هذا، هو خلق مجتمع قائم على “التكامل” بحيث يُشكل هذا المجتمع المورد الأساسي للمواطنين العائدين بمجرد إطلاق سراحهم من السجن. وتُشيد مدينة ديترويت حاليًا “مركز خدمة متكاملاً” داخل إدارة المؤسسات الإصلاحية في ميشيغان، ويحمل اسم Detroit Reentry Center، ويقع داخل المنشأة التي كانت تسمى مسبقًا بمنشأة Ryan الإصلاحية. فبمجرد إطلاق سراحهم، نرغب في التأكد من أن الأفراد لديهم آلية للبقاء على تواصل مستمر مع هذا النوع من الموارد، وسيسد فريق العمل أي ثغرات في الدعم الذي يتلقاه المواطنون العائدون بعد إطلاق سراحهم من السجن.</p>
+
+<p dir='rtl'>والخطوة الأولى التي يتخذها فريق العمل هي استضافة معرض معلوماتي يحضره البائعون الذين يخدمون حاليًا قطاع المواطنين العائدين بعد إطلاق سراحهم. ونحن ندعوك للمشاركة في النقاشات التي سنجريها في الاجتماع المقبل المنعقد في 6:00 مساء الاثنين الرابع من الشهر الجاري داخل مؤسسة Detroit Hispanic Development Corporation الواقعة في 1211 Trumbull St., Detroit, MI 48201. ولقد اخترناك من أجل العمل الذي تقوم به حاليًا لمساعدة المواطنين العائدين بعد إطلاق سراحهم للتغلب على العقبات التي تواجههم. يرجى إبلاغ الشخص المختص بالتواصل معك داخل فريق العمل إذا كنت تنوي الحضور.</p>
+
+<p dir='rtl'><br/>
+<strong dir='rtl'>بيان المهمة:</strong><br/>
+يتكلف فريق العمل الخاص بالمواطنين العائدين بعد إطلاق سراحهم بمهمة تقديم مجموعة من الخدمات التي ستساعد هؤلاء المواطنين على التكيف مع جميع جوانب الحياة اللازمة لنجاحهم، على المستوى الشخصي والمهني، خارج السجن. فتقديم خدمات متنوعة داخل مكان واحد، يجعل تلبية معظم احتياجات مواطنينا، التي غالبًا ما تُهمل، أمرًا أكثر سهولة وكفاءة. وتجميع الكيانات التي تساعد بالفعل المواطنين العائدين بعد إطلاق سراحهم، سيضمن تقديم فريق العمل لخدمات عالية الجودة، وسيتيح لتلك الكيانات التعاون لتقديم خدمات أكثر كفاءة.</p>
+
+<p dir='rtl'>تنعقد الاجتماعات في الاثنين الرابع من كل شهر.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-large
+
+title:  مجلس المدينة العام
+description:  <style type="text/css" dir='rtl'>@media (min-width: 768px) and (max-width: 1024px) {
+.join-email-list {clear: both;}
+</style>
+<p dir='rtl'>تعمل جاين آيرزé عضوًا عامًا في مجلس مدينة ديترويت. تعمل ابنة ديترويت, خريجة Renaissance High School بلا كلل, لخلق بيئة ثابتة, وصحية وآمنة للمواطنين من كافة الأعمار والانتماءات.</p>
+
+<div class="join-email-list" dir='rtl'>&lt;a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;انضم إلى قائمة البريد الإلكتروني</a> &lt;a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;اتصل بنا</a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-president/skilled-trades-task-force
+
+title:  فريق العمل المعني بالعمال المهرة
+description:  <p dir='rtl'>أقوم بالتواصل مع أصحاب الأعمال، ممن يمتلكون شركات كبيرة أو صغيرة، داخل حاضرة ديترويت (metro Detroit) وأجري نقاشات معهم لتوظيف عمال ديترويت.&nbsp; وبصفتي رئيسة فريق العمل المعني بالعمال المهرة؛ فأنا أُدير اجتماعات شهرية، حيث نُجري فيها نقاشات حول فرص العمل الخاصة بالمشروعات، وبرامج التدريب المهنية، والتوظيف، كما نتغلب على العقبات التي تواجه العاملين بمجالات الحرف المهنية.</p>
+
+<p dir='rtl'>الغاية: أُنشئ فريق العمل المعني بالعمال المهرة بهدف ربط مواطني مدينة ديترويت بالفرص التي تؤهلهم للحصول على تدريب، وتدريب مهني، والحصول على وظيفة مستمرة.</p>
+
+<p dir='rtl'>تنعقد العديد من الاجتماعات في غرفة اللجنة الجامعة من الساعة 4:00 عصرًا وحتى السادسة 6:00 مساءً</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-president
+
+title:   رئيس مجلس المدينة
+description:  <p dir='rtl'>تشغل بريندا جونز منصب رئيس مجلس مدينة ديترويت. تشتهر جونز بعملها المكثف داخل المجتمع؛ فهي تخدم مواطني ديترويت بصفتها مسؤولاً رسميًا منذ نوفمبر عام 2005.</p>
+
+<div class="join-email-list" dir='rtl'><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_63" target="_blank" dir='rtl'>انضم إلى قائمة البريد الإلكتروني </a></div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/city-council-standing-committees-information
+
+title:  معلومات اللجان الدائمة لمجلس المدينة
+description:  <div class="panel-group accordion_3" id="accordion3">
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a data-parent="#accordion3" data-toggle="collapse" href="#item1" dir='rtl'>لجنة الميزانية والتدقيق والمالية </a></h4>
+</div>
+
+<div class="panel-collapse collapse in" id="item1">
+<div class="panel-body" dir='rtl'>
+<p dir='rtl'><strong dir='rtl'>الأربعاء 1:00 ظهرًا</strong><br/>
+عضو المجلس جاين إل. آيرز رئيس اللجنة<br/>
+ عضو المجلس أندريه سبيفي، نائب رئيس اللجنة<br/>
+الرئيس المؤقت للمجلس، ماري شيفيلد، عضو<br/>
+رئيس المجلس، بريندا جونز، عضو معين<br/>
+<br/>
+<strong dir='rtl'>مجالات المسؤولية:</strong><br/>
+الميزانية<br/>
+المالية<br/>
+مدقق عام</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item2" dir='rtl'>اللجنة الرسمية </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item2">
+<div class="panel-body" dir='rtl'>بريندا جونز، الرئيس الثلاثاء 10:00 صباحًا.</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item3" dir='rtl'>لجنة العمليات الداخلية</a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item3">
+<div class="panel-body" dir='rtl'>
+<p dir='rtl'><strong dir='rtl'>الأربعاء 10:00 صباحًا</strong><br/>
+عضو المجلس، روي مكاليستر، رئيس اللجنة<br/>
+عضو المجلس، راكيل كاستيدا لوبيز، نائب رئيس اللجنة<br/>
+عضو المجلس، جيمس تيت، عضو<br/>
+رئيس المجلس، بريندا جونز، عضو معين<br/>
+<br/>
+<strong dir='rtl'>مجالات المسؤولية:</strong><br/>
+مجلس مدينة ديترويت<br/>
+كاتب المدينة<br/>
+محكمة المنطقة السادسة والثلاثين<br/>
+الموارد البشرية<br/>
+حقوق الإنسان<br/>
+خدمات عامة<br/>
+أنظمة التقاعدات والمعاشات التقاعدية<br/>
+سلطة البناء المشتركة بين ديترويت ووين<br/>
+المجالس واللجان المعينة من المجلس<br/>
+مكتب عمدة المدينة<br/>
+لجنة الانتخابات<br/>
+القانون<br/>
+خدمات تكنولوجيا المعلومات<br/>
+مجلس الأخلاقيات<br/>
+لجنة الاتصالات السلكية<br/>
+مجلس المراجعة<br/>
+سلطة البناء داخل مدينة ديترويت</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item4" dir='rtl'>لجنة خدمة الأحياء والمجتمع</a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item4">
+<div class="panel-body" dir='rtl'>
+<p dir='rtl'><strong dir='rtl'>الخميس 1:00 ظهرًا</strong><br/>
+الرئيس المؤقت للمجلس، ماري شيفيلد، رئيس اللجنة<br/>
+عضو المجلس أندريه سبيفي، نائب رئيس اللجنة<br/>
+عضو المجلس، راكيل كاستيدا لوبيز، عضو<br/>
+رئيس المجلس بريندا جونز، عضو معين<br/>
+<br/>
+<strong dir='rtl'>مجالات المسؤولية:</strong><br/>
+الفنون<br/>
+مركز مدني<br/>
+مكتبة<br/>
+خدمات إنسانية<br/>
+تاريخية<br/>
+الشباب<br/>
+كبار السن<br/>
+الدوريات اللاسلكية للمواطنين<br/>
+التنسيق لإيجاد مسكن للمشردين<br/>
+الشؤون الثقافية<br/>
+المتاحف<br/>
+وسائل الترفيه<br/>
+أمين المظالم<br/>
+حديقة الحيوان<br/>
+مناطق الأحياء</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item5" dir='rtl'>أعمال جديدة </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item5">
+<div class="panel-body" dir='rtl'>بريندا جونز، الرئيس الثلاثاء 10:00 صباحًا.</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item6" dir='rtl'>لجنة التخطيط والاقتصاد </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item6">
+<div class="panel-body" dir='rtl'>
+<p dir='rtl'><strong dir='rtl'>الخميس 10:00 صباحًا</strong><br/>
+عضو المجلس، جيمس تيت، رئيس اللجنة<br/>
+عضو المجلس، سكوت بنسون، نائب الرئيس<br/>
+عضو المجلس، جايب ليلاند، عضو<br/>
+رئيس المجلس، بريندا جونز، عضو معين<br/>
+<br/>
+<strong dir='rtl'>مجالات المسؤولية:</strong><br/>
+التخطيط والتنمية<br/>
+مناطق التمكين<br/>
+تنمية القوى العاملة<br/>
+مجالس المواطنين المحلية<br/>
+مؤسسة التنمية الاقتصادية (EDC)<br/>
+هيئة تنمية وسط المدينة (DDA)<br/>
+هيئة ميناء ديترويت مقاطعة وين (DWCPA)<br/>
+مؤسسة ديترويت للنمو الاقتصادي (DEGC)<br/>
+هيئة تمويل التنمية المحلية (LDFA)<br/>
+هيئة إعادة التنمية في براونفيلد ديترويت (DBRA)<br/>
+هيئة استاد ديترويت بمقاطعة وين<br/>
+تقسيم المدينة إلى مناطق<br/>
+الترخيص وحماية المستهلك</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item7" dir='rtl'>لجنة الصحة والسلامة العامة </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item7">
+<div class="panel-body" dir='rtl'>
+<p dir='rtl'><strong dir='rtl'>الاثنين 10:00 صباحًا</strong><br/>
+<strong dir='rtl'>جلسة الاستماع الخاصة بالمباني المحفوفة بالمخاطر- الاثنين الساعة 2:00 ظهرًا</strong><br/>
+عضو المجلس، سكوت بنسون، رئيس اللجنة<br/>
+عضو المجلس، جاين إل. آيرز، نائب رئيس اللجنة<br/>
+عضو المجلس، روي مكاليستر، عضو<br/>
+رئيس المجلس، بريندا جونز، عضو معين<br/>
+<br/>
+<strong dir='rtl'>مجالات المسؤولية:</strong><br/>
+المطار<br/>
+المباني وهندسة السلامة والبيئة<br/>
+إطفاء الحرائق<br/>
+موقف سيارات البلدية<br/>
+الشرطة<br/>
+مؤسسة ديترويت للنقل<br/>
+قسم جلسات الاستماع الإدارية<br/>
+هيئة النقل الإقليمية لمنطقة ديترويت (DARTA)<br/>
+هيئة الصحة في ديترويت مقاطعة وين<br/>
+الأشغال العامة<br/>
+الإنارة العامة<br/>
+إدارة ديترويت للمياه والصرف الصحي (DWSD)<br/>
+الشؤون البيئية<br/>
+تعزيز الصحة والعافية<br/>
+أمن الوطن<br/>
+وسائل النقل<br/>
+هيئة استرجاع موارد ديترويت الكبرى (GDRRA)<br/>
+المجلس الحكومي لجنوب شرق ميشيغان (SEMCOG)</p>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" dir='rtl'>
+<h4 class="panel-title" dir='rtl'><a class="collapsed" data-parent="#accordion3" data-toggle="collapse" href="#item8" dir='rtl'>لجنة القواعد  </a></h4>
+</div>
+
+<div class="panel-collapse collapse" id="item8">
+<div class="panel-body" dir='rtl'>
+<p dir='rtl'>عضو المجلس أندريه سبيفي، رئيس اللجنة<br/>
+عضو المجلس، جايب ليلاند، نائب رئيس اللجنة<br/>
+عضو المجلس، روي مكاليستر، عضو<br/>
+رئيس المجلس، بريندا جونز، عضو معين</p>
+</div>
+</div>
+</div>
+</div>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/council-awards-and-resolutions
+
+title:  جوائز وقرارات المجلس
+description:  <p dir='rtl'>ملاحظة: لا بد من طلب أي من الجوائز المذكورة أعلاه من واحد فقط من مكاتب المجلس التسعة لكل فعالية.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/legislative-policy-division/fiscal-analysis-reports
+
+title:  تقارير التحليل المالي
+description:  <p dir='rtl'>توفر هذه المعلومات تصورًا للوضع المالي السليم لمدينة ديترويت، وتتضمن مؤشرات أداء للخدمة التي نقدمها. وتوفر هذه الوثائق تحليلاً سهل الفهم للطريقة التي تعمل بها المدينة، وطريقة إنفاق أموال الضرائب.</p>
+
+<p dir='rtl'>يرجى التحقق من هذه المعلومات من حين لآخر، حيث يتم تحديثها على مدار السنة.</p>
+
+<p dir='rtl'>تبدأ السنة المالية في 1 يوليو، وتنتهي في 30 يونيو.</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council/legislative-policy-division
+
+title:  شعبة السياسات التشريعية
+description:  <p dir='rtl'>توفر شعبة السياسات التشريعية (LPD) البحوث، وتحليل السياسات العامة، والدعم التشريعي لمجلس مدينة ديترويت. &nbsp;وهي تعمل بتوجيه من مجلس المدينة، وتقدم تقاريرها إلى المجلس مباشرة. &nbsp;وتتألف الشعبة المكونة حديثًا من مجموعة من العاملين من شعبة البحث والتحليل، وشعبة التحليل المالي السابق، وكذلك العاملين بلجنة التخطيط السابق للمدينة، بما في ذلك تعيين موظفي المجلس الاستشاري. &nbsp;وقد شكلت هيئة الموظفين المركزيين بهدف تقديم بحث وتحليل شامل ومتعدد التخصصات بشأن مجموعة واسعة من المشكلات التي تواجه الهيئة التشريعية للمدينة’ وتيسير بعض خدمات المدينة، لكل كود خاص بالمدينة، والنظام الأساسي للولاية.</p>
+
+<p dir='rtl'>وهذه الشعبة مجهزة لتقديم المشورة المستقلة الخاصة بالنواحي القانونية، والمالية، والتخطيط إلى المجلس. &nbsp;ويصوغ موظفي الشعبة المراسيم والقرارات ولغة الميثاق والاقتراع المقترحة بتوجيه من المجلس، ويقدمون تحليلاً للسياسات ودعم العاملين لمجلس المدينة (بما في ذلك لجان المجلس، وفرق العمل)، ويستشيرون خبراء ومستشارين خارجيين لمساعدة المجلس إذا دعت الحاجة لذلك. &nbsp;</p>
+
+<p dir='rtl'>ويقدم موظفو المالية إلى مجلس المدينة نصيحة مالية مستقلة. &nbsp;ويحلل الموظفون مصادر الإيرادات وبنود الإنفاق على النحو الذى أوصى به عمدة المدينة في الميزانية التنفيذية المقترحة المقدمة لمجلس المدينة، ويجرون أبحاثًا حول التغييرات المقترحة في المدينة، والولاية، والسياسات العامة الخاصة بالحكومة الفيدرالية، التي سيكون لها أثر مالي في ميزانية المدينة ويقدمون توصيات لمجلس المدينة تخص البرامج المتنوعة والأهداف التي يتعين تحقيقها من خلال ميزانية السنة المالية. &nbsp;كما يقوم موظفو المالية بمراجعة الميزانية التنفيذية المقترحة المقدمة من عمدة المدينة، ويتضمن ذلك مراجعة جميع الإدارات داخل مجلس المدينة، وحساب التغييرات التي أجراها مجلس المدينة على الميزانية المقترحة. &nbsp;</p>
+
+<p dir='rtl'>ويراجع موظفو التخطيط، ويقدمون توصيات إلى مجلس المدينة حول العديد من الأمور، من بينها: &nbsp;الخطة الرئيسية التي اقترحها عمدة المدينة التي تتضمن سياسات خاصة بالتنمية الاجتماعية، والاقتصادية، والبدنية، والخطة الخمسية لرأس المال والميزانية السنوية، ووضع مشروعات التجديد، ومقترحات لتنمية المجتمع، والحفاظ على الأحياء، ومقترحات الحيازة والتصرف في الممتلكات العقارية العامة، وتقديم اقتراحات بإجراء تعديلات على تقسيم المناطق.&nbsp;</p>
+summary:   
+
+*******************************************************************************
+
+http://detroitmi.theneighborhoods.org/government/city-council
+
+title:  مجلس المدينة
+description:  <p dir='rtl'>يمثل مجلس مدينة ديترويت الهيئة التشريعية لديترويت، بولاية ميشيغان، الولايات المتحدة الأمريكية. ويتعين على أعضاء المجلس الذين يعملون بدوام كامل عقد اجتماعات في جميع أيام العمل لمدة 10 أشهر على الأقل في السنة، وتنعقد ثمانية اجتماعات على الأقل في مكان مجاور لقاعة المدينة. ويجوز للمجلس عقد اجتماعات خاصة بناءً على طلب عمدة المدينة أو أربعة على الأقل من أعضاء المجلس.</p>
+summary:   
 
 *******************************************************************************
