@@ -1,5 +1,5 @@
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
 
 title:  বিল্ডিং পারমিটের তথ্য
 description:  <p><strong>পরিকল্পনা পর্যালোচনা বিভাগ</strong> ডেট্রোয়েট সিটির গৃহীত অধ্যাদেশ ও বিধি অনুসারে উন্নয়ন বা ইমারতের প্রকল্পসমূহ হচ্ছে কিনা তা নিশ্চিত করে। কর্মীরা প্রস্তাবিত প্রকল্পের অনুমতির আবেদন ও পরিকল্পনার পর্যালোচনা করে। এইক্ষেত্রে ডেট্রোয়েট সিটির অঞ্চল ভাগ অধ্যাদেশ, মিশিগান ইমারত বিধি, মিশিগান আবাসন বিধি, মিশিগান পুনর্বাসন বিধি, মিশিগান বৈদ্যুতিক বিধি, মিশিগান মেকানিক্যাল বিধি, মিশিগান প্লাম্বিং বিধি, আন্তর্জাতিক জ্বালানি গ্যাসের বিধি, সিটি লিফ্টের বিধি ও বয়েলার বিধি মেনে চলতে হবে।&nbsp;<br/>
@@ -62,7 +62,7 @@ summary:   <p>কোন ব্যবসা খুলতে অঞ্চলভা
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
 
 title:  বিজনেস লাইসেন্স চেকলিস্ট
 description:  <p><strong>ধাপ 1</strong></p>
@@ -84,7 +84,7 @@ description:  <p><strong>ধাপ 1</strong></p>
 
 <p>&nbsp;</p>
 
-<p>&lt;a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names"&gt;Online information on assumed names.</a></p>
+<p><a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names">Online information on assumed names.</a></p>
 
 <p><strong>b) যদি আপনার ব্যবসা নিগমবদ্ধ করেন, তাহলে আপনাকে অবশ্যই রেজিস্টার করাতে হবে:</strong><br/>
 যদি আপনি নিগমবদ্ধ হন বা একটি লিমিটেড পার্টনারশিপ প্রতিষ্ঠা করেন, তাহলে আপনাকে মিশিগান স্টেটের মাধ্যমে আপনাকে অবশ্যই রেজিস্টার করতে হবে। কোন একক স্বত্বাধিকারী, একটি পার্টনারশিপ, একটি লিমিটেড পার্টনারশিপ বা কোন কর্পোরেশন পরিচালনা করার ক্ষেত্রে অনুগ্রহ করে একটি আইনি পরামর্শ নিন। নিগমবদ্ধ করার ফরম এখানে পাওয়া যায়:</p>
@@ -100,7 +100,7 @@ description:  <p><strong>ধাপ 1</strong></p>
 <p><strong>a) আপনাকে অবশ্যই একটি সেলস ট্যাক্স নম্বর নিতে হবে:</strong></p>
 
 <p>যদি ডেট্রোয়েটে আপনার কোন ধরনের ব্যবসা থাকে, তাহলে আপনার সেলস ট্যাক্স নম্বর থাকা আবশ্যক। এখানে সেলস ট্যাক্স নম্বর পাওয়া যায়:<br/>
-&lt;a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax"&gt;Michigan Department of Treasury, Collections Division.</a></p>
+<a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax">Michigan Department of Treasury, Collections Division.</a></p>
 
 <p><strong>b) ফেডারেল ট্যাক্স আইডি নম্বরের জন্য আবেদন করুন:</strong></p>
 
@@ -110,7 +110,7 @@ description:  <p><strong>ধাপ 1</strong></p>
 477 Michigan Avenue (at Cass)<br/>
 Detroit, MI 48226.</p>
 
-<p>&lt;a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number"&gt;অনলাইনে ফেডারেল ট্যাক্স আইডি নম্বরের জন্য আবেদন করুন</a><br/>
+<p><a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number">অনলাইনে ফেডারেল ট্যাক্স আইডি নম্বরের জন্য আবেদন করুন</a><br/>
 <br/>
 <strong>ধাপ 4</strong>&nbsp; &nbsp;</p>
 
@@ -248,7 +248,7 @@ summary:   <p>BSEED ইমারত পরিদর্শন ও বিধি �
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
 
 title:  নির্মাণ
 description:  <p>অনুমোদিত পরিকল্পনা এবং ইমারত সংক্রান্ত বিধি ও মানক মেনে কাঠামো হচ্ছে তা নিশ্চিত করতে নির্মাণ কাজের পরিদর্শনের দায়&nbsp;<strong>নির্মাণ বিভাগ</strong>&nbsp;। ছয়টি ট্রেড দল হল<strong>&nbsp;বয়লার, বিল্ডিং, ইলেক্টিক্যাল, এলিভেটর, মেকানিক্যাল</strong> এবং&nbsp;<strong>প্লাম্বিং</strong>.&nbsp;<br/>
@@ -266,14 +266,14 @@ description:  <p>অনুমোদিত পরিকল্পনা এবং 
 <strong>ইমেল</strong>:&nbsp;<a href="mailto:davisgl@detroitmi.gov">davisgl@detroitmi.gov</a></p>
 
 <p><strong>Deputy Chief of Construction Inspections</strong>: Robert DeBerardino<br/>
-<strong>ফোন:</strong>&nbsp;&lt;a href="টেলি: (313) 628-2457"&gt;(313) 628-2457&nbsp;</a><br/>
+<strong>ফোন:</strong>&nbsp;<a href="টেলি: (313) 628-2457">(313) 628-2457&nbsp;</a><br/>
 <strong>ইমেল:</strong>&nbsp;<a href="mailto:DeberardinoR@detroitmi.gov?subject=construction%20Information">DeberardinoR@detroitmi.gov</a></p>
 
 <p><strong>Office Management Assistant :</strong>&nbsp;Glenn Kersey<br/>
-<strong>ফোন:&nbsp;</strong>&lt;a href="টেলি: (313) 224-3201"&gt;(313) 224-3201&nbsp;</a><br/>
+<strong>ফোন:&nbsp;</strong><a href="টেলি: (313) 224-3201">(313) 224-3201&nbsp;</a><br/>
 <strong>ইমেল:&nbsp;</strong><a href="mailto:KerseyG@detroitm.gov">KerseyG@detroitm.gov</a></p>
 
-<p><strong>Fire Escrow:&nbsp;</strong>Casandra Edmonds&nbsp;&lt;a href="টেলি: (313) 628-2425"&gt;(313) 628-2425&nbsp;</a>বা Doug Glavac&nbsp;&lt;a href="টেলি: (313) 628-2660"&gt;(313) 628-2660</a></p>
+<p><strong>Fire Escrow:&nbsp;</strong>Casandra Edmonds&nbsp;<a href="টেলি: (313) 628-2425">(313) 628-2425&nbsp;</a>বা Doug Glavac&nbsp;<a href="টেলি: (313) 628-2660">(313) 628-2660</a></p>
 
 <p>&nbsp;</p>
 
@@ -287,37 +287,37 @@ description:  <p>অনুমোদিত পরিকল্পনা এবং 
 			<td><strong>বয়লার</strong></td>
 			<td>&nbsp;&nbsp;Courtney Jackson</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:JacksonCo@detroitmi.gov">JacksonCo@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="টেলি: (313) 628-2425"&gt;(313) 628-2425</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="টেলি: (313) 628-2425">(313) 628-2425</a></td>
 		</tr>
 		<tr>
 			<td><strong>বিল্ডিং</strong></td>
 			<td>&nbsp;&nbsp;Randy Hargraves</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:HargavesR@detroitmi.gov">HargavesR@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="টেলি: (313) 628-2458"&gt;(313) 628-2458</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="টেলি: (313) 628-2458">(313) 628-2458</a></td>
 		</tr>
 		<tr>
 			<td><strong>ইলেক্টিক্যাল</strong></td>
 			<td>&nbsp;&nbsp;Vincent Cooley</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:CooleyV@detroitmi.gov">CooleyV@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="টেলি: (313) 224-3130"&gt;(313) 224-3130</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="টেলি: (313) 224-3130">(313) 224-3130</a></td>
 		</tr>
 		<tr>
 			<td><strong>এলিভেটর</strong></td>
 			<td>&nbsp;&nbsp;Kurt Johnson</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:KurtJ@detroitmi.gov">KurtJ@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="টেলি: (313) 224-9401"&gt;(313) 224-9401</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="টেলি: (313) 224-9401">(313) 224-9401</a></td>
 		</tr>
 		<tr>
 			<td><strong>মেকানিক্যাল</strong></td>
 			<td>&nbsp;&nbsp;Eddie Smith</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:SmithEd@detroitmi.gov">SmithEd@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="টেলি: (313) 224-3189"&gt;(313) 224-3189</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="টেলি: (313) 224-3189">(313) 224-3189</a></td>
 		</tr>
 		<tr>
 			<td><strong>প্লাম্বিং</strong></td>
 			<td>&nbsp;&nbsp;Rogers Straughter</td>
 			<td>&nbsp;&nbsp;<a href="mailto:StraughterR@detroitmi.gov">StraughterR@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="টেলি: (313) 224-3157"&gt;(313) 224-3157</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="টেলি: (313) 224-3157">(313) 224-3157</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -368,7 +368,7 @@ summary:   <p>অনুবর্তীতার শংসাপত্র</p>
 http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division
 
 title:  সম্পত্তি রক্ষণাবেক্ষণ বিভাগ
-description:  &lt;drupal-entity data-caption="রেজিস্ট্রেশন প্রক্রিয়া শুরু করুন" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"&gt;</drupal-entity>
+description:  <drupal-entity data-caption="রেজিস্ট্রেশন প্রক্রিয়া শুরু করুন" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"></drupal-entity>
 
 <p>শহরের ভাড়ার সমস্ত সম্পত্তি বিধি অনুসারে রেজিস্টার করা এবং অনুবর্তীতার শংসাপত্র নিয়েছে (CofC) তা নিশ্চিত করার দায় ইমারত, নিরাপত্তা, প্রোকৌশলী ও পরিবেশগত বিভাগের (BSEED)।</p>
 
@@ -618,10 +618,10 @@ summary:   <p>ডেট্রোয়েট পরিবহন বিভাগ প
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/transportation-fares
+﻿http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/transportation-fares
 
 title:  পরিবহন ভাড়া
-description:  <p>নিচে সর্ব সাধারণের জন্য ও নির্দিষ্ট পাস সহ DDOT যে যে ধরনের পাস বিক্রয় করে সেগুলোর একটি বিস্তৃত তালিকা রয়েছে। আমাদের ভাড়া নীতি সম্পর্কে আপনার কোন প্রশ্ন থাকলে আমাদের সঙ্গে যোগাযোগ করুন&lt;a href="টেলিফোন: (313) 933-1300"&gt;&nbsp;(313) 933-1300</a>&nbsp;বা &nbsp;<a href="tel:1-888-336-8287">1-888-DDOT-BUS</a>।</p>
+description:  <p>নিচে সর্ব সাধারণের জন্য ও নির্দিষ্ট পাস সহ DDOT যে যে ধরনের পাস বিক্রয় করে সেগুলোর একটি বিস্তৃত তালিকা রয়েছে। আমাদের ভাড়া নীতি সম্পর্কে আপনার কোন প্রশ্ন থাকলে আমাদের সঙ্গে যোগাযোগ করুন<a href="টেলিফোন: (313) 933-1300">&nbsp;(313) 933-1300</a>&nbsp;বা &nbsp;<a href="tel:1-888-336-8287">1-888-DDOT-BUS</a>।</p>
 
 <p>&nbsp;</p>
 
@@ -1518,7 +1518,7 @@ summary:
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2/mental-health-task-force
+﻿http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2/mental-health-task-force
 
 title:  মেন্টাল হেলথ টাস্ক ফোর্স
 description:  <p>মেন্টাল হেলথ টাস্ক ফোর্সের লক্ষ্য হল কাউন্সিলের মঞ্চটি ব্যবহার করে মানসিক স্বাস্থ্য সংক্রান্ত ব্যবস্থাগুলিকে সাহায্য জোগানো যাতে ডিস্ট্রিক্ট 2 এবং পুরো শহরের নাগরিকদের কাছেই আরো ভালো পরিষেবা প্রদান করা যায়।&nbsp; মেন্টাল হেলথ টাস্ক ফোর্স বাস্তবায়িত করার জন্য আমরা যে ছয় মাসের সময় নিয়েছি তার এবং প্রামাণিকতার বার্ষিক পুনর্নবীকরণের উপর নির্ভর করে প্রারম্ভিক লক্ষ্য হবে:</p>
@@ -1700,7 +1700,7 @@ summary:
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/statements
+﻿http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/statements
 
 title:  স্টেটমেন্ট
 description:  <ul>
@@ -1742,7 +1742,7 @@ description:  <ul>
 	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Parking%20Ordinances%20EM%20Amendments%204-8-14.pdf" target="_blank">নতুন পার্কিং সংক্রান্ত জরিমানা</a></li>
 </ul>
 
-<p>&lt;a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield"&gt;Council Update from Councilmember Mary Sheffield</a></p>
+<p><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield">Council Update from Councilmember Mary Sheffield</a></p>
 summary:   
 
 *******************************************************************************
@@ -1836,7 +1836,7 @@ summary:
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/government/city-council/city-council-large
+﻿http://detroitmi.theneighborhoods.org/government/city-council/city-council-large
 
 title:  সিটি কাউন্সিল বৃহত্তর
 description:  <style type="text/css">@media (min-width: 768px) and (max-width: 1024px) {
@@ -1844,7 +1844,7 @@ description:  <style type="text/css">@media (min-width: 768px) and (max-width: 1
 </style>
 <p>জেনé আয়ার্স ডেট্রয়েট সিটি কাউন্সিলের সদস্যদেরকে সামগ্রিকভাবে উপস্থাপিত করছেন। ডেট্রয়েটের এই আদি বাসিন্দা এবং রেনেসাঁ হাই স্কুলের প্রাক্তনী অক্লান্ত পরিশ্রম করে সব বয়স ও প্রেক্ষাপটের বাসিন্দাদের জন্য মজবুত, সুস্থ এবং নিরাপদ পরিবেশ তৈরী করার লক্ষ্যে কাজ করছেন।</p>
 
-<div class="join-email-list">&lt;a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;ইমেল তালিকায় যোগ দিন</a> &lt;a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;আমাদের সাথে যোগাযোগ করুন</a></div>
+<div class="join-email-list"><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank">ইমেল তালিকায় যোগ দিন</a> <a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank">আমাদের সাথে যোগাযোগ করুন</a></div>
 summary:   
 
 *******************************************************************************

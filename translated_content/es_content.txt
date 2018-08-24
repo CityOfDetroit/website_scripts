@@ -1,5 +1,5 @@
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
 
 title:  Información sobre permisos de construcción
 description:  <p>La <strong>División de Revisión de Planos</strong> es responsable de garantizar que las obras o proyectos de construcción cumplan con las Ordenanzas y los Códigos adoptados por la ciudad de Detroit. El personal realiza una revisión de la solicitud de permiso y de los planos de los proyectos propuestos. Esto incluye la verificación de cumplimiento de la Ordenanza de Zonificación de la ciudad de Detroit, el Código de Construcción de Michigan, el Código Residencial de Michigan, el Código de Rehabilitación de Michigan, el Código Eléctrico de Michigan, el Código Mecánico de Michigan, el Código de Plomería de Michigan, el Código Internacional de Gas Combustible, el Código de Ascensores de la Ciudad y el Código de Calderas.&nbsp;<br/>
@@ -40,7 +40,7 @@ summary:   <p>Información sobre la División de Revisión de Planos del Departa
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-license-center
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-license-center
 
 title:  Centro de Licencias Comerciales
 description:  <p>Para abrir un negocio en la ciudad de Detroit, averigüe si se requiere un permiso de cambio de uso para utilizar el edificio para el negocio pretendido o si debe obtener permisos obligatorios. Cuando se complete el permiso, se emitirá un certificado de ocupación.</p>
@@ -62,7 +62,7 @@ summary:   <p>Información sobre la verificación y el cambio de zonificación d
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
 
 title:  Lista de verificación para licencias comerciales
 description:  <p><strong>PASO 1</strong></p>
@@ -84,7 +84,7 @@ Si usted tiene un negocio en Detroit con un nombre ficticio (otro nombre que no 
 
 <p>&nbsp;</p>
 
-<p>&lt;a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names"&gt;Online information on assumed names.</a></p>
+<p><a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names">Online information on assumed names.</a></p>
 
 <p><strong>b)Si incorpora su negocio, debe registrarse:</strong><br/>
 Si incorpora o establece una sociedad limitada, debe registrarse en el estado de Michigan. Obtenga asesoramiento legal para gestionar como propietario único, sociedad, sociedad limitada o empresa. Los formularios de incorporación se encuentran disponibles en:</p>
@@ -100,7 +100,7 @@ Si incorpora o establece una sociedad limitada, debe registrarse en el estado de
 <p><strong>a) Debe obtener un número de impuestos sobre las ventas:</strong></p>
 
 <p>Si tiene algún tipo de negocio en Detroit, debe obtener un número de impuesto sobre la venta. El formulario para obtener el número de impuesto sobre la venta se encuentra disponible en:<br/>
-&lt;a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax"&gt;Michigan Department of Treasury, Collections Division.</a></p>
+<a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax">Michigan Department of Treasury, Collections Division.</a></p>
 
 <p><strong>b) Solicite su número de identificación de impuestos federales:</strong></p>
 
@@ -110,7 +110,7 @@ Si incorpora o establece una sociedad limitada, debe registrarse en el estado de
 477 Michigan Avenue (at Cass)<br/>
 Detroit, MI 48226.</p>
 
-<p>&lt;a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number"&gt;Solicite su número de identificación fiscal federal en línea</a><br/>
+<p><a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number">Solicite su número de identificación fiscal federal en línea</a><br/>
 <br/>
 <strong>Paso 4</strong>&nbsp; &nbsp;</p>
 
@@ -248,7 +248,7 @@ summary:   <p>Busque información sobre las normas e inspecciones edilicias del 
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
 
 title:  Construcción
 description:  <p>La&nbsp;<strong>División de Construcción</strong>&nbsp;es responsable de llevar a cabo las inspecciones de las actividades de construcción para asegurarse de que los proyectos de construcción cumplan con los planos aprobados y con los códigos y normas de edificación. Los seis equipos de negocio son<strong>&nbsp;Calderas, Edificios, Electricidad, Ascensores, Mecánica</strong> y&nbsp;<strong>Plomería</strong>.&nbsp;<br/>
@@ -266,14 +266,14 @@ La<strong>&nbsp;División de&nbsp; Construcción</strong>&nbsp;también inspecci
 <strong>Correo electrónico</strong>:&nbsp;<a href="mailto:davisgl@detroitmi.gov">davisgl@detroitmi.gov</a></p>
 
 <p><strong>Vicedirector de Inspecciones de Construcción</strong>: Robert DeBerardino<br/>
-<strong>Teléfono:</strong>&nbsp;&lt;a href="tel: (313) 628-2457"&gt;(313) 628-2457&nbsp;</a><br/>
+<strong>Teléfono:</strong>&nbsp;<a href="tel: (313) 628-2457">(313) 628-2457&nbsp;</a><br/>
 <strong>Correo electrónico:</strong>&nbsp;<a href="mailto:DeberardinoR@detroitmi.gov?subject=construction%20Information">DeberardinoR@detroitmi.gov</a></p>
 
 <p><strong>Asistente de Dirección:</strong>&nbsp;Glenn Kersey<br/>
-<strong>Teléfono:&nbsp;</strong>&lt;a href="tel: (313) 224-3201"&gt;(313) 224-3201&nbsp;</a><br/>
+<strong>Teléfono:&nbsp;</strong><a href="tel: (313) 224-3201">(313) 224-3201&nbsp;</a><br/>
 <strong>Correo electrónico:&nbsp;</strong><a href="mailto:KerseyG@detroitm.gov">KerseyG@detroitm.gov</a></p>
 
-<p><strong>Garantía contra incendios:&nbsp;</strong>Casandra Edmonds&nbsp;&lt;a href="tel: (313) 628-2425"&gt;(313) 628-2425&nbsp;</a>o Doug Glavac&nbsp;&lt;a href="tel: (313) 628-2660"&gt;(313) 628-2660</a></p>
+<p><strong>Garantía contra incendios:&nbsp;</strong>Casandra Edmonds&nbsp;<a href="tel: (313) 628-2425">(313) 628-2425&nbsp;</a>o Doug Glavac&nbsp;<a href="tel: (313) 628-2660">(313) 628-2660</a></p>
 
 <p>&nbsp;</p>
 
@@ -287,37 +287,37 @@ La<strong>&nbsp;División de&nbsp; Construcción</strong>&nbsp;también inspecci
 			<td><strong>Calderas</strong></td>
 			<td>&nbsp;&nbsp;Courtney Jackson</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:JacksonCo@detroitmi.gov">JacksonCo@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 628-2425"&gt;(313) 628-2425</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="tel: (313) 628-2425">(313) 628-2425</a></td>
 		</tr>
 		<tr>
 			<td><strong>Edificios</strong></td>
 			<td>&nbsp;&nbsp;Randy Hargraves</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:HargavesR@detroitmi.gov">HargavesR@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 628-2458"&gt;(313) 628-2458</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="tel: (313) 628-2458">(313) 628-2458</a></td>
 		</tr>
 		<tr>
 			<td><strong>Electricidad</strong></td>
 			<td>&nbsp;&nbsp;Vincent Cooley</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:CooleyV@detroitmi.gov">CooleyV@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-3130"&gt;(313) 224-3130</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="tel: (313) 224-3130">(313) 224-3130</a></td>
 		</tr>
 		<tr>
 			<td><strong>Ascensores</strong></td>
 			<td>&nbsp;&nbsp;Kurt Johnson</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:KurtJ@detroitmi.gov">KurtJ@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-9401"&gt;(313) 224-9401</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="tel: (313) 224-9401">(313) 224-9401</a></td>
 		</tr>
 		<tr>
 			<td><strong>Mecánica</strong></td>
 			<td>&nbsp;&nbsp;Eddie Smith</td>
 			<td>&nbsp;&nbsp;&nbsp;<a href="mailto:SmithEd@detroitmi.gov">SmithEd@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-3189"&gt;(313) 224-3189</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="tel: (313) 224-3189">(313) 224-3189</a></td>
 		</tr>
 		<tr>
 			<td><strong>Plomería</strong></td>
 			<td>&nbsp;&nbsp;Rogers Straughter</td>
 			<td>&nbsp;&nbsp;<a href="mailto:StraughterR@detroitmi.gov">StraughterR@detroitmi.gov</a></td>
-			<td>&nbsp;&nbsp;&nbsp;&lt;a href="tel: (313) 224-3157"&gt;(313) 224-3157</a></td>
+			<td>&nbsp;&nbsp;&nbsp;<a href="tel: (313) 224-3157">(313) 224-3157</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -365,10 +365,10 @@ summary:   <p>Certificado de cumplimiento</p>
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division
 
 title:  División de Mantenimiento de Propiedades
-description:  &lt;drupal-entity data-caption="Comience con el proceso de registro" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"&gt;</drupal-entity>
+description:  <drupal-entity data-caption="Comience con el proceso de registro" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"></drupal-entity>
 
 <p>El Departamento de Infraestructura, Ingeniería de Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED) se encarga de controlar que todas las propiedades para alquilar de la ciudad estén debidamente registradas, respeten el código y hayan obtenido un certificado de cumplimiento (certificate of compliance, CofC).</p>
 
@@ -430,7 +430,7 @@ description:  <p>El Departamento de Audiencias Administrativas (Department of Ad
 
 <p>Informe los problemas a través de&nbsp;</p>
 
-&lt;drupal-entity data-caption="Improve Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c1fc5da2-4e64-45af-96a6-8ae086e43f74"&gt;</drupal-entity>
+<drupal-entity data-caption="Improve Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c1fc5da2-4e64-45af-96a6-8ae086e43f74"></drupal-entity>
 
 <p>&nbsp;</p>
 
@@ -621,7 +621,7 @@ summary:   <p>Servicios de paratránsito (ADA) ofrecidos por el Departamento de 
 http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/transportation-fares
 
 title:  Tarifas del transporte
-description:  <p>A continuación, se ofrece una lista integral de todos los distintos tipos de pases que vende el Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT), tanto para el público en general como para los grupos de pasajeros específicos. Si tiene alguna pregunta sobre nuestra política de tarifas, no dude en comunicarse con nosotros al&lt;a href="tel: (313) 933-1300"&gt;&nbsp;(313) 933-1300</a>&nbsp;o al&nbsp;<a href="tel:1-888-336-8287">1-888-DDOT-BUS</a>.</p>
+description:  <p>A continuación, se ofrece una lista integral de todos los distintos tipos de pases que vende el Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT), tanto para el público en general como para los grupos de pasajeros específicos. Si tiene alguna pregunta sobre nuestra política de tarifas, no dude en comunicarse con nosotros al<a href="tel: (313) 933-1300">&nbsp;(313) 933-1300</a>&nbsp;o al&nbsp;<a href="tel:1-888-336-8287">1-888-DDOT-BUS</a>.</p>
 
 <p>&nbsp;</p>
 
@@ -743,7 +743,7 @@ summary:   <p>El DDOT es el transporte de Detroit. Como el organismo de transpor
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/health-department/birth-and-death-certificates
+﻿http://detroitmi.theneighborhoods.org/departments/health-department/birth-and-death-certificates
 
 title:  Certificados de nacimiento y de defunción
 description:  <p>Desde el 2014, todas las personas deben obtener los certificados de nacimiento y de defunción emitidos por Detroit a través de la Secretaría del condado de Wayne. El Departamento de Promoción de la Salud y el Bienestar de Detroit (Detroit Department of Health and Wellness Promotion) cerró su División de Registro Civil permanentemente en&nbsp;diciembre de 2013.<br/>
@@ -761,11 +761,11 @@ description:  <p>Desde el 2014, todas las personas deben obtener los certificado
 Los certificados de nacimiento y de defunción también se pueden obtener a través de la&nbsp;<strong>Oficina</strong>&nbsp;<strong>del Registro Civil</strong> del Estado de Michigan<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <strong>Por correo postal:</strong>&nbsp;P.O. Box 30721, Lansing, MI 48909<br/>
-<strong><strong>Para obtener más información:</strong>&nbsp;</strong>&lt;a href="tel:(517) 335-8666"&gt;(517) 335-8666&nbsp;</a></p>
+<strong><strong>Para obtener más información:</strong>&nbsp;</strong><a href="tel:(517) 335-8666">(517) 335-8666&nbsp;</a></p>
 
 <p>&nbsp;</p>
 
-<p>&lt;a href="http://www.waynecounty.com/clerk/248.htm" target="_blank" title="Birth and Death Certificates"&gt;Birth and Death Certificates Online</a></p>
+<p><a href="http://www.waynecounty.com/clerk/248.htm" target="_blank" title="Birth and Death Certificates">Birth and Death Certificates Online</a></p>
 summary:   <p>Certificados de nacimiento y de defunción</p>
 
 *******************************************************************************
@@ -788,10 +788,10 @@ summary:   <p>Programe una cita para obtener la tarjeta de identificación de De
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/health-department/detroit-id
+﻿http://detroitmi.theneighborhoods.org/departments/health-department/detroit-id
 
 title:  Tarjeta de identificación de Detroit
-description:  &lt;drupal-entity alt="Detroit ID Image" data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="974e0ed6-5511-4e2b-acac-178472894657" title="Detroit ID Image"&gt;</drupal-entity>
+description:  <drupal-entity alt="Detroit ID Image" data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="974e0ed6-5511-4e2b-acac-178472894657" title="Detroit ID Image"></drupal-entity>
 
 <p>&nbsp;</p>
 
@@ -826,7 +826,7 @@ summary:   <p>Resumen de cómo obtener una identificación de Detroit</p>
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/health-department/food-safety
+﻿http://detroitmi.theneighborhoods.org/departments/health-department/food-safety
 
 title:  Seguridad de los Alimentos
 description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Departamento de Salud de Detroit (Detroit Health Department's Food Safety Unit) es proteger a las personas de los alimentos contaminados y de las enfermedades transmitidas por los alimentos.</p>
@@ -840,7 +840,7 @@ description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Depa
 	<li>Responde a quejas sobre restaurantes.</li>
 	<li>Inspecciona, otorga licencias y&nbsp;revisa las propuestas para la apertura de&nbsp;pequeñas y medianas empresas de comidas y eventos temporales donde se sirven alimentos.</li>
 	<li>
-	&lt;drupal-entity data-caption="Boletín informativo sobre la seguridad de los alimentos, verano de 2017" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="462ed4cd-396b-44d8-b589-25fa0931021b"&gt;</drupal-entity>
+	<drupal-entity data-caption="Boletín informativo sobre la seguridad de los alimentos, verano de 2017" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="462ed4cd-396b-44d8-b589-25fa0931021b"></drupal-entity>
 	</li>
 </ul>
 
@@ -874,10 +874,10 @@ description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Depa
 
 <ul>
 	<li>
-	&lt;drupal-entity data-caption="Solicitud de licencia" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="39bb9fd6-bc2c-4245-94c0-7dabbaee5568"&gt;</drupal-entity>
+	<drupal-entity data-caption="Solicitud de licencia" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="39bb9fd6-bc2c-4245-94c0-7dabbaee5568"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Tabla de tarifas" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef75c625-07a3-4781-ad2c-10180d0dc1a8"&gt;</drupal-entity>
+	<drupal-entity data-caption="Tabla de tarifas" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef75c625-07a3-4781-ad2c-10180d0dc1a8"></drupal-entity>
 	</li>
 </ul>
 
@@ -889,19 +889,19 @@ description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Depa
 
 <ul>
 	<li>
-	&lt;drupal-entity data-caption="Cómo iniciar una empresa de comida móvil en Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8255329e-6440-409c-9803-8df37bb9d7ac"&gt;</drupal-entity>
+	<drupal-entity data-caption="Cómo iniciar una empresa de comida móvil en Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8255329e-6440-409c-9803-8df37bb9d7ac"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Guía para empresas de comida móviles" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4884655b-0294-4551-af5d-5c37e7f4e1f4"&gt;</drupal-entity>
+	<drupal-entity data-caption="Guía para empresas de comida móviles" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4884655b-0294-4551-af5d-5c37e7f4e1f4"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Revisión de planes de empresas móviles/STFU" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1001d54a-7e03-46f5-b2c9-d7c9e1b09d57"&gt;</drupal-entity>
+	<drupal-entity data-caption="Revisión de planes de empresas móviles/STFU" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1001d54a-7e03-46f5-b2c9-d7c9e1b09d57"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Aviso de intención de STFU" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0da9c4a5-dafb-4902-9201-31e40bb59609"&gt;</drupal-entity>
+	<drupal-entity data-caption="Aviso de intención de STFU" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0da9c4a5-dafb-4902-9201-31e40bb59609"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Formulario de verificación de establecimientos de servicios para empresas de comida móviles" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="492d57bf-c0a7-4fb7-9087-15ea976aefe1"&gt;</drupal-entity>
+	<drupal-entity data-caption="Formulario de verificación de establecimientos de servicios para empresas de comida móviles" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="492d57bf-c0a7-4fb7-9087-15ea976aefe1"></drupal-entity>
 	</li>
 	<li>
 	<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8ca90ada-4cde-48b3-8532-dabb67974d90"></drupal-entity>
@@ -916,13 +916,13 @@ description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Depa
 
 <ul>
 	<li>
-	&lt;drupal-entity data-caption="Guía para la obtención de licencia de seguridad de los alimentos para un establecimiento de comida temporal" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4617835f-ad35-4804-8a22-1e8780a9cc2c"&gt;</drupal-entity>
+	<drupal-entity data-caption="Guía para la obtención de licencia de seguridad de los alimentos para un establecimiento de comida temporal" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4617835f-ad35-4804-8a22-1e8780a9cc2c"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Solicitud de licencia temporal" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="09661254-67c3-42f2-a631-6917c1a7f924"&gt;</drupal-entity>
+	<drupal-entity data-caption="Solicitud de licencia temporal" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="09661254-67c3-42f2-a631-6917c1a7f924"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Cómo celebrar un evento temporal en Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0523d8e-f8cf-4efa-b55a-1d196e1aec10"&gt;</drupal-entity>
+	<drupal-entity data-caption="Cómo celebrar un evento temporal en Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0523d8e-f8cf-4efa-b55a-1d196e1aec10"></drupal-entity>
 	</li>
 </ul>
 
@@ -932,7 +932,7 @@ description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Depa
 
 <p>Consulte los&nbsp;</p>
 
-&lt;drupal-entity data-caption="Planes de acción de emergencia para establecimientos de comida minoristas" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="df472dd1-f9cf-47fa-8853-47d805756f76"&gt;</drupal-entity>
+<drupal-entity data-caption="Planes de acción de emergencia para establecimientos de comida minoristas" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="df472dd1-f9cf-47fa-8853-47d805756f76"></drupal-entity>
 
 <p>&nbsp;si a su restaurante le sucede alguna de las siguientes eventualidades:</p>
 
@@ -955,29 +955,29 @@ description:  <p>El objetivo de la Unidad de Seguridad de los Alimentos del Depa
 
 <ul>
 	<li>
-	&lt;drupal-entity data-caption="Paquete completo de revisión de los planes de la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="756e2f73-52d2-4dd0-af2d-6fee47943f02"&gt;</drupal-entity>
+	<drupal-entity data-caption="Paquete completo de revisión de los planes de la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="756e2f73-52d2-4dd0-af2d-6fee47943f02"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Cómo iniciar una empresa de comida en la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e60beaac-67ba-4691-93a3-fce4c94b2d8e"&gt;</drupal-entity>
+	<drupal-entity data-caption="Cómo iniciar una empresa de comida en la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e60beaac-67ba-4691-93a3-fce4c94b2d8e"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Paquete completo de revisión de los planes de la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f4e70361-822b-489e-9430-57c631f4aaf3"&gt;</drupal-entity>
+	<drupal-entity data-caption="Paquete completo de revisión de los planes de la ciudad de Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f4e70361-822b-489e-9430-57c631f4aaf3"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Ejemplos de procedimientos operativos estándar" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="95833bc2-4ad6-4277-b6a4-fbe26485c342"&gt;</drupal-entity>
+	<drupal-entity data-caption="Ejemplos de procedimientos operativos estándar" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="95833bc2-4ad6-4277-b6a4-fbe26485c342"></drupal-entity>
 	</li>
 	<li>
-	&lt;drupal-entity data-caption="Formulario de variación" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c3392d79-3eb7-49db-874e-e5852b69ccf9"&gt;</drupal-entity>
+	<drupal-entity data-caption="Formulario de variación" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c3392d79-3eb7-49db-874e-e5852b69ccf9"></drupal-entity>
 	</li>
-	<li>&lt;a href="https://www.youtube.com/watch?v=QRmTOKujejY" target="_blank" title="Submit Plan Review for Food Establishment"&gt;Cómo presentar una revisión del plan para un establecimiento de comida (video)</a></li>
-	<li>&lt;a href="https://www.youtube.com/watch?v=B6Ebe2PEBMg" target="_blank" title="Setting up Food Establishment"&gt;Cómo abrir un establecimiento de comida en Michigan (video)</a></li>
+	<li><a href="https://www.youtube.com/watch?v=QRmTOKujejY" target="_blank" title="Submit Plan Review for Food Establishment">Cómo presentar una revisión del plan para un establecimiento de comida (video)</a></li>
+	<li><a href="https://www.youtube.com/watch?v=B6Ebe2PEBMg" target="_blank" title="Setting up Food Establishment">Cómo abrir un establecimiento de comida en Michigan (video)</a></li>
 </ul>
 
 <p>&nbsp;</p>
 
 <h2>Obtenga más información sobre la seguridad de los alimentos</h2>
 
-<p>La seguridad de los alimentos es importante para la buena salud. Todos cumplimos un papel importante en la seguridad de nuestros alimentos. Los proveedores de servicios de comida tienen la responsabilidad de producir alimentos seguros y están regulados por los organismos gubernamentales. En nuestros hogares, hay pasos simples que todos podemos seguir para prevenir enfermedades trasmitidas&nbsp;por los alimentos,&nbsp;incluida la práctica de buena higiene a la hora de manipular los alimentos, cocinar los alimentos a la temperatura correcta y tener en cuenta las pautas de conservación de los alimentos. Para obtener más información&nbsp;sobre la seguridad de los alimentos en el hogar, consulte&nbsp;&lt;a href="http://www.foodsafety.gov/" target="_blank" title="Food Safety"&gt;www.foodsafety.gov</a>.</p>
+<p>La seguridad de los alimentos es importante para la buena salud. Todos cumplimos un papel importante en la seguridad de nuestros alimentos. Los proveedores de servicios de comida tienen la responsabilidad de producir alimentos seguros y están regulados por los organismos gubernamentales. En nuestros hogares, hay pasos simples que todos podemos seguir para prevenir enfermedades trasmitidas&nbsp;por los alimentos,&nbsp;incluida la práctica de buena higiene a la hora de manipular los alimentos, cocinar los alimentos a la temperatura correcta y tener en cuenta las pautas de conservación de los alimentos. Para obtener más información&nbsp;sobre la seguridad de los alimentos en el hogar, consulte&nbsp;<a href="http://www.foodsafety.gov/" target="_blank" title="Food Safety">www.foodsafety.gov</a>.</p>
 summary:   <p>Información sobre la Unidad de Seguridad de los Alimentos del Departamento de Salud (Health Department's Food Safety Unit), donde se indican problemas de seguridad de los alimentos y la forma de evitarlos.</p>
 
 *******************************************************************************
@@ -1036,10 +1036,10 @@ summary:   <p>Información sobre cómo recibir vacunaciones</p>
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/health-department/sexually-transmitted-diseases-clinic
+﻿http://detroitmi.theneighborhoods.org/departments/health-department/sexually-transmitted-diseases-clinic
 
 title:  Clínica de Atención de Enfermedades de Transmisión Sexual
-description:  &lt;drupal-entity alt="Clínica de Atención de Enfermedades de Transmisión Sexual" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="e7af841e-57ac-4b3d-8a30-bff79eed388a"&gt;</drupal-entity>
+description:  <drupal-entity alt="Clínica de Atención de Enfermedades de Transmisión Sexual" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="e7af841e-57ac-4b3d-8a30-bff79eed388a"></drupal-entity>
 
 <h2>Servicios</h2>
 
@@ -1138,10 +1138,10 @@ summary:   <p>Información para solicitar un empleo en la ciudad de Detroit</p>
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/human-resources-department/city-employee-information
+﻿http://detroitmi.theneighborhoods.org/departments/human-resources-department/city-employee-information
 
 title:  Información de empleados de la ciudad
-description:  &lt;drupal-entity alt="Información de empleados de la ciudad" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="0631508b-afb6-4945-8b4a-84986e483976" title="Información de empleados de la ciudad"&gt;</drupal-entity>
+description:  <drupal-entity alt="Información de empleados de la ciudad" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="0631508b-afb6-4945-8b4a-84986e483976" title="Información de empleados de la ciudad"></drupal-entity>
 
 <p>&nbsp;</p>
 
@@ -1518,7 +1518,7 @@ summary:
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2/mental-health-task-force
+﻿http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-2/mental-health-task-force
 
 title:  Grupo de Trabajo de Salud Mental
 description:  <p>El objetivo del Grupo de Trabajo de Salud Mental (Mental Health Task Force) es utilizar la plataforma del Concejo para apoyar el campo de la salud mental y así atender mejor las necesidades de los ciudadanos del Distrito 2 y de la ciudad en general.&nbsp; De acuerdo con nuestro plazo de seis meses para implementar el Grupo de Trabajo de Salud Mental y con la renovación anual de la declaración, los objetivos iniciales serán los siguientes:</p>
@@ -1544,7 +1544,7 @@ description:  <p>El objetivo del Grupo de Trabajo de Salud Mental (Mental Health
 <strong>3:00 p. m. a 4:30 p. m.</strong></p>
 
 <p>Lugar:<br/>
-Coleman A. Young Building -&nbsp;<strong>13th Floor</strong>&nbsp;(dentro de la sala del Concejo Plenario), 2 Woodward, Detroit 48226</p>
+Coleman A. Young Building –&nbsp;<strong>13th Floor</strong>&nbsp;(dentro de la sala del Concejo Plenario), 2 Woodward, Detroit 48226</p>
 
 <p>Fecha:<br/>
 <strong>martes 17 de julio de 2018</strong></p>
@@ -1553,7 +1553,7 @@ Coleman A. Young Building -&nbsp;<strong>13th Floor</strong>&nbsp;(dentro de la 
 <strong>3:00 p. m. a 4:30 p. m.</strong></p>
 
 <p>Lugar:<br/>
-Coleman A. Young Building -&nbsp;<strong>13th Floor</strong>&nbsp;(dentro de la sala del Concejo Plenario), 2 Woodward, Detroit 48226</p>
+Coleman A. Young Building –&nbsp;<strong>13th Floor</strong>&nbsp;(dentro de la sala del Concejo Plenario), 2 Woodward, Detroit 48226</p>
 
 <p>Fecha:&nbsp;<br/>
 <strong>martes 14 de agosto de 2018</strong></p>
@@ -1700,7 +1700,7 @@ summary:
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/statements
+﻿http://detroitmi.theneighborhoods.org/government/city-council/city-council-district-5/statements
 
 title:  Declaraciones
 description:  <ul>
@@ -1742,7 +1742,7 @@ description:  <ul>
 	<li><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Parking%20Ordinances%20EM%20Amendments%204-8-14.pdf" target="_blank">Nuevas multas por mal estacionamiento</a></li>
 </ul>
 
-<p>&lt;a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield"&gt;Council Update from Councilmember Mary Sheffield</a></p>
+<p><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield">Council Update from Councilmember Mary Sheffield</a></p>
 summary:   
 
 *******************************************************************************
@@ -1836,7 +1836,7 @@ summary:
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/government/city-council/city-council-large
+﻿http://detroitmi.theneighborhoods.org/government/city-council/city-council-large
 
 title:  Miembro general del Concejo
 description:  <style type="text/css">@media (min-width: 768px) and (max-width: 1024px) {
@@ -1844,7 +1844,7 @@ description:  <style type="text/css">@media (min-width: 768px) and (max-width: 1
 </style>
 <p>Janeé Ayers es miembro general del Concejo Municipal de Detroit (Detroit City Council). Ayers, que es oriunda de Detroit y exalumna de la Renaissance High School, trabaja de manera incansable a fin de crear un entorno sólido, saludable y seguro para los residentes de todas las edades y de todos los orígenes.</p>
 
-<div class="join-email-list">&lt;a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;Únase a la lista de correo electrónico</a> &lt;a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;Contacto</a></div>
+<div class="join-email-list"><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank">Únase a la lista de correo electrónico</a> <a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank">Contacto</a></div>
 summary:   
 
 *******************************************************************************

@@ -1,5 +1,5 @@
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/building-permit-information
 
 title:   معلومات تصاريح المباني
 description:  <p dir='rtl'>يُعد <strong dir='rtl'>قسم مراجعة الخطط (Plan Review Division)</strong> هو المسؤول عن ضمان امتثال مشاريع التطوير والبناء للمراسيم والقوانين المُتبعة في مدينة ديترويت. يعمل الموظفون على مراجعة طلبات التصريح وخطط المشاريع المقترحة. ويتضمن ذلك التحقق من امتثال المشاريع لمرسوم تخصيص أراضي مدينة ديترويت، وقوانين البناء والسكن وإعادة التأهيل وقانون الكهرباء والقانون الميكانيكي وقانون السباكة السارية في ولاية ميشيغان، وقانون غاز الوقود الدولي وقانون المصاعد وقانون المراجل المُطبقة في المدينة.&nbsp;<br/>
@@ -40,7 +40,7 @@ summary:   <p dir='rtl'>معلومات حول قسم مراجعة الخطط ا�
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-license-center
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-license-center
 
 title:  مركز ترخيص الأعمال (Business License Center)
 description:  <p dir='rtl'>لافتتاح مشروع تجاري في مدينة ديترويت، حدد ما إذا كان يلزم إصدار تصريح بتغيير الاستخدام من أجل استخدام المبنى للغرض التجاري المقصود أو للحصول على أي تصاريح مطلوبة. سيتم إصدار شهادة إشغال عند إكمال أي تصريح.</p>
@@ -62,7 +62,7 @@ summary:   <p dir='rtl'>معلومات عن فحص تخصيص الأراضي و�
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/business-licenses-checklist
 
 title:  قائمة مراجعة التراخيص التجارية
 description:  <p dir='rtl'><strong dir='rtl'>الخطوة الأولى</strong></p>
@@ -84,7 +84,7 @@ description:  <p dir='rtl'><strong dir='rtl'>الخطوة الأولى</strong><
 
 <p dir='rtl'>&nbsp;</p>
 
-<p dir='rtl'>&lt;a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names"&gt;Online information on assumed names.</a></p>
+<p dir='rtl'><a href="http://www.waynecounty.com/clerk/assumed_names.htm" target="_blank" title="Wayne County Clerk Assumed Names">Online information on assumed names.</a></p>
 
 <p dir='rtl'><strong dir='rtl'>ب) إذا كنت تؤسس شركة تجارية فيجب عليك تسجيلها</strong><br/>
 إذا كنت تؤسس شركة تجارية أو شراكة محدودة، فيجب عليك تسجيلها في ولاية ميشيغان. يرجى الحصول على استشارة قانونية بشأن إدارة عملك كمالك وحيد أو كشراكة أو شراكة محدودة أو مؤسسة. تتوفر نماذج طلبات تأسيس الشركات في:</p>
@@ -100,7 +100,7 @@ description:  <p dir='rtl'><strong dir='rtl'>الخطوة الأولى</strong><
 <p dir='rtl'><strong dir='rtl'>أ) يجب الحصول على رقم هوية ضريبة المبيعات</strong> </p>
 
 <p dir='rtl'>إذا كان لديك أي نوع من أنواع الشركات التجارية  في مدينة ديترويت فيجب أن يكون لديك رقم هوية ضريبة مبيعات. يتوفر نموذج رقم هوية ضريبة المبيعات على:<br/>
-&lt;a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax"&gt;Michigan Department of Treasury, Collections Division.</a></p>
+<a href="http://www.michigan.gov/taxes/0,4676,7-238-43529---,00.html" target="_blank" title="Michigan Sales Tax">Michigan Department of Treasury, Collections Division.</a></p>
 
 <p dir='rtl'><strong dir='rtl'>ب) التقدم بطلب للحصول على رقم بطاقة هوية الضريبة الفيدرالية</strong> </p>
 
@@ -110,7 +110,7 @@ description:  <p dir='rtl'><strong dir='rtl'>الخطوة الأولى</strong><
 477 Michigan Avenue (عند التقاطع مع Cass)<br/>
 ديترويت، ميشيغان 48226.</p>
 
-<p dir='rtl'>&lt;a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number"&gt;التقدم بطلب للحصول على رقم بطاقة هوية الضريبة الفيدرالية عبر الإنترنت</a><br/>
+<p dir='rtl'><a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online" target="_blank" title="Federal Tax ID Number">التقدم بطلب للحصول على رقم بطاقة هوية الضريبة الفيدرالية عبر الإنترنت</a><br/>
 <br/>
 <strong dir='rtl'>الخطوة 4</strong>&nbsp; &nbsp;</p>
 
@@ -194,7 +194,7 @@ summary:   <p dir='rtl'>معلومات عن&nbsp;فريق فحص المراجل 
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-codes-ordinances-and-acts
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-codes-ordinances-and-acts
 
 title:  قوانين البناء والمراسيم والتشريعات
 description:  <drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="f4097b4d-782b-4e20-ac70-78e95a0dbd2c" dir='rtl'></drupal-entity>
@@ -222,7 +222,7 @@ summary:   <p dir='rtl'>يمكنك العثور على مراسيم البناء
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-inspection-information
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction/building-inspection-information
 
 title:  معلومات فحص المباني
 description:  <p dir='rtl'>يتحمل فريق المباني مسؤولية القيام بعمليات تفتيش للبناء وفقًا لتصاريح البناء، للتأكد من أن المنشآت مطابقة للمواصفات المعتمدة في الخطة، وتمتثل لقوانين البناء ومعاييره.</p>
@@ -248,7 +248,7 @@ summary:   <p dir='rtl'>يمكنك العثور على معلومات عن عم�
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/construction
 
 title:  الإنشاءات
 description:  <p dir='rtl'>تتحمل&nbsp;<strong dir='rtl'>دائرة الإنشاءات (Construction Division)</strong>&nbsp;مسؤولية إجراء عمليات التفتيش على أنشطة الإنشاءات لضمان أن تستوفي مشاريع الإنشاءات الخطط المعتمدة، وأن تمتثل لقوانين البناء ومعاييره. وتعتبر فرق التجارة الستة هي<strong dir='rtl'>&nbsp;المراجل والأبنية والأعمال الكهربية والميكانيكية </strong> &nbsp;<strong dir='rtl'>والسباكة</strong>.&nbsp;<br/>
@@ -266,14 +266,14 @@ description:  <p dir='rtl'>تتحمل&nbsp;<strong dir='rtl'>دائرة الإن
 <strong dir='rtl'>البريد الإلكتروني</strong>:&nbsp;<a href="mailto:davisgl@detroitmi.gov" dir='rtl'>davisgl@detroitmi.gov</a> </p>
 
 <p dir='rtl'><strong dir='rtl'>نائب رئيس عمليات التفتيش بدائرة الإنشاءات</strong>: روبرت ديبيراردينو<br/>
-<strong dir='rtl'>هاتف رقم:</strong>&nbsp;&lt;a href="tel: 2457-628 (313)"&gt;2457-628 (313)&nbsp;</a><br/>
+<strong dir='rtl'>هاتف رقم:</strong>&nbsp;<a href="tel: 2457-628 (313)">2457-628 (313)&nbsp;</a><br/>
 <strong dir='rtl'>البريد الإلكتروني:</strong>&nbsp;<a href="mailto:DeberardinoR@detroitmi.gov?subject=construction%20Information" dir='rtl'>DeberardinoR@detroitmi.gov</a></p>
 
 <p dir='rtl'><strong dir='rtl'>مساعد مدير المكتب :</strong>&nbsp;جلين كيرسي<br/>
-<strong dir='rtl'>هاتف:&nbsp;</strong>&lt;a href="هاتف: (313) 224-3201"&gt;(313) 224-3201&nbsp;</a><br/>
+<strong dir='rtl'>هاتف:&nbsp;</strong><a href="هاتف: (313) 224-3201">(313) 224-3201&nbsp;</a><br/>
 <strong dir='rtl'>البريد الإلكتروني:&nbsp;</strong><a href="mailto:KerseyG@detroitm.gov" dir='rtl'>KerseyG@detroitm.gov</a></p>
 
-<p dir='rtl'><strong dir='rtl'>تأمينات الحرائق:&nbsp;</strong>كاساندرا إيدموندز&nbsp;&lt;a href="tel: 2425-628 (313)"&gt;2425-628 (313)&nbsp;</a>أو دوج جلافاك&nbsp;&lt;a href="هاتف رقم: 2660-628 (313)"&gt;2660-628 (313)</a></p>
+<p dir='rtl'><strong dir='rtl'>تأمينات الحرائق:&nbsp;</strong>كاساندرا إيدموندز&nbsp;<a href="tel: 2425-628 (313)">2425-628 (313)&nbsp;</a>أو دوج جلافاك&nbsp;<a href="هاتف رقم: 2660-628 (313)">2660-628 (313)</a></p>
 
 <p dir='rtl'>&nbsp;</p>
 
@@ -287,37 +287,37 @@ description:  <p dir='rtl'>تتحمل&nbsp;<strong dir='rtl'>دائرة الإن
 			<td dir='rtl'><strong dir='rtl'>المراجل</strong> </td>
 			<td dir='rtl'>&nbsp;&nbsp;كورتني جاكسون</td>
 			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:JacksonCo@detroitmi.gov" dir='rtl'>JacksonCo@detroitmi.gov</a> </td>
-			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 2425-628 (313)"&gt;2425-628 (313)</a></td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="رقم هاتف: 2425-628 (313)">2425-628 (313)</a></td>
 		</tr>
 		<tr dir='rtl'>
 			<td dir='rtl'><strong dir='rtl'>الأبنية</strong> </td>
 			<td dir='rtl'>&nbsp;&nbsp;راندي هارجريفز</td>
 			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:HargavesR@detroitmi.gov" dir='rtl'>HargavesR@detroitmi.gov</a> </td>
-			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 2458-628 (313"&gt;2458-628 (313)</a></td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="رقم هاتف: 2458-628 (313">2458-628 (313)</a></td>
 		</tr>
 		<tr dir='rtl'>
 			<td dir='rtl'><strong dir='rtl'>الأعمال الكهربية</strong> </td>
 			<td dir='rtl'>&nbsp;&nbsp;فنسنت كولي</td>
 			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:CooleyV@detroitmi.gov" dir='rtl'>CooleyV@detroitmi.gov</a> </td>
-			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 3130-628 (313"&gt;3130-628 (313)</a></td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="رقم هاتف: 3130-628 (313">3130-628 (313)</a></td>
 		</tr>
 		<tr dir='rtl'>
 			<td dir='rtl'><strong dir='rtl'>المصاعد</strong> </td>
 			<td dir='rtl'>&nbsp;&nbsp;كورت جونسون</td>
 			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:KurtJ@detroitmi.gov" dir='rtl'>KurtJ@detroitmi.gov</a> </td>
-			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 9401-628 (313)"&gt;9401-628 (313)</a></td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="رقم هاتف: 9401-628 (313)">9401-628 (313)</a></td>
 		</tr>
 		<tr dir='rtl'>
 			<td dir='rtl'><strong dir='rtl'>الأعمال الميكانيكية</strong> </td>
 			<td dir='rtl'>&nbsp;&nbsp;إدي سميث</td>
 			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="mailto:SmithEd@detroitmi.gov" dir='rtl'>SmithEd@detroitmi.gov</a> </td>
-			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 3189-628 (313)"&gt;3189-628 (313)</a></td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="رقم هاتف: 3189-628 (313)">3189-628 (313)</a></td>
 		</tr>
 		<tr dir='rtl'>
 			<td dir='rtl'><strong dir='rtl'>السباكة</strong> </td>
 			<td dir='rtl'>&nbsp;&nbsp;روجرز ستروتر</td>
 			<td dir='rtl'>&nbsp;&nbsp;<a href="mailto:StraughterR@detroitmi.gov" dir='rtl'>StraughterR@detroitmi.gov</a> </td>
-			<td dir='rtl'>&nbsp;&nbsp;&nbsp;&lt;a href="رقم هاتف: 3157-628 (313)"&gt;3157-628 (313)</a></td>
+			<td dir='rtl'>&nbsp;&nbsp;&nbsp;<a href="رقم هاتف: 3157-628 (313)">3157-628 (313)</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -365,10 +365,10 @@ summary:   <p dir='rtl'>شهادة مطابقة المستندات   </p>
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division
+﻿http://detroitmi.theneighborhoods.org/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division
 
 title:  قسم صيانة الممتلكات
-description:  &lt;drupal-entity data-caption="بدء التسجيل Process" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"&gt;</drupal-entity>
+description:  <drupal-entity data-caption="بدء التسجيل Process" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="00775746-d595-45a9-acb5-f2c0c61eed98"></drupal-entity>
 
 <p dir='rtl'>تتحمل إدارة البيئة وهندسة السلامة والمباني (BSEED) مسؤولية التأكد من أن جميع العقارات المُؤجرة في المدينة مُسجلة بشكل سليم، حسب القانون، ومن حصولها على شهادة مطابقة المستندات (CofC).</p>
 
@@ -430,7 +430,7 @@ description:  <p dir='rtl'>تأسست إدارة جلسات الاستماع ا�
 
 <p dir='rtl'>قم بالإبلاغ عن المشكلات باستخدام&nbsp;</p>
 
-&lt;drupal-entity data-caption="تحسين ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c1fc5da2-4e64-45af-96a6-8ae086e43f74"&gt;</drupal-entity>
+<drupal-entity data-caption="تحسين ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c1fc5da2-4e64-45af-96a6-8ae086e43f74"></drupal-entity>
 
 <p dir='rtl'>&nbsp;</p>
 
@@ -621,7 +621,7 @@ summary:   <p dir='rtl'>خدمات النقل التكميلية للمعاقي�
 http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation/transportation-fares
 
 title:  تسعيرات وسائل المواصلات
-description:  <p dir='rtl'>فيما يلي قائمة شاملة بجميع أنواع التذاكر المختلفة المبيعة من إدارة النقل بديترويت (DDOT)، لكل من جمهور الرُكاب العام ومجموعات الرُكاب الخصوصيين. من فضلك لا تتردد في التواصل معنا في حالة وجود أي أسئلة بخصوص سياسة الأجور الخاصة بنا في&lt;a href="هاتف رقم: 1300-933 (313)"&gt;&nbsp;1300-933 (313)</a>&nbsp;أو على الرقم&nbsp;<a href="tel:1-888-336-8287" dir='rtl'>BUS-DDOT-888-1</a>.</p>
+description:  <p dir='rtl'>فيما يلي قائمة شاملة بجميع أنواع التذاكر المختلفة المبيعة من إدارة النقل بديترويت (DDOT)، لكل من جمهور الرُكاب العام ومجموعات الرُكاب الخصوصيين. من فضلك لا تتردد في التواصل معنا في حالة وجود أي أسئلة بخصوص سياسة الأجور الخاصة بنا في<a href="هاتف رقم: 1300-933 (313)">&nbsp;1300-933 (313)</a>&nbsp;أو على الرقم&nbsp;<a href="tel:1-888-336-8287" dir='rtl'>BUS-DDOT-888-1</a>.</p>
 
 <p dir='rtl'>&nbsp;</p>
 
@@ -761,11 +761,11 @@ description:  <p dir='rtl'>ابتداءً من عام 2014، يجب الحصول
 يمكن أيضًا الحصول على شهادات الميلاد والوفاة من &nbsp;<strong dir='rtl'>مكتب</strong>&nbsp;<strong dir='rtl'>السجلات المدنية التابع لولاية ميتشغان</strong><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <strong dir='rtl'>من خلال المراسلة على البريد:</strong>&nbsp;صندوق بريد 30721, Lansing, MI 48909<br/>
-<strong dir='rtl'><strong dir='rtl'>لمزيد من المعلومات:</strong>&nbsp;</strong>&lt;a href="tel:(517) 335-8666"&gt;(517) 335-8666&nbsp;</a></p>
+<strong dir='rtl'><strong dir='rtl'>لمزيد من المعلومات:</strong>&nbsp;</strong><a href="tel:(517) 335-8666">(517) 335-8666&nbsp;</a></p>
 
 <p dir='rtl'>&nbsp;</p>
 
-<p dir='rtl'>&lt;a href="http://www.waynecounty.com/clerk/248.htm" target="_blank" title="Birth and Death Certificates"&gt;Birth and Death Certificates Online</a></p>
+<p dir='rtl'><a href="http://www.waynecounty.com/clerk/248.htm" target="_blank" title="Birth and Death Certificates">Birth and Death Certificates Online</a></p>
 summary:   <p dir='rtl'>شهادات الميلاد والوفاة</p>
 
 *******************************************************************************
@@ -791,7 +791,7 @@ summary:   <p dir='rtl'>تحديد موعد لتقديم طلب للحصول ع�
 http://detroitmi.theneighborhoods.org/departments/health-department/detroit-id
 
 title:  Detroit ID
-description:  &lt;drupal-entity alt="Detroit ID Image" data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="974e0ed6-5511-4e2b-acac-178472894657" title="Detroit ID Image"&gt;</drupal-entity>
+description:  <drupal-entity alt="Detroit ID Image" data-caption="documents" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="974e0ed6-5511-4e2b-acac-178472894657" title="Detroit ID Image"></drupal-entity>
 
 <p dir='rtl'>&nbsp;</p>
 
@@ -840,7 +840,7 @@ description:  <p dir='rtl'>يتمثل هدف وحدة السلامة الغذا�
 	<li dir='rtl'>وتتعامل مع شكاوى المطاعم</li>
 	<li dir='rtl'>تفحص وتُرخِّص&nbsp;وتستعرض الاقتراحات المُقدَّمة لافتتاح&nbsp;الأعمال التجارية الغذائية الصغيرة والكبيرة والمناسبات التي يتم فيها تقديم الطعام</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="نشرة السلامة الغذائية لصيف 2017" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="462ed4cd-396b-44d8-b589-25fa0931021b"&gt;</drupal-entity>
+	<drupal-entity data-caption="نشرة السلامة الغذائية لصيف 2017" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="462ed4cd-396b-44d8-b589-25fa0931021b"></drupal-entity>
 	</li>
 </ul>
 
@@ -874,10 +874,10 @@ description:  <p dir='rtl'>يتمثل هدف وحدة السلامة الغذا�
 
 <ul dir='rtl'>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="طلب الحصول على ترخيص" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="39bb9fd6-bc2c-4245-94c0-7dabbaee5568"&gt;</drupal-entity>
+	<drupal-entity data-caption="طلب الحصول على ترخيص" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="39bb9fd6-bc2c-4245-94c0-7dabbaee5568"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="جدول الرسوم" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef75c625-07a3-4781-ad2c-10180d0dc1a8"&gt;</drupal-entity>
+	<drupal-entity data-caption="جدول الرسوم" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ef75c625-07a3-4781-ad2c-10180d0dc1a8"></drupal-entity>
 	</li>
 </ul>
 
@@ -889,19 +889,19 @@ description:  <p dir='rtl'>يتمثل هدف وحدة السلامة الغذا�
 
 <ul dir='rtl'>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="كيفية بدء عمل تجاري متنقل خاص بالأطعمة في ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8255329e-6440-409c-9803-8df37bb9d7ac"&gt;</drupal-entity>
+	<drupal-entity data-caption="كيفية بدء عمل تجاري متنقل خاص بالأطعمة في ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8255329e-6440-409c-9803-8df37bb9d7ac"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="إرشادات الأطعمة المتنقلة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4884655b-0294-4551-af5d-5c37e7f4e1f4"&gt;</drupal-entity>
+	<drupal-entity data-caption="إرشادات الأطعمة المتنقلة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4884655b-0294-4551-af5d-5c37e7f4e1f4"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="مراجعة خطة وحدات الأطعمة العابرة الخاصة (STFU)/المتنقلة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1001d54a-7e03-46f5-b2c9-d7c9e1b09d57"&gt;</drupal-entity>
+	<drupal-entity data-caption="مراجعة خطة وحدات الأطعمة العابرة الخاصة (STFU)/المتنقلة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1001d54a-7e03-46f5-b2c9-d7c9e1b09d57"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="إخطار نية وحدات الأطعمة العابرة الخاصة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0da9c4a5-dafb-4902-9201-31e40bb59609"&gt;</drupal-entity>
+	<drupal-entity data-caption="إخطار نية وحدات الأطعمة العابرة الخاصة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0da9c4a5-dafb-4902-9201-31e40bb59609"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="نموذج تحقق وحدة الدعم" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="492d57bf-c0a7-4fb7-9087-15ea976aefe1"&gt;</drupal-entity>
+	<drupal-entity data-caption="نموذج تحقق وحدة الدعم" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="492d57bf-c0a7-4fb7-9087-15ea976aefe1"></drupal-entity>
 	</li>
 	<li dir='rtl'>
 	<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="8ca90ada-4cde-48b3-8532-dabb67974d90" dir='rtl'></drupal-entity>
@@ -916,13 +916,13 @@ description:  <p dir='rtl'>يتمثل هدف وحدة السلامة الغذا�
 
 <ul dir='rtl'>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="دليل التراخيص والسلامة الغذائية الخاصة بمنشآت تقديم الأطعمة المؤقتة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4617835f-ad35-4804-8a22-1e8780a9cc2c"&gt;</drupal-entity>
+	<drupal-entity data-caption="دليل التراخيص والسلامة الغذائية الخاصة بمنشآت تقديم الأطعمة المؤقتة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="4617835f-ad35-4804-8a22-1e8780a9cc2c"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="طلب الحصول على ترخيص مؤقت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="09661254-67c3-42f2-a631-6917c1a7f924"&gt;</drupal-entity>
+	<drupal-entity data-caption="طلب الحصول على ترخيص مؤقت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="09661254-67c3-42f2-a631-6917c1a7f924"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="كيفية إقامة مناسبة مؤقتة في ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0523d8e-f8cf-4efa-b55a-1d196e1aec10"&gt;</drupal-entity>
+	<drupal-entity data-caption="كيفية إقامة مناسبة مؤقتة في ديترويت" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="b0523d8e-f8cf-4efa-b55a-1d196e1aec10"></drupal-entity>
 	</li>
 </ul>
 
@@ -932,7 +932,7 @@ description:  <p dir='rtl'>يتمثل هدف وحدة السلامة الغذا�
 
 <p dir='rtl'>يُرجى الرجوع إلى&nbsp;</p>
 
-&lt;drupal-entity data-caption="خطط عمل الطوارئ لمنشآت بيع الأطعمة بالتجزئة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="df472dd1-f9cf-47fa-8853-47d805756f76"&gt;</drupal-entity>
+<drupal-entity data-caption="خطط عمل الطوارئ لمنشآت بيع الأطعمة بالتجزئة" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="df472dd1-f9cf-47fa-8853-47d805756f76"></drupal-entity>
 
 <p dir='rtl'>&nbsp;في حالة حدوث انقطاع في مطعمك في:</p>
 
@@ -955,29 +955,29 @@ description:  <p dir='rtl'>يتمثل هدف وحدة السلامة الغذا�
 
 <ul dir='rtl'>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="City of Detroit Complete Plan Review Packet" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="756e2f73-52d2-4dd0-af2d-6fee47943f02"&gt;</drupal-entity>
+	<drupal-entity data-caption="City of Detroit Complete Plan Review Packet" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="756e2f73-52d2-4dd0-af2d-6fee47943f02"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="How to Start a Food Business in the City of Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e60beaac-67ba-4691-93a3-fce4c94b2d8e"&gt;</drupal-entity>
+	<drupal-entity data-caption="How to Start a Food Business in the City of Detroit" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e60beaac-67ba-4691-93a3-fce4c94b2d8e"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="City of Detroit Complete Plan Review Packet" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f4e70361-822b-489e-9430-57c631f4aaf3"&gt;</drupal-entity>
+	<drupal-entity data-caption="City of Detroit Complete Plan Review Packet" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="f4e70361-822b-489e-9430-57c631f4aaf3"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="Examples of Standard Operating Procedures" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="95833bc2-4ad6-4277-b6a4-fbe26485c342"&gt;</drupal-entity>
+	<drupal-entity data-caption="Examples of Standard Operating Procedures" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="95833bc2-4ad6-4277-b6a4-fbe26485c342"></drupal-entity>
 	</li>
 	<li dir='rtl'>
-	&lt;drupal-entity data-caption="Variance Form" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c3392d79-3eb7-49db-874e-e5852b69ccf9"&gt;</drupal-entity>
+	<drupal-entity data-caption="Variance Form" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="c3392d79-3eb7-49db-874e-e5852b69ccf9"></drupal-entity>
 	</li>
-	<li dir='rtl'>&lt;a href="https://www.youtube.com/watch?v=QRmTOKujejY" target="_blank" title="Submit Plan Review for Food Establishment"&gt;تقديم مراجعة خطة لمنشأة الأطعمة (فيديو)</a></li>
-	<li dir='rtl'>&lt;a href="https://www.youtube.com/watch?v=B6Ebe2PEBMg" target="_blank" title="Setting up Food Establishment"&gt;تأسيس منشأة غذائية في ميتشغان (فيديو)</a></li>
+	<li dir='rtl'><a href="https://www.youtube.com/watch?v=QRmTOKujejY" target="_blank" title="Submit Plan Review for Food Establishment">تقديم مراجعة خطة لمنشأة الأطعمة (فيديو)</a></li>
+	<li dir='rtl'><a href="https://www.youtube.com/watch?v=B6Ebe2PEBMg" target="_blank" title="Setting up Food Establishment">تأسيس منشأة غذائية في ميتشغان (فيديو)</a></li>
 </ul>
 
 <p dir='rtl'>&nbsp;</p>
 
 <h2 dir='rtl'>تعرف أكثر على السلامة الغذائية</h2>
 
-<p dir='rtl'>الطعام الآمن ضروري للصحة الجيدة. إننا جميعًا نلعب دورًا رئيسيًا في الحفاظ على سلامة غذائنا. يتحمل مُقدمو خدمات التغذية مسؤولية إنتاج طعام وفي منازلنا، هناك خطوات بسيطة يمكننا جميعًا اتخاذها لوقاية أنفسنا من الأمراض التي تُنقل عبر&nbsp;الطعام،&nbsp;بما في ذلك ممارسة العادات الصحية الجيدة عند مناولة الطعام أو طهيه في درجة حرارة مناسبة أو الدراية بإرشادات تخزين الطعام. لمزيد من المعلومات&nbsp;عن السلامة الغذائية في المنزل، اطلع على&nbsp;&lt;a href="http://www.foodsafety.gov/" target="_blank" title="Food Safety"&gt;www.foodsafety.gov</a>.</p>
+<p dir='rtl'>الطعام الآمن ضروري للصحة الجيدة. إننا جميعًا نلعب دورًا رئيسيًا في الحفاظ على سلامة غذائنا. يتحمل مُقدمو خدمات التغذية مسؤولية إنتاج طعام وفي منازلنا، هناك خطوات بسيطة يمكننا جميعًا اتخاذها لوقاية أنفسنا من الأمراض التي تُنقل عبر&nbsp;الطعام،&nbsp;بما في ذلك ممارسة العادات الصحية الجيدة عند مناولة الطعام أو طهيه في درجة حرارة مناسبة أو الدراية بإرشادات تخزين الطعام. لمزيد من المعلومات&nbsp;عن السلامة الغذائية في المنزل، اطلع على&nbsp;<a href="http://www.foodsafety.gov/" target="_blank" title="Food Safety">www.foodsafety.gov</a>.</p>
 summary:   <p dir='rtl'>معلومات عن وحدة السلامة الغذائية (Food Safety Unit) التابعة لإدارة الصحة (Health Department) والإبلاغ عن مشكلات السلامة الغذائية وكيفية تجنبها.</p>
 
 *******************************************************************************
@@ -1036,10 +1036,10 @@ summary:   <p dir='rtl'>معلومات عن كيفية الحصول على ال�
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/health-department/sexually-transmitted-diseases-clinic
+﻿http://detroitmi.theneighborhoods.org/departments/health-department/sexually-transmitted-diseases-clinic
 
 title:  Sexually Transmitted Diseases Clinic
-description:  &lt;drupal-entity alt="Sexually Transmitted Diseases Clinic" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="e7af841e-57ac-4b3d-8a30-bff79eed388a"&gt;</drupal-entity>
+description:  <drupal-entity alt="Sexually Transmitted Diseases Clinic" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="e7af841e-57ac-4b3d-8a30-bff79eed388a"></drupal-entity>
 
 <h2 dir='rtl'>الخدمات</h2>
 
@@ -1138,10 +1138,10 @@ summary:   <p dir='rtl'>معلومات حول كيفية التقدم للحصو
 
 *******************************************************************************
 
-http://detroitmi.theneighborhoods.org/departments/human-resources-department/city-employee-information
+﻿http://detroitmi.theneighborhoods.org/departments/human-resources-department/city-employee-information
 
 title:  City Employee Information
-description:  &lt;drupal-entity alt="City Employee Info" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="0631508b-afb6-4945-8b4a-84986e483976" title="City Employee Info"&gt;</drupal-entity>
+description:  <drupal-entity alt="City Employee Info" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="0631508b-afb6-4945-8b4a-84986e483976" title="City Employee Info"></drupal-entity>
 
 <p dir='rtl'>&nbsp;</p>
 
@@ -1742,7 +1742,7 @@ description:  <ul dir='rtl'>
 	<li dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/Parking%20Ordinances%20EM%20Amendments%204-8-14.pdf" target="_blank" dir='rtl'>الغرامات الجديدة لوقوف السيارات</a></li>
 </ul>
 
-<p dir='rtl'>&lt;a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield"&gt;Council Update from Councilmember Mary Sheffield</a></p>
+<p dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/Docs/CM%205%20-%20Sheffield/SheffieldLetter3_4.pdf" target="_blank" title="Council Update from Councilmember Mary Sheffield">Council Update from Councilmember Mary Sheffield</a></p>
 summary:   
 
 *******************************************************************************
@@ -1844,7 +1844,7 @@ description:  <style type="text/css" dir='rtl'>@media (min-width: 768px) and (ma
 </style>
 <p dir='rtl'>تعمل جاين آيرزé عضوًا عامًا في مجلس مدينة ديترويت. تعمل ابنة ديترويت, خريجة Renaissance High School بلا كلل, لخلق بيئة ثابتة, وصحية وآمنة للمواطنين من كافة الأعمار والانتماءات.</p>
 
-<div class="join-email-list" dir='rtl'>&lt;a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;انضم إلى قائمة البريد الإلكتروني</a> &lt;a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank"&gt;اتصل بنا</a></div>
+<div class="join-email-list" dir='rtl'><a href="https://public.govdelivery.com/accounts/MIDETROIT/subscriber/new?topic_id=MIDETROIT_54" style="margin-bottom: 30px; display: inline-block;" target="_blank">انضم إلى قائمة البريد الإلكتروني</a> <a href="https://app.smartsheet.com/b/form?EQBCT=92505195717f483eaeb10dd3d0af9bc8" style="margin-bottom: 30px; display: inline-block;" target="_blank">اتصل بنا</a></div>
 summary:   
 
 *******************************************************************************
