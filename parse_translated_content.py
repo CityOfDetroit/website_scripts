@@ -43,10 +43,11 @@ class TranslatedPage():
         Parse an individual file.
         """
 
-        with open(filename) as input:
+        with open(filename, mode="r", encoding="utf-8-sig") as input:
 
             # get destination url
             self.url = input.readline().rstrip()
+
             print(self.url)
 
             # skip blank line
@@ -60,19 +61,19 @@ class TranslatedPage():
             self.desc = self.parse_value(data, 'description')
             self.summary = self.parse_value(data, 'field_summary')
 
-    def output_file(self, url, lang):
+    def output_file(self, output, url, lang):
         """
         Output the translated content.
         """
 
-        self.output.write("\n" + "language: " + self.LANG_MAP[lang])
-        self.output.write("\n" + url)
-        self.output.write("\n")
-        self.output.write("\ntitle:  " + self.title.rstrip())
-        self.output.write("\ndescription:  " + self.desc.rstrip())
-        self.output.write("\nsummary:   " + self.summary.rstrip())
-        self.output.write("\n")
-        self.output.write('\n*******************************************************************************\n')
+        output.write("\n" + "language: " + self.LANG_MAP[lang])
+        output.write("\n" + url)
+        output.write("\n")
+        output.write("\ntitle:  " + self.title.rstrip())
+        output.write("\ndescription:  " + self.desc.rstrip())
+        output.write("\nsummary:   " + self.summary.rstrip())
+        output.write("\n")
+        output.write('\n*******************************************************************************\n')
 
 
 class TranslatedContentParser():
@@ -94,13 +95,14 @@ class TranslatedContentParser():
 
                 self.translations[lang][page.url] = page
 
-    def output(self):
+    def output_content(self):
 
-        for url in list(ar_content.translations.keys()):
+        for url in sorted(self.translations["ar"].keys()):
 
-            for lang, page in self.content.items():
+            for lang in sorted(self.translations.keys()):
 
-                page.output_file(url=self.url, lang=lang)
+                page = self.translations[lang][url]
+                page.output_file(output=self.output, url=url, lang=lang)
 
     def parse(self, argv):
         """
@@ -113,11 +115,11 @@ class TranslatedContentParser():
             "es" : sys.argv[3],
         }
 
-        self.output = open("transltated_content.txt", newline='', mode='wt', encoding='utf-8')
+        self.output = open("translated_content.txt", newline='', mode='wt', encoding='utf-8')
 
         self.parse_files()
 
-        self.output()
+        self.output_content()
 
 
 if __name__ == '__main__':
@@ -126,3 +128,4 @@ if __name__ == '__main__':
         raise Exception("Usage:  <ar directory> <bn directory> <es directory>")
 
     TranslatedContentParser().parse(sys.argv)
+
