@@ -9,6 +9,18 @@ import glob
 
 class TranslatedContentParser():
 
+    CLEANUPS = {
+        "&lt;": "<",
+        "&gt;": ">",
+    }
+
+    def clean_value(self, value):
+
+        for bad, good in self.CLEANUPS.items():
+            value = value.replace(bad, good)
+
+        return value
+
     def parse_value(self, data, name):
 
         ret_val = ''
@@ -18,7 +30,7 @@ class TranslatedContentParser():
             val = val[0]
             ret_val = val.get('value', '')
 
-        return ret_val
+        return self.clean_value(ret_val)
 
     def parse_file(self, filename):
         """
