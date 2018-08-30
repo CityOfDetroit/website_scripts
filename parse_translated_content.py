@@ -58,6 +58,7 @@ class TranslatedPage():
 
             self.title = self.parse_value(data, 'name')
             self.desc = self.parse_value(data, 'description')
+            self.organization_head_information = self.parse_value(data, 'field_organization_head_informat')
             self.summary = self.parse_value(data, 'field_summary')
 
     def output_file(self, url, lang):
@@ -70,6 +71,7 @@ class TranslatedPage():
         self.output.write("\n")
         self.output.write("\ntitle:  " + self.title.rstrip())
         self.output.write("\ndescription:  " + self.desc.rstrip())
+        self.output.write("\norganization information:  " + self.organization_head_information.rstrip())
         self.output.write("\nsummary:   " + self.summary.rstrip())
         self.output.write("\n")
         self.output.write('\n*******************************************************************************\n')
