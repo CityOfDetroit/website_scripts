@@ -67,15 +67,15 @@ class TranslatedPage():
         Output the translated content.
         """
 
-        self.output.write("\n" + "language: " + self.LANG_MAP[lang])
-        self.output.write("\n" + url)
-        self.output.write("\n")
-        self.output.write("\ntitle:  " + self.title.rstrip())
-        self.output.write("\ndescription:  " + self.desc.rstrip())
-        self.output.write("\norganization information:  " + self.organization_head_information.rstrip())
-        self.output.write("\nsummary:   " + self.summary.rstrip())
-        self.output.write("\n")
-        self.output.write('\n*******************************************************************************\n')
+        output.write("\n" + "language: " + self.LANG_MAP[lang])
+        output.write("\n" + url)
+        output.write("\n")
+        output.write("\ntitle:  " + self.title.rstrip())
+        output.write("\ndescription:  " + self.desc.rstrip())
+        output.write("\norganization information:  " + self.organization_head_information.rstrip())
+        output.write("\nsummary:   " + self.summary.rstrip())
+        output.write("\n")
+        output.write('\n*******************************************************************************\n')
 
 
 class TranslatedContentParser():
