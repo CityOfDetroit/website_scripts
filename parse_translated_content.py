@@ -22,6 +22,9 @@ class TranslatedPage():
 
     def clean_value(self, value):
 
+        if not value:
+            return ''
+
         for bad, good in self.CLEANUPS.items():
             value = value.replace(bad, good)
 
@@ -103,8 +106,10 @@ class TranslatedContentParser():
 
             for lang in sorted(self.translations.keys()):
 
-                page = self.translations[lang][url]
-                page.output_file(output=self.output, url=url, lang=lang)
+                page = self.translations[lang].get(url)
+                if page:
+                    page.output_file(output=self.output, url=url, lang=lang)
+
 
     def parse(self, argv):
         """
