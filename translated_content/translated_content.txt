@@ -4724,9 +4724,9 @@ description:  <p dir='rtl'>تود إدارة المياه والصرف الصح�
 	<li dir='rtl'>سداد الديون.</li>
 </ul>
 
-<p dir='rtl'><a href="http:/www.detroitmi.gov/Portals/0/docs/DWSD/Water%20Rate%20Card%202017_Detroit_Retail_Rates_COD.%208-1-17_WEBFINAL.pdf?ver=2017-08-04-111558-603" target="_blank" title="DWSD Water and Sewer Rate Card - 2017-2018">Water and sewer rates for&nbsp;<strong dir='rtl'>عملاء ديترويت</strong>&nbsp;في عام 2017-2018</a></p>
+<p dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/docs/DWSD/Water%20Rate%20Card%202017_Detroit_Retail_Rates_COD.%208-1-17_WEBFINAL.pdf?ver=2017-08-04-111558-603" target="_blank" title="DWSD Water and Sewer Rate Card - 2017-2018">Water and sewer rates for&nbsp;<strong dir='rtl'>عملاء ديترويت</strong>&nbsp;في عام 2017-2018</a></p>
 
-<p dir='rtl'><a href="http:/www.detroitmi.gov/Portals/0/docs/DWSD/Water%20Rate%20Card%202017_Suburban_Rates_COD.%208-1-17_WEBFINAL.pdf?ver=2017-08-04-112608-950" target="_blank" title="Rate Card for Suburban Water and Sewer Customers in 2017-2018">Water and sewer rates for&nbsp;<strong dir='rtl'>عملاء الضواحي</strong>&nbsp;في عام 2017-2018</a></p>
+<p dir='rtl'><a href="http://www.detroitmi.gov/Portals/0/docs/DWSD/Water%20Rate%20Card%202017_Suburban_Rates_COD.%208-1-17_WEBFINAL.pdf?ver=2017-08-04-112608-950" target="_blank" title="Rate Card for Suburban Water and Sewer Customers in 2017-2018">Water and sewer rates for&nbsp;<strong dir='rtl'>عملاء الضواحي</strong>&nbsp;في عام 2017-2018</a></p>
 organization information:  
 summary:   <p dir='rtl'>ملخص للعوامل التي تساهم في عملية مراجعة إدارة المياه والصرف الصحي في ديترويت لتعريفة المياه والصرف الصحي وصرف المياه بمدينة ديترويت.</p>
 
@@ -9746,23 +9746,23 @@ description:  <h2 dir='rtl'>الخدمات الاجتماعية</h2>
 
 <ul dir='rtl'>
 	<li dir='rtl'>مركز موارد إفريقيا</li>
-	<li dir='rtl'><a href="http:/www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
+	<li dir='rtl'><a href="http://www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
 	<li dir='rtl'><a href="https:/www.accesscommunity.org/" target="_blank" dir='rtl'>مركز المجتمع العربي للخدمات الاقتصادية والاجتماعية (ACCESS)</a></li>
-	<li dir='rtl'><a href="http:/ccsem.org/" target="_blank" dir='rtl'>الجمعيات الخيرية الكاثوليكية في جنوب شرق ميشيغان</a></li>
-	<li dir='rtl'><a href="http:/www.chaldeanfoundation.org/" target="_blank" dir='rtl'>مؤسسة المجتمع الكلداني</a></li>
+	<li dir='rtl'><a href="http://ccsem.org/" target="_blank" dir='rtl'>الجمعيات الخيرية الكاثوليكية في جنوب شرق ميشيغان</a></li>
+	<li dir='rtl'><a href="http://www.chaldeanfoundation.org/" target="_blank" dir='rtl'>مؤسسة المجتمع الكلداني</a></li>
 	<li dir='rtl'><a href="https:/freedomhouse.org/" target="_blank" dir='rtl'>منظمة دار الحرية</a></li>
-	<li dir='rtl'><a href="http:/www.globaldetroit.com/" target="_blank" dir='rtl'>شركة Global Detroit</a></li>
-	<li dir='rtl'><a href="http:/www.globaltiesdetroit.org/" target="_blank" dir='rtl'>منظمة Global Ties Detroit</a></li>
+	<li dir='rtl'><a href="http://www.globaldetroit.com/" target="_blank" dir='rtl'>شركة Global Detroit</a></li>
+	<li dir='rtl'><a href="http://www.globaltiesdetroit.org/" target="_blank" dir='rtl'>منظمة Global Ties Detroit</a></li>
 	<li dir='rtl'>المعهد الدولي لحاضرة ديترويت</li>
-	<li dir='rtl'><a href="http:/www.jfsdetroit.org/" target="_blank" dir='rtl'>الخدمات العائلية اليهودية</a></li>
-	<li dir='rtl'><a href="http:/michiganimmigrant.org/" target="_blank" dir='rtl'>مركز ميشيغان لحقوق المهاجرين</a></li>
-	<li dir='rtl'><a href="http:/www.michigan.gov/ona" target="_blank" dir='rtl'>مكتب ميشيغان للأمركيين الجدد</a></li>
+	<li dir='rtl'><a href="http://www.jfsdetroit.org/" target="_blank" dir='rtl'>الخدمات العائلية اليهودية</a></li>
+	<li dir='rtl'><a href="http://michiganimmigrant.org/" target="_blank" dir='rtl'>مركز ميشيغان لحقوق المهاجرين</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/ona" target="_blank" dir='rtl'>مكتب ميشيغان للأمركيين الجدد</a></li>
 	<li dir='rtl'><a href="https:/www.samaritas.org/" target="_blank" dir='rtl'>منظمة Samaritas</a></li>
-	<li dir='rtl'><a href="http:/www.swsol.org/" target="_blank" dir='rtl'>وكالة Southwest Solutions</a></li>
-	<li dir='rtl'><a href="http:/refugees.org/field-office/detroit" target="_blank" dir='rtl'>اللجنة الأمريكية للاجئين والمهاجرين</a></li>
-	<li dir='rtl'><a href="http:/law.wayne.edu/clinics/immigration.php" target="_blank" dir='rtl'>جامعة وين ستيت - المركز القانوني للجوء والهجرة</a></li>
-	<li dir='rtl'><a href="http:/www.welcomematdetroit.org/" target="_blank" dir='rtl'>مرحبًا بكم مات ديترويت</a></li>
-	<li dir='rtl'><a href="http:/welcomingmichigan.org/" target="_blank" dir='rtl'>منظمة Welcoming Michigan</a></li>
+	<li dir='rtl'><a href="http://www.swsol.org/" target="_blank" dir='rtl'>وكالة Southwest Solutions</a></li>
+	<li dir='rtl'><a href="http://refugees.org/field-office/detroit" target="_blank" dir='rtl'>اللجنة الأمريكية للاجئين والمهاجرين</a></li>
+	<li dir='rtl'><a href="http://law.wayne.edu/clinics/immigration.php" target="_blank" dir='rtl'>جامعة وين ستيت - المركز القانوني للجوء والهجرة</a></li>
+	<li dir='rtl'><a href="http://www.welcomematdetroit.org/" target="_blank" dir='rtl'>مرحبًا بكم مات ديترويت</a></li>
+	<li dir='rtl'><a href="hhttp://welcomingmichigan.org/" target="_blank" dir='rtl'>منظمة Welcoming Michigan</a></li>
 </ul>
 
 <p dir='rtl'><a name="Employment" dir='rtl'></a></p>
@@ -9770,15 +9770,15 @@ description:  <h2 dir='rtl'>الخدمات الاجتماعية</h2>
 <h2 dir='rtl'>خدمات التوظيف ومباشرة الأعمال الحرة</h2>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
-	<li dir='rtl'><a href="http:/accessgrowthcenter.org/" target="_blank" dir='rtl'>مركز النمو التابع لمركز المجتمع العربي للخدمات الاقتصادية والاجتماعية</a></li>
-	<li dir='rtl'><a href="http:/www.degc.org/" target="_blank" dir='rtl'>مؤسسة النمو الاقتصادي بديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.descmiworks.com/" target="_blank" dir='rtl'>مؤسسة حلول التوظيف بديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.migtri.org/" target="_blank" dir='rtl'>مبادرة الاحتفاظ بالمواهب العالمية بميشيغان</a></li>
+	<li dir='rtl'><a href="http://www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
+	<li dir='rtl'><a href="http://accessgrowthcenter.org/" target="_blank" dir='rtl'>مركز النمو التابع لمركز المجتمع العربي للخدمات الاقتصادية والاجتماعية</a></li>
+	<li dir='rtl'><a href="http://www.degc.org/" target="_blank" dir='rtl'>مؤسسة النمو الاقتصادي بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.descmiworks.com/" target="_blank" dir='rtl'>مؤسسة حلول التوظيف بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.migtri.org/" target="_blank" dir='rtl'>مبادرة الاحتفاظ بالمواهب العالمية بميشيغان</a></li>
 	<li dir='rtl'>المعهد الدولي لحاضرة ديترويت</li>
-	<li dir='rtl'><a href="http:/www.motorcitymatch.com/" target="_blank" dir='rtl'>برنامج Motor City Match</a></li>
-	<li dir='rtl'><a href="http:/neideasdetroit.org/" target="_blank" dir='rtl'>برنامج NEIdeas</a></li>
-	<li dir='rtl'><a href="http:/www.prosperusdetroit.org/" target="_blank" dir='rtl'>برنامج ProsperUS Detroit</a></li>
+	<li dir='rtl'><a href="http://www.motorcitymatch.com/" target="_blank" dir='rtl'>برنامج Motor City Match</a></li>
+	<li dir='rtl'><a href="http://neideasdetroit.org/" target="_blank" dir='rtl'>برنامج NEIdeas</a></li>
+	<li dir='rtl'><a href="http://www.prosperusdetroit.org/" target="_blank" dir='rtl'>برنامج ProsperUS Detroit</a></li>
 </ul>
 
 <p dir='rtl'><a name="Cultural" dir='rtl'></a></p>
@@ -9787,17 +9787,17 @@ description:  <h2 dir='rtl'>الخدمات الاجتماعية</h2>
 
 <ul dir='rtl'>
 	<li dir='rtl'><a href="https:/www.accesscommunity.org/" target="_blank" dir='rtl'>مركز المجتمع العربي للخدمات الاقتصادية والاجتماعية (ACCESS)</a></li>
-	<li dir='rtl'><a href="http:/www.welcomematdetroit.org/index.php/Entry-Detail/32-African%20Caribbean%20Chambers%20of%20Commerce" target="_blank" dir='rtl'>غرفة التجارة الإفريقية الكاريبية (ACCC)</a></li>
-	<li dir='rtl'><a href="http:/www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
-	<li dir='rtl'><a href="http:/www.welcomematdetroit.org/index.php/Entry-Detail/46-Bangladeshi%20American%20Public%20Affairs%20Committee%20(BAPAC)" target="_blank" dir='rtl'>لجنة الشؤون العامة الأمريكية البنجلاديشية (BAPAC)</a></li>
-	<li dir='rtl'><a href="http:/www.myccco.org/" target="_blank" dir='rtl'>منظمة الثقافة والكرنفال الكاريبية</a></li>
-	<li dir='rtl'><a href="http:/www.gaelicleagueofdetroit.org/" target="_blank" dir='rtl'>دوري الكرة الغيلية والنادي الأمريكي الأيرلندي في ديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.jam1.org/" target="_blank" dir='rtl'>الرابطة الجامايكية في ميشيغان</a></li>
-	<li dir='rtl'><a href="http:/www.us-japan-canada.org/" target="_blank" dir='rtl'>منظمة Japan America Society في ميشيغان وجنوب غرب أونتاريو</a></li>
+	<li dir='rtl'><a href="http://www.welcomematdetroit.org/index.php/Entry-Detail/32-African%20Caribbean%20Chambers%20of%20Commerce" target="_blank" dir='rtl'>غرفة التجارة الإفريقية الكاريبية (ACCC)</a></li>
+	<li dir='rtl'><a href="http://www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
+	<li dir='rtl'><a href="http://www.welcomematdetroit.org/index.php/Entry-Detail/46-Bangladeshi%20American%20Public%20Affairs%20Committee%20(BAPAC)" target="_blank" dir='rtl'>لجنة الشؤون العامة الأمريكية البنجلاديشية (BAPAC)</a></li>
+	<li dir='rtl'><a href="http://www.myccco.org/" target="_blank" dir='rtl'>منظمة الثقافة والكرنفال الكاريبية</a></li>
+	<li dir='rtl'><a href="http://www.gaelicleagueofdetroit.org/" target="_blank" dir='rtl'>دوري الكرة الغيلية والنادي الأمريكي الأيرلندي في ديترويت</a></li>
+	<li dir='rtl'><a href="http://www.jam1.org/" target="_blank" dir='rtl'>الرابطة الجامايكية في ميشيغان</a></li>
+	<li dir='rtl'><a href="http://www.us-japan-canada.org/" target="_blank" dir='rtl'>منظمة Japan America Society في ميشيغان وجنوب غرب أونتاريو</a></li>
 	<li dir='rtl'>الرابطة الليبرية في ميشيغان</li>
-	<li dir='rtl'><a href="http:/www.naiadetroit.org/" target="_blank" dir='rtl'>الرابطة الهندية الأمريكية الشمالية في ديترويت</a></li>
+	<li dir='rtl'><a href="http://www.naiadetroit.org/" target="_blank" dir='rtl'>الرابطة الهندية الأمريكية الشمالية في ديترويت</a></li>
 	<li dir='rtl'>الرابطة السنغالية في ميشيغان</li>
-	<li dir='rtl'><a href="http:/www.welcomematdetroit.org/index.php/Entry-Detail/118-United%20African%20Community%20Organizations%20(UACO)" target="_blank" dir='rtl'>منظمة الجماعة الإفريقية المتحدة (UACO)</a></li>
+	<li dir='rtl'><a href="http://www.welcomematdetroit.org/index.php/Entry-Detail/118-United%20African%20Community%20Organizations%20(UACO)" target="_blank" dir='rtl'>منظمة الجماعة الإفريقية المتحدة (UACO)</a></li>
 </ul>
 organization information:  
 summary:   
@@ -9877,12 +9877,12 @@ title:  التمكين الاقتصادي
 description:  <h2 dir='rtl'>موارد المدينة والولاية</h2>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.michigan.gov/lara/0,4601,7-154-11407---,00.html" target="_blank" title="Michigan Occupational Safety and Health Administration">Michigan Occupational Safety and Health Administration</a></li>
-	<li dir='rtl'><a href="http:/www.michigan.gov/documents/cis_wsh_cet0101_119296_7.htm" target="_blank" title="Employee and Employer Rights and Responsibilities ">Employee and Employer Rights and Responsibilities</a></li>
-	<li dir='rtl'><a href="http:/www.workplacefairness.org/agencies_MI" target="_blank" title="Workplace Fairness">Workplace Fairness</a></li>
-	<li dir='rtl'><a href="http:/www.detroitmi.gov/Detroit-Opportunities/Train-for-Your-Job" title="Train for your job">Train for your job</a></li>
-	<li dir='rtl'><a href="http:/www.detroitmi.gov/Detroit-Opportunities/Find-A-Job" title="Find a Job">Find a Job</a></li>
-	<li dir='rtl'><a href="http:/www.detroitmi.gov/How-Do-I/Find/DPD-Jobs" title="Detroit Police Department Jobs">Detroit Police Department Jobs</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/lara/0,4601,7-154-11407---,00.html" target="_blank" title="Michigan Occupational Safety and Health Administration">Michigan Occupational Safety and Health Administration</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/documents/cis_wsh_cet0101_119296_7.htm" target="_blank" title="Employee and Employer Rights and Responsibilities ">Employee and Employer Rights and Responsibilities</a></li>
+	<li dir='rtl'><a href="http://www.workplacefairness.org/agencies_MI" target="_blank" title="Workplace Fairness">Workplace Fairness</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Detroit-Opportunities/Train-for-Your-Job" title="Train for your job">Train for your job</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/Detroit-Opportunities/Find-A-Job" title="Find a Job">Find a Job</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/How-Do-I/Find/DPD-Jobs" title="Detroit Police Department Jobs">Detroit Police Department Jobs</a></li>
 </ul>
 
 <p dir='rtl'>&nbsp;</p>
@@ -9890,8 +9890,8 @@ description:  <h2 dir='rtl'>موارد المدينة والولاية</h2>
 <h2 dir='rtl'>موارد للمهاجرين</h2>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.michigan.gov/ona/0,5629,7-323-75982---,00.html" target="_blank" dir='rtl'>برنامج حلول ميشيغان الدولية للمواهب (MITS)</a></li>
-	<li dir='rtl'><a href="http:/www.upwardlyglobal.org/" target="_blank" dir='rtl'>منظمة Upwardly Global</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/ona/0,5629,7-323-75982---,00.html" target="_blank" dir='rtl'>برنامج حلول ميشيغان الدولية للمواهب (MITS)</a></li>
+	<li dir='rtl'><a href="http://www.upwardlyglobal.org/" target="_blank" dir='rtl'>منظمة Upwardly Global</a></li>
 </ul>
 
 <p dir='rtl'>&nbsp;</p>
@@ -9899,15 +9899,15 @@ description:  <h2 dir='rtl'>موارد المدينة والولاية</h2>
 <h2 dir='rtl'>دعم مباشرة الأعمال الحرة والتوظيف</h2>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
-	<li dir='rtl'><a href="http:/accessgrowthcenter.org/" target="_blank" dir='rtl'>مركز النمو التابع لمركز المجتمع العربي للخدمات الاقتصادية والاجتماعية</a></li>
-	<li dir='rtl'><a href="http:/www.degc.org/" target="_blank" dir='rtl'>مؤسسة النمو الاقتصادي بديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.descmiworks.com/" target="_blank" dir='rtl'>مؤسسة حلول التوظيف بديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.migtri.org/" target="_blank" dir='rtl'>مبادرة الاحتفاظ بالمواهب العالمية بميشيغان</a></li>
+	<li dir='rtl'><a href="http://www.myacc.org/" target="_blank" dir='rtl'>المجلس العربي الأمريكي والكلداني (ACC)</a></li>
+	<li dir='rtl'><a href="http://accessgrowthcenter.org/" target="_blank" dir='rtl'>مركز النمو التابع لمركز المجتمع العربي للخدمات الاقتصادية والاجتماعية</a></li>
+	<li dir='rtl'><a href="http://www.degc.org/" target="_blank" dir='rtl'>مؤسسة النمو الاقتصادي بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.descmiworks.com/" target="_blank" dir='rtl'>مؤسسة حلول التوظيف بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.migtri.org/" target="_blank" dir='rtl'>مبادرة الاحتفاظ بالمواهب العالمية بميشيغان</a></li>
 	<li dir='rtl'>المعهد الدولي لحاضرة ديترويت</li>
-	<li dir='rtl'><a href="http:/www.motorcitymatch.com/" target="_blank" dir='rtl'>برنامج Motor City Match</a></li>
-	<li dir='rtl'><a href="http:/neideasdetroit.org/" target="_blank" dir='rtl'>برنامج NEIdeas</a></li>
-	<li dir='rtl'><a href="http:/www.prosperusdetroit.org/" target="_blank" dir='rtl'>برنامج ProsperUS Detroit</a></li>
+	<li dir='rtl'><a href="http://www.motorcitymatch.com/" target="_blank" dir='rtl'>برنامج Motor City Match</a></li>
+	<li dir='rtl'><a href="http://neideasdetroit.org/" target="_blank" dir='rtl'>برنامج NEIdeas</a></li>
+	<li dir='rtl'><a href="http://www.prosperusdetroit.org/" target="_blank" dir='rtl'>برنامج ProsperUS Detroit</a></li>
 </ul>
 organization information:  
 summary:   
@@ -10041,9 +10041,9 @@ description:  <p dir='rtl'>فيما يلي قائمة بالموارد في مد
 <p dir='rtl'><strong dir='rtl'>اعرف حقوقك</strong></p>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.michigan.gov/lara/0,4601,7-154-11407---,00.html" target="_blank" title="Michigan Occupational Safety and Health Administration">Michigan Occupational Safety and Health Administration</a></li>
-	<li dir='rtl'><a href="http:/www.michigan.gov/documents/cis_wsh_cet0101_119296_7.htm" target="_blank" title="Employee and Employer Rights and Responsibilities ">Employee and Employer Rights and Responsibilities</a></li>
-	<li dir='rtl'><a href="http:/www.workplacefairness.org/agencies_MI" target="_blank" title="Workplace Fairness">Workplace Fairness</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/lara/0,4601,7-154-11407---,00.html" target="_blank" title="Michigan Occupational Safety and Health Administration">Michigan Occupational Safety and Health Administration</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/documents/cis_wsh_cet0101_119296_7.htm" target="_blank" title="Employee and Employer Rights and Responsibilities ">Employee and Employer Rights and Responsibilities</a></li>
+	<li dir='rtl'><a href="http://www.workplacefairness.org/agencies_MI" target="_blank" title="Workplace Fairness">Workplace Fairness</a></li>
 </ul>
 
 <p dir='rtl'><strong dir='rtl'><a href="https:/detroitatwork.com/job-training" target="_blank" title="Train for your job">تدريب لعملك</a></strong></p>
@@ -10085,7 +10085,7 @@ http://detroitmi.theneighborhoods.org/government/mayors-office/office-immigrant-
 
 title:  الرعاية الصحية
 description:  <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.detroitmi.gov/health" title="Detroit Health Department">Detroit Health Department</a></li>
+	<li dir='rtl'><a href="http://www.detroitmi.gov/health" title="Detroit Health Department">Detroit Health Department</a></li>
 	<li dir='rtl'>برنامج بسموثا</li>
 	<li dir='rtl'><a href="https:/www.healthcare.gov/" target="_blank" title="Affordable Care Act ( ObamaCare)">قانون الرعاية الميسرة (أوباما كير)</a></li>
 </ul>
@@ -10094,7 +10094,7 @@ description:  <ul dir='rtl'>
 <strong dir='rtl'>صحة المرأة</strong></p>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.henryford.com/" target="_blank" title="Henry Ford Hospital">Henry Ford Hospital</a></li>
+	<li dir='rtl'><a href="http://www.henryford.com/" target="_blank" title="Henry Ford Hospital">Henry Ford Hospital</a></li>
 	<li dir='rtl'><a href="https:/www.dmc.org/our-locations/hutzel-women's-hospital" target="_blank" title="Hutzel Women's Hospital">مستشفى Hutzel النسائي</a></li>
 	<li dir='rtl'><a href="https:/www.plannedparenthood.org/health-center/michigan/detroit/48201/detroit-health-center-2890-90630" target="_blank" title="Planned Parenthood Detroit">مستشفى Planned Parenthood بديترويت</a></li>
 </ul>
@@ -10103,9 +10103,9 @@ description:  <ul dir='rtl'>
 <strong dir='rtl'>الصحة النفسية&nbsp;</strong></p>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.newcentercmhs.org/" target="_blank" title="New Center Community Services">New Center Community Services</a></li>
-	<li dir='rtl'><a href="http:/www.centralcityhealth.com/" target="_blank" title="Central City Integrated Health">Central City Integrated Health</a></li>
-	<li dir='rtl'><a href="http:/www.michigan.gov/mdhhs/" target="_blank" title="Michigan Department of Health an Human Services">Michigan Department of Health an Human Services</a></li>
+	<li dir='rtl'><a href="http://www.newcentercmhs.org/" target="_blank" title="New Center Community Services">New Center Community Services</a></li>
+	<li dir='rtl'><a href="http://www.centralcityhealth.com/" target="_blank" title="Central City Integrated Health">Central City Integrated Health</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/mdhhs/" target="_blank" title="Michigan Department of Health an Human Services">Michigan Department of Health an Human Services</a></li>
 </ul>
 organization information:  
 summary:   
@@ -10154,10 +10154,10 @@ description:  <p dir='rtl'>تتطلع مدينة ديترويت إلى مساع�
 
 <ul dir='rtl'>
 	<li dir='rtl'><a href="departments/planning-and-development-department/affordable-home-programs" target="_blank" title="برامج المنازل بأسعار معقولة في مدينة ديترويت">برامج المنازل بأسعار معقولة في مدينة ديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.detroithomeloans.org/" target="_blank" dir='rtl'>المساعدة في إصلاح المنازل - قروض تحسين المنازل بفائدة 0%</a></li>
-	<li dir='rtl'><a href="http:/www.detroithomemortgage.org/" target="_blank" dir='rtl'>الحصول على رهن عقاري - برنامج رهن المنازل بديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.buildingdetroit.org/" style="background-color: rgb(255, 255, 255);" target="_blank" title="Detroit Land Bank">Detroit Land Bank</a></li>
-	<li dir='rtl'><a href="http:/www.waynecountytreasurermi.com/" target="_blank" title="Wayne County Tax Foreclosure Auction">Wayne County Tax Foreclosure Auction</a></li>
+	<li dir='rtl'><a href="http://www.detroithomeloans.org/" target="_blank" dir='rtl'>المساعدة في إصلاح المنازل - قروض تحسين المنازل بفائدة 0%</a></li>
+	<li dir='rtl'><a href="http://www.detroithomemortgage.org/" target="_blank" dir='rtl'>الحصول على رهن عقاري - برنامج رهن المنازل بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.buildingdetroit.org/" style="background-color: rgb(255, 255, 255);" target="_blank" title="Detroit Land Bank">Detroit Land Bank</a></li>
+	<li dir='rtl'><a href="http://www.waynecountytreasurermi.com/" target="_blank" title="Wayne County Tax Foreclosure Auction">Wayne County Tax Foreclosure Auction</a></li>
 </ul>
 organization information:  
 summary:   
@@ -10198,8 +10198,8 @@ description:  <p dir='rtl'>الموارد أدناه هي مراكز أو منظ
 	Detroit, MI 48226&nbsp;<br/>
 	(313) 596-0200</li>
 	<li dir='rtl'><a href="https:/www.accesscommunity.org/human-services/immigration-and-citizenship" target="_blank" title="Access" dir='rtl'>مركز المجتمع العربي للخدمات الاقتصادية والاجتماعية</a></li>
-	<li dir='rtl'><a href="http:/michiganimmigrant.org/" target="_blank" title="Michigan Immigrant Rights Center">Michigan Immigrant Rights Center</a></li>
-	<li dir='rtl'><a href="http:/www.welcomematdetroit.org/images/ALLAgenciesserviceschecklistFINAL53013.pdf" target="_blank" title="Michigan Office of New Americans Legal Help Listing">Michigan Office of New Americans Legal Help Listing</a></li>
+	<li dir='rtl'><a href="http://michiganimmigrant.org/" target="_blank" title="Michigan Immigrant Rights Center">Michigan Immigrant Rights Center</a></li>
+	<li dir='rtl'><a href="http://www.welcomematdetroit.org/images/ALLAgenciesserviceschecklistFINAL53013.pdf" target="_blank" title="Michigan Office of New Americans Legal Help Listing">Michigan Office of New Americans Legal Help Listing</a></li>
 </ul>
 organization information:  
 summary:   
@@ -10291,7 +10291,7 @@ title:  Social الخدمات
 description:  <ul dir='rtl'>
 	<li dir='rtl'><a href="/departments/health-departments" title="البرامج الصحية في مدينة ديترويت">البرامج الصحية في مدينة ديترويت</a></li>
 	<li dir='rtl'><a href="/departments/youth-services" title="برامج الشباب">برامج الشباب</a></li>
-	<li dir='rtl'><a href="http:/www.michigan.gov/mdhhs/0,5885,7-339-73971_7119-21208--,00.html" target="_blank" title="State of Michigan Child Services">State of Michigan Child Services</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/mdhhs/0,5885,7-339-73971_7119-21208--,00.html" target="_blank" title="State of Michigan Child Services">State of Michigan Child Services</a></li>
 	<li dir='rtl'><a href="/departments/law-department/project-clean-slate" target="_blank" title="برنامج Project Clean Slate">برنامج Project Clean Slate</a></li>
 </ul>
 organization information:  
@@ -10332,26 +10332,26 @@ description:  <p dir='rtl'>ريادة الأعمال هي مفتاح النمو 
 
 <ul dir='rtl'>
 	<li dir='rtl'><a href="https:/www.accesscommunity.org/employment-services/entrepreneur-resources/start-business" target="_blank" title="Access" dir='rtl'>مركز المجتمع العربي للخدمات الاقتصادية والاجتماعية (ACCESS)</a></li>
-	<li dir='rtl'><a href="http:/www.degc.org/" title="Detroit Economic Growth Corporation">Detroit Economic Growth Corporation (DEGC)</a></li>
-	<li dir='rtl'><a href="http:/www.motorcitymatch.com/" target="_blank" title="Motor City Match">Motor City Match</a></li>
-	<li dir='rtl'><a href="http:/www.mbda.gov/businesscenters/Detroit" target="_blank" title="Minority Business Development Agency">Minority Business Development Agency</a></li>
+	<li dir='rtl'><a href="http://www.degc.org/" title="Detroit Economic Growth Corporation">Detroit Economic Growth Corporation (DEGC)</a></li>
+	<li dir='rtl'><a href="http://www.motorcitymatch.com/" target="_blank" title="Motor City Match">Motor City Match</a></li>
+	<li dir='rtl'><a href="http://www.mbda.gov/businesscenters/Detroit" target="_blank" title="Minority Business Development Agency">Minority Business Development Agency</a></li>
 </ul>
 
 <p dir='rtl'><strong dir='rtl'>الأعمال التجارية الصغيرة والمؤسسات الحاضنة الناشئة</strong></p>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/techtowndetroit.org/" target="_blank" title="Tech Town">Tech Town</a></li>
+	<li dir='rtl'><a href="http://techtowndetroit.org/" target="_blank" title="Tech Town">Tech Town</a></li>
 	<li dir='rtl'><a href="https:/foodlabdetroit.com/" target="_blank" title="Foodlab Detroit">مجتمع Foodlab Detroit</a></li>
-	<li dir='rtl'><a href="http:/www.greengaragedetroit.com/" target="_blank" title="Green Garage">Green Garage</a></li>
-	<li dir='rtl'><a href="http:/neweconomyinitiative.org/" target="_blank" title="New Economy Initiative">New Economy Initiative</a></li>
+	<li dir='rtl'><a href="http://www.greengaragedetroit.com/" target="_blank" title="Green Garage">Green Garage</a></li>
+	<li dir='rtl'><a href="http://neweconomyinitiative.org/" target="_blank" title="New Economy Initiative">New Economy Initiative</a></li>
 </ul>
 
 <p dir='rtl'><strong dir='rtl'>تطوير الأعمال ودعم المؤسسات</strong></p>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.mbda.gov/businesscenters/detroit" target="_blank" title="Minority Business Development Agency Detroit">Minority Business Development Agency Detroit</a></li>
-	<li dir='rtl'><a href="http:/www.detroitdevelopmentfund.com/" target="_blank" title="Detroit Development Fund">Detroit Development Fund</a></li>
-	<li dir='rtl'><a href="http:/www.degc.org/" target="_blank" title="Detroit Economic Growth Corporation">Detroit Economic Growth Corporation</a></li>
+	<li dir='rtl'><a href="http://www.mbda.gov/businesscenters/detroit" target="_blank" title="Minority Business Development Agency Detroit">Minority Business Development Agency Detroit</a></li>
+	<li dir='rtl'><a href="http://www.detroitdevelopmentfund.com/" target="_blank" title="Detroit Development Fund">Detroit Development Fund</a></li>
+	<li dir='rtl'><a href="http://www.degc.org/" target="_blank" title="Detroit Economic Growth Corporation">Detroit Economic Growth Corporation</a></li>
 </ul>
 organization information:  
 summary:   
@@ -10409,25 +10409,25 @@ title:  منظمة Think Detroit
 description:  <p dir='rtl'><strong dir='rtl'>التوظيف<a name="Employment" dir='rtl'></a></strong></p>
 
 <ul dir='rtl'>
-	<li dir='rtl'><a href="http:/www.michigan.gov/ona/0,5629,7-323-75982---,00.html" target="_blank" dir='rtl'>برنامج حلول ميشيغان الدولية للمواهب (MITS)</a></li>
-	<li dir='rtl'><a href="http:/www.upwardlyglobal.org/" target="_blank" dir='rtl'>منظمة Upwardly Global</a></li>
+	<li dir='rtl'><a href="http://www.michigan.gov/ona/0,5629,7-323-75982---,00.html" target="_blank" dir='rtl'>برنامج حلول ميشيغان الدولية للمواهب (MITS)</a></li>
+	<li dir='rtl'><a href="http://www.upwardlyglobal.org/" target="_blank" dir='rtl'>منظمة Upwardly Global</a></li>
 </ul>
 
 <p dir='rtl'><strong dir='rtl'>الاستثمار<a name="Investment" dir='rtl'></a></strong></p>
 
 <ul dir='rtl'>
 	<li dir='rtl'><a href="https:/www.uscis.gov/eb-5" target="_blank" dir='rtl'>برنامج USCIS EB-5 Immigrant Investor</a></li>
-	<li dir='rtl'><a href="http:/www.michiganbusiness.org/start-up/capital/#competitions" target="_blank" dir='rtl'>بدء شركة (مؤسسة ميشيغان للتنمية الاقتصادية)</a></li>
-	<li dir='rtl'><a href="http:/www.degc.org/" target="_blank" dir='rtl'>مؤسسة النمو الاقتصادي بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.michiganbusiness.org/start-up/capital/#competitions" target="_blank" dir='rtl'>بدء شركة (مؤسسة ميشيغان للتنمية الاقتصادية)</a></li>
+	<li dir='rtl'><a href="http://www.degc.org/" target="_blank" dir='rtl'>مؤسسة النمو الاقتصادي بديترويت</a></li>
 </ul>
 
 <p dir='rtl'><strong dir='rtl'>الإسكان<a name="Housing" dir='rtl'></a></strong></p>
 
 <ul dir='rtl'>
 	<li dir='rtl'><a href="/departments/planning-and-development-department/affordable-home-programs" title="برامج المنازل بأسعار معقولة في مدينة ديترويت">برامج المنازل بأسعار معقولة في مدينة ديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.detroithomeloans.org/" target="_blank" dir='rtl'>المساعدة في إصلاح المنازل - قروض تحسين المنازل بفائدة 0%</a></li>
-	<li dir='rtl'><a href="http:/www.detroithomemortgage.org/" target="_blank" dir='rtl'>الحصول على رهن عقاري - برنامج رهن المنازل بديترويت</a></li>
-	<li dir='rtl'><a href="http:/www.buildingdetroit.org/" target="_blank" dir='rtl'>هيئة المصرف العقاري بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.detroithomeloans.org/" target="_blank" dir='rtl'>المساعدة في إصلاح المنازل - قروض تحسين المنازل بفائدة 0%</a></li>
+	<li dir='rtl'><a href="http://www.detroithomemortgage.org/" target="_blank" dir='rtl'>الحصول على رهن عقاري - برنامج رهن المنازل بديترويت</a></li>
+	<li dir='rtl'><a href="http://www.buildingdetroit.org/" target="_blank" dir='rtl'>هيئة المصرف العقاري بديترويت</a></li>
 	<li dir='rtl'><a href="https:/www.waynecountytreasurermi.com/" target="_blank" dir='rtl'>مزاد الحجز على الممتلكات بمقاطعة وين</a></li>
 </ul>
 
@@ -10435,9 +10435,9 @@ description:  <p dir='rtl'><strong dir='rtl'>التوظيف<a name="Employment" 
 
 <ul dir='rtl'>
 	<li dir='rtl'><a href="https:/oiss.wayne.edu/" target="_blank" dir='rtl'>مكتب الطلاب والباحثين الدوليين بجامعة وين ستيت</a></li>
-	<li dir='rtl'><a href="http:/www.collegeforcreativestudies.edu/admissions/undergraduate-admissions/international-students" target="_blank" dir='rtl'>خدمات الطلاب الدوليين بكلية الدراسات الإبداعية</a></li>
-	<li dir='rtl'><a href="http:/www.udmercy.edu/" target="_blank" dir='rtl'>جامعة ديترويت ميرسي</a></li>
-	<li dir='rtl'><a href="http:/www.wcccd.edu/students/inter_students.htm" target="_blank" dir='rtl'>كلية وين كاونتي كوميونيتي</a></li>
+	<li dir='rtl'><a href="http://www.collegeforcreativestudies.edu/admissions/undergraduate-admissions/international-students" target="_blank" dir='rtl'>خدمات الطلاب الدوليين بكلية الدراسات الإبداعية</a></li>
+	<li dir='rtl'><a href="http://www.udmercy.edu/" target="_blank" dir='rtl'>جامعة ديترويت ميرسي</a></li>
+	<li dir='rtl'><a href="http://www.wcccd.edu/students/inter_students.htm" target="_blank" dir='rtl'>كلية وين كاونتي كوميونيتي</a></li>
 </ul>
 
 <p dir='rtl'><strong dir='rtl'>الهجرة إلى الولايات المتحدة<a name="Immigrate" dir='rtl'></a></strong></p>
@@ -10508,9 +10508,9 @@ http://detroitmi.theneighborhoods.org/government/mayors-office/office-immigrant-
 title:  وسائل النقل
 description:  <p dir='rtl'><a href="/ddot" dir='rtl'>إدارة النقل في ديترويت (Detroit Department of Transportation، DDOT)</a></p>
 
-<p dir='rtl'><a href="http:/www.thepeoplemover.com/" target="_blank" dir='rtl'>نظام Detroit People Mover</a></p>
+<p dir='rtl'><a href="http://www.thepeoplemover.com/" target="_blank" dir='rtl'>نظام Detroit People Mover</a></p>
 
-<p dir='rtl'><a href="http:/www.detroitmi.gov/How-Do-I/Pay/Pay-Parking-Ticket" dir='rtl'>تذاكر وقوف السيارات في مدينة ديترويت</a></p>
+<p dir='rtl'><a href="http://www.detroitmi.gov/How-Do-I/Pay/Pay-Parking-Ticket" dir='rtl'>تذاكر وقوف السيارات في مدينة ديترويت</a></p>
 organization information:  
 summary:   
 
