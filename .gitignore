@@ -11,9 +11,11 @@ __pycache__/
 build/
 bin/
 include/
+Scripts/
 develop-eggs/
 dist/
 downloads/
+tcl/
 eggs/
 .eggs/
 lib/
