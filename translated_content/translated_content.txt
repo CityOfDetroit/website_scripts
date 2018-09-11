@@ -1718,6 +1718,277 @@ summary:   <p>Información sobre las oportunidades de voluntariado en Detroit</p
 
 *******************************************************************************
 
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-public-works
+
+title:  পূর্ত বিভাগ
+description:  <p>পূর্ত বিভাগের ভূমিকা হল পরিবেশ ও পরিকাঠামোগত পরিষেবাগুলি প্রদান করা যেগুলির নকশা করা হয়েছে সিটির আবাসিক, আগন্তুক ও গ্রাহকদের পরিচ্ছন্নতা ও কার্যকর চলাচল নিশ্চিত করার জন্য; বেসরকারি ঠিকাদারদের দ্বারা প্রদর্শিত কঠিন বর্জ্য সংগ্রহের কার্যকলাপ, যার মধ্যে রাস্তার ধারের রিসাইকেল করাও পড়ে, তার দেখাশোনা ও ব্যবস্থাপনা প্রদান করা। আমরা বেআইনিভাবে খালাস করা জঞ্জাল অপসারণ সহজতর করি এবং &nbsp;সড়ক ও গলিগুলির নির্মাণ, রক্ষণাবেক্ষণ ও কারিগরি নকশা প্রদান করি; তুষার ও বরফ সরানোর কাজ করি, ফুটপাথের রক্ষণাবেক্ষণ, তথা ট্রাফিকের দ্রুত ব্যবস্থাপন ও নিয়ন্ত্রণের জন্য ব্যবস্থা ও যন্ত্রাদি স্থাপন ও রক্ষণাবেক্ষণ করি।</p>
+
+<h4>ডেট্রয়েট সিটি পরিষেবাসমূহের মানচিত্র</h4>
+
+<p><strong>আপনার আবর্জনা, রিসাইকেল করার, বেশি পরিমাণের ও প্রাঙ্গণের বর্জ্য তুলে নেওয়া হচ্ছে তা লক্ষ্য করুন:</strong>&nbsp;আপনি যেখানে বাস করেন মানচিত্রের সেই জায়গায় ক্লিক করুন অথবা আপনার ঠিকানা টাইপ করুন। তারপর "আমার সময়সূচি" বেছে নিন অথবা আপনার প্রতিটি তুলে নেওয়ার আগের সন্ধেয় অনুস্মারক টেক্সট মেসেজ পেতে ফোন নম্বর প্রবেশ করান। আপনি আপনার রাস্তার ঠিকানা এখানে টেক্সট করে সাপ্তাহিক অনুস্মারকেও সাইন আপ করতে পারেন&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="14f31b9e-249b-4743-8bf9-913309314ff7"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="76673aca-4275-410f-acba-51d636724a7b"></drupal-entity>
+
+<p>&nbsp;</p>
+<!--
+<p><iframe frameborder="0" height="700px" scrolling="no" src="http://detroitmi.gov/waste_map/index.html" width="100%"></iframe></p>
+-->
+
+<p>আপনার নিজের আবর্জনা, রিসাইক্লিং বা অন্য কোনো বর্জ্য তোলার পরিষেবা নিয়ে সমস্যা হলে অনুগ্রহ করে আপনার প্রদানকারীর সঙ্গে নিম্নলিখিত নম্বরগুলিতে যোগাযোগ করুন।</p>
+
+<p><strong>GFL এর সঙ্গে (844) GO.GFLUSA বা (844) 464-3587 নম্বরে।</strong></p>
+
+<p><strong>Advanced Disposal এর সঙ্গে (844) 2-DETROIT বা (844) 233-8764 নম্বরে।</strong></p>
+organization information:  
+summary:   <p>পূর্ত বিভাগের ভূমিকা হল পরিবেশ ও পরিকাঠামোগত পরিষেবাগুলি প্রদান করা যেগুলির নকশা করা হয়েছে সিটির আবাসিক, আগন্তুক ও গ্রাহকদের পরিচ্ছন্নতা ও কার্যকর চলাচল নিশ্চিত করার জন্য; বেসরকারি ঠিকাদারদের দ্বারা প্রদর্শিত কঠিন বর্জ্য সংগ্রহের কার্যকলাপ, যার মধ্যে রাস্তার ধারের রিসাইকেল করাও পড়ে, তার দেখাশোনা ও ব্যবস্থাপনা প্রদান করা। আমরা বেআইনিভাবে খালাস করা জঞ্জাল অপসারণ সহজতর করি এবং সড়ক ও গলিগুলির নির্মাণ, রক্ষণাবেক্ষণ ও কারিগরি নকশা প্রদান করি; তুষার ও বরফ সরানোর কাজ করি, ফুটপাথের রক্ষণাবেক্ষণ, তথা ট্রাফিকের দ্রুত ব্যবস্থাপন ও নিয়ন্ত্রণের জন্য ব্যবস্থা ও যন্ত্রাদি স্থাপন ও রক্ষণাবেক্ষণ করি।</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-public-works/contact-us
+
+title:  আমাদের সঙ্গে যোগাযোগ করুন
+description:  <drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="1f8b49be-424f-4f10-a599-ad3353686af6"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="f4dd1fa6-40d5-4085-9334-7e6b31d10f86"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="4ae06421-411c-4afe-8903-3e4a42dabf2c"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="32676135-8bc3-4f6b-8824-5cfd08054e2f"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="8759677e-d15c-473e-93cd-0da652a6f3c8"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="f573fe4d-c106-437d-863a-266b188cf360"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="491c4077-7b96-4ac0-ba20-2e05098d07bc"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="a1af1356-bb08-4844-81a9-0d7a212588f5"></drupal-entity>
+organization information:  
+summary:   <p>ডেট্রয়েট পূর্ত বিভাগের বিভিন্ন শাখার যোগাযোগের তথ্য</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-public-works/dead-animal-removal
+
+title:  মৃত প্রাণী অপসারণ
+description:  <p>প্রাণী নিয়ন্ত্রণে &nbsp;যোগাযোগ করতে &nbsp; &nbsp; নম্বরে ফোন করুন</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="ae0e658a-6aeb-4fba-9d14-face245b69d9"></drupal-entity>
+
+<p>মৃত প্রাণীর বিষয়ে জানাতে&nbsp; ফোন করুন<a href="ফোন: (313) 876-0004">&nbsp;</a></p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="f5106b4d-ed82-4deb-8cea-4f565ba09af1"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>পূর্ত বিভাগের কঠিন বর্জ্য শাখা আমাদের বিভাগে রিপোর্ট করলে আবাসিক পরিবারের থেকে এবং সিটির রাস্তা থেকে মৃত কুকুর ও বেড়াল সংগ্রহ করবে।</p>
+
+<p>আমাদের সংগ্রহকারীগণ মৃত প্রাণী সংগ্রহ করতে ব্যক্তিগত সম্পত্তিতে প্রবেশ করবেন না।</p>
+
+<p>আমরা বাণিজ্যিক স্থানগুলি থেকে মৃত প্রাণী সংগ্রহ করি না।</p>
+organization information:  
+summary:   <p>মৃত প্রাণী অপসারণ ও কীভাবে মৃত প্রাণীর বিষয়ে জানাতে হবে সেই সম্পর্কিত তথ্য</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-public-works/refuse-collection
+
+title:  জঞ্জাল সংগ্রহ
+description:  <p><strong>জঞ্জাল সংগ্রহ সম্পর্কিত গুরুত্বপূর্ণ তথ্য</strong></p>
+
+<p>দুজন&nbsp;ঠিকাদার ডেট্রয়েট সিটির আবর্জনা&nbsp;তুলে নেন, বর্জ্য প্রাঙ্গণে রাখেন এবং রিসাইকেল করেন।</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity alt="Disposal" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="c11fbb63-b364-48be-bc87-6f3cc9d27465"></drupal-entity>
+
+<p>GFL ডেট্রয়েট সিটিতের পূর্বদিকে ও সেইসঙ্গে দক্ষিণ-পশ্চিম দিকেও জঞ্জাল সংগ্রহ ও রিসাইকেল করে।</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="64fd5947-3b7e-4049-8c39-af85fb6757e8"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>GFL এর জঞ্জাল সংগ্রহ সম্পর্কে স্প্যানিশ ভাষায় আরও তথ্য।</p>
+
+<drupal-entity data-caption="GFL এর জঞ্জাল সংগ্রহ সম্পর্কে স্প্যানিশ ভাষায় আরও তথ্য।" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="7ff89b17-0147-469a-8d83-649e42a7e787"></drupal-entity>
+
+<p>Advanced Disposal পশ্চিমদিকে জঞ্জাল সংগ্রহ ও রিসাইকেল করে।</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="2e5492ab-65e0-400a-af4e-173d4f302a23"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p><strong>সময়সূচি:</strong></p>
+
+<p>প্রতি সপ্তাহে – জঞ্জাল সংগ্রহ</p>
+
+<p>এক সপ্তাহ অন্তর – বেশি পরিমাণে, বর্জ্য প্রাঙ্গণে রাখা ও রিসাইকেল করা</p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="3a0b5ff8-3cb8-4a99-a51e-36427bbed987"></drupal-entity>
+
+<p>&nbsp;</p>
+organization information:  
+summary:   <p>জঞ্জাল সংগ্রহ</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-public-works/refuse-collection/bulk-yard-waste/curbside-bulk-waste-pickup
+
+title:  রাস্তার ধারের দিকের বেশি আয়তনের বর্জ্য তোলা
+description:  <h4>GFL এবং Advanced Disposal এর দ্বারা প্রতি দুসপ্তাহে রাস্তার ধারের দিকের বেশি আয়তনের বর্জ্য তোলা। আবর্জনার পরিমাণ 1 ঘন গজ বা তার কম হওয়া আবশ্যক।</h4>
+
+<p>আপনার পরবর্তী বেশি আয়তনের দিনটি কবে তা দেখে নিতে <a href="/PublicWorks">এখানে ক্লিক করুন</a>।</p>
+
+<p>দ্রষ্টব্য: কেবলমাত্র গৃহস্থালীর জিনিসই গ্রহণ করা হয় - কোনো নির্মাণের আবর্জনা গ্রহণ করা হবে না! আপনার নির্মাণের আবর্জনা থাকলে আপনি ডেট্রয়েট সিটির&nbsp;<a href="/Government/Departments-and-Agencies/Public-Works/Bulk-Waste-Collection-Service">বেশি আয়তনের সংগ্রহ পরিষেবা</a> ব্যবহার করতে পারেন &nbsp;অথবা আপনার আবর্জনা&nbsp;<a href="/Government/Departments-and-Agencies/Public-Works/J-Fons-Transfer-Station">J-Fons Transfer Station</a>-এ নিয়ে যেতে পারেন।</p>
+
+<p>আপনার নিয়মিত আবর্জনা সংগ্রহ সংক্রান্ত কোনো প্রশ্ন আছে? GFL বা Advanced Disposal এর সঙ্গে যোগাযোগ করুন:</p>
+
+<ul>
+	<li>পূর্বদিকে:&nbsp;
+	<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="05e8d331-be62-4763-8dfd-1a8b8cf1137e"></drupal-entity>
+	</li>
+	<li>পশ্চিমদিকে:&nbsp;
+	<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="fc9cd659-ce27-4b26-acd5-ba24f26ba677"></drupal-entity>
+	</li>
+</ul>
+
+<p>কোথায় ফোন করবেন সেই সম্পর্কে নিশ্চিত নন?&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="32676135-8bc3-4f6b-8824-5cfd08054e2f"></drupal-entity>
+organization information:  
+summary:   <p>রাস্তার ধারে কীভাবে বেশি পরিমাণে বর্জ্য তুলে নেওয়া হবে সেই সম্পর্কে তথ্য</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-public-works/refuse-collection/recycle
+
+title:  রিসাইকেল করুন
+description:  <h2>রিসাইক্লিং&nbsp;করান</h2>
+
+<p>ডেট্রয়েটে রিসাইক্লিং-এ নতুন অথবা এখনও রিসাইক্লিং এর পাত্র খুঁজে পাচ্ছেন না?&nbsp;রাস্তার ধারের রিসাইক্লিং সম্পর্কে আরও তথ্য জেনে নিন এবং একটি&nbsp;<strong>বিনামূল্যের</strong>&nbsp;রিসাইকেল করার পাত্র জিততে ইন্টারেক্টিভ "রিসাইক্লিং চ্যালেঞ্জ" গেমটি খেলুন।</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="1cc93515-7d54-4d78-8f60-41ca0970ebf5"></drupal-entity>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="3d53c4e5-2a7e-4b3f-8921-000fa025313d"></drupal-entity>
+
+<p>কোন কোন জিনিস "ওয়েস্ট সর্টার দিয়ে রিসাইকেল করা যাবে তা জেনে নিন "</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="60041683-5d68-426c-a46b-7d438d0dd628"></drupal-entity>
+
+<p>&nbsp;</p>
+organization information:  
+summary:   <p>ডেট্রয়েটে কীভাবে রিসাইকেল করতে হবে সেই সম্পর্কে তথ্য</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-public-works/street-maintenance
+
+title:  সড়ক রক্ষণাবেক্ষণ
+description:  <p><u><strong>রক্ষণাবেক্ষণ / মেরামতির কাজ</strong></u></p>
+
+<ul>
+	<li>গর্ত, রাস্তা বসে যাওয়া ও রাস্তার ঢিবি সহ সড়ক ও গলির মেরামতি।</li>
+	<li>সিটির কাঁচা গলিতে নুড়িপাথর ও রাস্তা সমান করার পরিষেবা প্রদান করা (মরশুমি)।&nbsp;<br/>
+	(আবহাওয়া ঠিক থাকলে মে থেকে নভেম্বর)</li>
+	<li>তালি দেওয়ার উপকরণ দিয়ে সাময়িক মেরামতি করার দ্বারা ফুটপাথের অসুরক্ষিত অবস্থা দূর করা।</li>
+	<li>ফ্রিওয়ের সার্ভিস সড়ক ও ফ্রিওয়ের প্রবেশ / প্রস্থানের ঢালের নির্দিষ্ট সময় অন্তর সাফাই ও ঘাসকাটার কাজ প্রদান করা।</li>
+</ul>
+
+<p><u><strong>তুষার ও বরফ সরানো</strong></u></p>
+
+<p>তুষারপাতের সময়, পূর্ত বিভাগ (DPW) সড়কের পৃষ্ঠের অবস্থা প্রায় স্বাভাবিক অবস্থায় ফিরিয়ে আনতে প্রয়োজনীয় মাত্রার পরিষেবা প্রদান করবে। পরিষেবার মাত্রা ও প্রকার নির্ভর করবে তুষার বা বরফের পরিমাণ, আবহাওয়ার অবস্থা ও দিনের কোন সময় তার উপর। বিভাগ থেকে ততক্ষণ পর্যন্ত ক্রমাগত রাস্তায় ট্রাক চালিয়ে যাওয়া হবে যতক্ষণ না সবকটি প্রধান সরাসরি সড়ক গ্রহণযোগ্য মাত্রায় আসে। DPW-কে তুষার সরানোর কাজকর্ম করতে প্রণোদিত করার জন্য জমা তুষারের কোনো ন্যূনতম পরিমাণ নেই। সড়কপৃষ্ঠের অবস্থা পিচ্ছিল হয়ে যাওয়ার কোনো সম্ভাবনা থাকলে পর তুষার ও বরফ নিয়ন্ত্রণের প্রক্রিয়া সম্পাদিত হয়।<br/>
+<br/>
+ডেট্রয়েট সিটির শীতের বিপর্যস্তকারী আবহাওয়ার জন্য আবাসিকদের সতর্ক ও প্রস্তুত করার একটি ব্যবস্থা রয়েছে। তিনটি মাত্রার আবহাওয়ার&nbsp;<br/>
+অবস্থা রয়েছে।</p>
+
+<p><strong>মাত্রা 1</strong><br/>
+3 ইঞ্চি বা তার কম তুষার এবং/অথবা জমে যাওয়ার মতো বৃষ্টি</p>
+
+<p>মাত্রা 1, অবস্থার থাকলে তা যাতায়াতের সামর্থ্যকে গুরুতরভাবে প্রভাবিত করে এবং হিমাঙ্কের তাপমাত্রা চলতে থাকলে তুষার থেকে যাবে এবং জমতে থাকবে। মাত্রা 1, অবস্থায় পূর্ত বিভাগ কেবলমাত্র প্রধান যাতায়াতের পথগুলিতেই লবণ ছড়াবে।</p>
+
+<p><strong>মাত্রা 2</strong><br/>
+3 থেকে 6 ইঞ্চি তুষার এবং/অথবা জমে যাওয়ার মতো বৃষ্টি</p>
+
+<p>মাত্রা 2 অবস্থার মধ্যে পড়ে বেশি করে তুষারপাত যে অবস্থায় লবণ ছড়ানোর ও কর্ষণের জন্য আরও বেশি করে গাড়ি ব্যবহার করার দরকার। এক্ষেত্রে, কেবলমাত্র প্রধান যাতায়াতের পথগুলিতেই লবণ ছড়ানো হবে।</p>
+
+<p><strong>মাত্রা 3</strong><br/>
+6 ইঞ্চি বা তার বেশি তুষার এবং/অথবা জমে যাওয়ার মতো বৃষ্টি</p>
+
+<p>মাত্রা 3 অবস্থায়<br/>
+চরম শীতকালীন অবস্থা থাকে।<br/>
+মেয়র তুষারঘটিত জরুরি অবস্থা জারি করতে পারেন।<br/>
+হিমাঙ্কের নীচের তাপমাত্রা স্বাস্থ্যের ঝুঁকি তৈরি করতে পারে।<br/>
+আবর্জনা সংগ্রহ প্রভাবিত হতে পারে।<br/>
+ঠিকাদারেরা আবাসনের রাস্তাগুলিতে কর্ষণ করতে পারেন।</p>
+
+<p>বরফ সরানো(তুষারপাত শুরু হওয়ার পর রাস্তায় লবণ ছড়ানো) এবং বরফ-প্রতিরোধ(তুষারপাত বা বরফ জমতে শুরু হওয়ার আগে লবণের তরল দ্রবণ বা ক্যালসিয়াম ক্লোরাইড দ্রবণ প্রয়োগ করা) এর মাধ্যমে তুষার ও বরফ সরানো সাধিত হবে। সেইসঙ্গে, তিন ইঞ্চির বেশি তুষার জমে গেলে রাস্তা কর্ষণ করাকে কাজে লাগানো যাবে।</p>
+
+<p>একাধিক দিন ধরে কোনো ঝড় হতে থাকলে সড়কের অবস্থা গ্রহণযোগ্য করতে প্রয়োজনে বিভাগ থেকে সারাদিন সারারাত কাজ চলতে থাকা নিশ্চিত করতে কর্মচারীদের কাজের সময়সূচি সমন্বিত করা হবে। শীতকাল জুড়ে DPW এর 7-দিন, 24-ঘণ্টা ধরে কাজ চলতে থাকে। এই কর্মচারীদেরই প্রতিবার তুষারপাতের সময় প্রথম মোতায়েন করা হয়। প্রয়োজন হলে অতিরিক্ত কর্মচারীদের ওভারটাইম এর ভিত্তিতে ডাকা হয়, যাতে প্রতিটি লবণ ছড়ানোর/কর্ষণ করার ট্রাক কর্মী- সজ্জিত থাকে।</p>
+
+<p>আগে থেকে তৎপর হয়ে যে পরিষেবার প্রয়োজন হতে পারে তৎসংক্রান্ত সিদ্ধান্ত নিতে সহায়তা করতে বিভাগ থেকে কোনো বেসরকারি আবহাওয়ার পূর্বাভাস দেওয়ার কোম্পানিকেও কাজে লাগানো হয়।</p>
+
+<p><strong>মিশিগান পরিবহণ বিভাগ(Department of Transportation - MDOT) এগুলির দায়িত্বপ্রাপ্ত:</strong></p>
+
+<ul>
+	<li>Jefferson Avenue, M-10/Griswold থেকে I-375 পর্যন্ত</li>
+	<li>Randolph, Windsor Tunnel থেকে Gratiot পর্যন্ত</li>
+	<li>Woodward Avenue, Adams থেকে সিটির সীমানা পর্যন্ত</li>
+	<li>Grand River Avenue, Cass Ave থেকে সিটির সীমানা পর্যন্ত</li>
+	<li>Gratiot, Randolph থেকে Eight Mile পর্যন্ত</li>
+	<li>Fort Street, Griswold থেকে City এর সীমানা পর্যন্ত</li>
+	<li>Clark Street, Fort থেকে Fisher Freeway পর্যন্ত</li>
+	<li>Van Dyke, Gratiot থেকে Eight Mile Road পর্যন্ত</li>
+	<li>Gunston, Gratiot থেকে McNichols পর্যন্ত</li>
+	<li>Hoover, McNichols থেকে Groesbeck পর্যন্ত</li>
+	<li>Groesbeck, Hoover থেকে Eight Mile Road পর্যন্ত</li>
+	<li>Michigan Avenue, Cass Avenue থেকে Wyoming পর্যন্ত</li>
+</ul>
+
+<p><u><strong>রাস্তা ঝাঁটানো</strong></u></p>
+
+<p>শহরকে পূর্ব ও পশ্চিমদিকের ঝাঁটানোর অংশে ভাগ করা হয়েছে। এই শাখা থেকে স্থানীয়, প্রধান ও স্টেট এর প্রধান পথগুলি প্রতি বছর মধ্য-এপ্রিল থেকে শুরু করে ঝাঁটানো হয়। ঝাঁটানোর কর্মীরা ঝাঁট দেওয়ার সময়সূচির 2 দিন আগে যে এলাকাগুলিতে ঝাঁটানো হবে সেখানে "পার্ক করা যাবে না" চিহ্ন লাগিয়ে দেন। ঝাঁটানোর দিনে পার্ক করা গাড়িগুলি রাস্তা সাফাইয়ের কাজে ব্যাঘাত না ঘটানো নিশ্চিত করতে পৌর পার্কিং কর্তৃপক্ষ পার্ক করা প্রতিটি গাড়িকে টিকিট দিয়ে দেবে।</p>
+
+<p>ঝাঁটানো প্রক্রিয়া শুরু হয় বাতাসে ভাসমান ধূলিকণা নিয়ন্ত্রণ করতে জল/পানির গাড়িগুলি এলাকাটিকে ফ্লাশ করা দিয়ে, এবং তারপর ঝাঁটানোর গাড়িগুলি রাস্তার ধুলোময়লাগুলিকে যতটা সম্ভব ধারের দিকে সরিয়ে দেওয়া হয়।</p>
+
+<p>আপনার রাস্তায় সেই দিনগুলিতে ঝাঁটানোর যথাসাধ্য প্রয়াস করা হয় যাতে আপনার জঞ্জাল বা বেশি পরিমাণে সংগ্রহের দিনের সঙ্গে তার দ্বন্দ্ব উপস্থিত না হয়।</p>
+
+<p><strong>পরামর্শ: ঝাঁটানোর কর্মীরা ধারের/রাস্তার উপর ইচ্ছাকৃতভাবে ফেলা পাতাগুলিকে সংগ্রহ করেন না।</strong></p>
+
+<p>প্রাঙ্গণের যাবতীয় বর্জ্য জীবাণুবিয়োজনযোগ্য কাগজের ব্যাগে বা ব্যক্তিগত আবর্জনার ক্যানে রাস্তার ধারে Courville পাত্র থেকে অন্ততঃ দূরে রাখা আবশ্যক। DPW প্লাস্টিক ব্যাগে রাখা প্রাঙ্গণের বর্জ্য সংগ্রহ করবে না। যে সকল আবাসিক তাদের তুলে নেওয়ার নির্ধারিত সময়ের 24 ঘণ্টা আগে থেকে প্রাঙ্গণের বর্জ্য রাখে দিচ্ছেন তাদের জরিমানা করা হবে।<br/>
+প্রাঙ্গণের বর্জ্য সংগ্রহ মে মাসে শুরু হবে এবং ডিসেম্বর মাসের প্রথম কয়েক সপ্তাহ অবধি চলবে (আবহাওয়া অনুকূল থাকলে)। প্রাঙ্গণের বর্জ্য আপনার নির্ধারিত সাপ্তাহিক আবর্জনা সংগ্রহের দিনেই সংগ্রহ করা হবে।</p>
+
+<p>DPW আবাসিকদের প্রাঙ্গণের ছাঁটা অংশগুলির আস্তরণ দিয়ে রাখতে ও প্রাঙ্গণের যাবতীয় বর্জ্যও, পাতা ও গাছপালা থেকে পাওয়া উপাদান কম্পোস্ট করতে উৎসাহ দেয়।</p>
+organization information:  
+summary:   <p>সড়ক রক্ষণাবেক্ষণ পরিষেবাসমূহের রূপরেখা</p>
+
+*******************************************************************************
+
 language: arabic
 http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation
 
@@ -19367,6 +19638,620 @@ summary:   <p>Los planes de pago están disponibles para los clientes que adeuda
 
 *******************************************************************************
 
+language: bengali
+http://detroitmi.theneighborhoods.org/government/boards/board-electrical-examiners
+
+title:  বৈদ্যুতিক পরীক্ষক বোর্ড
+description:  <p>বৈদ্যুতিক পরীক্ষক বোর্ড গঠিত হয় ডেট্রয়েট সিটির মেয়রের দ্বারা নিযুক্ত ন'জন সদস্য নিয়ে। বোর্ডের কর্তব্যের মধ্যে পড়ে: লাইসেন্সের আবেদনের ফর্মের বিধান দেওয়া, আবেদনকারীদের লাইসেন্সের পরীক্ষা নেওয়া, বৈদ্যুতিক লাইসেন্স দেওয়ার পরীক্ষাগুলি প্রস্তুত, পর্যালোচনা করা ও অনুমতি দেওয়া, লাইসেন্সধারীরা প্রযোজ্য প্রশাসনিক নিয়মাবলীর বিধানগুলি মেনেছে কিনা তা নির্ধারণ করতে শুনানি পরিচালনা করা এবং মিশিগান স্টেট ইলেকট্রিকাল কোড এর বিধানগুলি কার্যকর করতে প্রয়োজনীয় অন্য কোনো প্রশাসনিক প্রবিধান ঘোষণা করা।</p>
+
+<p>&nbsp;</p>
+
+<p><strong>বৈদ্যুতিক পরীক্ষক বোর্ড এর মিশন বিবৃতি</strong><br/>
+বৈদ্যুতিক পরীক্ষক বোর্ড এর ক্রিয়াশীল কর্তৃত্ব প্রতিষ্ঠিত হয় ডেট্রয়েট সিটি এর’<em>ধারা 406.0</em>&nbsp;<em>অর্ডিন্যান্স 604-H</em> এর দ্বারা। মেয়র নিযুক্ত এই ন'জন (9) এর কর্তব্যকে বৈদ্যুতিক, বৈদ্যুতিন, ও অগ্নি-সুরক্ষার উদ্দেশ্যে লাগানো বস্তুগুলি ডেট্রয়েটের নাগরিকদের পক্ষে যাতে নিরাপদ ও কার্যকর হয় তা নিশ্চিত করা।<br/>
+<br/>
+বৈদ্যুতিক পরীক্ষক বোর্ড বৈদ্যুতিক পরিদর্শন শাখা-র সঙ্গে ঘনিষ্ঠভাবে কাজ করে এবং ডেট্রয়েট সিটির ভবন, নিরাপত্তা কারিগরি ও পরিবেশ বিভাগ এর বৈদ্যুতিক শাখা-র লাইসেন্সধারীদের কাছে আইনি তথ্যের প্রচার করে। বোর্ডের সদস্যগণ ডেট্রয়েটের নাগরিকদের কাছে আমাদের ক্রমাগত প্রয়াসের প্রতিশ্রুতি তুলে ধরেন যাতে তারা দেখতে পান যে তাদের কাছে বিদ্যুতের নিরাপদ ও অসাধারণ কার্যশীলতা রয়েছে।</p>
+
+<p><strong>এপ্রিল 4, 2017 থেকে কার্যকর:&nbsp;</strong><em>স্কিলড ট্রেডস রেগুলেশন অ্যাক্ট: 2016 সালের পাবলিক অ্যাক্ট 407&nbsp;</em>গৃহীত হয়েছিল। এই আইনটি যে আইনকে রহিত করে&nbsp;</p>
+
+<drupal-entity data-caption="ইলেকট্রিকাল অ্যাডমিনিস্ট্রেটিভ অ্যাক্ট: 1956 সালের পাবলিক অ্যাক্ট 217." data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="0a78ed7b-82b7-4ed7-ba5a-8b967737dbec"></drupal-entity>
+
+<p>. অনুগ্রহ করে নিজেকে এই নতুন আইনটির সঙ্গে পরিচিত করে তোলা নিশ্চিত করুন। প্রাক্তন সৈনিকগণ: অনুগ্রহ করে&nbsp;<a href="http://www.detroitmi.gov/LinkClick.aspx?link=http%3a%2f%2fwww.michigan.gov%2fdocuments%2flara%2fNotice_to_Veterans_STRA_556764_7.pdf&amp;amp;tabid=1555&amp;amp;portalid=0&amp;amp;mid=7238" target="_blank" title="Revised DD214 Exemption">click here</a>&nbsp;DD214 ছাড় সংক্রান্ত গুরুত্বপূর্ণ আপডেটের জন্য।&nbsp;</p>
+
+<drupal-entity data-caption="প্রাক্তন সৈনিকগণ: অনুগ্রহ করে এখানে ক্লিক করুন DD214 ছাড় সংক্রান্ত গুরুত্বপূর্ণ আপডেটের জন্য।" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser"data-entity-type="media" data-entity-uuid="83af05d5-09eb-4418-b03a-72fded6deec6"></drupal-entity>
+
+<p><strong>ডিসেম্বর 1, 2016 থেকে কার্যকর:&nbsp;</strong>আপনার 2017 সালের বৈদ্যুতিক লাইসেন্সের(লাইসেন্সগুলির)&nbsp;সঙ্গে&nbsp;একটি &nbsp;<em>2014 সালের ন্যাশনাল ইলেকট্রিকাল কোড</em> এর উপর একটি অনুমোদিত প্রশিক্ষণ পাঠ্যক্রম সম্পূর্ণ হওয়ার শংসাপত্র থাকা আবশ্যক। অনুগ্রহ করে দেখুন&nbsp;<a href="http://www.detroitmi.gov/Portals/0/Users/059/59/59/2014%20CODE%20UPDATE%20LERT.pdf?ver=2016-08-19-084820-107" target="_blank" title="2014 Code Update Letter">here&nbsp;</a>শংসাপত্রের প্রয়োজনীয়তার জন্য।&nbsp; আপনার কি একজন অনুমোদিত প্রদানকারীর খোঁজ করা জন্য সাহায্যের প্রয়োজন? &nbsp;<em>C.E. Broker</em>&nbsp;সাইটটি<a href="http://www.detroitmi.gov/LinkClick.aspx?link=https%3a%2f%2fwww.cebroker.com%2fcourses&amp;tabid=1555&amp;portalid=0&amp;mid=7238" target="_blank">&nbsp;</a>দেখে নিন&nbsp;স্টেট অনুমোদিত&nbsp;প্রদানকারীদের জন্য।&nbsp;&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="f46c2031-892c-42a2-b2be-824cd93454e2"></drupal-entity>
+
+<p>&nbsp;</p>
+<!--
+not sure if this contact info is still correct
+<p><strong>Do you have a question/concern not covered under the FAQs?</strong><br />
+Please contact the&nbsp;<strong><a href="mailto:SwintM@detroitmi.gov">Board Secretary</a>.</strong></p>
+-->
+
+<p>&nbsp;</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/boards/board-police-commissioners
+
+title:  বোর্ড অব পুলিশ কমিশনার্স
+description:  <drupal-entity alt="পুলিশ কমিশনারগণ" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="56567621-d6b8-4389-8e68-1f87bb4098d6" title="পুলিশ কমিশনারগণ"></drupal-entity>
+
+<div style="clear:both;">&nbsp;</div>
+
+<p>&nbsp;</p>
+
+<p>1974 সালে সিটি চার্টার এর দ্বারা বোর্ড অব পুলিশ কমিশনার্স গঠিত হয় যা জনগণের ভোটে গৃহীত হয়েছিল। এই চার্টারটি এগারো সদস্যের বোর্ড অব পুলিশ কমিশনার্স এর হাতে পুলিশ বিভাগের বোর্ড তত্ত্বাবধানের কর্তৃত্ব ন্যস্ত করে।</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk
+
+title:  সিটি ক্লার্ক
+description:  <p><span class="dropcaps_4">সি</span>টি ক্লার্কে মার্কিন যুক্তরাষ্ট্রের এর নাগরিক ও এই সিটির বাসিন্দা হতে হবে। সিটি ক্লার্ক প্রতি চার বছরে নভেম্বর মাসের প্রথম সোমবারের পরের প্রথম মঙ্গলবারে অনুষ্ঠিত সিটি নির্বাচনে নির্বাচিত হন।</p>
+
+<p>সিটি ক্লার্কের দ্বারা একজন ডেপুটি ক্লার্ক নিযুক্ত হন। সিটি ক্লার্কের অনুপস্থিতি বা প্রতিবন্ধকতার কারণে অথবা পদটি শূন্য থাকলে ডেপুটি সিটি ক্লার্ক সিটি ক্লার্কের যাবতীয় ক্ষমতা প্রয়োগ করবেন ও যাবতীয় কর্তব্য সম্পাদন করবেন।</p>
+
+<p><strong>সিটি ক্লার্কের ক্ষমতা ও কর্তব্যের মধ্যে রয়েছে:</strong></p>
+
+<ol>
+	<li>কর্পোরেট সীল এবং তার দপ্তরে দাখিল করা বা দপ্তর সংক্রান্ত যাবতীয় কাগজপত্রের তত্ত্বাবধান করা।</li>
+	<li>সিটি কাউন্সিলের ক্লার্ক হওয়া, যাবতীয় বৈঠকে উপস্থিত হওয়া এবং এর যাবতীয় অধ্যাদেশ, গৃহীত প্রস্তাব ও অন্যান্য কার্যবিবরণীর রেকর্ড তৈরি ও সংরক্ষণ করা।</li>
+	<li>অনুরোধ করা হলে কর্পোরেট সীলের অধীনে তার দপ্তরের যাবতীয় কাগজপত্র ও রেকর্ড শংসিত করা।</li>
+	<li>শপথ গ্রহণ করানো ও হলফনামা জমা নেওয়া।</li>
+	<li>এই ধরণের যাবতীয় রেজিস্ট্রেশন ও নির্বাচনের বিজ্ঞপ্তি দেওয়া এবং এই ধরণের রেজিস্ট্রেশন ও নির্বাচনের সঙ্গে সংশ্লিষ্ট যথাবিহিত কর্তব্য সম্পাদন করা।</li>
+	<li>নির্বাচন কমিশনের চেয়ারম্যান ও সিটির মুখ্য নির্বাচন আধিকারিক হিসেবে ক্লার্কের পদাধিকার বলে নির্বাচনের তত্ত্বাবধান করা।</li>
+	<li>শহর জুড়ে ভোটার রেজিস্ট্রেশনের স্থানগুলিকে যুক্তিসঙ্গতভাবে প্রবেশযোগ্য রাখা।</li>
+	<li>সিটির কোনো নির্বাচিত পদে মনোনয়নের জন্য কোনো প্রার্থীর দাখিল করা মনোনয়নের আবেদন গ্রহণ করা।</li>
+	<li>স্টেটের আইনের অধীনে সিটি ক্লার্ক বন্ধ হতে চলা ব্যবসা বিক্রির লাইসেন্স(Going-Out-Of Business Sale Licenses) জারি করেন।</li>
+</ol>
+
+<p><strong>নাগরিকদের তথ্য পরিষেবা</strong></p>
+
+<p>নাগরিকদের তথ্য পরিষেবা সিটি ক্লার্কের দপ্তরের একটি শাখা যা&nbsp; নাগরিকদের সরকারি পরিষেবা সম্পর্কে তথ্য প্রদান করে এবং তাদেরকে উপযুক্ত বিভাগে পাঠায়।</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/appear-council
+
+title:  কাউন্সিলের কাছে হাজিরা দিন
+description:  <p>আপনি আপনার মহামান্য সিটি কাউন্সিল(City Council)-কে সম্বোধন করা আবেদনটি সিটি ক্লার্কের দপ্তর(Office of the City Clerk)-এ পাঠাতে পারেন অথবা আপনি সিটি কাউন্সিল(City Council) এর কোনো সদস্যের কাছে তাদের দপ্তরে লিখিতভাবে বা ফ্যাক্স করে সরাসরি আবেদন করতে পারেন। উপযুক্ত সময়ে সেটিকে ব্যবস্থা নেওয়ার জন্য সিটি কাউন্সিলের ক্যালেন্ডারে রাখা হবে। আপনার আবেদনটিতে সিটি কাউন্সিলের জন্য আপনার আবেদনের যথাযথ অনুসন্ধান করার বা প্রক্রিয়া করার মতো যথেষ্ট তথ্য থাকতে হবে।</p>
+
+<p>অনুগ্রহ করে আপনার আবেদন প্রস্তুত করতে নীচে দেওয়া তথ্য দিকনির্দেশ হিসেবে ব্যবহার করুন:</p>
+
+<p style="margin-left: 40px;">&nbsp;&nbsp; 1. কে: নাম, সংগঠন বা পদমর্যাদা উল্লেখ করুন</p>
+
+<p style="margin-left: 40px;">&nbsp;&nbsp; 2. কী: অনুরোধের উদ্দেশ্য উল্লেখ করুন</p>
+
+<p style="margin-left: 40px;">&nbsp;&nbsp; 3. কোথায়: অবস্থান উল্লেখ করুন</p>
+
+<p style="margin-left: 40px;">&nbsp;&nbsp; 4. কখন: ঘটনার তারিখ ও সময় উল্লেখ করুন</p>
+
+<p>সিটি ক্লার্ক<br/>
+মাননীয় Janice M. Winfrey<br/>
+Office of the City Clerk, Room 200<br/>
+200 Coleman A. Young Municipal Center<br/>
+Detroit, MI. 48226<br/>
+<a href="tel:(313) 224-3266">(313) 224-3266</a></p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/banner-permits-information
+
+title:  ব্যানার তথ্যের অনুমতি দেয়
+description:  <p>অনুমতির আবেদনটি বিবেচিত হতে গেলে নিম্নলিখিত আইটেমগুলি <strong>অবশ্যই</strong> সেটির অন্তর্ভুক্ত করতে হবে:</p>
+
+<ol style="margin-left: 40px;">
+	<li>ব্যানারের অনুমতির আবেদনের ফর্মটি পূরণ করুন</li>
+	<li>স্বাক্ষর করা ও তারিখ দেওয়া ক্ষতিপূরণের চুক্তি (সংযুক্তি A)</li>
+	<li>স্বাক্ষর করা ও তারিখ দেওয়া রক্ষণাবেক্ষণ ও সরিয়ে নেওয়ার চুক্তি (সংযুক্তি B)</li>
+	<li>বিমার শংসাপত্রের প্রতিলিপি</li>
+	<li>স্কেচ, ড্রইং বা আসল ব্যানারের নমুনা প্রদর্শিত করতে হবে (সংযুক্ত উদাহরণ দেখুন)</li>
+	<li>ব্যানারগুলির জন্য নির্দিষ্ট স্থানের তালিকা এবং/অথবা মানচিত্র তৈরি করা</li>
+	<li>$100 অ-ফেরতযোগ্য অনুমতির ফি</li>
+	<li>ব্যানারের অনুমতি জারি করার আগে উপভোক্তা বিষয়ক বিভাগ এর কাছে উপস্থাপিত একটি ফেরতযোগ্য আমানত (পাবলিক রাইট-অব-ওয়ে এর নীতির ধার 4-এ আমানতের পরিমাণ নির্দিষ্ট করা আছে) এস্ক্রো-তে গচ্ছিত থাকবে।</li>
+</ol>
+
+<p><strong>দ্রষ্টব্য:</strong> প্রস্তাবিত ব্যানারের(ব্যানারগুলির) জন্য এই আবেদনটি কেবল নির্দিষ্ট সময়কালের জন্যই। অনুমতির মেয়াদ শেষ হলে (মঞ্জুর করা হয়ে থাকলে) অথবা ব্যানারটি কোনভাবে পরিবর্তিত হলে আরেকটি আবেদন করার প্রয়োজন পড়বে।&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>উপযোগিতার পোলে ব্যানার টাঙানো</strong><br/>
+সিটির অনুমতি ছাড়া কোনো উপযোগিতা বা বাতির পোলে কিছুই টাঙানো যাবে না। আলো জ্বালানোর বিভাগ এর পোলে ব্যানার টাঙানোর অনুমতি সিটি কাউন্সিল দিতে পারে। ব্যানার টাঙানোর অনুমতি পেতে আপনাকে অবশ্যই সিটি কাউন্সিলের কাছে আবেদন করতে হবে। আপনি কোথায় ব্যানার(গুলি) টাঙাতে চান, ব্যানারে(ব্যানারগুলিতে) কী বলা থাকবে এবং কতদিন ধরে ব্যানারগুলি টাঙানো থাকবে সেগুলি আবেদনে চিহ্নিত করতে হবে।</p>
+
+<p>কোনো ব্যানারকে ট্রাফিক সিগন্যাল বা চিহ্নের দৃষ্টিপথ আটকানোর অনুমতি দেওয়া হবে না। সরকারি আলো জ্বালানোর বিভাগ কোনো ব্যানার টাঙানোর অনুমতি দেওয়া সম্পর্কে সিটি কাউন্সিলকে পরামর্শ দেওয়ার আগে পোলগুলিকে পরিদর্শন করবে। সিটি কাউন্সিল প্রদত্ত অনুমতি ছ'মাস পর্যন্ত জারি থাকবে। আপনি ছ'মাসের বেশি সময় ধরে ব্যানার টাঙাতে চাইলে আপনাকে সিটি কাউন্সিলের কাছে সময় বর্ধিত করা আবেদন জানাতে হবে।</p>
+
+<p>আবেদনকারী ব্যানারগুলি ও সেগুলি লাগানোর জন্য প্রয়োজনীয় হার্ডওয়ার কেনার, লাগানোর ও সরানোর জন্য দায়ী থাকবে।<br/>
+অনুরোধ করলে সরকারি আলো জ্বালানোর বিভাগ তার ব্যানারের সবিস্তার বিবরণীর একটি প্রতিলিপি সরবরাহ করবে।&nbsp;</p>
+
+<p><strong>আপনার নিজের রেকর্ডের জন্য একটি প্রতিলিপি রেখে দেওয়া নিশ্চিত করুন।</strong></p>
+
+<p>আবেদনগুলি ফ্যাক্স মারফৎ, ডাকযোগে বা সশরীরে জমা দেওয়া যাবে।<br/>
+<br/>
+<strong>ফ্যাক্স:&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="49d5f77e-a7b5-4211-86cc-440b062eecbf"></drupal-entity>
+
+<p><br/>
+<strong>ডাকযোগে:&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; মাননীয় ডেট্রয়েট সিটি কাউন্সিল<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attn: ডেট্রয়েট সিটি ক্লার্ক<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<drupal-entity data-caption="মাননীয় ডেট্রয়েট সিটি কাউন্সিল" data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b61bfa15-13e1-4bf5-9813-a585e65ac722"></drupal-entity>
+
+<p><br/>
+<br/>
+<strong>সশরীরে:</strong>&nbsp;&nbsp;</p>
+
+<drupal-entity data-caption="সিটি ক্লার্কের দপ্তর" data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b61bfa15-13e1-4bf5-9813-a585e65ac722"></drupal-entity>
+
+<p>কাজের ঘণ্টা:&nbsp; সোম-শুক্র সকাল 8:00টা থেকে বিকেল 5:00টা</p>
+
+<p>আবেদন সম্পর্কে আপনার কোনো প্রশ্ন থাকলে অনুগ্রহ করে ফোন করুন</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="49d5f77e-a7b5-4211-86cc-440b062eecbf"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-caption="ব্যানারের অনুমতির আবেদন" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="1998d353-acbf-4e25-a94d-56db4ac74d70"></drupal-entity>
+
+<p>&nbsp;</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/city-clerk-archive-records-fees
+
+title:  সিটি ক্লার্কের আর্কাইভ রেকর্ডের ফি
+description:  <div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<th>#</th>
+			<th>সিটি ক্লার্ক এর প্রকাশনাসমূহ</th>
+			<th>মূল্য</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>ডেট্রয়েট সিটির 1918 সালের চার্টার</td>
+			<td>$4,00</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>আর্কাইভের রেকর্ডসমূহ (প্রতিটি এক পিঠে লেখা 8.5 X 11 পৃষ্ঠা)</td>
+			<td>$0,25</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>জার্নাল অব দা সিটি কাউন্সিল প্রোসিডিংস এর বাঁধানো খণ্ড</td>
+			<td>$40,00</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>ডেট্রয়েট সিটি চার্টার</td>
+			<td>$8,00</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>ডেট্রয়েট সিটি বিধি</td>
+			<td>$155,00</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>ডেট্রয়েটের 1997 সালের চার্টার ও ডেট্রয়েটের 2012 সালের চার্টার</td>
+			<td>$10.00</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>সড়ক, ডিসট্রিক্ট, ভোটিং প্রিসিংক্ট ও ভোট দেওয়ার স্থানগুলির ডিরেক্টরি</td>
+			<td>$15,00</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>আধিকারিকদের ডিরেক্টরি</td>
+			<td>বিনামূল্য</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>ডিসট্রিক্ট/প্রিসিংক্ট এর মানচিত্র</td>
+			<td>$10.00</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>পৌর ম্যানুয়াল</td>
+			<td>বিনামূল্য</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>ডেট্রয়েট বিধির পরিশিষ্ট</td>
+			<td>$25,00</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>সিটি কাউন্সিল এর সাপ্তাহিক জার্নাল</td>
+			<td>$30,00</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/city-council-proceedings-2000-2014-information
+
+title:  সিটি কাউন্সিল প্রোসিডিংস 2000 - 2014 সালের তথ্য
+description:  <p>সিটি কাউন্সিল প্রোসিডিংস এর 2000 - 2014 সালের বার্ষিক জার্নাল।</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/city-detroit-charter-information
+
+title:  ডেট্রয়েট সিটি চার্টারের তথ্য
+description:  <p>2012 সালের চার্টারের প্রতিলিপি ডেট্রয়েট সিটি ক্লার্কের দপ্তরে যোগাযোগ করে প্রাপ্ত করা যাবে।</p>
+
+<p style="margin-left: 40px;">Coleman A. Young Municipal Center<br/>
+2 Woodward Ave. - Suite 200<br/>
+&nbsp;Detroit, MI&nbsp; 48226<br/>
+&nbsp;<a href="ফোন:(313) 224-3260">(313) 224-3260</a> (দপ্তর)<br/>
+&nbsp;(313) 224-1466 (ফ্যাক্স)<br/>
+&nbsp;TTY: 711 বা (800) 649-3777</p>
+
+<p>চার্টারের বিষয়বস্তুর উপর প্রশ্নগুলি ডেট্রয়েট সিটির আইন বিভাগ, সরকার বিষয়ক/পৌর শাখা এর কাছে করতে হবে।</p>
+
+<p style="margin-left: 40px;">2 Woodward Avenue - 5th floor<br/>
+Detroit, MI&nbsp; 48226<br/>
+ফোন: (VM)<br/>
+ফ্যাক্স: (313) 224-5505<br/>
+TTY: 711 বা (800) 649-3777</p>
+
+<p>ডেট্রয়েট সিটি 2012 সালের চার্টার&nbsp;-&nbsp;কার্যকর হয়েছে জানুয়ারি 1, 2012 থেকে (জনগণের ভোটে নভেম্বর 8, 2011-য় গৃহীত হয়েছে)</p>
+
+<p>ডেট্রয়েট সিটি 1997 সালের চার্টার&nbsp;-&nbsp;কার্যকর হয়েছে জানুয়ারি 1, 1997 থেকে (জনগণের ভোটে নভেম্বর 5, 1996-এ গৃহীত হয়েছে)</p>
+
+<p>ডেট্রয়েট সিটি 1918 সালের চার্টার&nbsp;-&nbsp;কার্যকর হয়েছে জুন 27, 1918 থেকে&nbsp; (জনগণের ভোটে জুন 25, 1918-য় গৃহীত হয়েছে)</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/elections
+
+title:  নির্বাচনসমূহ
+description:  <p>নির্বাচন বিভাগ ডেট্রয়েটের প্রতিটি বাসিন্দার ভোট দেওয়ার জন্য রেজিস্টার করা ও তাদের নির্ধারিত ভোটকেন্দ্রে তাদের অধিকার প্রয়োগ করা নিশ্চিত করার জন্য দায়ী।</p>
+
+<p>&nbsp;</p>
+
+<h4>নির্বাচনের ঘোষণা</h4>
+
+<p><strong>অগাস্ট 2018 এর প্রাইমারি নির্বাচন এর জন্য 7, রেজিস্টার করার শেষ তারিখ</strong></p>
+
+<p>রেজিস্ট্রেশন ও স্থানান্তর &nbsp;-এ নিষ্পন্ন করা যেতে পারে</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b0b344aa-3b23-4d5a-b88f-63d420b1b3b2"></drupal-entity>
+
+<p>সোমবার থেকে শুক্রবার সকাল 8:00টা - বিকেল 5:00টা পর্যন্ত&nbsp;<br/>
+&nbsp;</p>
+
+<p><strong><strong>প্রাইমারি নির্বাচনের জন্য রেজিস্টার করার শেষ দিন</strong>&nbsp;</strong><br/>
+সোমবার, 9,জুলাই 2018।&nbsp;অতিরিক্ত তথ্যের জন্যে &nbsp;-এ ফোন করুন</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.text_teaser_medium" data-entity-type="node" data-entity-uuid="e3626887-5aa3-46d0-94c1-f27ff487246d"></drupal-entity>
+
+<p><strong>অনুপস্থিত ভোটদান(Absentee Voting - A.V.) এর অনুরোধ গ্রহণ করা শুরু করুন</strong></p>
+
+<p>বৃহস্পতিবার, 24,মে 2018 থেকে</p>
+
+<p><strong>অনুপস্থিত ভোটদান(A.V.) এর ব্যালট ডাকে পাঠানো শুরু করুন</strong></p>
+
+<p>ডেট্রয়েটের নির্বাচন বিভাগে ও সিটি ক্লার্কের দপ্তরে সশরীরে বা ডাকযোগে অনুপস্থিত ব্যালট ফেলে দিয়ে যান:</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b0b344aa-3b23-4d5a-b88f-63d420b1b3b2"></drupal-entity>
+
+<p><br/>
+শনিবার, 23, জুন 2018</p>
+
+<p>&nbsp;</p>
+
+<p><strong>প্রিসিংক্ট প্রতিনিধি রাইট-ইন এর শেষ তারিখ</strong><br/>
+শুক্রবার, 3, অগাস্ট 2018&nbsp;</p>
+
+<h4>স্যাটেলাইট অনুপস্থিত ভোট দেওয়ার তথ্য&nbsp;</h4>
+
+<p>মঙ্গলবার, 17, জুলাই থেকে শুরু করে 2018, নির্বাচন বিভাগ, যারা অনুপস্থিত ব্যালটের দ্বারা ভোট দেওয়ার যোগ্য, তাদের জন্য দুটি স্যাটেলাইট সাইটের ব্যবস্থা করেছে।&nbsp; এই সাইট দুটি নিম্নরূপ:</p>
+
+<p><br/>
+Wayne County Community College<br/>
+Northwest Campus<br/>
+8200 W. Outer Drive</p>
+
+<p><br/>
+Wayne County Community College<br/>
+Eastern Campus<br/>
+5901 Conner</p>
+
+<p>ভোট দেওয়ার সময় হল: সোমবার – শুক্রবার<br/>
+সকাল 9:00টা – বিকেল 4:00টে</p>
+
+<p><br/>
+আপনি ডেট্রয়েট নির্বাচন বিভাগে সোমবার থেকে শুক্রবার সকাল 8:00টা থেকে বিকেল 5:00টায়&nbsp;&nbsp; সিটি ক্লার্ক এর দপ্তরে সোমবার থেকে শুক্রবার সকাল 9:00টা থেকে বিকেল 4:00টেয় সশরীরেও অনুপস্থিত ভোট দিতে পারেন। চাহিদার ভিত্তিতে শনিবারের সময়সূচি নির্ধারিত হবে।</p>
+
+<p><br/>
+একজন রেজিস্টার্ড ভোটার হিসেবে আপনি একটি অনুপস্থিত ব্যালট প্রাপ্ত করতে পারেন, যদি আপনি:</p>
+
+<ul>
+	<li>&nbsp;60 বছর বা তার বেশি বয়সী হন</li>
+	<li>&nbsp;নির্বাচন কেন্দ্রে সহায়তা ছাড়া ভোট দিতে অক্ষম হন</li>
+	<li>&nbsp;নির্বাচনের দিন সিটির বাইরে থাকবেন বলে আশা করছেন</li>
+	<li>&nbsp;জেলে অভিযোগ বা বিচারের জন্য অপেক্ষা করছেন</li>
+	<li>&nbsp;ধর্মীয় কারণে ভোট দিতে উপস্থিত থাকতে পারছেন না</li>
+	<li>&nbsp;আপনার বাসস্থানের প্রিসিংক্টের বাইরের কোনো প্রিসিংক্টে নির্বাচন পরিদর্শক হিসেবে কাজ করার জন্য নিযুক্ত হয়েছেন</li>
+</ul>
+
+<h4>&nbsp;</h4>
+
+<h4>প্রাইমারি নির্বাচনের বিজ্ঞপ্তি</h4>
+
+<p>মঙ্গলবার, 7, অগাস্ট 2018</p>
+
+<p>ভোট নেওয়া শুরু হবে সকাল 7টা থেকে রাত 8টা পর্যন্ত</p>
+
+<p>ডেট্রয়েট সিট ই, ওয়েন কাউন্ট্রি, মিশিগান স্টেটের যোগ্য ভোটারদের প্রতি</p>
+
+<h4>সকল যোগ্য প্রতিবন্ধী ভোটার</h4>
+
+<p>যুক্তরাষ্ট্রীয় সরকারি আইন 98-435 অনুসারে ভোট নেওয়ার স্থানগুলি প্রতিবন্ধী ভোটারদের জন্য প্রবেশযোগ্য হওয়া প্রয়োজন</p>
+
+<p>কোনো ভোট নেওয়ার স্থান প্রতিবন্ধী ভোটারদের জন্য প্রবেশযোগ্য না হলে এই আইনে বিকল্প ভোট নেওয়ার স্থান বরাদ্দ করার সুযোগ রয়েছে। যদিও, আগে প্রবেশযোগ্য ছিল না এমন অনেক ভোট নেওয়ার স্থান এখন প্রতিবন্ধী ভোটারদের জন্য প্রবেশযোগ্য হয়েছে।</p>
+
+<drupal-entity data-caption="আরও পড়ুন..." data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="ba581fa1-1a96-47f2-9d41-c0ad7099bdd2"></drupal-entity>
+
+<h4>ডেট্রয়েটের নির্বাচন বিভাগ একটি জন অভ্রান্ততা পরীক্ষা পরিচালনা করবে</h4>
+
+<p>ডেট্রয়েট নির্বাচন বিভাগ বৃহস্পতিবার, 1, নভেম্বর 2018, বেলা 11:00টায় 2978 W. Grand Blvd. ঠিকানায় একটি জন অভ্রান্ততা পরীক্ষা পরিচালনা করবে। ব্যালট সংকলন করতে ব্যবহার করার স্বয়ংক্রিয় তালিকাভুক্ত করার সরঞ্জাম 7, অগাস্ট 2018 তারিখের প্রাইমারি নির্বাচনে পরীক্ষা করা হবে।</p>
+
+<p>নির্বাচনের প্রদত্ত ভোট রেকর্ড ও গণনা করতে ব্যবহৃত কম্পিউটার প্রোগ্রাম যে আইনের প্রয়োজনীয়তা পূরণ করে তা প্রদর্শিত করতে জন অভ্রান্ততা পরীক্ষা পরিচালিত হয়।&nbsp;</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/elections/become-election-day-pollworker
+
+title:  নির্বাচনের দিনে একজন ভোটকর্মী হোন
+description:  <drupal-entity alt="Vote!" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="9a3d860f-61ac-4b43-8de5-e63ca07bd637" title="Vote!"></drupal-entity>
+
+<p>আপনি কি কখনো ভেবে দেখেছেন যে আপনি কীভাবে সিটির সরকারে আরও সক্রিয়ভাবে অংশ নিতে পারেন?</p>
+
+<p>আপনার জন্য নির্বাচিত দপ্তরের প্রার্থী হওয়া জড়িত নয় এমন প্রচুর সুযোগ রয়েছে। ডেট্রয়েটে 490টি ভোট দেওয়ার প্রিসিংক্ট ও 100টি অনুপস্থিতদের গণনার বোর্ড রয়েছে। নির্বাচনের সময় এই প্রিসিংক্ট ও বোর্ডগুলির প্রতিটির নির্বাচনের দিনে ভোটাররা এলে তাদের সহায়তা করতে একজন করে অর্থপ্রদত্ত প্রিসিংক্ট পরিদর্শক কর্মীর প্রয়োজন।</p>
+
+<p>প্রিসিংক্ট পরিদর্শক হিসেবে পরিষেবা দিতে আগ্রহী রেজিস্টার্ড ভোটারদের একটি নির্বাচন পরিদর্শক আবেদন জমা দেওয়া এবং ডেট্রয়েট নির্বাচন বিভাগে একটি সংক্ষিপ্ত পরীক্ষা দেওয়া আবশ্যক। আবেদনকারীদের নিজের নাম, ঠিকানা ও জন্মতারিখের অতিরিক্ত তাদের পছন্দের রাজনৈতিক দল ও এই পদ পূরণের যোগ্যতা, যেমন শিক্ষা বা অভিজ্ঞতা অন্তর্ভুক্ত করা আবশ্যক।</p>
+
+<p>একজন প্রিসিংক্ট পরিদর্শকের, যার বয়স 18 বছর বা তার বেশি, স্টেটের রেজিস্টার্ড ভোটার হওয়া আবশ্যক। তারা কোনো আহ্বানকারী, প্রার্থী, কোনো প্রার্থীর নিকট আত্মীয় বা স্থানীয় বোর্ড অব ক্যাভাসার্স এর সদস্য হলে চলবে না। গুরুতর অপরাধে বা কোনো নির্বাচনী অপরাধে দোষী সাব্যস্ত কেউ পরিষেবা দিতে পারবেন না।</p>
+
+<p>16 ও 17 বছর বয়সী নাগরিকরাও আবেদন করতে এবং প্রিসিংক্ট পরিদর্শক হিসেবে কাজ করতে পারবেন।</p>
+
+<p>নির্বাচন বিভাগে আসুন এবং&nbsp;পূরণ করুন</p>
+
+<drupal-entity data-caption="নির্বাচন পরিদর্শক আবেদন" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="63c8cf37-7894-473c-9ced-5492308e04ac"></drupal-entity>
+
+<p>, পরীক্ষা দিন এবং এমন একটি দলের সদস্য হোন যেটি ডেট্রয়েটে গণতন্ত্রকে কার্যকর করছে।</p>
+
+<p>নির্বাচন বিভাগের অবস্থান হল&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="b0b344aa-3b23-4d5a-b88f-63d420b1b3b2"></drupal-entity>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/elections/election-information
+
+title:  নির্বাচনের তথ্য
+description:  <p>ভোট নেওয়ার স্থানগুলি, ভোটারদের শিক্ষা, ইত্যাদি সম্পর্কে সুনির্দিষ্ট তথ্যের জন্য আমাদেরকে ফোন করুন এখানে</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="e3626887-5aa3-46d0-94c1-f27ff487246d"></drupal-entity>
+
+<p>নির্বাচন বিভাগ ডেট্রয়েটে যাবতীয় নির্বাচনের পরিকল্পনা, পর্যবেক্ষণ ও পরিচালনা করার জন্য দায়ী। এই বিভাগের প্রধান হলেন নির্বাচন কমিশন যা গঠিত সিটি ক্লার্ক, যিনি চেয়ারপার্সন, সেইসঙ্গে সিটি কাউন্সিলের প্রেসিডেন্ট ও কর্পোরেশনের কৌঁসুলি।</p>
+
+<p>&nbsp;</p>
+
+<p>কমিশন এগুলির জন্য দায়ী:</p>
+
+<ul>
+	<li>সিটির যাবতীয় নির্বাচনের তত্ত্বাবধান</li>
+	<li>নাগরিকদের ভোট দেওয়ার স্থান প্রদান করা</li>
+	<li>ভোট দেওয়ার যন্ত্রের ব্যালট প্রদান করা</li>
+	<li>রেজিস্ট্রেশন, ভোট দেওয়া ও ভোট গণনায় প্রতারণা ও দুর্নীতি প্রতিরোধ করা</li>
+	<li>যোগ্য ভোটার নয় এমন ব্যক্তিদের রেজিস্ট্রেশন রেকর্ড শুদ্ধিকরণ</li>
+	<li>নির্বাচনের প্রিসিংক্টগুলির সীমানা সংশোধন করা, যাতে প্রতিটি প্রিসিংক্টে ভোটারের সংখ্যা মিশিগান এর আইনের দ্বন্দ্বে না পড়ে</li>
+	<li>প্রতিটি নির্বাচনের জন্য যোগ্য নির্বাচন আধিকারিক নিয়োগ</li>
+	<li>যে কেউ নির্বাচন আইন ভঙ্গ করার দোষে দোষী মনে হলে তাকে আদালতে অভিযুক্ত করা</li>
+	<li>ভোটারদের রেজিস্ট্রেশন ও স্থানান্তর</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>সিটি ক্লার্ক হলেন সিটির মুখ্য নির্বাচন আধিকারিক এবং তিনি ডেট্রয়েটে ভোটারদের রেজিস্ট্রেশনের জন্য দায়ী।</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/elections/election-results
+
+title:  ভোটের ফলাফল
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/elections/m-100-automark-voting-system
+
+title:  M-100 অটোমার্ক ভোটিং সিস্টেম
+description:  <p>একটি প্রিসিংক্ট স্তরের অপটিক্যাল স্ক্যান সিস্টেম<br/>
+<br/>
+যাতে রয়েছে: ওভালগুলি ভরাট করা</p>
+
+<drupal-entity alt="m100 ভোটিং মেশিন" data-align="left" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="8e29fc8f-d287-4f8f-9328-18b2a5101b9d" title="m100 ভোটিং মেশিন"></drupal-entity>
+
+<p>ভোট দিতে<br/>
+ভোটারদেরকে তাদের পছন্দের প্রার্থীর ডানদিকের ওভালটি নির্বাচন কেন্দ্রে প্রদত্ত কালো বা নীল কালির পেন অথবা মার্কিং টুল দিয়ে ভরাট করতে হবে।<br/>
+<br/>
+স্বয়ংক্রিয় ভোটার সহায়তা<br/>
+যে সব ব্যালটে বেশি ভোট দেওয়া হয়েছে, ভুল দাগ দেওয়া হয়েছে অথবা দোমড়ানো মোচড়ানো অবস্থায় রয়েছে, সেগুলিকে ভোটারদের অনুরোধে পর্যালোচনার জন্য ফেরত দেওয়া হয়। ক্রিস্টাল ডিসপ্লে ভোটারদের সমস্যা সম্পর্কে জানায় এবং ভোটারকে জিজ্ঞাসা করে যে তারা M-100 এর দ্বারা পড়া ও গ্রহণ করা চাইছেন, নাকি তারা তাদের ব্যালট ফেরত নিয়ে আবার করে ভোট দিতে চাইছেন।<br/>
+<br/>
+রাইট-ইন বিকল্প<br/>
+রাইট-ইন ব্যালটগুলি স্বয়ংক্রিয়ভাবে অন্য ব্যালটগুলির থেকে আলাদা হয়ে যায়। M-100 ব্যালট বাক্সের মধ্যে একটি ডাইভার্টার থাকে যেটি রাইট-ইন ব্যালটগুলিকে আলাদা পাত্রের দিকে পাঠিয়ে দেয়।<br/>
+<br/>
+অনুপস্থিত ভোটদান<br/>
+অনুপস্থিতদের ও নির্বাচনের দিনের ভোটদানে একই ব্যালট ব্যবহার করা হয়। M-100 অনুপস্থিত ব্যালটগুলিকে আলিকাভুক্ত করতেও ব্যবহার করা হয়।<br/>
+<br/>
+ভোটারদের নিশ্চয়তায় উন্নতি<br/>
+ভোটাররা নিজেরাই তাদের ব্যালট সিস্টেমে ঢুকিয়ে দিতে পারবেন। M-100 সঙ্গে সঙ্গে ব্যালট’গুলি গ্রহণের অডিওভিজুয়াল প্রতিপাদন প্রদান করে।<br/>
+<br/>
+হিসাবপরীক্ষার সারি যাচাইকরণ<br/>
+M-100 নির্বাচনের সামগ্রিক নিরাপত্তার নিশ্চয়তা প্রদান করে। M-100 হিসাবপরীক্ষার তিনটি সারি প্রদান করে: টেপ প্রিন্টআউট, মেমরি কার্ড, এবং প্রকৃত মূল নথি, ভোট দেওয়া ব্যালটগুলি।<br/>
+<br/>
+সঙ্গে সঙ্গে রিপোর্ট করার সক্ষমতা<br/>
+M100 নির্বাচনের ফলাফল উদ্ভূত হওয়ার সামগ্রিক গতি বৃদ্ধি করে। ভোটগ্রহণ শেষ হওয়ার অব্যবহিত পরেই প্রিসিংক্টগুলির মোট এর মুদ্রিত ফলাফল পাওয়া যায়।<br/>
+<br/>
+অটোমার্ক ব্যালট মার্কিং সিস্টেম<br/>
+অটোমার্ক ভোটার সহায়তা টার্মিনাল হল ব্যালট মার্ক করার একটি ব্যবস্থা যার নকশা দৃষ্টিহীন, দুর্বল দৃষ্টি বা সাধারণভাবে একটি ব্যালট মার্ক করা অসুবিধাজনক বা অসম্ভব করে তোলে এমন প্রতিবন্ধকতা বা অবস্থা যুক্ত ব্যক্তিদের গোপনীয়তা ও প্রবেশযোগ্যতা প্রদান করার জন্যই করা হয়েছে।<br/>
+<br/>
+অটোমার্কের মধ্যে সেই ভোটারদের জন্য একটি সিপ/পাফ টিউব রয়েছে যারা টাচ স্ক্রিন বা টাচ প্যাড ব্যবহার করতে পারেন না; একটি অডিও ফাংশন দুর্বল দৃষ্টির ভোটারদের পছন্দগুলি শোনার সুযোগ দেয়; একটি জুম বৈশিষ্ট্য ভোটারকে অপটিক্যাল স্ক্যান ব্যালটের উপর তালিকাভুক্ত প্রতিটি জাতির ফন্টের মাপ বাড়িয়ে নিতে সক্ষম করে; বহুভাষিক সক্ষমতা এক বৈচিত্র্যপূর্ণ জনতার মধ্যে যাতে সকল নাগরিক তাদের ভোট দেওয়ার অধিকার প্রয়োগ করতে পারে তা নিশ্চিত করতে সাহায্য করে; এবং রাইট-ইন প্রার্থীদের সমর্থনের সক্ষমতা।<br/>
+<br/>
+ভোটার ব্যালটটি স্ক্রিনে বা অডিওতে পর্যালোচনা</p>
+
+<p>করার পর তারা অটোমার্ককে তাদের ব্যালট মার্ক করার আদেশ দেন। ব্যালট একবার মার্ক করা হয়ে গেলে এবং ভোটারের কাছে ফেরত গেলে তারপর সেটিকে তালিকাভুক্ত করতে M-100 যন্ত্রে ঢোকান হয়।</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity alt="M-100 ভোটিং মেশিন - যন্ত্রের উপরের অংশ" data-align="left" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="84774f0f-8639-4dd6-a1c3-5a25c466c318" title="M-100 ভোটিং মেশিন - যন্ত্রের উপরের অংশ"></drupal-entity>
+
+<drupal-entity alt="Automark" data-align="right" data-embed-button="media" data-entity-embed-display="view_mode:media.large" data-entity-type="media" data-entity-uuid="302df1f6-2c96-4028-b6be-af09d252c069" title="Automark"></drupal-entity>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/elections/request-absentee-ballot
+
+title:  অনুপস্থিত ব্যালটের অনুরোধ করুন
+description:  <p>আপনি ডেট্রয়েট সিটি, নির্বাচন বিভাগের সঙ্গে একটি<br/>
+অনুপস্থিত ব্যালটের অনুরোধ করতে এখানে যোগাযোগ করতে পারেন&nbsp;</p>
+
+<p>2978 West Grand Boulevard, Detroit Mi. 48202</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity data-caption="অনুপস্থিত ব্যালটের অনুরোধ করুন" data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="e358b7ec-0cba-4512-a9b1-57fe2bb25825"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<p>সকাল 8:00টা - বিকেল 5:00টার মধ্যে আসুন এবং সশরীরে একটি আবেদন পূরণ করুন।</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/government/city-clerk/lobbyist-registration-and-reporting-information
+
+title:  তদবিরকারী রেজিস্ট্রেশন ও রিপোর্ট করার তথ্য
+description:  <p>1984 সালের ডেট্রয়েট সিটি কোড এর ধারা 2-6-35 এই শর্ত আরোপ করে যে প্রতিটি ব্যক্তি "যারা তদবির করার কাজে নিয়োজিত হতে চান," 1984 সালের ডেট্রয়েট সিটি কোড এর ধারা 2-6-3-এ অনুসারে যার সংজ্ঞা হল "আইনসভা বা প্রশাসনের ব্যবস্থা নেওয়াকে প্রভাবিত করার উদ্দেশ্যে কোনো সরকারি কর্মচারীর সঙ্গে করা যাবতীয় আদানপ্রদান," তাদের রেজিস্টার করার ও তদবিরকারী হিসেবে রিপোর্ট করার প্রয়োজন। &nbsp;</p>
+
+<p>1984 সালের ডেট্রয়েট সিটি কোড এর ধারা 2-6-3-এ অনুসারে তদবিরকারীর সংজ্ঞা হল: "1) a person whose expenditures for lobbying are more than $1,000 in value in any 12-month period; 2) a person whose expenditures for lobbying are more than $250 in value in any 12-month period where the amount is expended on lobbying a single public official; or 3) a registered lobbyist under applicable law who lobbies City government."</p>
+
+<p>তদবিরকারীর রেজিস্ট্রেশন ও রিপোর্ট করার জন্য প্রয়োজনীয় ফর্মগুলি নীচে এবং ডেট্রয়েট সিটি ক্লার্কের দপ্তরে পাওয়া যাবে।&nbsp; রেজিস্ট্রেশন ও রিপোর্ট করার বিবরণ নিম্নরূপ:</p>
+
+<p>&nbsp;<strong>তদবিরকারীর রেজিস্ট্রেশন ফর্ম</strong></p>
+
+<ul>
+	<li>যে সকল ব্যক্তি তদবির করতে চান তাদের প্রত্যেকের একটি (1) করে&nbsp;ফর্ম পূরণ ও দাখিল করার প্রয়োজন।</li>
+	<li>বার্ষিক একটি করে নতুন ফর্ম পূরণ করার&nbsp;ও দাখিল করার&nbsp;প্রয়োজন।</li>
+	<li>প্রতিটি পূরণ করা ফর্ম দাখিল করার ফি হল&nbsp;$125.00।</li>
+	<li>তদবির রেজিস্ট্রেশন ফর্ম ও ডেট্রয়েট এথিক্স&nbsp;অর্ডিন্যান্স এর প্রযোজ্য ধারাগুলি</li>
+	<li>তদবির রেজিস্ট্রেশন ফর্মের নমুনা</li>
+</ul>
+
+<p><strong>লবিস্ট রেজিস্ট্রেশন ফর্মের</strong><strong>&nbsp;পরি</strong>শিষ্ট (ক্লায়েন্টকে বা ক্লায়েন্টদের&nbsp;যুক্ত বা বিযুক্ত করতে)</p>
+
+<ul>
+	<li>প্রত্যেক ক্লায়েন্টের একটি (1) করে&nbsp;ফর্ম পূরণ &nbsp;ও দাখিল করার প্রয়োজন।</li>
+	<li>প্রতিটি পূরণ করা ফর্ম দাখিল করার ফি হল&nbsp;$15.00&nbsp;।</li>
+	<li>তদবিরকারীর রেজিস্ট্রেশন ফর্মের পরিশিষ্ট</li>
+	<li>তদবিরকারীর রেজিস্ট্রেশন ফর্মের পরিশিষ্টের নমুনা</li>
+</ul>
+
+<p><strong>ত্রৈমাসিক রিপোর্টসমূহ (প্রতি ক্লায়েন্টের জন্য রেজিস্টার্ড তদবিরকারীকে দাখিল করতে হবে)</strong></p>
+
+<ul>
+	<li>একটি তদবিরকারীর রেজিস্ট্রেশন ফর্ম&nbsp;দাখিল করার তারিখের ভিত্তিতে&nbsp;প্রত্যেক ক্লায়েন্টের জন্য একটি করে&nbsp; ত্রৈমাসিক রিপোর্ট পূরণ ও দাখিল&nbsp; করার প্রয়োজন।</li>
+	<li>প্রতিটি পূরণ করা &nbsp;ফর্ম দাখিল করার ফি হল&nbsp;$25.00&nbsp;।</li>
+	<li>ত্রৈমাসিক রিপোর্ট করার ফর্ম</li>
+	<li>ত্রৈমাসিক রিপোর্ট করার ফর্মের নমুনা</li>
+</ul>
+
+<p>&nbsp;<u><strong>প্রতিটি ফর্মকে অবশ্যই:</strong></u></p>
+
+<ol>
+	<li>সম্পূর্ণ পূরণ করতে হবে;</li>
+	<li>ডেট্রয়েট&nbsp;সিটি ক্লার্কের দপ্তরে দাখিল করার আগে নোটারাইজ করতে হবে;</li>
+	<li>এর সঙ্গে প্রয়োজনীয় "ডেট্রয়েট সিটি-কে প্রদেয় অর্থ চেক বা মানি অর্ডার আকারে থাকতে হবে;" এবং</li>
+	<li>"Lobbyist Registration &amp;&nbsp;Reporting, Office of Detroit City Clerk,&nbsp;2 Woodward Avenue, Coleman A. Young Municipal Center,&nbsp;Suite 200, Detroit, Michigan 48226 এ দাখিল করতে হবে।"&nbsp;</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p>ডেট্রয়েট&nbsp;সিটি ক্লার্কের দপ্তর&nbsp;সকল ব্যক্তি&nbsp;যাতে&nbsp;তদবিরকারী হিসেবে যথাযথভাবে রেজিস্টার্ড হয়&nbsp;এবং তাদের&nbsp;রিপোর্ট করার প্রয়োজনীয়তাগুলি যাতে পূরণ হয় তা নিশ্চিত করতে অঙ্গীকারবদ্ধ।&nbsp; আপনার কোনো প্রশ্ন থাকলে অনুগ্রহ করে Christine Jackson,&nbsp;Office of the Detroit City Clerk,&nbsp; এর (313)&nbsp;224-1990,নম্বরে বা<a href="mailto:jacksonchr@detroitmi.gov?subject=Inquiry%20Lobbyist%20Information"> jacksonchr@detroitmi.gov</a>-এ যোগাযোগ করুন</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
 language: arabic
 http://detroitmi.theneighborhoods.org/government/city-council
 
@@ -26513,6 +27398,156 @@ http://detroitmi.theneighborhoods.org/government/mayors-office/water-and-sewerag
 
 title:  Director de Agua y Alcantarillado
 description:  <p>Gary Brown fue nombrado director del Departamento de Agua y Alcantarillado de Detroit (Detroit Water and Sewerage Department, DWSD) en octubre de 2015.&nbsp; Dirige el Departamento en función de una operación fiscalmente responsable y centrada en el cliente.&nbsp; Anteriormente, Brown se desempeñó como ejecutivo de grupo para Operaciones de la ciudad de Detroit, donde se encargaba de garantizar la mejora continua de los servicios municipales.&nbsp;Al principio, fue contratado como director de cumplimiento por el administrador de Emergencias Kevyn Orr, después de haber sido presidente interino del Concejo Municipal (City Council) durante casi cuatro años. Antes de ser elegido para el Concejo, Brown tenía una trayectoria de 26 años en el Departamento de Policía de Detroit (Detroit Police Department).</p>
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/1231
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/1521
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/1581
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/2471
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/2481
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/2501
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/2586
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/3361
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/3866
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/3886
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/4576
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/501
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/6476
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/9466
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/node/9871
+
+title:  
+description:  
 organization information:  
 summary:   
 
