@@ -102,7 +102,9 @@ class TranslatedContentParser():
 
     def output_content(self):
 
-        for url in sorted(self.translations["ar"].keys()):
+        urls = list(self.translations["ar"].keys()) + list(self.translations["bn"].keys()) + list(self.translations["es"].keys())
+
+        for url in sorted(set(urls)):
 
             for lang in sorted(self.translations.keys()):
 
