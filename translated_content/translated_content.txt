@@ -1521,6 +1521,204 @@ summary:   <p>Información sobre las infracciones por deterioro</p>
 *******************************************************************************
 
 language: arabic
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods
+
+title:  إدارة الأحياء
+description:  <p dir='rtl'>توفر إدارة الأحياء (Department of Neighborhoods، DON) رابطًا مباشرًا بين مدينة ديترويت ونوادي الأحياء والجماعات المحلية وأصحاب الأعمال والزعماء الدينيين ومديري المدارس، والمقيمين يوميًا. يضم الفريق المكون من 14 عضوًا مديرًا للمنطقة ونائبًا لمدير المنطقة في كل منطقة من مناطق مجلس المدينة. وتتضمن أهم مسؤولياتهم محاربة المباني المخالفة وإعادة بناء وتقوية النسيج المجتمعي بالأحياء. يعمل المديرون على إشراك الآلاف من السكان والمتطوعين بشكل مباشر في كل من المبادرتين الرئيسيتين مثل Motor City Makeover، وAngels' Night، ومنع رهن المنازل بسبب الضرائب؛ وجهود أصغر مثل عمليات تنظيف قطع الأراضي الشاغرة وتغطية المنازل بالألواح. لكن عملهم يتجاوز ذلك بكثير؛ حيث يساعد مديرو المقاطعات السكان على تشكيل نوادي الأحياء والرابطات المجتمعية، ويقومون بقيادة المشاركة المجتمعية في مشاريع تخطيط الأحياء والمبادرات الأخرى؛ بالإضافة إلى حل شكاوى المواطنين وتثقيف السكان بشأن مجموعة واسعة من برامج وسياسات المدينة.</p>
+organization information:  
+summary:   <p dir='rtl'>توفر إدارة الأحياء (Department of Neighborhoods، DON) رابطًا مباشرًا بين مدينة ديترويت ونوادي الأحياء والجماعات المحلية وأصحاب الأعمال والزعماء الدينيين ومديري المدارس، والمقيمين يوميًا. يضم الفريق المكون من 14 عضوًا مديرًا للمنطقة ونائبًا لمدير المنطقة في كل منطقة من مناطق مجلس المدينة. وتتضمن أهم مسؤولياتهم محاربة المباني المخالفة وإعادة بناء وتقوية النسيج المجتمعي بالأحياء. يعمل المديرون على إشراك الآلاف من السكان والمتطوعين بشكل مباشر في كل من المبادرتين الرئيسيتين مثل Motor City Makeover، وAngels' Night، ومنع رهن المنازل بسبب الضرائب؛ وجهود أصغر مثل عمليات تنظيف قطع الأراضي الشاغرة وتغطية المنازل بالألواح. لكن عملهم يتجاوز ذلك بكثير؛ حيث يساعد مديرو المقاطعات السكان على تشكيل نوادي الأحياء والرابطات المجتمعية، ويقومون بقيادة المشاركة المجتمعية في مشاريع تخطيط الأحياء والمبادرات الأخرى؛ بالإضافة إلى حل شكاوى المواطنين وتثقيف السكان بشأن مجموعة واسعة من برامج وسياسات المدينة.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods
+
+title:  প্রতিবেশী বিভাগ
+description:  <p>প্রতিবেশী বিভাগ (Department of Neighborhoods, DON), সিটি অফ ডেট্রয়েট এবং ব্লক ক্লাব, কমিউনিটি গ্রুপ, ব্যবসার মালিক, ধর্মীয় ও স্কুলের নেতৃত্ব, এবং দৈনন্দিন আবসিকদের মধ্যে একটি সংযোগ প্রদান করে। 14-সদস্যের দলটিতে রয়েছে প্রত্যেক সিটি কাউন্সিল ডিস্ট্রিক্টের একজন ডিস্ট্রিক্ট ম্যানেজার এবং ডেপুটি ডিস্ট্রিক্ট ম্যানেজার। তাদের সর্বপ্রথম দায়িত্ব হল শ্বাসরোধক পরিবেশের বিরুদ্ধে লড়াই করা এবং আশেপাশের গঠন আরও ভালো করা। ম্যানেজারেরা মোটরসিটি মেকওভার, অ্যাঞ্জেলস নাইটের মতো প্রধান উদ্যোগগুলিতে এবং কর দিতে না পারার কারণে সম্পত্তি বিক্রয় প্রতিরোধ এবং খালি জমি পরিষ্কার করা এবং হাউস বোর্ড-আপ এর মতো তুলনামূলক ছোটো প্রচেষ্টাগুলিতে সরাসরি সহস্রাধিক আবাসিক ও স্বেচ্ছাসেবীদের লিপ্ত করে। যদিও তারা এর বাইরেও অনেক বেশি কাজ করে। ডিস্ট্রিক্ট ম্যানেজাররা ব্লক ক্লাব ও কমিউনিটি অ্যাসোসিয়েসনগুলির আবাসিকদের সহায়তা করেন; আশেপাশের প্রকল্পগুলির পরিকল্পনা ও অনান্য উদোগ্যগুলিতে কমিউনিটিকে জড়িত হওয়ার জন্য উৎসাহিত করেন; নাগরিকদের অভিযোগগুলির মীমাংসা করেন; এবং একটি বিস্তৃত পরিসরের সিটি প্রকল্প ও নীতিগুলি সম্পর্কে আবাসিকদের শিক্ষিত করে তোলেন।</p>
+organization information:  
+summary:   <p>প্রতিবেশী বিভাগ (Department of Neighborhoods, DON), সিটি অফ ডেট্রয়েট এবং ব্লক ক্লাব, কমিউনিটি গ্রুপ, ব্যবসার মালিক, ধর্মীয় ও স্কুলের নেতৃত্ব, এবং দৈনন্দিন আবসিকদের মধ্যে একটি সংযোগ প্রদান করে। 14-সদস্যের দলটিতে রয়েছে প্রত্যেক সিটি কাউন্সিল ডিস্ট্রিক্টের একজন ডিস্ট্রিক্ট ম্যানেজার এবং ডেপুটি ডিস্ট্রিক্ট ম্যানেজার। তাদের সর্বপ্রথম দায়িত্ব হল শ্বাসরোধক পরিবেশের বিরুদ্ধে লড়াই করা এবং আশেপাশের গঠন আরও ভালো করা। ম্যানেজারেরা মোটরসিটি মেকওভার, অ্যাঞ্জেলস নাইটের মতো প্রধান উদ্যোগগুলিতে এবং কর দিতে না পারার কারণে সম্পত্তি বিক্রয় প্রতিরোধ এবং খালি জমি পরিষ্কার করা এবং হাউস বোর্ড-আপ এর মতো তুলনামূলক ছোটো প্রচেষ্টাগুলিতে সরাসরি সহস্রাধিক আবাসিক ও স্বেচ্ছাসেবীদের লিপ্ত করে। যদিও তারা এর বাইরেও অনেক বেশি কাজ করে। ডিস্ট্রিক্ট ম্যানেজাররা ব্লক ক্লাব ও কমিউনিটি অ্যাসোসিয়েসনগুলির আবাসিকদের সহায়তা করেন; আশেপাশের প্রকল্পগুলির পরিকল্পনা ও অনান্য উদোগ্যগুলিতে কমিউনিটিকে জড়িত হওয়ার জন্য উৎসাহিত করেন; নাগরিকদের অভিযোগগুলির মীমাংসা করেন; এবং একটি বিস্তৃত পরিসরের সিটি প্রকল্প ও নীতিগুলি সম্পর্কে আবাসিকদের শিক্ষিত করে তোলেন।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods
+
+title:  Departamento de Vecindarios
+description:  <p>El Departamento de Vecindarios (Department of Neighborhoods, DON) establece una conexión directa entre la Ciudad de Detroit y los clubes vecinales, los grupos comunitarios, los dueños de negocios, los líderes escolares y religiosos y los residentes habituales. El equipo conformado por 14 miembros incluye a un director de distrito y a un subdirector de distrito en cada distrito del Concejo Municipal (City Council). Su responsabilidad principal es luchar contra el deterioro y reconstruir y fortalecer la estructura de los vecindarios. Los directores atraen a miles de residentes y voluntarios para que participen en grandes iniciativas, como la Renovación de Motor City (Motor City Makeover) y La Noche de Ángeles (Angels' Night), en la prevención de ejecuciones hipotecarias y en iniciativas de menor alcance, como la limpieza de terrenos baldíos y el entablado de viviendas. Sin embargo, su trabajo implica mucho más que eso. Los directores de distrito ayudan a los miembros de clubes vecinales y asociaciones comunitarias; impulsan la participación de la comunidad en proyectos de planificación de vecindarios y en otras iniciativas; resuelven las quejas de los ciudadanos; e instruyen a los residentes en diversos programas y políticas municipales.</p>
+organization information:  
+summary:   <p>El Departamento de Vecindarios (Department of Neighborhoods, DON) establece una conexión directa entre la Ciudad de Detroit y los clubes vecinales, los grupos comunitarios, los dueños de negocios, los líderes escolares y religiosos y los residentes habituales. El equipo conformado por 14 miembros incluye a un director de distrito y a un subdirector de distrito en cada distrito del Concejo Municipal (City Council). Su responsabilidad principal es luchar contra el deterioro y reconstruir y fortalecer la estructura de los vecindarios. Los directores atraen a miles de residentes y voluntarios para que participen en grandes iniciativas, como la Renovación de Motor City (Motor City Makeover) y La Noche de Ángeles (Angels' Night), en la prevención de ejecuciones hipotecarias y en iniciativas de menor alcance, como la limpieza de terrenos baldíos y el entablado de viviendas. Sin embargo, su trabajo implica mucho más que eso. Los directores de distrito ayudan a los miembros de clubes vecinales y asociaciones comunitarias; impulsan la participación de la comunidad en proyectos de planificación de vecindarios y en otras iniciativas; resuelven las quejas de los ciudadanos; e instruyen a los residentes en diversos programas y políticas municipales.</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/motorcity-makeover-information
+
+title:  معلومات عن MotorCity Makeover
+description:  <p dir='rtl'><img alt="معلومات عن MotorCity Makeover" data-entity-type="file" data-entity-uuid="69a676e8-2752-4b17-845d-d3b80e5b093b" src="/sites/detroitmi.localhost/files/inline-images/motor-city-makeover.jpg" /></p>
+
+<p dir='rtl'>MotorCity Makeover هي مبادرة تنظيف وتجميل تطوعية سنوية تتم على مستوى المدينة. يتم تحديد مواعيد جهود التنظيف من خلال مناطق المجلس في عطلات محددة نهاية الأسبوع في شهر مايو. <strong dir='rtl'>يجب </strong>على الأفراد والمجموعات التسجيل لدى مدينة ديترويت لتلقي الإمدادات المحدودة ولتحديد مواعيد الالتقاط الخاصة.</p>
+
+<div class="row" dir='rtl'>
+<div class="col-sm-4" style="text-align: center;"><strong dir='rtl'>السبت 5 مايو 2018</strong><br/>
+المنطقة 1<br/>
+المنطقة 2</div>
+
+<div class="col-sm-4" style="text-align: center;"><strong dir='rtl'>السبت 12 مايو 2018</strong><br/>
+المنطقة 3<br/>
+المنطقة 4<br/>
+المنطقة 5</div>
+
+<div class="col-sm-4" style="text-align: center;"><strong dir='rtl'>السبت 19 مايو 2018</strong><br/>
+المنطقة 6<br/>
+المنطقة 7</div>
+</div>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p style="text-align: center;"><a class="dt-btn" href="https://app.smartsheet.com/b/form/25f0eac77d584fd28c68b367ded0d82a" role="button" target="_blank" dir='rtl'><span class="glyphicons glyph-display"></span> </a></p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="66504d57-7e56-4b10-9760-6ecbd001d95e" dir='rtl'></drupal-entity>
+
+<div style="padding: 40px; color: #ffffff; margin: 40px 0px; background-color: #0099cc;">
+<div class="det-full-width" dir='rtl'>
+<h3 style="color: #ffffff; text-align: center;">إذا كنت من سكان ديترويت &nbsp;ولا تعرف منطقة المجلس الخاصة بك، فيمكنك البحث عن طريق إدخال عنوان منزلك</h3>
+</div>
+</div>
+
+<div class="det-full-width" style="margin-top: 120px;"><iframe frameborder="0" src="http://app.detroitmi.gov/MyDistrict" style="width: 100%;">متصفحك لا يدعم iFrames.</iframe></div>
+
+<div class="det-full-width" style="margin-top: 120px;">&nbsp;</div>
+organization information:  
+summary:   <p dir='rtl'>MotorCity Makeover هي مبادرة تنظيف وتجميل تطوعية سنوية تتم على مستوى المدينة. يتم تحديد مواعيد جهود التنظيف من خلال مناطق المجلس في عطلات محددة نهاية الأسبوع في شهر مايو. يجب على الأفراد والمجموعات التسجيل لدى مدينة ديترويت لتلقي الإمدادات المحدودة ولتحديد مواعيد الالتقاط الخاصة.<br/>
+&nbsp;</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/motorcity-makeover-information
+
+title:  মোটরসিটি মেকওভার তথ্য
+description:  <p><img alt="মোটরসিটি মেকওভার তথ্য" data-entity-type="file" data-entity-uuid="69a676e8-2752-4b17-845d-d3b80e5b093b" src="/sites/detroitmi.localhost/files/inline-images/motor-city-makeover.jpg" /></p>
+
+<p>মোটরসিটি মেকওভার শহর পরিষ্কার এবং সৌন্দর্য্যায়নের একটি বার্ষিক উদ্যোগ। পরিষ্কার করার প্রচেষ্টাটি মে মাসের নির্দিষ্ট উইকএন্ডে কাউন্সিল ডিস্ট্রিক্ট স্থির করে থাকে। সীমিত সরবরাহ পেতে ও বিশেষ পিকআপের সময়সূচি স্থির করতে ব্যক্তিবিশেষ ও গ্রুপগুলিকে <strong>অবশ্যই </strong>সিটি অফ ডেট্রয়েট সাথে নিবন্ধিত হতে হবে।</p>
+
+<div class="row">
+<div class="col-sm-4" style="text-align: center;"><strong>শনিবার, 5ই মে, 2018</strong><br/>
+ডিস্ট্রিক্ট 1<br/>
+ডিস্ট্রিক্ট 2</div>
+
+<div class="col-sm-4" style="text-align: center;"><strong>শনিবার, 12ই মে, 2018</strong><br/>
+ডিস্ট্রিক্ট 3<br/>
+ডিস্ট্রিক্ট 4<br/>
+ডিস্ট্রিক্ট 5</div>
+
+<div class="col-sm-4" style="text-align: center;"><strong>শনিবার, 19শে মে, 2018</strong><br/>
+ডিস্ট্রিক্ট 6<br/>
+ডিস্ট্রিক্ট 7</div>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><a class="dt-btn" href="https://app.smartsheet.com/b/form/25f0eac77d584fd28c68b367ded0d82a" role="button" target="_blank"><span class="glyphicons glyph-display"></span> </a></p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="66504d57-7e56-4b10-9760-6ecbd001d95e"></drupal-entity>
+
+<div style="padding: 40px; color: #ffffff; margin: 40px 0px; background-color: #0099cc;">
+<div class="det-full-width">
+<h3 style="color: #ffffff; text-align: center;">আপনি একজন ডেট্রয়েটবাসী হলে এবং আপনার কাউন্সিল ডিস্ট্রিক্ট&nbsp;না জানলে আপনি আপনার বাড়ির ঠিকানা লিখে অনুসন্ধান করতে পারেন</h3>
+</div>
+</div>
+
+<div class="det-full-width" style="margin-top: 120px;"><iframe frameborder="0" src="http://app.detroitmi.gov/MyDistrict" style="width: 100%;">আপনার ব্রাউজার iFrames কে সমর্থন করছে না।</iframe></div>
+
+<div class="det-full-width" style="margin-top: 120px;">&nbsp;</div>
+organization information:  
+summary:   <p>মোটরসিটি মেকওভার শহর পরিষ্কার এবং সৌন্দর্য্যায়নের একটি বার্ষিক উদ্যোগ। পরিষ্কার করার প্রচেষ্টাটি মে মাসের নির্দিষ্ট উইকএন্ডে কাউন্সিল ডিস্ট্রিক্ট স্থির করে থাকে। সীমিত সরবরাহ পেতে ও বিশেষ পিকআপের সময়সূচি স্থির করতে ব্যক্তিবিশেষ ও গ্রুপগুলিকে অবশ্যই সিটি অফ ডেট্রয়েট সাথে নিবন্ধিত হতে হবে।<br/>
+&nbsp;</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/motorcity-makeover-information
+
+title:  Información sobre la Renovación de Motor City
+description:  <p><img alt="Información sobre la Renovación de Motor City" data-entity-type="file" data-entity-uuid="69a676e8-2752-4b17-845d-d3b80e5b093b" src="/sites/detroitmi.localhost/files/inline-images/motor-city-makeover.jpg" /></p>
+
+<p>La Renovación de Motor City (Motor City Makeover) es una iniciativa anual de tareas voluntarias de limpieza y embellecimiento en toda la ciudad. Las tareas de limpieza son programadas por los distritos del Concejo en fines de semanas específicos del mes de mayo. Las personas y los grupos <strong>DEBEN </strong>registrarse ante la Ciudad de Detroit para recibir suministros limitados y programar recolecciones especiales.</p>
+
+<div class="row">
+<div class="col-sm-4" style="text-align: center;"><strong>Sábado 5 de mayo de 2018</strong><br/>
+Distrito 1<br/>
+Distrito 2</div>
+
+<div class="col-sm-4" style="text-align: center;"><strong>Sábado 12 de mayo de 2018</strong><br/>
+Distrito 3<br/>
+Distrito 4<br/>
+Distrito 5</div>
+
+<div class="col-sm-4" style="text-align: center;"><strong>Sábado 19 de mayo de 2018</strong><br/>
+Distrito 6<br/>
+Distrito 7</div>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><a class="dt-btn" href="https://app.smartsheet.com/b/form/25f0eac77d584fd28c68b367ded0d82a" role="button" target="_blank"><span class="glyphicons glyph-display"></span> </a></p>
+
+<drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.browser_teaser" data-entity-type="media" data-entity-uuid="66504d57-7e56-4b10-9760-6ecbd001d95e"></drupal-entity>
+
+<div style="padding: 40px; color: #ffffff; margin: 40px 0px; background-color: #0099cc;">
+<div class="det-full-width">
+<h3 style="color: #ffffff; text-align: center;">Si usted es residente de Detroit&nbsp;y no sabe cuál es su distrito del Concejo, puede buscarlo ingresando su dirección residencial.</h3>
+</div>
+</div>
+
+<div class="det-full-width" style="margin-top: 120px;"><iframe frameborder="0" src="http://app.detroitmi.gov/MyDistrict" style="width: 100%;">Su navegador no admite iFrames.</iframe></div>
+
+<div class="det-full-width" style="margin-top: 120px;">&nbsp;</div>
+organization information:  
+summary:   <p>La Renovación de Motor City (Motor City Makeover) es una iniciativa anual de tareas voluntarias de limpieza y embellecimiento en toda la ciudad. Las tareas de limpieza son programadas por los distritos del Concejo en fines de semanas específicos del mes de mayo. Las personas y los grupos DEBEN registrarse ante la Ciudad de Detroit para recibir suministros limitados y programar recolecciones especiales.<br/>
+&nbsp;</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/serve-detroit
+
+title:  مبادرة Serve Detroit
+description:  
+organization information:  
+summary:   <p dir='rtl'>معلومات حول فرص التطوع في ديترويت</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/serve-detroit
+
+title:  ডেট্রয়েট উন্নতি বিধান করুন
+description:  
+organization information:  
+summary:   <p>ডেট্রয়েট স্বেচ্ছাসেবার সুযোগ সম্পর্কে তথ্য</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/serve-detroit
+
+title:  Ayude a Detroit
+description:  
+organization information:  
+summary:   <p>Información sobre las oportunidades de voluntariado en Detroit</p>
+
+*******************************************************************************
+
+language: arabic
 http://detroitmi.theneighborhoods.org/departments/detroit-department-transportation
 
 title:  إدارة النقل في ديترويت (Detroit Department of Transportation, DDOT)
@@ -16272,6 +16470,1599 @@ summary:   <p>Pague sus impuestos sobre la propiedad en línea.</p>
 *******************************************************************************
 
 language: arabic
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department
+
+title:  إدارة التخطيط والتنمية
+description:  <p dir='rtl'>تهدف إدارة التخطيط والتنمية بمدينة ديترويت إلى بناء مدينة آمنة في المستقبل، ترتكز على جذورها ومفعمة بالأمل في وضعها الحالي. إن الرؤية التي تتضمنها رسالة إدارة التخطيط والتنمية هي أن تكون ديترويت مدينة صحية وجميلة، مبنية على النمو الشامل والفرص الاقتصادية والمناخ المليء بالثقة.</p>
+organization information:  
+summary:   <p dir='rtl'>معلومات من إدارة التخطيط والتنمية بديترويت، تتضمن مبادرات التصميم ومشاريع التنمية الاقتصادية.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department
+
+title:  পরিকল্পনা ও উন্নয়ন বিভাগ
+description:  <p>সিটি অফ ডেট্রয়েট পরিকল্পনা ও উন্নয়ন বিভাগ (PDD) নিরাপদ ভবিষ্যতের, নিজের শিকড় ঠিক রেখে এবং তার বর্তমান অবস্থার প্রতি আস্থা রেখে একটি সিটি গড়ে তোলার লক্ষ্য রাখে। PDD-র লক্ষ্যের দর্শন হল উন্নয়ন, অর্থনৈতিক সুযোগ এবং একটি বিশ্বাসের বাতাবরণ যুক্ত একটি স্বাস্থ্যকর ও সুন্দর ডেট্রয়েট গড়ে তোলা।</p>
+organization information:  
+summary:   <p>উদ্যোগগুলির ডিজাইন এবং অর্থনৈতিক বিকাশের প্রকল্পগুলি সহ ডেট্রয়েট পরিকল্পনা ও উন্নয়ন বিভাগের তথ্য।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department
+
+title:  Departamento de Planificación y Desarrollo
+description:  <p>El Departamento de Planificación y Desarrollo (Planning and Development Department, PDD) de la Ciudad de Detroit tiene como objetivo construir una ciudad basada en sus raíces, con un futuro seguro y con esperanza en su estado actual. La misión del PDD es hacer de Detroit una ciudad hermosa y saludable, construida sobre un crecimiento inclusivo, oportunidades económicas y una atmósfera de confianza.</p>
+organization information:  
+summary:   <p>Información del Departamento de Planificación y Desarrollo de Detroit, incluidas las iniciativas de diseño y los proyectos de desarrollo económico.</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department/citywide-initiatives/home-repair-program-information
+
+title:  معلومات عن برنامج إصلاح المنازل
+description:  <p dir='rtl'>توفر مدينة ديترويت، من خلال إدارة التخطيط والتنمية التابعة لها، خدمات إصلاح المنازل في إطار برنامج CDBG لإعادة تأهيل المنازل. حيث تقوم باستخدام أموال المنح التي تقدمها وزارة الإسكان والتنمية الحضرية (HUD)، لمساعدة أصحاب المنازل في احتياجاتهم لإصلاح منازلهم، والقضاء على مخاطر الطلاء المصنوع من الرصاص، ومعالجة العيوب الهيكلية التي تؤثر على صحة وسلامة سكانها. بالإضافة إلى ذلك، يدعم برنامج CDBG لإعادة تأهيل المنازل جهود المدينة للحفاظ على بيانات الإسكان الحالية واستقرار الأحياء.</p>
+
+<p dir='rtl'>تم الآن <strong dir='rtl'>إغلاق</strong> قائمة انتظار برنامج إعادة تأهيل المنازل. ولن يتم قبول أي إدخالات أخرى في الوقت الحالي. يتم اختيار الأسماء المقبولة من هذه القائمة لاستلام طلب إعادة تأهيل المنازل من برنامج CDBG حيث تم تحديد المناطق المستهدفة وتم توفير أموال إصلاح المنازل.</p>
+organization information:  
+summary:   <p dir='rtl'>توفر مدينة ديترويت، من خلال إدارة التخطيط والتنمية التابعة لها، خدمات إصلاح المنازل في إطار برنامج CDBG لإعادة تأهيل المنازل.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department/citywide-initiatives/home-repair-program-information
+
+title:  বাড়ি মেরামত করার প্রকল্পের তথ্য
+description:  <p>সিটি অফ ডেট্রয়েট, তার পরিকল্পনা ও উন্নয়ন বিভাগের মাধ্যমে CDBG বাড়ি পুনর্বাসন প্রকল্পের অধীনে বাড়ি মেরামতি পরিষেবা প্রদান করে থাকে। আবাসন ও শহরাঞ্চল উন্নয়ন (Housing and Urban Development, HUD) বিভাগের দেওয়া অনুদানের তহবিল ব্যবহার করে, বাড়ির মালিকদের তাদের বাড়ি মেরামতের প্রয়োজনীয়তাতে সহায়তা করে, সীসা-ভিত্তিক রঙের বিপদের ঝুঁকি দূরীভূত করে এবং আবাসিকদের স্বাস্থ্য ও নিরাপত্তার ক্ষতিকারক গঠনগত ত্রুটিগুলির সমাধান করে। সেইসাথে, CDBG বাড়ি পুনর্বাসন প্রকল্পের বিদ্যমান আবাসনের সংখ্যা রক্ষা এবং প্রতিবেশীদের স্থিতিশীল করার প্রচেষ্টাতে সহায়তা করে।</p>
+
+<p>আবাসন পুনর্বাসন প্রকল্পের অপেক্ষার তালিকা এখন <strong>বন্ধ আছে</strong>। এই মুহূর্তে আর কোনো এন্ট্রি গ্রহণ করা হবে না। লক্ষীভূত অঞ্চলগুলি সনাক্ত করা হলে এবং বাড়ি মেরামতের তহবিল পাওয়া গেলেই একটি CDBG বাড়ি পুনর্বাসন প্রকল্পের আবেদন পাওয়ার জন্য গৃহীত নামগুলি এই তালিকা থেকে বেছে নেওয়া হবে।</p>
+organization information:  
+summary:   <p>সিটি অফ ডেট্রয়েট, তার পরিকল্পনা ও উন্নয়ন বিভাগের মাধ্যমে CDBG বাড়ি পুনর্বাসন প্রকল্পের অধীনে বাড়ি মেরামতি পরিষেবা প্রদান করে থাকে।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department/citywide-initiatives/home-repair-program-information
+
+title:  Información sobre el Programa de Reparación de Viviendas
+description:  <p>La Ciudad de Detroit, a través de su Departamento de Planificación y Desarrollo (Planning and Development Department) ofrece servicios de reparación de viviendas de conformidad con el Programa de Rehabilitación de Viviendas (Home Rehabilitation Program) del Subsidio en Bloque para el Desarrollo Comunitario (Community Development Block Grants, CDBG). Se usan fondos provenientes de subsidios otorgados por el Departamento de Vivienda y Desarrollo Urbano (Department of Housing and Urban Development, HUD), para ayudar a los propietarios de viviendas en sus necesidades de reparación, eliminar los peligros causados por la pintura a base de plomo y abordar los defectos estructurales que ponen en riesgo la salud y la seguridad de sus residentes. Además, el Programa de Rehabilitación de Viviendas de los CDBG apoya los esfuerzos de la ciudad para preservar el inventario existente de viviendas y estabilizar los vecindarios.</p>
+
+<p>La lista de espera del Programa de Rehabilitación de Viviendas está actualmente <strong>CERRADA</strong>. No se aceptan inscripciones en este momento. Las personas aceptadas de la lista recibirán la Solicitud de Rehabilitación de Viviendas del CDBG, a medida que se identifiquen las áreas que se abordarán y haya fondos disponibles para la reparación de viviendas.</p>
+organization information:  
+summary:   <p>La Ciudad de Detroit, a través de su Departamento de Planificación y Desarrollo (Planning and Development Department) ofrece servicios de reparación de viviendas de conformidad con el Programa de Rehabilitación de Viviendas (Home Rehabilitation Program) del Subsidio en Bloque para el Desarrollo Comunitario (Community Development Block Grants, CDBG).</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department/east-design-region/campau-banglatown
+
+title:  Campau-Banglatown
+description:  <h2 dir='rtl'>ملخص المشروع</h2>
+
+<p dir='rtl'>باعتبارها واحدة من العديد من مشاريع التخطيط التي تهدف إلى تقوية أحياء ديترويت، تتعاون إدارة التخطيط والتنمية (PDD) وإدارة الإسكان والإحياء (HRD) وإدارة الأحياء (DON) بمدينة ديترويت مع فريق من الاستشاريين للمساعدة في صياغة خطة التطوير والتنفيذ الخاصة بالأحياء لحي Campau/Banglatown.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<drupal-entity alt="المساحات الخضراء والشوارع بحي Campau / Banglatown" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="3f220ede-92dd-4637-9154-f32beeffe884" title="مسقط علوي لحي Campau / Banglatown"></drupal-entity>
+
+<p dir='rtl'>من خلال الاهتمام الكبير بالثقافة النابضة بالحياة في الحي، يسعى هذا الجهد التخطيطي إلى خلق مشاريع واستراتيجيات قابلة للتنفيذ من شأنها أن تكون مجدية لمجتمع Campau/Banglatown بشكل عام، وذلك من خلال العمل على تعزيز ودعم جهود التخطيط المجتمعية القائمة بالفعل والموجودة في المنطقة.</p>
+
+<p dir='rtl'>وسيركز نطاق عمل هذا المشروع على الإشراف على المساحات الخضراء، وتطوير عملية إعادة تأهيل المنازل، وتقوية الممرات التجارية داخل الحي. وبشكل خاص، ستعمل الخطة على تحقيق ما يلي:</p>
+
+<ol dir='rtl'>
+	<li dir='rtl'>الحفاظ على المجتمع الثقافي الحالي والناشئ الموجود داخل الحي وتوسيع نطاقه.</li>
+	<li dir='rtl'>دعم وتعزيز الحيوية الاقتصادية والاجتماعية لمجتمعاته وممراته التجارية.</li>
+	<li dir='rtl'>زيادة فرص استئجار المنازل وتملكها للسكان الحاليين والوافدين.</li>
+	<li dir='rtl'>تحويل المساحات الخضراء الخالية إلى مساحات منتجة ومستدامة وجميلة.</li>
+</ol>
+
+<p dir='rtl'>من أجل صياغة هذه الاستراتيجيات القابلة للتنفيذ، ستشترك مدينة ديترويت مع سكان الأحياء والمنظمات المجتمعية من ربيع 2018 وحتى 2019 في سلسلة من الاجتماعات المجتمعية والمناسبات الاجتماعية ومجموعات التركيز. في هذه الاجتماعات التشاركية، تسعى المدينة إلى مشاركتك أنت وأصحاب المصلحة في الحي بأفكارك وأولوياتك لمستقبل الحي.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>لمزيد من المعلومات، يرجى إرسال بريد إلكتروني&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="1665760a-dd5e-437e-8167-c7255e170394" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>وراجع موقع الويب هذا للحصول على التحديثات في الأسابيع القادمة.</p>
+
+<drupal-entity alt="خريطة الشارع لحي Campau / Banglatown" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="74d05b1f-55a0-4d09-842e-8398df114df1" title="خريطة الشارع لحي Campau / Banglatown"></drupal-entity>
+organization information:  
+summary:   <p dir='rtl'>معلومات عن &nbsp;برنامج إدارة التخطيط والتنمية &nbsp;للمساعدة في صياغة خطة التطوير والتنفيذ الخاصة بالأحياء لحي Campau/Banglatown.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department/east-design-region/campau-banglatown
+
+title:  Campau-Banglatown
+description:  <h2>প্রকল্পের সারাংশ</h2>
+
+<p>ডেট্রয়েট নেবারহুডকে আরও উন্নত করার লক্ষ্যে বিভিন্ন পরিকল্পনামূলক প্রকল্পগুলির একটি, সিটি অফ ডেট্রয়েট পরিকল্পনা ও উন্নয়ন বিভাগ (Planning and Development Department, PDD), আবাসন ও পুনরুজ্জীবন বিভাগ (Housing and Revitalization Department, HRD), এবং প্রতিবেশী বিভাহ (DON), ক্যাম্পাউ/বাংলাটাউন অঞ্চলের জন্য একটি নেবারহুড উন্নয়ন ও রূপায়ন পরিকল্পনা রচনা করতে সহায়তা করার জন্য একটি উপদেষ্টা দলের সাথে একসাথে কাজ করছে।</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity alt="ক্যাম্পাউ/বাংলাটাউন ল্যান্ডস্কেপ ও রাস্তা" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="3f220ede-92dd-4637-9154-f32beeffe884" title="ক্যাম্পাউ/বাংলাটাউন এর বার্ডস আই ভিউ"></drupal-entity>
+
+<p>এই পরিকল্পনার প্রচেষ্টা ক্যাম্পাউ/বাংলাটাউনের নেবারহুডের প্রাণবন্ত সংস্কৃতির যথাযথ মর্যাদার সাথে, রূপায়ন করার যোগ্য প্রকল্পগুলি অনুসন্ধান করে যা ক্যাম্পাউ/বাংলাটাউনের বৃহত্তর কমিউনিটির পক্ষে অর্থবহ হয়ে উঠবে, সেইসাথে অঞ্চলটিতে ইতিমধ্যে বিদ্যমান কমিউনিটি-ভিত্তিক পরিকল্পনার প্রচেষ্টাগুলিকে শক্তিশালী করতে ও সহায়তা করার জন্য কাজ করে।</p>
+
+<p>এই প্রকল্পের কাজের পরিসর ল্যান্ডস্কেপের তত্ত্বাবধান, পুনর্বাসনের উন্নয়ন, এবং নেবারহুডের মধ্যেকার বাণিজ্যিক করিডর শক্তিশালী করার উপর ফোকাস করবে। বিশেষ করে, এই পরিকল্পনা নিম্নলিখিতগুলি সম্পাদন করার জন্য কাজ করবে:</p>
+
+<ol>
+	<li>নেবারহুডের মধ্যে খুঁজে পাওয়া বিদ্যমান ও উদীয়মান সাংস্কৃতিক কমিউনিটির সংরক্ষণ ও বিস্তার;</li>
+	<li>তার কমিউনিটি ও বাণিজ্যিক করিডরগুলির অর্থনৈতিক ও সামাজিক প্রাণবন্ততা শক্তিশালী করা;</li>
+	<li>বর্তমান ও আগত জনগণের জন্য আবাসনের ভাড়া এবং বাড়ির মালিক হওয়ার সুযোগগুলি বৃদ্ধি করা; এবং</li>
+	<li>খালি ল্যান্ডস্কেপগুলিকে উৎপাদনশীল, দীর্ঘস্থায়ী, এবং সুন্দর জায়গায় রূপান্তরিত করা</li>
+</ol>
+
+<p>এই বাস্তবায়নযোগ্য কৌশলগুলি গঠন করতে, সিটি অফ ডেট্রয়েট নেবারহুডের আবাসিক এবং কমিউনিটি প্রতিষ্ঠানগুলির সাথে 2018-র বসন্তকাল 2019 পর্যন্ত একগুচ্ছ মিটিং, সামাজিক অনুষ্ঠান, এবং ফোকাস গ্রুপগুলির সাথে জড়িত হবে। এই অংশগ্রহণমূলক মিটিংগুলিতে, সিটি আপনাকে, নেবারহুডের স্টেকহোল্ডারদের আপনার ধারণার সাথে জড়িত করতে এবং নেবারহুডের ভবিষ্যতের জন্য আপনার ধারণাকে অগ্রাধিকার দিতে চায়।</p>
+
+<p>&nbsp;</p>
+
+<p>আরও তথ্যের জন্য, অনুগ্রহ করে ইমেল করুন&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="1665760a-dd5e-437e-8167-c7255e170394"></drupal-entity>
+
+<p>এবং আপডেটগুলির জন্য পরবর্তী সপ্তাহে এই ওয়েবসাইটটি দেখুন।</p>
+
+<drupal-entity alt="ক্যাম্পাউ/বাংলাটাউনের রাস্তার মানচিত্র" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="74d05b1f-55a0-4d09-842e-8398df114df1" title="ক্যাম্পাউ/বাংলাটাউনের রাস্তার মানচিত্র"></drupal-entity>
+organization information:  
+summary:   <p>ক্যাম্পাউ/বাংলাটাউন নেবারহুডের একটি পারিপার্শ্বিক উন্নয়ন ও রূপায়নের পরিকল্পনা গঠন করতে সহায়তা করার জন্য&nbsp;পরিকল্পনা ও উন্নয়ন বিভাগের প্রকল্প&nbsp;সম্পর্কে তথ্য।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/planning-and-development-department/east-design-region/campau-banglatown
+
+title:  Campau-Banglatown
+description:  <h2>Resumen del proyecto</h2>
+
+<p>Como uno de los varios proyectos de planificación destinados a fortalecer los vecindarios de Detroit, el Departamento de Planificación y Desarrollo (Planning and Development Department, PDD), el Departamento de Viviendas y Revitalización (Housing and Revitalization Department, HRD) y el Departamento de Vecindarios (Department of Neighborhoods, DON) de la Ciudad de Detroit están colaborando con un equipo de consultores a fin de elaborar un plan de desarrollo e implementación de vecindarios para el vecindario Campau/Banglatown.</p>
+
+<p>&nbsp;</p>
+
+<drupal-entity alt="Paisajes y calles de Campau/Banglatown" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="3f220ede-92dd-4637-9154-f32beeffe884" title="Visión aérea de Campau/Banglatown"></drupal-entity>
+
+<p>Con gran consideración por la cultura dinámica de los vecindarios, esta iniciativa de planificación tiene como objetivo crear proyectos y estrategias aplicables que serán significativos para la comunidad de Campau/Banglatown en general, y trabajar para fortalecer y respaldar las iniciativas de planificación comunitaria que ya existen y están vigentes en el área.</p>
+
+<p>El alcance del trabajo de este proyecto se centrará en la administración de paisajes, el desarrollo de la rehabilitación y el fortalecimiento de las vías comerciales dentro del vecindario. Específicamente, el plan consiste en trabajar para lograr lo siguiente:</p>
+
+<ol>
+	<li>Preservar y expandir la comunidad cultural existente y emergente dentro del vecindario.</li>
+	<li>Fortalecer la vitalidad social y económica de sus comunidades y vías comerciales.</li>
+	<li>Aumentar las oportunidades de alquiler y adquisición de viviendas para los residentes actuales y futuros.</li>
+	<li>Transformar los terrenos baldíos en espacios hermosos, sustentables y productivos.</li>
+</ol>
+
+<p>A fin de elaborar estas estrategias aplicables, la Ciudad de Detroit participará junto con los residentes de los vecindarios y organizaciones comunitarias en una serie de reuniones comunitarias, eventos sociales y grupos de enfoque desde la primavera de 2018 hasta el 2019. En estas reuniones participativas, la Ciudad desea que USTEDES, las personas interesadas en el vecindario, participen y expresen sus ideas y prioridades para el futuro del vecindario.</p>
+
+<p>&nbsp;</p>
+
+<p>Para obtener más información, envíe un correo electrónico a&nbsp;</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="1665760a-dd5e-437e-8167-c7255e170394"></drupal-entity>
+
+<p>y visite este sitio web donde encontrará novedades en las próximas semanas.</p>
+
+<drupal-entity alt="Mapa de las calles de Campau/Banglatown" data-align="center" data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="74d05b1f-55a0-4d09-842e-8398df114df1" title="Mapa de las calles de Campau/Banglatown"></drupal-entity>
+organization information:  
+summary:   <p>Información sobre el&nbsp;programa del Departamento de Planificación y Desarrollo para&nbsp;ayudar a elaborar un plan de desarrollo e implementación de vecindarios para el vecindario de Campau/Banglatown.</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department
+
+title:  إدارة الشرطة
+description:  <p dir='rtl'>تتحمل إدارة شرطة ديترويت وضباطها البالغ عددهم 2200 ضابط مسؤولية حفظ الأمن والنظام بمدينة ديترويت البالغ مساحتها 139 ميلاً مربعًا. من خلال برامج مكافحة الجريمة المبتكرة مثل Cease Fire وProject Green Light ومركز Real Time Crime Center الجديد، شهدت مدينة ديترويت انخفاضات مستمرة في كل فئة من فئات الجرائم تقريبًا.</p>
+organization information:  
+summary:   <p dir='rtl'>تتحمل إدارة شرطة ديترويت وضباطها البالغ عددهم 2200 ضابط مسؤولية حفظ الأمن والنظام بمدينة ديترويت البالغ مساحتها 139 ميلاً مربعًا. من خلال برامج مكافحة الجريمة المبتكرة مثل Cease Fire وProject Green Light ومركز Real Time Crime Center الجديد، شهدت مدينة ديترويت انخفاضات مستمرة في كل فئة من فئات الجرائم تقريبًا.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department
+
+title:  পুলিশ বিভাগ
+description:  <p>ডেট্রয়েট পুলিশ বিভাগ এবং তার 2,200 আধিকারিক ডেট্রয়েট 139 বর্গ মাইল জমি পুলিশী কার্যকলাপের জন্য দায়বদ্ধ। সিজ ফায়ার, প্রজেক্ট সবুজ আলো এবং নতুন রিয়েল টাইম ক্রাইম সেন্টারের মত অপরাধ প্রতিরোধের অভিনব প্রকল্পগুলির মধ্য দিয়ে, ডেট্রয়েট প্রায় প্রতিটি শ্রেণীতে অপরাধ উল্লেখযোগ্যভাবে কমাতে পেরেছে।</p>
+organization information:  
+summary:   <p>ডেট্রয়েট পুলিশ বিভাগ এবং তার 2,200 আধিকারিক ডেট্রয়েট 139 বর্গ মাইল জমি পুলিশী কার্যকলাপের জন্য দায়বদ্ধ। সিজ ফায়ার, প্রজেক্ট সবুজ আলো এবং নতুন রিয়েল টাইম ক্রাইম সেন্টারের মত অপরাধ প্রতিরোধের অভিনব প্রকল্পগুলির মধ্য দিয়ে, ডেট্রয়েট প্রায় প্রতিটি শ্রেণীতে অপরাধ উল্লেখযোগ্যভাবে কমাতে পেরেছে।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department
+
+title:  Departamento de Policía
+description:  <p>El Departamento de Policía de Detroit (The Detroit Police Department) y sus 2200 oficiales son responsables de llevar a cabo la vigilancia policial de las 139 millas cuadradas de Detroit. A través de programas innovadores para combatir los delitos, como Alto el Fuego (Cease Fire), Proyecto Luz Verde (Project Green Light) y el nuevo Centro contra la Delincuencia en Tiempo Real (Real Time Crime Center), Detroit observó reducciones constantes en casi todas las categorías de delitos.</p>
+organization information:  
+summary:   <p>El Departamento de Policía de Detroit (The Detroit Police Department) y sus 2200 oficiales son responsables de llevar a cabo la vigilancia policial de las 139 millas cuadradas de Detroit. A través de programas innovadores para combatir los delitos, como Alto el Fuego (Cease Fire), Proyecto Luz Verde (Project Green Light) y el nuevo Centro contra la Delincuencia en Tiempo Real (Real Time Crime Center), Detroit observó reducciones constantes en casi todas las categorías de delitos.</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department/2016-crime-statistics
+
+title:  2016 Crime Statistics
+description:  <h3 dir='rtl'>نظرة عامة على إحصائيات الجريمة بديترويت لعام 2016&nbsp;</h3>
+
+<p dir='rtl'>وفقًا للبيانات الأولية الصادرة بنهاية عام 2016 عن إدارة شرطة ديترويت، استمرت معظم فئات الجرائم في الانخفاض في ديترويت على مدار الـ12 شهرًا الماضية. وبشكل عام، انخفضت تقارير جرائم العنف بنسبة 6.7٪ في ديترويت مقارنة بعام 2015، وانخفضت بنسبة 9.4% منذ عام 2014. كما انخفضت نسبة حوادث خطف السيارات المبلغ عنها في عام 2016 بنسبة 39% عن العام السابق، بينما انخفضت حوادث السطو عمومًا بنسبة 17.4%. وانخفضت أيضًا حوادث إطلاق النار التي لم تسفر عن مقتل أحد بنسبة 8% مقارنة بالعام السابق. وانخفضت جرائم الممتلكات المبلغ عنها بشكل عام بنسبة 5.3% في العام الماضي.</p>
+
+<p dir='rtl'>وكانت فئات الجرائم التي شهدت زيادة في عام 2016 هي القتل (ارتفع بنسبة 2.3%)، والاغتصاب (ارتفع بنسبة 4.8%)، وسرقة السيارات (ارتفعت بنسبة 5.8%).</p>
+
+<p dir='rtl'>فيما يلي سلسلة من الجداول والبيانات التي تبين الاتجاهات بين فئات الجريمة المختلفة خلال الـ12 شهرًا الماضية والسنوات العديدة الماضية.</p>
+organization information:  
+summary:   <p dir='rtl'>إحصاءات الجريمة لعام 2016</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department/2016-crime-statistics
+
+title:  2016 Crime Statistics
+description:  <h3>একনজরে 2016 সালের ডেট্রয়েট অপরাধের পরিসংখ্যান&nbsp;</h3>
+
+<p>2016 সাল শেষ হওয়ার পরে পরেই ডেট্রয়েট পুলিশ বিভাগের তৈরি ডেটা অনুযায়ী, গত 12 মাস ধরে ডেট্রয়েট বেশিরভাগ ধরণের অপরাধ ক্রমাগত কমেছে। সামগ্রিকভাবে, 2015 সালের তুলনায় ডেট্রয়েট সহিংস অপরাধ 6.7%, এবং 2014 সালের তুলনায় 9.4% কমেছে। 2016 সালে রিপোর্ট করা গাড়ী চুরির ঘটনা আগের বছর থেকে 39% কমেছে, যেখানে ডাকাতির ঘটনা সামগ্রিকভাবে 17.4% কমেছে। প্রাণঘাতী নয় এমন গুলি চালনার ঘটনাও আগের বছরের তুলনায় 8% কমেছে। রিপোর্ট করা সম্পত্তি সংক্রান্ত অপরাধ গত বছরের তুলনায় সামগ্রিকভাবে 5.3% কমেছে।</p>
+
+<p>যে ধরণের অপরাধগুলি 2016 সালে বেড়েছে সেগুলি হল নরহত্যা (2.3% বেড়েছে), ধর্ষণ (4.8% বেড়েছে) এবং অটো চুরি (5.8% বেড়েছে)।</p>
+
+<p>গত 12 মাসের এবং গত কয়েক বছরের বিভিন্ন ধরণের অপরাধের প্রবণতাগুলি দেখাবার জন্য নিচে একটি টেবিল ও ডেটার সিরিজ দেওয়া হল।</p>
+organization information:  
+summary:   <p>2016 সালের অপরাধের পরিসংখ্যান</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department/2016-crime-statistics
+
+title:  2016 Crime Statistics
+description:  <h3>Resumen de las estadísticas de delincuencia de Detroit de 2016&nbsp;</h3>
+
+<p>De acuerdo con los datos iniciales generados por el Departamento de Policía de Detroit (Detroit Police Department) a finales de 2016, los delitos de la mayoría de las categorías han disminuido de forma constante en Detroit en los últimos 12 meses. En general, las denuncias de delitos violentos se redujeron en un 6.7 % en Detroit en comparación con el año 2015, y se redujeron en un 9.4 % desde 2014. Los robos de vehículos con violencia denunciados en el año 2016 se redujeron en un 39 % en comparación con el año anterior, mientras que los robos en general se redujeron en un 17.4 %. Los tiroteos sin muertes también se redujeron en un 8 % en comparación con el año anterior. Las denuncias de delitos contra la propiedad se redujeron en un 5.3 % el año pasado.</p>
+
+<p>Las categorías de delitos que tuvieron un aumento en el año 2016 fueron homicidio (un 2.3 % más), violación (un 4.8 % más) y robo de vehículos (un 5.8 % más).</p>
+
+<p>A continuación se presenta una serie de tablas y datos que muestran las tendencias en las diferentes categorías de delitos en los últimos 12 meses y en los últimos años.</p>
+organization information:  
+summary:   <p>Estadísticas de delincuencia de 2016</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department/abandoned-vehicle
+
+title:  المركبات المهجورة
+description:  <p dir='rtl'>تخلق <strong dir='rtl'>المركبات المهجورة</strong>&nbsp; مشاكل مجتمعية. فقد أصبح تنظيف الشوارع وإزالة الثلوج مهام صعبة مع وجود مركبات مهجورة في الطريق. كما أن وجود المركبات المهجورة في الساحات يشكل مخاطر لحرائق محتملة. وتعرض المركبات المهجورة صورة سلبية لمدينتنا. وبتعاوننا جميعًا، يمكننا أن نمنح مدينة ديترويت التغيير الشامل الضروري للحصول على شوارع نظيفة. إذا كانت المركبة ملكك: فقم بتحريكها أو سحبها أو التبرع بها. إذا لم تكن المركبة ملكك، فقم بالإبلاغ عنها إلى دائرة الشرطة المحلية لديك.<br/>
+<br/>
+<strong dir='rtl'>مرسوم المدينة - الفقرة 55-6-85.</strong><br/>
+متى يتم اعتبار المركبات مهجورة.<br/>
+يلزم وجود الشروط التالية قبل اعتبار أي مركبة مركبة مهجورة:<br/>
+<br/>
+(1) يتم اعتبار المركبة مهجورة عندما تبقى في شارع عام أو طريق سريع أو زقاق أو مكان عام لمدة ثمانٍ وأربعين (48) ساعة متصلة أو أكثر ومن حالتها والظروف المحيطة بها، وتبدو بشكل معقول أنها مجهولة أو مهملة أو مهجورة.<br/>
+<br/>
+(2) يتم اعتبار المركبة مهجورة على الملكيات الخاصة عندما تبقى على الملكية الخاصة لمدة ثمانٍ وأربعين (48) ساعة متصلة أو أكثر دون موافقة مالك أو مستأجر العقار، أو لفترة قدرها ثمانٍ وأربعين (48) ساعة متصلة أو أكثر بعد إلغاء موافقة المالك.<br/>
+(قانون سنة 1964، § 38-15-2)</p>
+organization information:  
+summary:   <p dir='rtl'>تخلق <strong dir='rtl'>المركبات المهجورة</strong>&nbsp; مشاكل مجتمعية. فقد أصبح تنظيف الشوارع وإزالة الثلوج مهام صعبة مع وجود مركبات مهجورة في الطريق. كما أن وجود المركبات المهجورة في الساحات يشكل مخاطر لحرائق محتملة. وتعرض المركبات المهجورة صورة سلبية لمدينتنا. وبتعاوننا جميعًا، يمكننا أن نمنح مدينة ديترويت التغيير الشامل الضروري للحصول على شوارع نظيفة. إذا كانت المركبة ملكك: فقم بتحريكها أو سحبها أو التبرع بها. إذا لم تكن المركبة ملكك، فقم بالإبلاغ عنها إلى دائرة الشرطة المحلية لديك.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department/abandoned-vehicle
+
+title:  পরিত্যক্ত গাড়ী
+description:  <p><strong>পরিত্যক্ত গাড়ীগুলি</strong>&nbsp;কমিউনিটির সমস্যা তৈরি করে। রাস্তার মধ্যে পরিত্যক্ত গাড়ীগুলি পরে থাকলে রাস্তা পরিষ্কার ও বরফ সরানোর কাজটি কঠিন হয়ে পরে। প্রাঙ্গনের মধ্যে পরিত্যক্ত গাড়িগুলি অগ্নিকান্ডের সম্ভাবনা তৈরি করে। পরিত্যক্ত গাড়ীগুলি আমাদের সিটির একটি নেতিবাচক ভাবমূর্তি তৈরি করে। পরিষ্কার রাস্তাগুলি তৈরি করতে আমরা একসাথে, আমরা, ডেট্রয়েট প্রয়োজনীয় মেকওভার দিতে পারব। গাড়ীটি আপনার নিজের হলে: সেটি সরান, টেনে নিয়ে যান, বা সেটি দান করে দিন। গাড়িটি আপনার না হলে; আপনার স্থানীয় পুলিশ ফাড়িতে রিপোর্ট করুন।<br/>
+<br/>
+<strong>সিটি Ord. - সেক. 55-6-85.</strong><br/>
+গাড়ীগুলিকে কখন পরিত্যক্ত হিসাবে গণ্য করা হয়।<br/>
+কোনো গাড়ীকে পরিত্যক্ত হিসাবে গণ্য করার আগে নিম্নলিখিত শর্তগুলি পূরণ করতে হবে:<br/>
+<br/>
+(1) গাড়ীটি একটি সর্বজনীন রাস্তায়, হাইওয়ে, গলি বা সর্বজনীন স্থানে একটানা আটচল্লিশ-ঘণ্টা (48) বা তার বেশি সময় ধরে পরে থাকলে এবং সেটির অবস্থা এবং পারিপার্শ্বিক পরিস্থিতি যুক্তিসঙ্গতভাবে দাবিদারহীন, বাতিল, অব্যবহারযোগ্য বা পরিত্যক্ত বলে মনে হলে।<br/>
+<br/>
+(2) বেসরকারি প্রপার্টিতে একটি গাড়ী পরিত্যক্ত হিসাবে গণ্য করা হবে যখন সেটি প্রপার্টির মালিক বা লীজ প্রদানকারীর সম্মতি ছাড়া একটানা আটচল্লিশ-ঘণ্টা (48) বা তার বেশি সময় ধরে রাখা হবে, বা মালিকের সম্মতি প্রত্যাহার করার পরে একটানা আটচল্লিশ-ঘণ্টা (48) বা তার বেশি সময় ধরে সেই প্রপার্টিতে রাখা হবে।<br/>
+(কোড 1964, § 38-15-2)</p>
+organization information:  
+summary:   <p><strong>পরিত্যক্ত গাড়ীগুলি</strong>&nbsp;কমিউনিটির সমস্যা তৈরি করে। রাস্তার মধ্যে পরিত্যক্ত গাড়ীগুলি পরে থাকলে রাস্তা পরিষ্কার ও বরফ সরানোর কাজটি কঠিন হয়ে পরে। প্রাঙ্গনের মধ্যে পরিত্যক্ত গাড়িগুলি অগ্নিকান্ডের সম্ভাবনা তৈরি করে। পরিত্যক্ত গাড়ীগুলি আমাদের সিটির একটি নেতিবাচক ভাবমূর্তি তৈরি করে। পরিষ্কার রাস্তাগুলি তৈরি করতে আমরা একসাথে, আমরা, ডেট্রয়েট প্রয়োজনীয় মেকওভার দিতে পারব। গাড়ীটি আপনার নিজের হলে: সেটি সরান, টেনে নিয়ে যান, বা সেটি দান করে দিন। গাড়িটি আপনার না হলে; আপনার স্থানীয় পুলিশ ফাড়িতে রিপোর্ট করুন।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department/abandoned-vehicle
+
+title:  Vehículos abandonados
+description:  <p><strong>Los vehículos abandonados</strong>&nbsp;generan problemas en la comunidad. La limpieza de calles y la eliminación de nieve se dificultan con los autos abandonados en las calles. Los vehículos abandonados en depósitos representan riesgos de incendios. Los vehículos abandonados también proyectan una imagen negativa de nuestra ciudad. Juntos, podemos renovar a Detroit de forma razonable para tener calles limpias. Si el vehículo es suyo, muévalo, pida que lo remolquen o dónelo. Si el vehículo no es suyo, DENÚNCIELO en la comisaría local.<br/>
+<br/>
+<strong>Ordenanza Municipal, sección 55-6-85.</strong><br/>
+¿Cuándo los vehículos se consideran abandonados?<br/>
+Se deben presentar las siguientes condiciones antes de que un vehículo se considere abandonado:<br/>
+<br/>
+(1) Un vehículo se considerará abandonado cuando haya permanecido en una calle pública, autopista, callejón o lugar público durante cuarenta y ocho (48) horas consecutivas o más y, dada su condición y las circunstancias que lo rodean, pareciera razonablemente no haber sido reclamado o haber sido desechado, dejado o abandonado.<br/>
+<br/>
+(2) Un vehículo se considerará abandonado en una propiedad privada cuando haya permaneció en dicha propiedad privada durante cuarenta y ocho (48) horas consecutivas o más sin el consentimiento del propietario o del inquilino de la propiedad, o durante cuarenta y ocho (48) horas consecutivas o más después de que el propietario haya revocado su consentimiento.<br/>
+(Código de 1964, § 38-15-2)</p>
+organization information:  
+summary:   <p><strong>Los vehículos abandonados</strong>&nbsp;generan problemas en la comunidad. La limpieza de calles y la eliminación de nieve se dificultan con los autos abandonados en las calles. Los vehículos abandonados en depósitos representan riesgos de incendios. Los vehículos abandonados también proyectan una imagen negativa de nuestra ciudad. Juntos, podemos renovar a Detroit de forma razonable para tener calles limpias. Si el vehículo es suyo, muévalo, pida que lo remolquen o dónelo. Si el vehículo no es suyo, DENÚNCIELO ante la comisaría local.</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department/detroit-police-department-jobs
+
+title:  وظائف إدارة شرطة ديترويت
+description:  <drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="041aff94-b04e-441c-a94e-d8c5a43d0638" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>&nbsp;</p>
+
+<div class="more-link" dir='rtl'><a href="https://www.governmentjobs.com/careers/detroit?department[0]=Police%20Department" target="_blank" dir='rtl'><i class="fas fa-edit"></i> قدم الآن</a></div>
+
+
+<h2 dir='rtl'>نطاق أجور ضباط الشرطة: من<br/>
+37,822 دولار&nbsp; إلى 56,543 دولار</h2>
+
+<p dir='rtl'>&nbsp;</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>2% إضافية عند التعيين باثنتين على الأقل من الوحدات الدراسية الجامعية من كلية أو جامعة معتمدة عند التعيين</li>
+	<li dir='rtl'>تسديد الرسوم الدراسية (2000 دولار) بعد عام من الخدمة المستمرة التي تلت إتمام الدراسة بأكاديمية شرطة ديترويت*</li>
+	<li dir='rtl'>درجات إضافية سنوية لأول 5 سنوات من العمل</li>
+	<li dir='rtl'>يتلقى ضباط الشرطة الطلاب أجورًا أثناء التدريب؛ ويتم تقديم التدريب من خلال أكاديمية شرطة ديترويت</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h3 dir='rtl'>أجر إضافي:</h3>
+
+<ul dir='rtl'>
+	<li dir='rtl'>بدلات النوبات (بعد الظهر، منتصف الليل)</li>
+	<li dir='rtl'>المثول أمام المحاكم خارج أوقات العمل</li>
+	<li dir='rtl'>بدلات الزي الموحد</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h3 dir='rtl'>مجموعة المزايا الكاملة:</h3>
+
+<ul dir='rtl'>
+	<li dir='rtl'>خطط التأمين الطبي وتأمين الأسنان والعيون</li>
+	<li dir='rtl'>ثلاث (3) عطلات مدفوعة الأجر في السنة</li>
+	<li dir='rtl'>أربع (4) عطلات اعتيادية</li>
+	<li dir='rtl'>عشرون (20) يومًا إجازة في السنة</li>
+	<li dir='rtl'>خطة تقاعد</li>
+</ul>
+
+<h2 dir='rtl'>عملية التعيين في شرطة ديترويت</h2>
+
+<p dir='rtl'>&nbsp;</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>تلبية الحد الأدنى من المتطلبات، بما في ذلك التحقق من تاريخ السوابق الجنائية</li>
+	<li dir='rtl'>اجتياز اختبار القراءة والكتابة لما قبل التوظيف MCOLES**</li>
+	<li dir='rtl'>اجتياز اختبار اللياقة البدنية MCOLES**</li>
+	<li dir='rtl'>حضور جلسة التوجيه الخاصة بالطلبات</li>
+	<li dir='rtl'>اجتياز التحريات عن خلفيات المتقدمين</li>
+	<li dir='rtl'>اجتياز مقابلة الاختبار الشفوي</li>
+	<li dir='rtl'>اجتياز الاختبارات النفسية (المكتوبة والشفوية) والطبية</li>
+</ul>
+
+<p dir='rtl'><em dir='rtl'>يتم حاليًا تقديم اختبار MCOLES للقراءة والكتابة واختبار MCOLES للرشاقة البدنية دون مقابل للمرشحين للعمل بإدارة شرطة ديترويت (يتم الإعفاء من الرسوم العادية 68 دولار و  45 دولار ) . اتصل بقسم التوظيف على الرقم 2607-596-313 للحصول على مزيد من المعلومات.</em></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>شروط الأهلية لضباط شرطة ديترويت</h2>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>يجب أن يكون عمرك 18 سنة على الأقل – تمتلك رخصة قيادة سارية&nbsp;<br/>
+حاصل على شهادة الثانوية أو GED من مؤسسة معترف بها&nbsp;<br/>
+مواطن أمريكي – لا يوجد إدانة بجرائم</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><a name="10794" dir='rtl'></a><img alt="صف من الضباط" src="http://www.detroitmi.gov/portals/0/Images/Police/jobs/row-bnw.jpg" /><br/>
+&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>بيان التنوع:</strong>&nbsp;تلتزم إدارة شرطة ديترويت بالحفاظ على قوة شرطة تعكس تنوع المجتمع. تسعى مدينة ديترويت بشكل مستمر إلى توفير أعلى مستوى من الخدمة العامة للرجال والنساء من جميع الخلفيات والثقافات للحفاظ على أن تستجيب إدارة الشرطة لاحتياجات المجتمع بأكمله.</p>
+
+<p dir='rtl'><strong dir='rtl'>صاحب عمل يتيح تكافؤ الفرص:</strong>&nbsp;تُعد مدينة ديترويت صاحب عمل يتيح تكافؤ الفرص. لا يجوز التمييز ضد أي مقدم طلب توظيف على أساس العرق أو الدين أو اللون أو الجنس أو السن أو الأصل القومي أو الإعاقة أو غير ذلك من المعايير التي يحظرها القانون في المدينة أو الولاية أو القانون الاتحادي.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>المستندات المطلوبة</h2>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>المستندات التالية مطلوبة لكي يتم النظر في تقدمك لوظيفة ضابط شرطة لدى إدارة شرطة ديترويت.</p>
+
+<p dir='rtl'>هذه المستندات مطلوبة لكي يقوم المحقق بإجراء تحقيق ما قبل التوظيف. وننصحك ببدء تجميع هذه المستندات فورًا لتسريع عملية التحقيق.</p>
+
+<p dir='rtl'>اجمع هذه المستندات الآن، وسيتم إبلاغك عندما تحتاج إلى تقديمها. ولا ترسلها بالبريد.</p>
+
+<p dir='rtl'>يجب تقديم نتائج اختبار الكتابة والرشاقة MCOLES خلال 45 يومًا ﻣﻦ ﺗﺎرﻳﺦ إﺑﺪاء رﻏﺒﺘﻚ ﻓﻲ اﻟﺘﻘﺪم لشغل ﻣﻨﺼﺐ ﻓﻲ إدارة ﺷﺮﻃﺔ دﻳﺘﺮوﻳﺖ.</p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>يُرجى إحضار النسخة الأصلية ونسخة واحدة من جميع المستندات المطلوبة.</strong></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>نسخة مصدقة من شهادة الميلاد</li>
+	<li dir='rtl'>بطاقة الضمان الاجتماعي</li>
+	<li dir='rtl'>صورة شخصية لك (4x6)-(بملابس العمل الرسمية، النصف العلوي)</li>
+	<li dir='rtl'>رخصة القيادة</li>
+	<li dir='rtl'>سجل القيادة (للمتقدمين من خارج الولاية)</li>
+	<li dir='rtl'>بطاقة تسجيل الناخب</li>
+	<li dir='rtl'>نسخ من أي دعاوى قانونية معلقة</li>
+	<li dir='rtl'>سجلات تم اعتبار المتقدم فيها صديقًا للمحكمة (إن وجدت)</li>
+	<li dir='rtl'>شهادة التجنس (إن وجدت)</li>
+	<li dir='rtl'>رخصة الزواج و/أو مرسوم الطلاق</li>
+	<li dir='rtl'>المستندات العسكرية-النموذج المطول DD214</li>
+	<li dir='rtl'>نتائج اختبارات MCOLES في الكتابة والرشاقة البدنية</li>
+	<li dir='rtl'>شهادة الثانوية والسجل المدرسي أو شهادة GED ونتائج الاختبار</li>
+	<li dir='rtl'>نسخة من درجة الكلية (إن وجدت) والسجلات الجامعية الرسمية</li>
+	<li dir='rtl'>تقرير الائتمان الرسمي (انظر أدناه المعلومات المتعلقة بالحصول على تقرير الائتمان الخاص بك)</li>
+	<li dir='rtl'>إذا كنت تعمل لحسابك الخاص: سجلات ضريبة الدخل للعامين الماضيين</li>
+</ul>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>اختبار MCOLES المجاني</h2>
+
+<p dir='rtl'><strong dir='rtl'>للمرشحين للعمل بشرطة ديترويت</strong></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>بعد تقديم الطلب، يمكنك التسجيل للخضوع لـ&nbsp;</strong><strong dir='rtl'>اختبار MCOLES للقراءة والكتابة المجاني واختبار MCOLES للرشاقة البدنية المجاني</strong></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h3 dir='rtl'>معايير الأداء للحد الأدنى لاختبار MCOLES للرشاقة البدنية</h3>
+
+<div class="table-responsive" dir='rtl'>
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<th colspan="5" dir='rtl'>
+			<h3 class="text-align-center" dir='rtl'>الذكور</h3>
+			</th>
+		</tr>
+	</tbody>
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<th class="text-align-center" dir='rtl'>الفئة العمرية</th>
+			<th class="text-align-center" dir='rtl'>القفزة العمودية</th>
+			<th class="text-align-center" dir='rtl'>تمرين عضلة البطن</th>
+			<th class="text-align-center" dir='rtl'>تمرين الضغط</th>
+			<th class="text-align-center" dir='rtl'>الجري المكوكي لمسافة 1/2 ميل</th>
+		</tr>
+	</tbody>
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td class="text-align-center" dir='rtl'>18-29</td>
+			<td class="text-align-center" dir='rtl'>17,5</td>
+			<td class="text-align-center" dir='rtl'>32</td>
+			<td class="text-align-center" dir='rtl'>30</td>
+			<td class="text-align-center" dir='rtl'>4:29,6</td>
+		</tr>
+		<tr dir='rtl'>
+			<td class="text-align-center" dir='rtl'>30-39</td>
+			<td class="text-align-center" dir='rtl'>16,0</td>
+			<td class="text-align-center" dir='rtl'>30</td>
+			<td class="text-align-center" dir='rtl'>30</td>
+			<td class="text-align-center" dir='rtl'>4:38,2</td>
+		</tr>
+		<tr dir='rtl'>
+			<td class="text-align-center" dir='rtl'>40+</td>
+			<td class="text-align-center" dir='rtl'>15,0</td>
+			<td class="text-align-center" dir='rtl'>30</td>
+			<td class="text-align-center" dir='rtl'>28</td>
+			<td class="text-align-center" dir='rtl'>4:54,7</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="table-responsive" dir='rtl'>
+<table class="table table-striped">
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<th colspan="5" dir='rtl'>
+			<h3 class="text-align-center" dir='rtl'>الإناث</h3>
+			</th>
+		</tr>
+	</tbody>
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<th class="text-align-center" dir='rtl'>الفئة العمرية</th>
+			<th class="text-align-center" dir='rtl'>القفزة العمودية</th>
+			<th class="text-align-center" dir='rtl'>تمرين عضلة البطن</th>
+			<th class="text-align-center" dir='rtl'>تمرين الضغط</th>
+			<th class="text-align-center" dir='rtl'>الجري المكوكي لمسافة 1/2 ميل</th>
+		</tr>
+	</tbody>
+	<tbody dir='rtl'>
+		<tr dir='rtl'>
+			<td class="text-align-center" dir='rtl'>18-29</td>
+			<td class="text-align-center" dir='rtl'>11,0</td>
+			<td class="text-align-center" dir='rtl'>28</td>
+			<td class="text-align-center" dir='rtl'>7</td>
+			<td class="text-align-center" dir='rtl'>5:35,4</td>
+		</tr>
+		<tr dir='rtl'>
+			<td class="text-align-center" dir='rtl'>30-39</td>
+			<td class="text-align-center" dir='rtl'>9,0</td>
+			<td class="text-align-center" dir='rtl'>19</td>
+			<td class="text-align-center" dir='rtl'>7</td>
+			<td class="text-align-center" dir='rtl'>5:59,1</td>
+		</tr>
+		<tr dir='rtl'>
+			<td class="text-align-center" dir='rtl'>40+</td>
+			<td class="text-align-center" dir='rtl'>8,0</td>
+			<td class="text-align-center" dir='rtl'>18</td>
+			<td class="text-align-center" dir='rtl'>7</td>
+			<td class="text-align-center" dir='rtl'>6:13,3</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>إذا كنت قد أكملت بالفعل اختبار MCOLES للقراءة والكتابة، فأرسل نتائجك مع الطلب وسجل لخوض اختبار MCOLES للرشاقة البدنية</p>
+
+<p dir='rtl'><strong dir='rtl'>نتائج اختبار MCOLES للرشاقة سارية لمدة 6 أشهر ولا يمكن تحويلها إلى أي وكالة أخرى.</strong></p>
+
+<p dir='rtl'>*يتم دفع رسوم اختبار MCOLES للقراءة والكتابة بمبلغ 68 دولار واختبار MCOLES للرشاقة البدنية بمبلغ 45 دولار من قبل شرطة ديترويت، والتفاصيل المتعلقة باختبارات MCOLES متاحة على الموقع&nbsp;<a href="http://www.detroitmi.gov/How-Do-I/Find/www.michigan.gov/MCOLES" target="_blank" dir='rtl'>www.michigan.gov/MCOLES</a></p>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h2 dir='rtl'>كيفية الحصول على تقرير الائتمان الخاص بك</h2>
+
+<p dir='rtl'>&nbsp;</p>
+
+<h3 dir='rtl'>يمكنك الحصول على تقرير الائتمان الرسمي (في نفس اليوم) مقابل رسوم قدرها 30.00 دولار (تدفع نقدًا أو بشيك) من:</h3>
+
+<p dir='rtl'>&nbsp;</p>
+
+<p dir='rtl'>CREDIT BUREAU SERVICES, INC.<br/>
+<a href="https://goo.gl/maps/KpAcpfrTjMC2" target="_blank" dir='rtl'>13422 Fort St.<br/>
+Southgate, MI 48195</a><br/>
+Phone:&nbsp;<a href="الهاتف: 7100-284 (734)">(734) 284-7100</a><br/>
+ساعات العمل:<br/>
+الثلاثاء والأربعاء والخميس<br/>
+9:00 صباحًا – 4:00 مساءً</p>
+
+<p dir='rtl'><strong dir='rtl'>يجب عليك إحضار رخصة القيادة الخاصة بك وتقديم رقم الضمان الاجتماعي الخاص بك للحصول على التقرير الخاص بك.</strong></p>
+organization information:  
+summary:   <p dir='rtl'>كيفية التقدم بطلب للحصول على وظيفة لدى إدارة شرطة ديترويت</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department/detroit-police-department-jobs
+
+title:  ডেট্রয়েট পুলিশ বিভাগের চাকরি
+description:  <drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="041aff94-b04e-441c-a94e-d8c5a43d0638"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<div class="more-link"><a href="https://www.governmentjobs.com/careers/detroit?department[0]=Police%20Department" target="_blank"><i class="fas fa-edit"></i> এখনই আবেদন করুন</a></div>
+
+
+<h2>পুলিশ আধিকারিকের বেতনের পরিসর:<br/>
+$37,822&nbsp;- $56,543</h2>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>একটি অনুমোদিত কলেজ বা বিশ্ববিদ্যালয় থেকে অন্তত 2 বছরের কলেজ ক্রেডিট থাকা নিযুক্তদের ক্ষেত্রে অতিরিক্ত 2%</li>
+	<li>ডেট্রয়েট পুলিশ অ্যাকাডেমিতে নিম্নলিখিতগুলি সম্পূর্ণ হওয়ার পরে 1 বছর ক্রমাগত পরিষেবা দেওয়ার পরে টিউশন বা শিক্ষাদানের খরচের অর্থ পরিশোধ ($2000)*</li>
+	<li>নিয়োগের প্রথম 5 বছরের জন্য বার্ষিক পদক্ষেপ বৃদ্ধি</li>
+	<li>ছাত্র পুলিশ আধিকারিকদের প্রশিক্ষণের সময় বেতন দেওয়া হয়; এই প্রশিক্ষণ ডেট্রয়েট পুলিশ অ্যাকাডেমির মাধ্যমে দেওয়া হয়।</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3>অতিরিক্ত পেমেন্ট:</h3>
+
+<ul>
+	<li>প্রভেদমূলক শিফ্ট (বৈকালিক, মধ্যরাতের)</li>
+	<li>অফ-ডিউটি আদালতে উপস্থিতি</li>
+	<li>ইউনিফর্মের ভাতা</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3>পূর্ণ সুবিধার প্যাকেজ:</h3>
+
+<ul>
+	<li>চিকিৎসা বিষয়ক, দন্ত বিষয়ক এবং চক্ষু বিষয়ক বীমা প্ল্যান</li>
+	<li>প্রতি বছর তিনটি (3) অর্থ প্রদত্ত ছুটি</li>
+	<li>চারটি (4) ফ্লোটিং ছুটি</li>
+	<li>প্রতি বছর কুড়িটি (20) অবসর দিবস</li>
+	<li>অবসর প্ল্যান</li>
+</ul>
+
+<h2>ডেট্রয়েট পুলিশের নিযুক্তির প্রক্রিয়া</h2>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>অপরাধমূলক ইতিহাস পরীক্ষা সমেত ন্যূনতম শর্তাবলী পূরণ করুন</li>
+	<li>MCOLES নিয়োগ-পূর্ব পঠন এবং লিখিত পরীক্ষা পাস করুন**</li>
+	<li>MCOLES-এর শারীরিক যোগ্যতার পরীক্ষা পাস করুন**</li>
+	<li>অ্যাপ্লিকেশন ওরিয়েন্টেশনে উপস্থিত থাকুন</li>
+	<li>ব্যাকগ্রাউন্ড বা পটভূমি তদন্ত পাস করুন</li>
+	<li>মৌখিক বোর্ড ইন্টারভিয়্যু পাস করুন</li>
+	<li>মনস্তাত্ত্বিক (লিখিত এবং মৌখিক) এবং মেডিকেল পরীক্ষাগুলি পাস করুন</li>
+</ul>
+
+<p><em>MCOLES পঠন এবং লিখিত পরীক্ষা ও MCOLES শারীরিক তৎপরতার পরীক্ষাগুলি বর্তমানে ডেট্রয়েট পুলিশ বিভাগ প্রার্থীদের জন্য কোন মূল্য ছাড়া প্রদান করছে (সাধারণ মূল্য $68 এবং $45 মওকুফ হয়েছে।) আরো তথ্যের জন্য 313-596-2607 নম্বরে রিক্রুটিংয়ের সঙ্গে যোগাযোগ করুন।</em></p>
+
+<p>&nbsp;</p>
+
+<h2>ডেট্রয়েট পুলিশ আধিকারিকের যোগ্যতার শর্তাবলী</h2>
+
+<p>&nbsp;</p>
+
+<p>অবশ্যই 18 বছর বয়স হতে হবে – একটি বৈধ ড্রাইভার লাইসেন্স থাকতে হবে&nbsp;<br/>
+কোন প্রচলিত প্রতিষ্ঠান থেকে হাই স্কুল ডিপ্লোমা বা GED থাকতে হবে&nbsp;<br/>
+ইউ.এস. নাগরিকত্ব – কোন গুরুতর অপরাধের আরোপ থাকা চলবে না</p>
+
+<p>&nbsp;</p>
+
+<p><a name="10794"></a><img alt="আধিকারিকদের সারি" src="http://www.detroitmi.gov/portals/0/Images/Police/jobs/row-bnw.jpg" /><br/>
+&nbsp;</p>
+
+<p><strong>বৈচিত্রতার বিবৃতি:</strong>&nbsp;সিটি অফ ডেট্রয়েট পুলিশ বিভাগ এমন একটি পুলিশ বাহিনী রক্ষণাবেক্ষণের জন্য নিবেদিত যেটি সম্প্রদায়ের বৈচিত্রতাকে প্রতিফলিত করে। সিটি অফ ডেট্রয়েট সমস্ত পরিপ্রেক্ষিত থেকে উঠে আসা পুরুষ এবং মহিলাদের দিয়ে ক্রমাগত উচ্চ মাত্রায় সরকারি পরিষেবা প্রদান করার এবং পুলিশ বিভাগে একটি সংস্কৃতি মেনে চলার চেষ্টা করে চলেছে যেটি সমস্ত সম্প্রদায়ের প্রয়োজনীয়্তার জন্য সংবেদনশীল।</p>
+
+<p><strong>সমান সুযোগের নিয়োগকর্তা:</strong>&nbsp;সিটি অফ ডেট্রয়েট একটি সমান সুযোগের নিয়োগকর্তা। নিযুক্তির কোন আবেদনকারীকে জাতি, ধর্ম, বর্ণ, লিঙ্গ, বয়স, জাতীয় মূল, অক্ষমতা অথবা সিটি, স্টেট বা ফেডেরাল আইনের দ্বারা বাধাপ্রাপ্ত অন্য কোন মানদণ্ডের ওপর ভিত্তি করে প্রভেদ করা হবে না।</p>
+
+<p>&nbsp;</p>
+
+<h2>প্রয়োজনীয় নথিসমূহ</h2>
+
+<p>&nbsp;</p>
+
+<p>ডেট্রয়েট পুলিশ বিভাগের একজন পুলিশ আধিকারিক হিসাবে আপনাকে বিবেচনা করার জন্য ক্রমানুসারে নিম্নলিখিত নথিগুলি আবশ্যক।</p>
+
+<p>আপনার নিয়োগ-পূর্ব তদন্তের জন্য এই নথিগুলি তদন্তকারীর প্রয়োজন। তদন্ত প্রক্রিয়া অনুকূল করার জন্য এই নথিগুলি অবিলম্বে সংগ্রহ করার জন্য আপনাকে পরামর্শ দেওয়া হচ্ছে।</p>
+
+<p>এখন নথিগুলি সংগ্রহ করে আপনাকে জানানো হবে কখন সেগুলি প্রক্রিয়ার জন্য প্রয়োজন হবে। এই নথিগুলি মেইল করবেন না।</p>
+
+<p>আপনি ডেট্রয়েট পুলিশ বিভাগে কোন পদের জন্য আবেদন করার আগ্রহী বলে সূচিত করার 45 দিনের মধ্যে MCOLES-র লিখিত এবং তৎপরতার পরীক্ষার স্কোর আবশ্যিকভাবে জমা দিতে হবে।</p>
+
+<p>&nbsp;</p>
+
+<p><strong>অনুগ্রহ করে, সমস্ত প্রয়োজনীয় নথিসমূহের আসল কপি এবং একটি করে কপি নিয়ে আসুন।</strong></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>জন্মের শংসাপত্রের শংসায়িত কপি</li>
+	<li>সামাজিক সুরক্ষার কার্ড (Social Security Card)</li>
+	<li>নিজের ছবি (4x6)-(ব্যবসায়িক পোশাকে, কোমর-পর্যন্ত)</li>
+	<li>ড্রাইভারের লাইসেন্স</li>
+	<li>ড্রাইভিংয়ের রেকর্ড (স্টেটের বাইরের আবেদনকারী)</li>
+	<li>ভোটারদের নিবন্ধন কার্ড</li>
+	<li>কোন অমিমাংসিত মামলার কপি</li>
+	<li>আদালতের রেকর্ডগুলির অনুসঙ্গী (প্রয়োজ্য হলে)</li>
+	<li>নাগরিকত্ব অর্পনের শংসাপত্র (প্রযোজ্য হলে)</li>
+	<li>বিয়ের লাইসেন্স এবং/অথবা বিবাহবিচ্ছেদের ডিক্রী</li>
+	<li>মিলিটারি নথি-DD214 দীর্ঘ ফর্ম</li>
+	<li>MCOLES পরীক্ষার স্কোর-লিখিত এবং তৎপরতা</li>
+	<li>হাই স্কুল ডিপ্লোমা এবং প্রতিলিপি অথবা GED শংসাপত্র এবং পরীক্ষার স্কোর</li>
+	<li>কলেজ ডিগ্রী (প্রযোজ্য হলে) এবং অফিসিয়াল প্রতিলিপির কপি</li>
+	<li>অফিসিয়াল ক্রেডিট রিপোর্ট (নিচে আপনার প্রাপ্ত ক্রেডিট রিপোর্ট সম্বন্ধে তথ্য দেখুন)</li>
+	<li>যদি আপনি স্ব-নিযুক্ত হন: গত 2 বছরের আয়করের রেকর্ড</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>বিনামূল্যে MCOLES পরীক্ষা</h2>
+
+<p><strong>ডেট্রয়েট পুলিশের প্রার্থীদের জন্য</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>আপনার আবেদনের পরে, আপনি&nbsp;</strong><strong>বিনামূল্যে MCOLES পঠন এবং লিখিত পরীক্ষা এবং বিনামূল্যে MCOLES তৎপরতার পরীক্ষার জন্য নিবন্ধন করতে পারেন</strong></p>
+
+<p>&nbsp;</p>
+
+<h3>MCOLES তৎপরতার পরীক্ষার ন্যূনতম কার্যকারিতার মানক</h3>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<th colspan="5">
+			<h3 class="text-align-center">পুরুষ</h3>
+			</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<th class="text-align-center">বয়সের গোষ্ঠী</th>
+			<th class="text-align-center">উল্লম্ব লম্ফন</th>
+			<th class="text-align-center">সিট আপ</th>
+			<th class="text-align-center">পুশ আপ</th>
+			<th class="text-align-center">1/2 মাইল সাটল দৌড়</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td class="text-align-center">18-29</td>
+			<td class="text-align-center">17,5</td>
+			<td class="text-align-center">32</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">4:29,6</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">30-39</td>
+			<td class="text-align-center">16,0</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">4:38,2</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">40+</td>
+			<td class="text-align-center">15,0</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">28</td>
+			<td class="text-align-center">4:54,7</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<th colspan="5">
+			<h3 class="text-align-center">মহিলা</h3>
+			</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<th class="text-align-center">বয়সের গোষ্ঠী</th>
+			<th class="text-align-center">উল্লম্ব লম্ফন</th>
+			<th class="text-align-center">সিট আপ</th>
+			<th class="text-align-center">পুশ আপ</th>
+			<th class="text-align-center">1/2 মাইল সাটল দৌড়</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td class="text-align-center">18-29</td>
+			<td class="text-align-center">11,0</td>
+			<td class="text-align-center">28</td>
+			<td class="text-align-center">7</td>
+			<td class="text-align-center">5:35,4</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">30-39</td>
+			<td class="text-align-center">9,0</td>
+			<td class="text-align-center">19</td>
+			<td class="text-align-center">7</td>
+			<td class="text-align-center">5:59,1</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">40+</td>
+			<td class="text-align-center">8,0</td>
+			<td class="text-align-center">18</td>
+			<td class="text-align-center">7</td>
+			<td class="text-align-center">6:13,3</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>যদি আপনি ইতিমধ্যে MCOLES পঠন এবং লিখিত পরীক্ষা সম্পূর্ণ করে থাকেন, তাহলে আপনার স্কোরগুলি আপনার আবেদনপত্রের সঙ্গে জমা দিন এবং বিনামূল্যে MCOLES তৎপরতার পরীক্ষার জন্য নিবন্ধন করুন</p>
+
+<p><strong>MCOLES তৎপরতার স্কোরগুলি 6 মাসের জন্য বৈধ থাকে এবং অন্য কোন এজেন্সিতে স্থানান্তরের যোগ্য নয়।</strong></p>
+
+<p>*MCOLES-র পঠন লিখিত পরীক্ষার $68 মূল্য এবং MCOLES-র তৎপরতা পরীক্ষার $45 মূল্য ডেট্রয়েট পুলিশ প্রদান করে, MCOLES পরীক্ষা সম্বন্ধীয় বিশদ তথ্য&nbsp;<a href="http://www.detroitmi.gov/How-Do-I/Find/www.michigan.gov/MCOLES" target="_blank">www.michigan.gov/MCOLES</a> তে উপলব্ধ</p>
+
+<p>&nbsp;</p>
+
+<h2>কীভাবে আপনার ক্রেডিট রিপোর্ট অর্জন করবেন</h2>
+
+<p>&nbsp;</p>
+
+<h3>আপনার অফিসিয়াল ক্রেডিট রিপোর্ট (একই দিন) $30.00 মূল্য দিয়ে (নগদ বা চেকে প্রদানযোগ্য) নিম্নলিখিত ঠিকানা থেকে সংগ্রহ করুন:</h3>
+
+<p>&nbsp;</p>
+
+<p>CREDIT BUREAU SERVICES, INC.<br/>
+<a href="https://goo.gl/maps/KpAcpfrTjMC2" target="_blank">13422 Fort St.<br/>
+Southgate, MI 48195</a><br/>
+ফোন:&nbsp;<a href="টেলিফোন:(734) 284-7100">(734) 284-7100</a><br/>
+ব্যবসার সময়:<br/>
+মঙ্গলবার, বুধবার, বৃহস্পতিবার<br/>
+সকাল 9:00টা – বিকেল 4:00টে</p>
+
+<p><strong>রিপোর্ট নেওয়ার জন্য আপনাকে অবশ্যই ড্রাইভারের লাইসেন্স আনতে হবে এবং আপনার সোশ্যাল সিকিউরিটি নম্বরটি দিতে হবে৷</strong></p>
+organization information:  
+summary:   <p>কিভাবে ডেট্রয়েট পুলিশ বিভাগে চাকরির জন্য আবেদন করবেন</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department/detroit-police-department-jobs
+
+title:  Empleos en el Departamento de Policía de Detroit
+description:  <drupal-entity data-embed-button="media" data-entity-embed-display="view_mode:media.original" data-entity-type="media" data-entity-uuid="041aff94-b04e-441c-a94e-d8c5a43d0638"></drupal-entity>
+
+<p>&nbsp;</p>
+
+<div class="more-link"><a href="https://www.governmentjobs.com/careers/detroit?department[0]=Police%20Department" target="_blank"><i class="fas fa-edit"></i> Postúlese ahora</a></div>
+
+
+<h2>RANGO SALARIAL DE LOS OFICIALES DE POLICÍA:<br/>
+$37,822-$56,543&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Un 2 % adicional para personas contratadas con créditos de al menos 2 años universitarios otorgados por una universidad o una institución acreditada, en el momento de la contratación.</li>
+	<li>Reembolso de matrícula ($2000) luego de un año de servicio continuo posterior a la finalización de la Academia de Policías de Detroit (Detroit Police Academy).*</li>
+	<li>Aumentos progresivos anuales durante los primeros 5 años de empleo.</li>
+	<li>Los oficiales de policía estudiantes recibirán una remuneración mientras asisten a las capacitaciones ofrecidas por la Academia de Policías de Detroit.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3>Pago adicional:</h3>
+
+<ul>
+	<li>Turno diferencial (tarde, medianoche)</li>
+	<li>Comparecencias en tribunales estando fuera de servicio</li>
+	<li>Asignación uniforme</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3>Paquete completo de beneficios:</h3>
+
+<ul>
+	<li>Planes de cobertura médica, dental y óptica</li>
+	<li>Tres (3) feriados pagos por año</li>
+	<li>Cuatro (4) feriados movibles</li>
+	<li>Veinte (20) días de vacaciones por año</li>
+	<li>Plan de jubilación</li>
+</ul>
+
+<h2>PROCESO DE CONTRATACIÓN DE POLICÍAS DE DETROIT</h2>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Cumplir con los requisitos mínimos, incluido el control de antecedentes penales.</li>
+	<li>Aprobar la prueba MCOLES de lectura y escritura previa al empleo.**</li>
+	<li>Aprobar la prueba MCOLES de aptitud física.**</li>
+	<li>Asistir a una orientación de postulación.</li>
+	<li>Pasar una investigación de antecedentes.</li>
+	<li>Pasar una entrevista oral con la Junta.</li>
+	<li>Aprobar exámenes médicos y psicológicos (escritos y orales).</li>
+</ul>
+
+<p><em>La prueba MCOLES de lectura y escritura y la prueba MCOLES de aptitud física se ofrecen actualmente sin costo a los candidatos del Departamento de Policía de Detroit (se cancelan las tarifas convencionales de $68 y $45). Para obtener más información, comuníquese con el área de Reclutamiento llamando al 313-596-2607.</em></p>
+
+<p>&nbsp;</p>
+
+<h2>REQUISITOS DE ELEGIBILIDAD PARA OFICIALES DE POLICÍA DE DETROIT</h2>
+
+<p>&nbsp;</p>
+
+<p>Deben tener al menos 18 años de edad. – Deben poseer una licencia de conducir vigente.&nbsp;<br/>
+Deben tener un diploma de escuela secundaria o certificado GED de una institución acreditada.&nbsp;<br/>
+Deben tener la ciudadanía de los Estados Unidos. – No deben tener condenas por delitos.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="10794"></a><img alt="Fila de oficiales" src="http://www.detroitmi.gov/portals/0/Images/Police/jobs/row-bnw.jpg" /><br/>
+&nbsp;</p>
+
+<p><strong>DECLARACIÓN DE DIVERSIDAD:</strong>&nbsp;El Departamento de Policía de la Ciudad de Detroit (City of Detroit Police Department) se compromete a mantener una fuerza policial que refleje la diversidad de la comunidad. La Ciudad de Detroit se esfuerza constantemente por brindar el mejor nivel de servicio público a través de hombres y mujeres de todas las culturas y orígenes, con el fin de mantener un Departamento de Policía que responde a las necesidades de toda la comunidad.</p>
+
+<p><strong>EMPLEADOR QUE OFRECE IGUALDAD DE OPORTUNIDADES:</strong>&nbsp;La Ciudad de Detroit es un empleador que ofrece igualdad de oportunidades. Ningún postulante será discriminado por motivos de raza, religión, color de piel, sexo, edad, nacionalidad, discapacidad u otro criterio prohibido por las leyes municipales, estatales o federales.</p>
+
+<p>&nbsp;</p>
+
+<h2>Documentos requeridos</h2>
+
+<p>&nbsp;</p>
+
+<p>Se requieren los siguientes documentos a fin de que usted sea considerado para un puesto como oficial de policía en el Departamento de Policía de Detroit.</p>
+
+<p>Estos documentos son necesarios para que el investigador pueda llevar a cabo su investigación previa al empleo. Se le recomienda que comience a reunir estos documentos de inmediato para acelerar el proceso de investigación.</p>
+
+<p>Reúnalos ahora y le informaremos cuándo los debe presentar. No los envíe por correo.</p>
+
+<p>Los puntajes de las pruebas MCOLES de escritura y de aptitud física se deben presentar dentro de los 45 días posteriores al momento en que expresa interés en postularse para trabajar en el Departamento de Policía de Detroit.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Traiga TODOS los documentos requeridos originales y una copia de cada uno de ellos.</strong></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Copia legalizada del certificado de nacimiento</li>
+	<li>Tarjeta del Seguro Social</li>
+	<li>Fotografía (4 x 6, con vestimenta laboral, de la cintura para arriba)</li>
+	<li>Licencia de conducir</li>
+	<li>Registro de conducción (para postulantes de otros estados)</li>
+	<li>Tarjeta de registro de votante</li>
+	<li>Copias de demandas pendientes</li>
+	<li>Registros de Amigo del Tribunal (si corresponde)</li>
+	<li>Certificado de naturalización (si corresponde)</li>
+	<li>Licencia de matrimonio o sentencia de divorcio</li>
+	<li>Documentos militares; formulario DD214 largo</li>
+	<li>Puntajes de las pruebas MCOLES de escritura y de aptitud física</li>
+	<li>Diploma de la escuela secundaria y certificado analítico, o certificado GED y notas de exámenes</li>
+	<li>Copia del título universitario (si corresponde) y certificados analíticos oficiales</li>
+	<li>Informe crediticio oficial (consulte más abajo la información sobre cómo obtener su informe crediticio)</li>
+	<li>Si usted es un trabajador autónomo: Registros de impuestos sobre los ingresos de los últimos 2 años</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>PRUEBAS MCOLES GRATUITAS</h2>
+
+<p><strong>para candidatos de la Policía de Detroit</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Luego de postularse, puede registrarse para hacer la&nbsp;</strong><strong>prueba gratuita MCOLES de lectura y escritura y la prueba gratuita MCOLES de aptitud física.</strong></p>
+
+<p>&nbsp;</p>
+
+<h3>Estándares mínimos de rendimiento en la prueba MCOLES de aptitud física</h3>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<th colspan="5">
+			<h3 class="text-align-center">Hombres</h3>
+			</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<th class="text-align-center">Grupo etario</th>
+			<th class="text-align-center">Salto vertical</th>
+			<th class="text-align-center">Abdominales</th>
+			<th class="text-align-center">Flexiones de brazos</th>
+			<th class="text-align-center">Correr 1/2 milla</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td class="text-align-center">18-29</td>
+			<td class="text-align-center">17.5</td>
+			<td class="text-align-center">32</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">4:29.6</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">30-39</td>
+			<td class="text-align-center">16.0</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">4:38.2</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">Más de 40</td>
+			<td class="text-align-center">15.0</td>
+			<td class="text-align-center">30</td>
+			<td class="text-align-center">28</td>
+			<td class="text-align-center">4:54.7</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="table-responsive">
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<th colspan="5">
+			<h3 class="text-align-center">Mujeres</h3>
+			</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<th class="text-align-center">Grupo etario</th>
+			<th class="text-align-center">Salto vertical</th>
+			<th class="text-align-center">Abdominales</th>
+			<th class="text-align-center">Flexiones de brazos</th>
+			<th class="text-align-center">Correr 1/2 milla</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td class="text-align-center">18-29</td>
+			<td class="text-align-center">11.0</td>
+			<td class="text-align-center">28</td>
+			<td class="text-align-center">7</td>
+			<td class="text-align-center">5:35.4</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">30-39</td>
+			<td class="text-align-center">9.0</td>
+			<td class="text-align-center">19</td>
+			<td class="text-align-center">7</td>
+			<td class="text-align-center">5:59.1</td>
+		</tr>
+		<tr>
+			<td class="text-align-center">Más de 40</td>
+			<td class="text-align-center">8.0</td>
+			<td class="text-align-center">18</td>
+			<td class="text-align-center">7</td>
+			<td class="text-align-center">6:13.3</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>Si ya hizo la prueba MCOLES de lectura y escritura, presente sus puntajes con su solicitud y regístrese para hacer la prueba gratuita MCOLES de aptitud física.</p>
+
+<p><strong>Los puntajes de la prueba MCOLES de aptitud física son válidos por 6 meses y no se pueden transferir a otra agencia.</strong></p>
+
+<p>*La tarifa de $68 de la prueba MCOLES de lectura y escritura y la tarifa de $45 de la prueba MCOLES de aptitud física son abonadas por la Policía de Detroit. Puede consultar los detalles sobre la prueba MCOLES en&nbsp;<a href="http://www.detroitmi.gov/How-Do-I/Find/www.michigan.gov/MCOLES" target="_blank">www.michigan.gov/MCOLES</a>.</p>
+
+<p>&nbsp;</p>
+
+<h2>Cómo obtener su informe crediticio</h2>
+
+<p>&nbsp;</p>
+
+<h3>Obtenga su INFORME CREDITICIO OFICIAL (en el mismo día), por $30 (en efectivo o con cheque), de:</h3>
+
+<p>&nbsp;</p>
+
+<p>CREDIT BUREAU SERVICES, INC.<br/>
+<a href="https://goo.gl/maps/KpAcpfrTjMC2" target="_blank">13422 Fort St.<br/>
+Southgate, MI 48195</a><br/>
+Teléfono:&nbsp;<a href="(734) 284-7100">(734) 284-7100</a><br/>
+Horario de atención:<br/>
+Martes, miércoles y jueves<br/>
+9:00 a. m. a 4:00 p. m.</p>
+
+<p><strong>Para obtener su informe, debe traer su licencia de conducir y proporcionar su número de Seguro Social.</strong></p>
+organization information:  
+summary:   <p>Cómo postularse a un empleo en el Departamento de Policía de Detroit</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department/detroit-police-department-records-and-reports
+
+title:  سجلات وتقارير إدارة شرطة ديترويت
+description:  <p dir='rtl'><strong dir='rtl'>ملاحظة بشأن تغيير مؤقت:</strong></p>
+
+<p dir='rtl'>تم نقل الخدمات التي تقدم عادة في 2875 W. Grand Blvd (تقارير الشرطة ورُخص حيازة الأسلحة وتراخيص من الشرطة وأخذ بصمات الأصابع) مؤقتًا إلى الدائرة الرابعة (4700 W. Fort Street Detroit Michigan 48209) حتى إشعار آخر. ساعات العمل وأرقام الاتصال الخاصة بنا هي نفسها.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="699fe468-d507-4c79-87e2-c97b6fac1013" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>يمكن الحصول على التقارير التالية شخصيًا في دائرة إدارة شرطة ديترويت الثالثة:&nbsp;</p>
+
+<h2 dir='rtl'>تقرير الاصطدام</h2>
+
+<ol dir='rtl'>
+	<li dir='rtl'>يجب أن يكون لديك التاريخ المحدد للحادث</li>
+	<li dir='rtl'>مفترقات الطرق حيثما وقع الحادث</li>
+	<li dir='rtl'>بطاقة هوية سارية</li>
+	<li dir='rtl'>تبلغ تكلفة تقرير الحوادث 10 دولار نقدًا أو بحوالة مالية (يُرجى دفع المبلغ المحدد، فلا توجد فكة)</li>
+</ol>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="85fed335-1394-42f7-af40-cd8ae4959b01" dir='rtl'></drupal-entity>
+
+<h2 dir='rtl'>تقارير الجرائم</h2>
+
+<ol dir='rtl'>
+	<li dir='rtl'>ستحتاج إلى رقم Crisnet المكون من 10 أرقام أو رقم الشكوى الرسمية</li>
+	<li dir='rtl'>إذا لم يكن لديك الرقم، فيجب أن يكون لديك بطاقة هوية سارية</li>
+	<li dir='rtl'>إذا كنت تقوم باستلام التقرير لشخص آخر، فيجب أن يكون لديك إذن كتابي وبطاقة هويتك</li>
+	<li dir='rtl'>تبلغ تكلفة التقرير 10 دولارات نقدًا أو بحوالة مالية (يُرجى دفع المبلغ المحدد، فلا توجد فكة)</li>
+</ol>
+
+<h2 dir='rtl'>تصريح الشراء (بدون تكلفة، صالح لمدة 10 أيام)</h2>
+
+<ol dir='rtl'>
+	<li dir='rtl'>يجب أن يكون لديك رخصة قيادة سارية أو بطاقة هوية من ولاية ميشيغان</li>
+	<li dir='rtl'>يجب أن تكون مقيمًا في ديترويت</li>
+	<li dir='rtl'>يجب ألا تكون هناك غرامات أو ديون عليك للمدينة أو المقاطعة أو الولاية أو الحكومات الفيدرالية</li>
+	<li dir='rtl'>لا يمكن أن تكون قد حصلت على أي مخالفات وقوف</li>
+	<li dir='rtl'>لا يمكن أن يكون لك أي قضايا في المحاكم (قضايا مدنية أو جنحة أو جناية)</li>
+</ol>
+
+<h2 dir='rtl'>حدود تصاريح الشراء والتسجيل</h2>
+
+<p dir='rtl'>الفقرة 38-10-14. حدود تصاريح الشراء والتسجيل.<br/>
+<br/>
+(أ) لا توجد تصاريح لشراء مسدس، ولا يتم إصدار شهادة تسجيل لأي مسدس إلى:</p>
+
+<ol dir='rtl'>
+	<li dir='rtl'>أي شخص دون سن الثامنة عشرة (18) من العمر.</li>
+	<li dir='rtl'>أي شخص مدمن لأي مادة خاضعة للرقابة كما هو محدد في MCLA 333.7104</li>
+	<li dir='rtl'>أي شخص أدين بجناية خلال فترة الثماني سنوات التي تسبق تقديم الطلب مباشرة، سواء في هذه الولاية أو في أي ولاية أخرى.</li>
+	<li dir='rtl'>أي شخص يحاكم حاليًا أمام محكمة في هذه الولاية أو في ولاية أخرى بأنه غير مؤهل عقليًا.</li>
+	<li dir='rtl'>أي شخص تم إطلاق سراحه من مركز اعتقال لجنة شباب ميشيغان خلال فترة الخمس سنوات التي تسبق مباشرة طلب الحصول على تصريح لشراء مسدس. حيثما كان اعتقال الشخص بسبب عريضة الجنوح لانتهاك قانون الولايات المتحدة أو قانون ولاية ميشيغان أو مدينة ديترويت أو القوانين التي من شأنها أن تشكل جناية إذا كان الجاني بالغًا.</li>
+	<li dir='rtl'>أي شخص يملك سلاحًا ناريًا أو مسدسًا ينتهك القانون الفيدرالي، أو قانون هذه الولاية أو مراسيم مدينة ديترويت.</li>
+	<li dir='rtl'>أي شخص صاحب مسدس ولا يملك شهادة تدريب على السلامة سارية على النحو المنصوص عليه في الفقرة 38-10-17.1.</li>
+</ol>
+
+<p dir='rtl'><br/>
+(ب) أي تسجيل مزعوم من قبل أي شخص غير مؤهل لتسجيل مسدس بموجب هذه الفقرة يعتبر لاغيًا وباطلاً.</p>
+
+<ol dir='rtl'>
+	<li dir='rtl'>يجب دفع رسوم غير قابلة للاسترداد على النحو الذي يحدده رئيس الشرطة مع كل طلب تسجيل مقدم بموجب هذا الفصل.</li>
+	<li dir='rtl'>لا تسري رسوم التسجيل على المسدسات المعتمدة من والصادرة عن إدارة شرطة ديترويت، والمسدسات المملوكة ملكية خاصة لضباط الشرطة وضباط السلام المقيمين في مدينة ديترويت المعتمدة من إدارة شرطة ديترويت.</li>
+	<li dir='rtl'>لا تسري رسوم التسجيل على مسدسات ضباط الشرطة المتقاعدين أو ضباط السلام الذين يملكون تصاريح سارية وصحيحة للأسلحة المخفية.</li>
+</ol>
+
+<p dir='rtl'><br/>
+(المرسوم No. 12-89, § 1, 7-19-89)</p>
+organization information:  
+summary:   <p dir='rtl'>كيفية الحصول على أو التقدم بطلب للحصول على سجلات وتقارير إدارة شرطة ديترويت.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department/detroit-police-department-records-and-reports
+
+title:  ডেট্রয়েট পুলিশ বিভাগের রেকর্ড এবং রিপোর্ট
+description:  <p><strong>অস্থায়ী পরিবর্তনের বিজ্ঞপ্তি:</strong></p>
+
+<p>সাধারণত 2875 W. Grand Blvdতে (পুলিশ রিপোর্টস বন্দুকের অনুমতিপত্র, পুলিশ ক্লিয়ারেন্স এবং ফিঙ্গারপ্রিন্টিং) দেওয়া পরিবষেবাগুলি পরবর্তী বিজ্ঞপ্তি না দেওয়া পর্যন্ত অস্থায়ীভাবে 4th precinct বা পুলিশ এক্তিয়ারে (4700 W. Fort Street Detroit Michigan 48209) স্থানান্তরিত করা হয়েছে৷ আমাদের কাজের সময় এবং যোগাযোগের নম্বরগুলি একই আছে৷</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="699fe468-d507-4c79-87e2-c97b6fac1013"></drupal-entity>
+
+<p>নিম্নলিখিত রিপোর্টগুলি DPD তৃতীয় প্রিসেন্ট বা পুলিশ এক্তিয়ারে নিজে গিয়ে সংগ্রহ করতে পারেন:&nbsp;</p>
+
+<h2>ক্র্যাস রিপোর্ট</h2>
+
+<ol>
+	<li>আপনার কাছে দুর্ঘটনার নির্দিষ্ট তারিখটি থাকতে হবে</li>
+	<li>যেখানে দুর্ঘটনাটি হয়েছে সেই ক্রস স্ট্রিট</li>
+	<li>বৈধ আইডি</li>
+	<li>দুর্ঘটনার রিপোর্টের খরচ নগদ অর্থ বা মানি অর্ডারে $10.00 (সঠিক পরিমাণ অর্থ দিন, কোন খুচরো টাকা দেওয়া হবে না)</li>
+</ol>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="85fed335-1394-42f7-af40-cd8ae4959b01"></drupal-entity>
+
+<h2>ক্রাইম বা অপরাধের রিপোর্ট</h2>
+
+<ol>
+	<li>আপনার 10 অক্ষরের ক্রিসনেট নম্বর বা অফিসিয়াল অভিযোগের নম্বরটি প্রয়োজন</li>
+	<li>যদি আপনার কাছে কোন নম্বর না থাকে তাহলে আপনার একটি বৈধ আইডি থাকতে হবে</li>
+	<li>যদি আপনি অন্য কারোর জন্য রিপোর্ট সংগ্রহ করেন তাহলে আপনার অনুমোদন পত্র এবং আপনার আইডি আনতে হবে</li>
+	<li>রিপোর্টের খরচ নগদ অর্থ বা মানি অর্ডারে $10.00 (সঠিক পরিমাণ অর্থ দিন, কোন খুচরো টাকা দেওয়া হবে না)</li>
+</ol>
+
+<h2>ক্রয়ের অনুমতিপত্র (বিনা খরচে, 10 দিনের জন্য বৈধ)</h2>
+
+<ol>
+	<li>বৈধ ড্রাইভারের লাইসেন্স থাকতে হবে৷ অথবা মিশিগানের আইডি কার্ড</li>
+	<li>অবশ্যই ডেট্রয়েট বসবাস করতে হবে</li>
+	<li>সিটি, কাউন্টি, স্টেট বা ফেডেরাল সরকারের কাছে কোন ফাইন বা ঋণ থাকবে না</li>
+	<li>কোন পার্কিং টিকিট থাকবে না</li>
+	<li>আদালতে কোন কেস থাকবে না (দেওয়ানি, অপহরণ বা অপরাধমূলক মামলা)</li>
+</ol>
+
+<h2>ক্রয় এবং নিবন্ধনের জন্য অনুমতিপত্রের সীমা</h2>
+
+<p>সেক. 38-10-14. ক্রয় এবং নিবন্ধনের জন্য অনুমতিপত্রের সীমা।<br/>
+<br/>
+(a)হ্যান্ডগান কেনার জন্য কোন অনুমতিপত্র নেই, কোন ধরণের হ্যান্ডগানের জন্য নিবন্ধিত শংসাপত্র ইস্যু করা হবে:</p>
+
+<ol>
+	<li>আঠারো (18) বছর বয়সের যেকোন ব্যক্তিকে;</li>
+	<li>MCLA 333.7104তে বর্ণিত কোন নিয়ন্ত্রিত মাদকে আসক্ত ব্যক্তি</li>
+	<li>আবেদন করার অবিলম্ব আগে আট-বছর সময়কাল অপরাধমূলক কার্যে অপরাধী সাব্যস্ত হওয়া কোন ব্যক্তি, তা এই স্টেটেই হোক অথবা অন্য কোথাও;</li>
+	<li>এই স্টেটে অথবা অন্য স্টেটে আদালতের দ্বারা মানসিকভাবে অক্ষম হিসাবে সাব্যস্ত হওয়া কোন ব্যক্তি;</li>
+	<li>এমন কোন ব্যক্তি যে হ্যান্ডগান কেনার অনুমতিপত্রের জন্য আবেদন করার অবিলম্ব আগে পাঁচ-বছর সময়কাল মিশিগান যুব কমিশন আটক থেকে মুক্ত হয়েছে। যেখানে ব্যক্তির আটকের কারণ মার্কিন যুক্তরাষ্ট্র, স্টেট অফ মিশিগান বা সিটি অফ ডেট্রয়েট আইন অমান্যের জন্য বিচ্যুতির দরখাস্ত করা হয় সেক্ষেত্রে অপরাধ বলে বিবেচিত হবে যদি অপরাধী কোন প্রাপ্তবয়ষ্ক ব্যক্তি হন;</li>
+	<li>আগ্নেয়াস্ত্র বা হ্যান্ডগানধারী কোন ব্যক্তি ফেডারেল বা রাষ্ট্রীয় আইন অথবা এই স্টেটের আইন বা সিটি অফ ডেট্রয়েট অর্ডিনেন্স লঙ্ঘন করে।</li>
+	<li>কোন ব্যক্তির কাছে হ্যান্ডগান আছে এবং তার কাছে ধারা 38-10-17.1-এ বর্ণিত কোন বৈধ নিরাপদ প্রশিক্ষণের শংসাপত্র নেই।</li>
+</ol>
+
+<p><br/>
+(b)কোন ব্যক্তির দ্বারা অতিরঞ্জিত নিবন্ধন এই ধারার অধীনে কোন ব্যক্তির কাছে হ্যান্ডগান রেজিস্টার করা অকার্যকর।</p>
+
+<ol>
+	<li>পুলিশ প্রধানের ধার্য করা একটি নন-রিফান্ডেবল মূল্য এই অধ্যায়ের অধীনে দাখিল করা প্রতিটি নিবন্ধন অ্যাপ্লিকেশনের সঙ্গে দিতে হবে।</li>
+	<li>নিবন্ধন মূল্য ডেট্রয়েট পুলিশ বিভাগের অনুমোদের জন্য প্রযোজ্য হবে না এবং ডেট্রয়েট পুলিশ বিভাগ হ্যান্ডগান ইস্যু করে এবং ডেট্রয়েট পুলিশ বিভাগ ব্যক্তিগতভাবে মালিকানাধীন পুলিশের এবং সিটি অফ ডেট্রয়েট নিবেশিত পিস অফিসারদের হ্যান্ডগানগুলিরও অনুমতি দেয়।</li>
+	<li>অবসরপ্রাপ্ত পুলিশ আধিকারিকদের অথবা পিস অফিসারদের বৈধ কার্যকর গুপ্ত অস্ত্রের অনুমতিপত্র থাকার জন্য হ্যান্ডগানের ক্ষেত্রে নিবন্ধন মূল্য প্রযোজ্য হবে না।</li>
+</ol>
+
+<p><br/>
+(Ord. No. 12-89, § 1, 7-19-89)</p>
+organization information:  
+summary:   <p>কিভাবে ডেট্রয়েট পুলিশ বিভাগের রেকর্ড এবং রিপোর্টগুলি সংগ্রহ করবেন অথবা পাওয়ার আবেদন করবেন।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department/detroit-police-department-records-and-reports
+
+title:  Registros y denuncias ante el Departamento de Policía de Detroit
+description:  <p><strong>Aviso de cambio temporal:</strong></p>
+
+<p>Los servicios que generalmente se ofrecen en 2875 W. Grand Blvd (denuncias policiales, permisos de armas, certificados policiales y obtención de huellas dactilares) se trasladaron temporalmente a la comisaría 4.ª (4700 W. Fort Street, Detroit, Michigan 48209) hasta próximo aviso. Nuestros horarios de atención y números de contacto son los mismos.</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="699fe468-d507-4c79-87e2-c97b6fac1013"></drupal-entity>
+
+<p>Las siguientes denuncias se pueden hacer en persona en la comisaría 3.ª del Departamento de Policía de Detroit:&nbsp;</p>
+
+<h2>Denuncia de accidente</h2>
+
+<ol>
+	<li>Debe tener la fecha exacta del accidente.</li>
+	<li>Debe indicar la intersección de calles donde ocurrió el accidente.</li>
+	<li>Debe presentar una identificación válida.</li>
+	<li>El costo de la denuncia de accidente es de $10 en efectivo o giro postal (suma exacta, no se entrega vuelto).</li>
+</ol>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="85fed335-1394-42f7-af40-cd8ae4959b01"></drupal-entity>
+
+<h2>Denuncias de delitos</h2>
+
+<ol>
+	<li>Debe tener el número de Crisnet de 10 dígitos o un número de denuncia oficial.</li>
+	<li>Si no tiene el número, debe presentar una identificación válida.</li>
+	<li>Si retirará una denuncia de otra persona, debe presentar una autorización por escrito y su tarjeta de identificación.</li>
+	<li>El costo de la denuncia de delitos es de $10 en efectivo o giro postal (suma exacta, no se entrega vuelto).</li>
+</ol>
+
+<h2>Permiso de compra (sin costo, válido por 10 días)</h2>
+
+<ol>
+	<li>Debe tener una licencia de conducir o una tarjeta de identificación válidas de Míchigan.</li>
+	<li>Debe residir en Detroit.</li>
+	<li>No debe tener multas ni deudas en la ciudad, en el condado, en el estado ni en el país.</li>
+	<li>No debe tener multas de estacionamiento.</li>
+	<li>No debe tener casos judiciales pendientes (civiles, o por delitos menores o mayores).</li>
+</ol>
+
+<h2>Límites de permisos para la compra y el registro</h2>
+
+<p>Sec. 38-10-14. Límites de permisos para la compra y el registro<br/>
+<br/>
+(a) No se emitirá ningún permiso para comprar pistolas ni ningún certificado de registro de pistolas a las siguientes personas:</p>
+
+<ol>
+	<li>Toda persona menor de dieciocho (18) años.</li>
+	<li>Toda persona adicta a sustancias controladas, según lo definido en la sección 333.7104 de las Leyes Compiladas de Míchigan (Michigan Compiled Laws, MCLA).</li>
+	<li>Toda persona condenada por un delito mayor, dentro del período de ocho años inmediatamente anterior a la solicitud, ya sea en este estado o en otro lugar.</li>
+	<li>Toda persona declarada mentalmente incompetente en la actualidad por un tribunal de este estado o de otro estado.</li>
+	<li>Toda persona liberada de la detención en la Comisión de Jóvenes de Míchigan (Michigan Youth Commission), dentro del período de cinco años inmediatamente anterior a la solicitud de un permiso para comprar una pistola. En los casos en que la detención de una persona se produjo como resultado de una solicitud de determinación de delito por una violación de las leyes de los Estados Unidos, del estado de Míchigan o de la ciudad de Detroit que hubiese constituido un delito si el infractor hubiese sido un adulto.</li>
+	<li>Toda persona que tenga un arma de fuego o una pistola que infrinja las leyes federales o las de este estado, o las ordenanzas de la Ciudad de Detroit.</li>
+	<li>Toda persona que posea una pistola y que no tenga un certificado válido de capacitación en seguridad, según lo establecido en la sección 38-10-17.1.</li>
+</ol>
+
+<p><br/>
+(b) Los presuntos registros por parte de una persona no elegible para registrar una pistola no tendrán validez según lo establecido en esta sección.</p>
+
+<ol>
+	<li>Una tarifa no reembolsable determinada por el jefe de policía deberá acompañar cada solicitud de registro presentada, de acuerdo con este capítulo.</li>
+	<li>La tarifa de registro no regirá en el caso de las pistolas aprobadas y otorgadas por el Departamento de Policía de Detroit y las pistolas de propiedad privada aprobadas por dicho Departamento pertenecientes a policías y oficiales de seguridad con domicilio en la ciudad de Detroit.</li>
+	<li>La tarifa de registro no regirá en el caso de las pistolas de oficiales de policía u oficiales de seguridad jubilados que tengan permisos válidos y vigentes para portar armas ocultas.</li>
+</ol>
+
+<p><br/>
+(Ordenanza No. 12-89, § 1, 7-19-89)</p>
+organization information:  
+summary:   <p>Cómo hacer denuncias o solicitar registros ante el Departamento de Policía de Detroit</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department/gun-permits-information
+
+title:  معلومات عن تصاريح السلاح
+description:  <p dir='rtl'><strong dir='rtl'>رخصة لشراء سلاح ناري (بدون تكلفة، صالحة لمدة 30 يومًا)</strong></p>
+
+<p dir='rtl'>1. يجب أن يكون لدى جميع المتقدمين رخصة قيادة سارية من ميشيغان أو بطاقة هوية سارية من الولاية<br/>
+2. يجب أن يكون جميع المتقدمين مقيمين في ولاية ميشيغان<br/>
+3. يجب على جميع المتقدمين إكمال الطلب والخضوع لفحص تاريخ السوابق الجنائية الشامل<br/>
+4. يمكن الحصول على تصريح لشراء سلاح ناري مباشرة من تاجر يحمل رخصة فيدرالية للأسلحة النارية<br/>
+5. يجب تسجيل جميع الأسلحة التي تم شراؤها خلال 10 أيام من الشراء وإلا فستخاطر بتعرضك لمخالفة<br/>
+6. لن تصدر أي رُخص لشخص يسعى لشراء سلاح ناري لشخص آخر<br/>
+&nbsp;</p>
+
+<p dir='rtl'><strong dir='rtl'>حدود تصاريح الشراء والتسجيل</strong><br/>
+&nbsp;الفقرة 38-10-14. حدود تصاريح الشراء والتسجيل.<br/>
+<br/>
+(أ) لا توجد تصاريح لشراء مسدس، ولا يتم إصدار شهادة تسجيل لأي مسدس إلى:</p>
+
+<p dir='rtl'>&nbsp;(1) أي شخص دون سن الثامنة عشرة (18) من العمر.<br/>
+&nbsp;(2) أي شخص مدمن لأي مادة خاضعة للرقابة كما هو محدد في MCLA 333.7104&nbsp;<br/>
+&nbsp;(3) أي شخص أدين بجناية خلال فترة الثماني سنوات التي تسبق تقديم الطلب مباشرة، سواء في هذه الولاية أو في أي ولاية أخرى.<br/>
+&nbsp;(4) أي شخص يحاكم حاليًا أمام محكمة في هذه الولاية أو في ولاية أخرى بأنه غير مؤهل عقليًا.<br/>
+&nbsp;(5) أي شخص تم إطلاق سراحه من مركز اعتقال لجنة شباب ميشيغان خلال فترة الخمس سنوات التي تسبق مباشرة طلب الحصول على تصريح لشراء مسدس. حيثما كان اعتقال الشخص بسبب عريضة الجنوح لانتهاك قانون الولايات المتحدة أو قانون ولاية ميشيغان أو مدينة ديترويت أو القوانين التي من شأنها أن تشكل جناية إذا كان الجاني بالغًا.<br/>
+&nbsp;(6) أي شخص يملك سلاحًا ناريًا أو مسدسًا ينتهك القانون الفيدرالي، أو قانون هذه الولاية أو مراسيم مدينة ديترويت.<br/>
+&nbsp;(7) يجب ألا يكون لدى جميع المتقدمين أي أحكام بإدانات جنائية معلقة أو مذكرات إيقاف معلقة<br/>
+(إضافي) يجب أن يكون لجميع الأسلحة النارية المستندات الصحيحة (إثبات الشراء/الميراث وغيره) قبل التسجيل<br/>
+**لا توجد رسوم لتسجيل أي سلاح ناري أو رخصة للشراء، ولكن يجب توثيق كل رخصة صادرة للشراء قبل شراء سلاح ناري.&nbsp; إننا نوفر خدمة التوثيق مقابل 10.00 دولار أو يمكنك اختيار الاستفادة من خدمات موثق خارجي.</p>
+
+<p dir='rtl'>(ب) أي تسجيل مزعوم من قبل أي شخص غير مؤهل لتسجيل مسدس بموجب هذه الفقرة يعتبر لاغيًا وباطلاً.</p>
+
+<p dir='rtl'>&nbsp;(1) يجب دفع رسوم غير قابلة للاسترداد على النحو الذي يحدده رئيس الشرطة مع كل طلب تسجيل مقدم بموجب هذا الفصل.<br/>
+&nbsp;(2) لا تسري رسوم التسجيل على المسدسات المعتمدة من والصادرة عن إدارة شرطة ديترويت، والمسدسات المملوكة ملكية خاصة لضباط الشرطة وضباط السلام المقيمين في مدينة ديترويت المعتمدة من إدارة شرطة ديترويت.<br/>
+&nbsp;(3) لا تسري رسوم التسجيل على مسدسات ضباط الشرطة المتقاعدين أو ضباط السلام الذين يملكون تصاريح سارية وصحيحة للأسلحة المخفية.<br/>
+<br/>
+&nbsp;</p>
+
+<p dir='rtl'>&nbsp;(المرسوم No. 12-89, § 1, 7-19-89)&nbsp;</p>
+organization information:  
+summary:   <p dir='rtl'>معلومات عن تصاريح السلاح</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department/gun-permits-information
+
+title:  বন্দুকের অনুমতিপত্র সম্বন্ধীয় তথ্য
+description:  <p><strong>আগ্নেয়াস্ত্র কেনার লাইসেন্স (বিনা খরচে, 30 দিনের জন্য বৈধ)</strong></p>
+
+<p>1. সমস্ত আবেদনকারীর কাছে আবশ্যিকভাবে মিশিগানের একটি বৈধ ড্রাইভারের লাইসেন্স বা স্টেটের পরিচিতি কার্ড থাকতে হবে<br/>
+2. সমস্ত আবেদনকারীকে স্টেট অফ মিশিগানের বাসিন্দা হতে হবে<br/>
+3. সমস্ত আবেদনকারীকে আবেদনপত্রটি সম্পূর্ণ করতে হবে এবং অপরাধের ইতিহাস নিয়ে সূক্ষ্ম পরীক্ষার মধ্য দিয়ে যেতে হবে<br/>
+4. আগ্নেয়াস্ত্র কেনার জন্য সরাসরি অনুমতি কোন FFL ডিলারের থেকে পাওয়া যেতে পারে<br/>
+5. সমস্ত কেনা অস্ত্রগুলিকে ক্রয়ের অথবা ঝুঁকি আছে টিকিট দেওয়ার 10 দিনের মধ্যে নিবন্ধন করতে হবে<br/>
+6. কোন লাইসেন্স এমন কোন ব্যক্তির জন্য ইস্যু করা হবে না যে আগ্নেয়াস্ত্র অন্য কোন ব্যক্তির জন্য কিনতে চাইছে<br/>
+&nbsp;</p>
+
+<p><strong>ক্রয় এবং নিবন্ধনের জন্য অনুমতিপত্রের সীমা</strong><br/>
+&nbsp;সেক. 38-10-14. ক্রয় এবং নিবন্ধনের জন্য অনুমতিপত্রের সীমা।<br/>
+<br/>
+(a)হ্যান্ডগান কেনার জন্য কোন অনুমতিপত্র নেই, কোন ধরণের হ্যান্ডগানের জন্য নিবন্ধিত শংসাপত্র ইস্যু করা হবে:</p>
+
+<p>&nbsp;(1)আঠারো (18) বছর বয়সের কম কোন ব্যক্তি;<br/>
+&nbsp;(2) MCLA 333.7104তে বর্ণিত কোন নিয়ন্ত্রিত মাদকে আসক্ত ব্যক্তি&nbsp;<br/>
+&nbsp;(3) স্টেটে অথবা অন্য কোথাও আবেদন করার অবিলম্ব আগে আট-বছর সময়কাল অপরাধমূলক কার্যে অপরাধী সাব্যস্ত হওয়া কোন ব্যক্তি;<br/>
+&nbsp;(4) এই স্টেটে অথবা অন্য স্টেটে আদালতের দ্বারা মানসিকভাবে অক্ষম হিসাবে সাব্যস্ত হওয়া কোন ব্যক্তি;<br/>
+&nbsp;(5) এমন কোন ব্যক্তি যে হ্যান্ডগান কেনার অনুমতিপত্রের জন্য আবেদন করার অবিলম্ব আগে পাঁচ-বছর সময়কাল মিশিগান যুব কমিশন আটক থেকে মুক্ত হয়েছে। যেখানে ব্যক্তির আটকের কারণ মার্কিন যুক্তরাষ্ট্র, স্টেট অফ মিশিগান বা সিটি অফ ডেট্রয়েট আইন অমান্যের জন্য বিচ্যুতির দরখাস্ত করা হয় সেক্ষেত্রে অপরাধ বলে বিবেচিত হবে যদি অপরাধী কোন প্রাপ্তবয়ষ্ক ব্যক্তি হয়;<br/>
+&nbsp;(6) আগ্নেয়াস্ত্র বা হ্যান্ডগানধারী কোন ব্যক্তি ফেডারেল বা রাষ্ট্রীয় আইন অথবা এই স্টেটের আইন বা সিটি অফ ডেট্রয়েট অর্ডিনেন্স লঙ্ঘন করে।<br/>
+&nbsp;(7) সমস্ত আবেদনকারীর কোন অমিমাংসিত মামলা বা বকেয়া ওয়ারেন্ট থাকবে না<br/>
+(অতিরিক্ত) নিবন্ধনের আগে সমস্ত আগ্নেয়াস্ত্রগুলির যথাযথ নথিপত্র থাকতে হবে (ক্রয়/মালিকানা ইত্যাদির প্রমাণ)<br/>
+**কোন আগ্নেয়াস্ত্রের নিবন্ধনের জন্য অথবা লাইসেন্স ক্রয়ের জন্য কোন মূল্য দিতে হয় না, তবে আগ্নেয়াস্ত্র কেনার আগে ক্রয়ের প্রতিটি লাইসেন্স নোটারি করা আবশ্যক।&nbsp; আমরা $10.00 দিয়ে নোটারি পরিষেবা দিয়ে থাকি অথবা আপনি বাইরের থেকেও নোটারি করিয়ে আনতে পারেন।</p>
+
+<p>(b)কোন ব্যক্তির দ্বারা অতিরঞ্জিত নিবন্ধন এই ধারার অধীনে কোন ব্যক্তির কাছে হ্যান্ডগান রেজিস্টার করা অকার্যকর।</p>
+
+<p>&nbsp;(1) পুলিশ প্রধানের ধার্য করা একটি নন-রিফান্ডেবল মূল্য এই অধ্যায়ের অধীনে দাখিল করা প্রতিটি নিবন্ধন অ্যাপ্লিকেশনের সঙ্গে দিতে হবে।<br/>
+&nbsp;(2) নিবন্ধন মূল্য ডেট্রয়েট পুলিশ বিভাগের অনুমোদের জন্য প্রযোজ্য হবে না এবং ডেট্রয়েট পুলিশ বিভাগ হ্যান্ডগান ইস্যু করে এবং ডেট্রয়েট পুলিশ বিভাগ ব্যক্তিগতভাবে মালিকানাধীন পুলিশের এবং সিটি অফ ডেট্রয়েট নিবেশিত পিস অফিসারদের হ্যান্ডগানগুলিরও অনুমতি দেয়।<br/>
+&nbsp;(3) অবসরপ্রাপ্ত পুলিশ আধিকারিকদের অথবা পিস অফিসারদের বৈধ কার্যকর গুপ্ত অস্ত্রের অনুমতিপত্র থাকার জন্য হ্যান্ডগানের ক্ষেত্রে নিবন্ধন মূল্য প্রযোজ্য হবে না।<br/>
+<br/>
+&nbsp;</p>
+
+<p>&nbsp;(Ord. No. 12-89, § 1, 7-19-89)&nbsp;</p>
+organization information:  
+summary:   <p>বন্দুকের অনুমতিপত্র সম্বন্ধীয় তথ্য</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department/gun-permits-information
+
+title:  Información sobre permisos de armas
+description:  <p><strong>Licencia para comprar un arma de fuego (sin costo, válida por 30 días)</strong></p>
+
+<p>1. Todos los solicitantes deben tener una licencia de conducir válida de Míchigan o una tarjeta de identificación válida del estado.<br/>
+2. Todos los solicitantes deben ser residentes del estado de Míchigan.<br/>
+3. Todos los solicitantes deben completar una solicitud y someterse a un control exhaustivo de antecedentes penales.<br/>
+4. Se puede obtener un permiso para comprar un arma de fuego directamente de un agente de Licencias Federales de Armas de Fuego (Federal Firearms License, FFL).<br/>
+5. Todas las armas compradas se deben registrar dentro de los 10 días posteriores a la compra; de lo contrario, se corre el riesgo de ser multado.<br/>
+6. No se emitirán licencias a personas que intenten comprar un arma de fuego para otra persona.<br/>
+&nbsp;</p>
+
+<p><strong>Límites de permisos para la compra y el registro</strong><br/>
+&nbsp;Sec. 38-10-14. Límites de permisos para la compra y el registro<br/>
+<br/>
+(a) No se emitirá ningún permiso para comprar pistolas ni ningún certificado de registro de pistolas a las siguientes personas:</p>
+
+<p>&nbsp;(1) Toda persona menor de dieciocho (18) años.<br/>
+&nbsp;(2) Toda persona adicta a sustancias controladas, según lo definido en la sección 333.7104 de las Leyes Compiladas de Míchigan (Michigan Compiled Laws, MCLA).&nbsp;<br/>
+&nbsp;(3) Toda persona condenada por un delito mayor, dentro del período de ocho años inmediatamente anterior a la solicitud, ya sea en este estado o en otro lugar.<br/>
+&nbsp;(4) Toda persona declarada mentalmente incompetente en la actualidad por un tribunal de este estado o de otro estado.<br/>
+&nbsp;(5) Toda persona liberada de la detención en la Comisión de Jóvenes de Míchigan (Michigan Youth Commission), dentro del período de cinco años inmediatamente anterior a la solicitud de un permiso para comprar una pistola. En los casos en que la detención de una persona se produjo como resultado de una solicitud de determinación de delito por una violación de las leyes de los Estados Unidos, del estado de Míchigan o de la ciudad de Detroit que hubiese constituido un delito si el infractor hubiese sido un adulto.<br/>
+&nbsp;(6) Toda persona que tenga un arma de fuego o una pistola que infrinja las leyes federales o las de este estado, o las ordenanzas de la Ciudad de Detroit.<br/>
+&nbsp;(7) Toda persona que tenga condenas penales pendientes u órdenes de detención pendientes.<br/>
+(Adicional) Todas las armas de fuego deben tener la documentación adecuada (comprobante de compra/herencia, etc.) antes del registro.<br/>
+**No se cobra ningún cargo por el registro de armas de fuego ni por la licencia de compra; sin embargo, cada licencia de compra emitida debe ser certificada antes de comprar un arma de fuego.&nbsp; Ofrecemos servicios de certificación por $10, o bien puede optar por usar los servicios de un notario externo.</p>
+
+<p>(b) Los presuntos registros por parte de una persona no elegible para registrar una pistola no tendrán validez según lo establecido en esta sección.</p>
+
+<p>&nbsp;(1) Una tarifa no reembolsable determinada por el jefe de policía deberá acompañar cada solicitud de registro presentada, de acuerdo con este capítulo.<br/>
+&nbsp;(2) La tarifa de registro no regirá en el caso de las pistolas aprobadas y otorgadas por el Departamento de Policía de Detroit y las pistolas de propiedad privada aprobadas por dicho Departamento pertenecientes a policías y oficiales de seguridad con domicilio en la ciudad de Detroit.<br/>
+&nbsp;(3) La tarifa de registro no regirá en el caso de las pistolas de oficiales de policía u oficiales de seguridad jubilados que tengan permisos válidos y vigentes para portar armas ocultas.<br/>
+<br/>
+&nbsp;</p>
+
+<p>&nbsp;(Ordenanza No. 12-89, § 1, 7-19-89)&nbsp;</p>
+organization information:  
+summary:   <p>Información sobre permisos de armas</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department/precincts-and-neighborhood-police-officers
+
+title:  الدوائر وضباط شرطة الحي
+description:  <p dir='rtl'>تلتزم إدارة شرطة ديترويت وأعضاؤها التزامًا راسخًا بتوفير خدمات الشرطة المهنية لمواطني ديترويت وزوارها. تؤخذ جميع الشكاوى المتعلقة بخدمات الشرطة على محمل الجد. يكرس رجال ونساء شرطة ديترويت (Men and Women in Blue) جهودهم لخدمتكم. تم تقسيم دوائر شرطة ديترويت إلى مناطق وإسنادها إلى برنامج ضباط شرطة الحي (NPO) كمهام طويلة الأجل. &nbsp;سيعمل جميع ضباط شرطة الأحياء على بناء علاقة مع المجتمع وقطاع الأعمال وذلك لخلق شكل مختلف للتواجد الشرطي في حل المشكلات غير الطارئة والمتكررة التي تمس جودة الحياة.</p>
+
+<p dir='rtl'>يجمع برنامج NPO الضباط والمقيمين معًا لخلق مجتمعات أكثر أمانًا.</p>
+organization information:  
+summary:   <p dir='rtl'>نظرة عامة على برنامج&nbsp;ضباط شرطة الأحياء (Neighborhood Police Officer، NPO)</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department/precincts-and-neighborhood-police-officers
+
+title:  পুলিশ এক্তিয়ার এবং নেবারহুডের পুলিশ আধিকারিকবৃন্দ
+description:  <p>ডেট্রয়েট পুলিশ বিভাগ এবং তার সদস্যরা ডেট্রয়েট নাগরিক এবং পরিদর্শকদের প্রতি দৃঢ়ভাবে পেশাদারী পুলিশী পরিষেবা দেওয়ার জন্য নিবেদিত। পুলিশী পরিষেবার সঙ্গে যুক্ত সমস্ত উদ্বেগগুলিকে গম্ভীরভাবে দেখা হয়। ডেট্রয়েট-র নীল উর্দিধারী পুরুষ এবং মহিলারা আপনার পরিষেবায় নিবেদিত। ডেট্রয়েট-র পুলিশ এক্তিয়ারগুলি এলাকায় ভাগ করা এবং NPO-র কাছে দীর্ঘমেয়াদী অ্যাসাইনমেন্ট হিসাবে সমর্পিত। &nbsp;সমস্ত NPO-রা জরুরী নয় এমন অবস্থার জন্য এবং জীবনের সমস্যার মান পুনরাবৃত্ত করার ক্ষেত্রে বিভিন্নভাবে পুলিশের উপস্থিতি তৈরি করার জন্য সম্প্রদায় এবং ব্যবসার ক্ষেত্রগুলির সঙ্গে সম্বন্ধ স্থাপন করবে।</p>
+
+<p>NPO প্রকল্প আরও নিরাপদ সম্প্রদায় তৈরি করার জন্য আধিকারিক এবং আবাসিকদের একসঙ্গে নিয়ে আসে।</p>
+organization information:  
+summary:   <p>একনজরে&nbsp;নেবারহুডের পুলিশ আধিকারিক (Neighborhood Police Officer, NPO) প্রকল্প</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department/precincts-and-neighborhood-police-officers
+
+title:  Comisarías y oficiales de policía de los vecindarios
+description:  <p>El Departamento de Policía de Detroit (Detroit Police Department) y sus miembros están firmemente comprometidos a brindar servicios policiales profesionales a los ciudadanos y visitantes de Detroit. Todas las inquietudes relacionadas con los servicios policiales se toman con seriedad. Los hombres y las mujeres de uniformes azules de Detroit se dedican a servir a la comunidad. Las comisarías policiales de Detroit se dividieron en áreas y se asignaron a Oficiales de Policía de Vecindarios (Neighborhood Police Officer, NPO), como asignaciones a largo plazo. &nbsp;Todos los NPO desarrollarán vínculos con la comunidad y el sector comercial a fin de crear una presencia policial diferente ante los problemas que no constituyen una emergencia y que afectan a la calidad de vida de forma recurrente.</p>
+
+<p>El programa de NPO une a los oficiales y a los residentes para crear comunidades más seguras.</p>
+organization information:  
+summary:   <p>Resumen del programa de&nbsp;Oficiales de Policía de Vecindarios (NPO)</p>
+
+*******************************************************************************
+
+language: arabic
+http://detroitmi.theneighborhoods.org/departments/police-department/report-crime
+
+title:  الإبلاغ عن الجرائم
+description:  <h2 dir='rtl'>الإبلاغ عن الجرائم عبر الهاتف - المكالمات غير الطارئة</h2>
+
+<p dir='rtl'>للحالات غير الطارئة اتصل بـ:</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="7907fab8-5a83-457b-8f22-82fc4ba6f642" dir='rtl'></drupal-entity>
+
+<p dir='rtl'>عندما تحتاج إلى...<br/>
+&nbsp;</p>
+
+<ul dir='rtl'>
+	<li dir='rtl'>تقديم تقرير الشرطة عن حادث حدث بالفعل (اقتحام، وسرقة السيارات، والتخلص من النفايات بطرق غير مشروعة)</li>
+	<li dir='rtl'>الحصول على معلومات حول شخص ما محتجز لدى الشرطة</li>
+	<li dir='rtl'>الإبلاغ عن مركبة مهجورة</li>
+	<li dir='rtl'>تقديم شكوى من الضوضاء</li>
+	<li dir='rtl'>تقديم شكوى من سباقات الحيوانات أو سباقات التسارع بعد انتهاء الحادث</li>
+	<li dir='rtl'>الإبلاغ عن حنفية حريق مفتوحة</li>
+	<li dir='rtl'>الإبلاغ عن مشكلة لدى الجيران</li>
+	<li dir='rtl'>الإبلاغ عن سرقة كبل أو مرافق</li>
+</ul>
+
+<h2 dir='rtl'>الإبلاغ عن سرقة مركبتك</h2>
+
+<p dir='rtl'>يجب على مالكي السيارات الذين يسعون إلى تقديم بلاغ عن مركبة مسروقة سُرقت داخل المدينة، أن يفعلوا ذلك بأنفسهم في أي من <a href="/departments/detroit-police-department/precincts-and-neighborhood-police-officers" dir='rtl'>دوائر شرطة ديترويت</a></p>
+
+<h2 dir='rtl'>اتصل بالرقم 911 لوحدة الاستجابة في حالات الطوارئ التابعة للشرطة فقط</h2>
+
+<ul dir='rtl'>
+	<li dir='rtl'>الجرائم الجارية</li>
+	<li dir='rtl'>المساعدة الطبية الفورية</li>
+	<li dir='rtl'>للإبلاغ عن حريق</li>
+	<li dir='rtl'>للإبلاغ عن أسلاك كهربائية مقطوعة أو حريق في أعمدة الإنارة</li>
+	<li dir='rtl'>للإبلاغ عن عملية جارية للتخلص من النفايات بطرق غير مشروعة</li>
+	<li dir='rtl'>للإبلاغ عن تسرب مشتبه به لمواد خطرة</li>
+</ul>
+organization information:  
+summary:   <p dir='rtl'>معلومات حول كيفية الإبلاغ عن الجرائم.</p>
+
+*******************************************************************************
+
+language: bengali
+http://detroitmi.theneighborhoods.org/departments/police-department/report-crime
+
+title:  অপরাধের রিপোর্ট
+description:  <h2>টেলিফোনে অপরাধ সম্পর্কে রিপোর্ট করুন- জরুরী নয় এমন কল</h2>
+
+<p>আপৎকালীন পরিস্থিতির জন্য ফোন করুন:</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="7907fab8-5a83-457b-8f22-82fc4ba6f642"></drupal-entity>
+
+<p>যখন আপনার প্রয়োজন হবে...<br/>
+&nbsp;</p>
+
+<ul>
+	<li>ঘটে যাওয়া দুর্ঘটনার (সহসা প্রবেশ, স্বয়ংক্রিয় চুরি এবং বেআইনি মাল খালাস) জন্য পুলিশ রিপোর্ট দাখিল করুন</li>
+	<li>পুলিশী হেফাজতে থাকা কারোর সম্বন্ধে তথ্য নিন</li>
+	<li>কোন পরিত্যক্ত গাড়ির রিপোর্ট</li>
+	<li>কোলাহলের অভিযোগ করুন</li>
+	<li>ঘটনা ঘটে যাওয়ার পরে পশু বা ড্রাগ-রেসিং সম্পর্কে অভিযোগ করুন</li>
+	<li>মুক্ত ফায়ার হাইড্রেন্ট সম্পর্কে রিপোর্ট করুন</li>
+	<li>প্রতিবেশীর সমস্যা সম্পর্কে রিপোর্ট করুন</li>
+	<li>কেবল বা তার চুরি বা ইউটিলিটি চুরি সম্পর্কে রিপোর্ট করুন</li>
+</ul>
+
+<h2>আপনার গাড়ি চুরি সম্পর্কে রিপোর্ট করুন</h2>
+
+<p>গাড়ির মালিককে সেই গাড়ির চুরি সম্পর্কে রিপোর্ট করতে হবে যেটি সিটির মধ্যে হয়েছে এবং তা যেকোন <a href="/departments/detroit-police-department/precincts-and-neighborhood-police-officers">ডেট্রয়েট পুলিশ এক্তিয়ারের</a> কাছে গিয়ে নিজে করতে হবে।</p>
+
+<h2>কেবলমাত্র আপৎকালীন পুলিশ প্রতিক্রিয়ার জন্য 911 নম্বরে ফোন করুন</h2>
+
+<ul>
+	<li>অপরাধ বেড়ে চলেছে</li>
+	<li>তাৎক্ষণিক মেডিকেল সহায়তা</li>
+	<li>অগ্নিকান্ডের রিপোর্ট করার জন্য</li>
+	<li>নিচে নামিয়ে রাখা তার বা আলোর পোলে আগুন লাগলে রিপোর্ট করার জন্য</li>
+	<li>বেআইনি মাল খালাস বেড়ে চলেছে রিপোর্টের জন্য</li>
+	<li>সন্দেহভাজন ঝুঁকিপূর্ণ উপকরণ ছড়িয়ে পরেছে রিপোর্টের জন্য</li>
+</ul>
+organization information:  
+summary:   <p>কিভাবে অপরাধের রিপোর্ট করবেন সেই সম্পর্কিত তথ্য।</p>
+
+*******************************************************************************
+
+language: spanish
+http://detroitmi.theneighborhoods.org/departments/police-department/report-crime
+
+title:  Denuncias de delitos
+description:  <h2>Teléfono para denunciar delitos (llamadas en casos que no son de emergencia)</h2>
+
+<p>Ante SITUACIONES QUE NO SON DE EMERGENCIA, llame al</p>
+
+<drupal-entity data-embed-button="node" data-entity-embed-display="view_mode:node.teaser" data-entity-type="node" data-entity-uuid="7907fab8-5a83-457b-8f22-82fc4ba6f642"></drupal-entity>
+
+<p>cuando necesite...<br/>
+&nbsp;</p>
+
+<ul>
+	<li>Hacer una denuncia policial por un accidente que ya sucedió (ingreso a su vivienda; robo de vehículo; vertidos ilegales).</li>
+	<li>Obtener información sobre una persona bajo custodia policial.</li>
+	<li>Denunciar un vehículo abandonado.</li>
+	<li>Hacer una denuncia por ruidos molestos.</li>
+	<li>Hacer una denuncia relacionada con animales o con carreras una vez finalizado el hecho.</li>
+	<li>Denunciar la existencia de un hidrante abierto.</li>
+	<li>Denunciar problemas vecinales.</li>
+	<li>Denunciar el robo de cable o servicios públicos.</li>
+</ul>
+
+<h2>Denunciar el robo de su vehículo.</h2>
+
+<p>Los propietarios que deseen denunciar el robo de sus vehículos dentro de la ciudad, deben hacerlo en persona en cualquier <a href="/departments/detroit-police-department/precincts-and-neighborhood-police-officers">comisaría de la Policía de Detroit</a>.</p>
+
+<h2>Llame al 911 únicamente en casos de emergencias policiales.</h2>
+
+<ul>
+	<li>Para denunciar delitos en curso</li>
+	<li>Para pedir atención médica inmediata</li>
+	<li>Para denunciar un incendio</li>
+	<li>Para denunciar la caída de cables de electricidad o el incendio de un poste de luz</li>
+	<li>Para denunciar vertidos ilegales en curso</li>
+	<li>Para denunciar derrames de materiales supuestamente peligrosos</li>
+</ul>
+organization information:  
+summary:   <p>Información sobre cómo denunciar delitos.</p>
+
+*******************************************************************************
+
+language: arabic
 http://detroitmi.theneighborhoods.org/departments/water-and-sewerage-department
 
 title:  إدارة المياه والصرف الصحي
@@ -17061,33 +18852,33 @@ language: arabic
 http://detroitmi.theneighborhoods.org/departments/water-and-sewerage-department/resources/dwsd-associations
 
 title:  جمعيات إدارة المياه والصرف الصحي في ديترويت
-description:  <p dir='rtl'><a href="http:/www.awwa.org/" target="_blank" dir='rtl'><img alt="الجمعية الأمريكية لأعمال المياه" src="http:/www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_awwa.gif" /></a></p>
+description:  <p dir='rtl'><a href="http://www.awwa.org/" target="_blank" dir='rtl'><img alt="الجمعية الأمريكية لأعمال المياه" src="http://www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_awwa.gif" /></a></p>
 
-<p dir='rtl'><a href="http:/www.awwa.org/" target="_blank" dir='rtl'>الجمعية الأمريكية لأعمال المياه&nbsp;<br/>
+<p dir='rtl'><a href="http://www.awwa.org/" target="_blank" dir='rtl'>الجمعية الأمريكية لأعمال المياه&nbsp;<br/>
 </a></p>
 
-<p dir='rtl'><a href="http:/www.mi-water.org/" target="_blank" dir='rtl'><img alt="الجمعية الأمريكية لأعمال المياه" src="http:/www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_awwa_mich.gif" /></a></p>
+<p dir='rtl'><a href="http://www.mi-water.org/" target="_blank" dir='rtl'><img alt="الجمعية الأمريكية لأعمال المياه" src="http://www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_awwa_mich.gif" /></a></p>
 
-<p dir='rtl'><a href="http:/www.mi-water.org/" target="_blank" dir='rtl'>الجمعية الأمريكية لأعمال المياه&nbsp;<br/>
+<p dir='rtl'><a href="http://www.mi-water.org/" target="_blank" dir='rtl'>الجمعية الأمريكية لأعمال المياه&nbsp;<br/>
  - قطاع ميشيغان</a></p>
 
-<p dir='rtl'><a href="http:/www.amwa.net/" target="_blank" dir='rtl'><img alt="رابطة وكالات المياه الحضرية" src="http:/www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_amwa.gif" /></a></p>
+<p dir='rtl'><a href="http://www.amwa.net/" target="_blank" dir='rtl'><img alt="رابطة وكالات المياه الحضرية" src="http://www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_amwa.gif" /></a></p>
 
-<p dir='rtl'><a href="http:/www.amwa.net/" target="_blank" dir='rtl'>رابطة &nbsp;<br/>
+<p dir='rtl'><a href="http://www.amwa.net/" target="_blank" dir='rtl'>رابطة &nbsp;<br/>
 وكالات المياه الحضرية</a></p>
 
-<p dir='rtl'><a href="http:/www.crwc.org/" target="_blank" dir='rtl'><img alt="مجلس حوض نهر كلينتون" src="http:/www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_clinton.gif" /></a></p>
+<p dir='rtl'><a href="http://www.crwc.org/" target="_blank" dir='rtl'><img alt="مجلس حوض نهر كلينتون" src="http://www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_clinton.gif" /></a></p>
 
-<p dir='rtl'><a href="http:/www.crwc.org/" target="_blank" dir='rtl'>مجلس حوض &nbsp;<br/>
+<p dir='rtl'><a href="http://www.crwc.org/" target="_blank" dir='rtl'>مجلس حوض &nbsp;<br/>
 نهر كلينتون</a></p>
 
-<p dir='rtl'><a href="http:/www.jea.com/community/education/efficiency/wisely/index.html" target="_blank" dir='rtl'><img alt="شركة Culver" src="http:/www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_culver.gif" /></a></p>
+<p dir='rtl'><a href="http://www.jea.com/community/education/efficiency/wisely/index.html" target="_blank" dir='rtl'><img alt="شركة Culver" src="http://www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_culver.gif" /></a></p>
 
-<p dir='rtl'><a href="http:/www.jea.com/community/education/efficiency/wisely/index.html" target="_blank" dir='rtl'>شركة Culver</a></p>
+<p dir='rtl'><a href="http://www.jea.com/community/education/efficiency/wisely/index.html" target="_blank" dir='rtl'>شركة Culver</a></p>
 
 <p dir='rtl'>&nbsp;</p>
 
-<p dir='rtl'><a href="http:/www.drinktap.org/" target="_blank" dir='rtl'><img alt="Drink Tap Dot Org" src="http:/www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_drink.gif" /></a></p>
+<p dir='rtl'><a href="http://www.drinktap.org/" target="_blank" dir='rtl'><img alt="Drink Tap Dot Org" src="http:/www.detroitmi.gov/portals/0/Images/DWSD/Logos/logo_drink.gif" /></a></p>
 
 <p dir='rtl'><a href="http:/www.drinktap.org/" target="_blank" dir='rtl'>Drinktap</a></p>
 
