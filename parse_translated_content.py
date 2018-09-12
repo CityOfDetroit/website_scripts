@@ -31,7 +31,7 @@ class TranslatedPage():
         for bad, good in self.CLEANUPS.items():
             value = value.replace(bad, good)
 
-        return value
+        return value.strip()
 
     def parse_value(self, data, name):
 
@@ -102,7 +102,7 @@ class TranslatedPage():
         for attr in [ 'title', 'desc', 'organization_head_information', 'summary' ]:
 
             if getattr(self, attr) != getattr(other, attr):
-                differences.append('title')
+                differences.append(attr)
 
         return differences
 
@@ -158,19 +158,24 @@ class TranslatedContentParser():
 
         for url in self.get_urls():
 
+            original_url = url
+
             url = url.replace('http://', '')
             url = url.replace('https://', '')
             pos = url.find('/')
             url = url[pos:]
 
-            url, data = ContentExporter.get_data(url)
+            junk_url, data = ContentExporter.get_data(url)
+
+            if not data.get('tid'):
+                continue
 
             tid = data['tid'][0]['value']
             base_url = '/taxonomy/term/{}'.format(tid)
 
             for lang in self.get_langs():
 
-                translated_page = self.translations[lang].get(url)
+                translated_page = self.translations[lang].get(original_url)
                 if not translated_page:
                     continue
 
@@ -180,6 +185,11 @@ class TranslatedContentParser():
                 loaded_page.parse_json(data)
 
                 differences = translated_page.compare(loaded_page)
+
+                if differences:
+
+                    print("{} - {} ({})".format(lang, original_url, str(differences)[1:-1]))
+
 
     def parse(self, argv):
         """
