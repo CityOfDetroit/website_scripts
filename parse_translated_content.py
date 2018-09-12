@@ -44,6 +44,16 @@ class TranslatedPage():
 
         return self.clean_value(ret_val)
 
+    def parse_json(self, data):
+        """
+        Parse json object.
+        """
+
+        self.title = self.parse_value(data, 'name')
+        self.desc = self.parse_value(data, 'description')
+        self.organization_head_information = self.parse_value(data, 'field_organization_head_informat')
+        self.summary = self.parse_value(data, 'field_summary')
+
     def parse_file(self, filename):
         """
         Parse an individual file.
@@ -53,6 +63,9 @@ class TranslatedPage():
 
             # get destination url
             self.url = input.readline().rstrip()
+            pos = self.url.find('?')
+            if pos > 0:
+                self.url = self.url[:pos]
 
             print(self.url)
 
@@ -63,10 +76,7 @@ class TranslatedPage():
             data = input.readline()
             data = json.loads(data)
 
-            self.title = self.parse_value(data, 'name')
-            self.desc = self.parse_value(data, 'description')
-            self.organization_head_information = self.parse_value(data, 'field_organization_head_informat')
-            self.summary = self.parse_value(data, 'field_summary')
+            self.parse_json(data)
 
     def output_file(self, output, url, lang):
         """
@@ -82,6 +92,19 @@ class TranslatedPage():
         output.write("\nsummary:   " + self.summary.rstrip())
         output.write("\n")
         output.write('\n*******************************************************************************\n')
+
+    def compare(self, other):
+        """
+        Compares self with other TranslatedPage and returns differences.
+        """
+
+        differences = []
+        for attr in [ 'title', 'desc', 'organization_head_information', 'summary' ]:
+
+            if getattr(self, attr) != getattr(other, attr):
+                differences.append('title')
+
+        return differences
 
 
 class TranslatedContentParser():
@@ -128,8 +151,6 @@ class TranslatedContentParser():
                 if page:
                     page.output_file(output=self.output, url=url, lang=lang)
 
-                    url, data = ContentExporter.get_data(url)
-
     def check_content(self):
         """
         Report any content not-yet loaded or loaded incorrectly.
@@ -150,8 +171,15 @@ class TranslatedContentParser():
             for lang in self.get_langs():
 
                 translated_page = self.translations[lang].get(url)
+                if not translated_page:
+                    continue
 
                 translated_url, data = ContentExporter.get_data('/' + lang + base_url)
+
+                loaded_page = TranslatedPage()
+                loaded_page.parse_json(data)
+
+                differences = translated_page.compare(loaded_page)
 
     def parse(self, argv):
         """
