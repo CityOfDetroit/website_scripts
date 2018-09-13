@@ -429,3 +429,10 @@ faq_urls = [
     "/node/9466",
     "/node/9871",
 ]
+
+all_urls = city_council_urls + ddot_urls + dfd_urls + dpd_urls + \
+    bseed_urls + pdd_urls + dah_urls + city_clerk_urls + mayors_office_urls + \
+    dwsd_urls + media_services_urls + ocfo_urls + don_urls + dpw_urls + \
+    health_urls + hrd_urls + board_urls + faq_urls
+
+all_urls = sorted(set(all_urls))
