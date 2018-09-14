@@ -54,6 +54,20 @@ class TranslatedPage():
         self.organization_head_information = self.parse_value(data, 'field_organization_head_informat')
         self.summary = self.parse_value(data, 'field_summary')
 
+        self.content = ''
+
+    def parse_homepage(self, input):
+        """
+        Parse homepage.
+        """
+
+        self.url = "detroitmi.theneighborhoods.org"
+        self.content = input.read()
+        self.title = ''
+        self.desc = ''
+        self.organization_head_information = ''
+        self.summary = ''
+
     def parse_file(self, filename):
         """
         Parse an individual file.
@@ -63,6 +77,10 @@ class TranslatedPage():
 
             # get destination url
             self.url = input.readline().rstrip()
+            if self.url.startswith('<'):
+                self.parse_homepage(input)
+                return
+
             pos = self.url.find('?')
             if pos > 0:
                 self.url = self.url[:pos]
@@ -86,6 +104,10 @@ class TranslatedPage():
         output.write("\n" + "language: " + self.LANG_MAP[lang])
         output.write("\n" + url)
         output.write("\n")
+
+        if self.content:
+            output.write("\ncontent:\n" + self.content.rstrip() + "\n")
+
         output.write("\ntitle:  " + self.title.rstrip())
         output.write("\ndescription:  " + self.desc.rstrip())
         output.write("\norganization information:  " + self.organization_head_information.rstrip())
