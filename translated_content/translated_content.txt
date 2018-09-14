@@ -1,4 +1,72 @@
 
+language: arabic
+detroitmi.theneighborhoods.org
+
+content:
+<button class="btn" type="button" data-toggle="collapse" data-target="#collapseBox" aria-expanded="false" aria-controls="collapseBox" dir='rtl'><div class="btn-txt-wrap" dir='rtl'>
+<div class="btn-top" dir='rtl'><h1 dir='rtl'>كيف تعمل المدينة لأجلك</h1></div>
+<div class="btn-bottom" dir='rtl'>الوظائف، والشركات، والأحياء، والمقيمون</div></div><i dir='rtl'></i>
+</button>
+<div class="collapse" id="collapseBox" dir='rtl'>
+  <div class="card-body clearfix" dir='rtl'>
+    <div class="row" dir='rtl'>
+    <div class="col-sm-12 col-md-6 col-lg-6" dir='rtl'>
+    <h4 dir='rtl'>الوظائف</h4>
+    <ul dir='rtl'>
+      <li dir='rtl'><a href="https://detroitatwork.com/events/workshops-classes/" target="_blank" dir='rtl'>يمكنك الحصول على مساعدة في البحث عن وظيفة من خلال ورش Detroit at Work</a></li>
+      <li dir='rtl'><a href="https://detroitatwork.com/job-training/" target="_blank" dir='rtl'>ورش عمل التدريب على الوظائف Detroit at Work</a></li>
+      <li dir='rtl'><a href="https://www.governmentjobs.com/careers/detroit?sort=PositionTitle%7CAscending" target="_blank" dir='rtl'>فرص العمل بالمدينة</a></li>
+      <li dir='rtl'><a href="http://gdyt.org/youth/" target="_blank" dir='rtl'>الوظائف الصيفية لبرنامج الشباب (Youth Program)</a></li>
+    </ul>
+    </div>
+
+    <div class="col-sm-12 col-md-6 col-lg-6" dir='rtl'>
+    <h4 dir='rtl'>الشركات</h4>
+    <ul dir='rtl'>
+      <li dir='rtl'><a href="http://www.motorcitymatch.com/" target="_blank" dir='rtl'>ابدأ شركتك من خلال برنامج Motor City Match</a></li>
+      <li dir='rtl'><a href="http://www.motorcityre-store.com/" target="_blank" dir='rtl'>طوّر شركتك من خلال برنامج Motor City Match</a></li>
+      <li dir='rtl'><a href="http://gdyt.org/employers-supporters/" target="_blank" dir='rtl'>قم بتعيين الموظفين للوظائف الصيفية مع برنامج Youth Program</a></li>
+    </ul><br/>
+    </div>
+    </div>
+    <div class="row" dir='rtl'>
+    <div class="col-sm-12 col-md-6 col-lg-6" dir='rtl'>
+    <h4 dir='rtl'>الأحياء</h4>
+    <ul dir='rtl'>
+      <li dir='rtl'><a href="/ImproveDetroit" dir='rtl'>قم بالإبلاغ عن مشكلة بالمنطقة عبر Improve Detroit</a></li>
+      <li dir='rtl'><a href="/how-do-i/report-problem/blight-complaints" dir='rtl'>قم بالإبلاغ عن شكاوى مخالفات المباني بالحي إلى إدارة الأحياء (DON)</a></li>
+      <li dir='rtl'><a href="/departments/detroit-department-of-transportation/bus-schedules" dir='rtl'>معلومات عن مسارات الحافلات</a></li>
+      <li dir='rtl'><a href="/webapp/waste-pickup-map" dir='rtl'>جمع القمامة</a></li>
+      <li dir='rtl'><a href="http://www.greenlightdetroit.org/participating-businesses/" target="_blank" dir='rtl'>شراكات برنامج Project Green Light</a></li>
+      <li dir='rtl'><a href="http://theneighborhoods.org/" target="_blank" dir='rtl'>موقع الويب الخاص بالأحياء</a></li>
+    </ul>
+    </div>
+
+    <div class="col-sm-12 col-md-6 col-lg-6" dir='rtl'>
+    <h4 dir='rtl'>المقيمون</h4>
+
+    <ul dir='rtl'>
+      <li dir='rtl'><a href="http://www.detroithomeloans.org/" target="_blank" dir='rtl'>المساعدة في إصلاح المنازل - قروض تحسين المنازل بفائدة 0%</a></li>
+      <li dir='rtl'><a href="http://www.detroithomemortgage.org/" target="_blank" dir='rtl'>الحصول على رهن عقاري - برنامج رهن المنازل بديترويت</a></li>
+      <li dir='rtl'><a href="https://buildingdetroit.org/" target="_blank" dir='rtl'>شراء منزل من المصرف العقاري (Land Bank)</a></li>
+      <li dir='rtl'><a href="/departments/planning-and-development-department/affordable-home-programs" dir='rtl'>السكن بأسعار معقولة</a></li>
+      <li dir='rtl'><a href="https://buildingdetroit.org/sidelots" target="_blank" dir='rtl'>شراء قطعة الأرض الجانبية</a></li>
+      <li dir='rtl'><a href="/departments/office-of-the-chief-financial-officer/office-of-the-assessor/avoid-property-tax-foreclosure" dir='rtl'>منع الحجز على الممتلكات</a></li>
+      <li dir='rtl'><a href="/departments/detroit-water-and-sewerage-department/keep-the-water" dir='rtl'>برامج المساعدة في فاتورة المياه</a></li>
+      <li dir='rtl'><a href="/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/rental-property" dir='rtl'>شكاوى العقارات المؤجرة</a></li>
+    </ul>
+    </div>
+    </div>
+  </div>
+</div>
+
+title:  
+description:  
+organization information:  
+summary:   
+
+*******************************************************************************
+
 language: bengali
 detroitmi.theneighborhoods.org
 
