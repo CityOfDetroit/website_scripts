@@ -1,0 +1,57 @@
+﻿<img class="sparty-img" src="/themes/custom/detroitmi/images/sparty.png" alt="persona sonriente"/>
+<button class="btn" type="button" data-toggle="collapse" data-target="#collapseBox" aria-expanded="false" aria-controls="collapseBox"><div class="btn-txt-wrap">
+<div class="btn-top"><h1>Cómo trabaja la ciudad para usted</h1></div>
+<div class="btn-bottom">empleos, negocios, vecindario, habitantes</div></div><i></i>
+</button>
+<div class="collapse" id="collapseBox">
+  <div class="card-body clearfix">
+    <div class="row">
+    <div class="col-sm-12 col-md-6 col-lg-6">
+    <h4>Empleos</h4>
+    <ul>
+      <li><a href="https://detroitatwork.com/events/workshops-classes/" target="_blank">Obtenga ayuda de Detroit at Work en su búsqueda laboral</a></li>
+      <li><a href="https://detroitatwork.com/job-training/" target="_blank">Talleres de capacitación laboral de Detroit at Work</a></li>
+      <li><a href="https://www.governmentjobs.com/careers/detroit?sort=PositionTitle%7CAscending" target="_blank">Oportunidades de empleo de la ciudad</a></li>
+      <li><a href="http://gdyt.org/youth/" target="_blank">Empleos de verano del programa para jóvenes</a></li>
+    </ul>
+    </div>
+
+    <div class="col-sm-12 col-md-6 col-lg-6">
+    <h4>Negocios</h4>
+    <ul>
+      <li><a href="http://www.motorcitymatch.com/" target="_blank">Inicie su negocio con Motor City Match</a></li>
+      <li><a href="http://www.motorcityre-store.com/" target="_blank">Mejore su negocio con Motor City ReStore</a></li>
+      <li><a href="http://gdyt.org/employers-supporters/" target="_blank">Contrate personal para los empleos de verano con el programa para jóvenes</a></li>
+    </ul><br/>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm-12 col-md-6 col-lg-6">
+    <h4>Vecindario</h4>
+    <ul>
+      <li><a href="/ImproveDetroit">Informe un problema de la comunidad en Improve Detroit</a></li>
+      <li><a href="/how-do-i/report-problem/blight-complaints">Informe los problemas de deterioro del vecindario al Departamento de Vecindarios (Department of Neighborhoods, DON)</a></li>
+      <li><a href="/departments/detroit-department-of-transportation/bus-schedules">Información sobre los recorridos de los autobuses</a></li>
+      <li><a href="/webapp/waste-pickup-map">Recolección de basura</a></li>
+      <li><a href="http://www.greenlightdetroit.org/participating-businesses/" target="_blank">Miembros del Proyecto Green Light</a></li>
+      <li><a href="http://theneighborhoods.org/" target="_blank">El sitio web de los vecindarios</a></li>
+    </ul>
+    </div>
+
+    <div class="col-sm-12 col-md-6 col-lg-6">
+    <h4>Habitantes</h4>
+
+    <ul>
+      <li><a href="http://www.detroithomeloans.org/" target="_blank">Ayuda para la reparación de viviendas: préstamos para la mejora de viviendas con 0 % de interés</a></li>
+      <li><a href="http://www.detroithomemortgage.org/" target="_blank">Obtenga una hipoteca: programa de hipotecas de Detroit</a></li>
+      <li><a href="https://buildingdetroit.org/" target="_blank">Compre una vivienda de Land Bank</a></li>
+      <li><a href="/departments/planning-and-development-department/affordable-home-programs">Viviendas asequibles</a></li>
+      <li><a href="https://buildingdetroit.org/sidelots" target="_blank">Compre su lote contiguo</a></li>
+      <li><a href="/departments/office-of-the-chief-financial-officer/office-of-the-assessor/avoid-property-tax-foreclosure">Aviso de ejecución hipotecaria</a></li>
+      <li><a href="/departments/detroit-water-and-sewerage-department/keep-the-water">Asistencia para pagar las facturas del agua</a></li>
+      <li><a href="/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/rental-property">Asuntos relacionados con las propiedades para alquiler</a></li>
+    </ul>
+    </div>
+    </div>
+  </div>
+</div>
