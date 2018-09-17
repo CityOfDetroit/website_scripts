@@ -29383,6 +29383,36 @@ http://detroitmi.theneighborhoods.org/node/1231
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  عملية تقديم التماس من الحي
+    answer:  <p dir='rtl'>يلزم تقديم التماس من الحي للتنازل عن تقييد بعض الاستخدامات التي تتم في نطاق 500 قدم  من الأراضي المخصصة في المناطق السكنية.</p>
+
+<p dir='rtl'>يجب على مقدم الطلب اتباع إجراءات إدارة المباني وهندسة السلامة والبيئة المكتوبة، واستخدام نماذج الالتماس المزودة، ودفع الرسوم المناسبة، وتأمين التوقيعات بنجاح على الأقل بنسبة 2/3 (67٪) من جميع الأشخاص المؤهلين لتوقيع مثل هذا الالتماس.<br/><br/>
+عدم النجاح في الحصول على العدد المطلوب من التوقيعات يعني أن المشروع قد لا يُشرع في مراجعة مخطط الموقع أو عقد جلسة استماع عامة.<br/><br/>
+يجب أخذ نماذج التماسات الحي من شعبة تقسيم المناطق بالغرفة 407.</p>
+
+    question:  المتطلبات اللازمة لباحات الإنقاذ وباحات الخردة ومبيعات قطع غيار السيارات المستعملة
+    answer:  <p dir='rtl'>بعد تقديم المشروع واجتيازه مراجعة مخطط الموقع، يتم تحديد موعد لجلسة الاستماع العامة المطلوبة. يجب إرسال إشعار عن جلسة الاستماع العامة بالبريد إلى جميع المقيمين ومالكي العقارات والشركات في نطاق 300 قدم نصف قطري من الاستخدام المشروط المقترح للأراضي، ويتم نشره في أخبار ديترويت القانونية، ويتم نشره على الملكية. يتطلب قانون تمكين تقسيم المناطق بولاية ميشيغان إرسال إشعار مسبق بمدة لا تقل عن 15 يومًا لجلسات الاستماع العامة تلك.<br/><br/>
+وعادة ما يتم تحديد موعد عقد جلسات الاستماع العامة المعنية بالاستخدام الخاص للأراضي في صباح أيام الأربعاء بدءًا من الساعة 9:00 صباحًا وكل نصف ساعة بعد ذلك. يختلف عدد جلسات الاستماع في أيام الأربعاء المحددة، ولكنه يتراوح عادة بين اثنتين وست. الرسوم حاليًا قدرها $1,000.00.<br/><br/>
+جدول أعمال جلسات الاستماع:</p>
+
+<ol dir='rtl'><li dir='rtl'>يعلن الموظف المعني بجلسات الاستماع تفاصيل الجلسة</li>
+	<li dir='rtl'>يتم تقديم تقرير الموظف من قبل مفتش بناء في إدارة المباني وهندسة السلامة والبيئة (BSEED)</li>
+	<li dir='rtl'>يقدم فريق التطوير عرضًا تقديميًا حول مقترحهم</li>
+	<li dir='rtl'>يقدم المهندس المدني بإدارة التخطيط والتنمية (P&amp;DD) تقريرًا وتوصية</li>
+	<li dir='rtl'>تم إعطاء الجمهور الفرصة لطرح الأسئلة والتعليق على المقترح</li>
+</ol><p dir='rtl'>لا يتم اتخاذ قرار في جلسة الاستماع. في غضون فترة تتراوح بين أسبوعين إلى ثلاثة أسابيع، يقوم الموظف المعني بجلسات الاستماع بصياغة خطاب قرار يتضمن توصية إدارة التخطيط والتنمية، ومناقشة من جلسة الاستماع، ومعايير الموافقة المحددة للاستخدامات المشروطة للأراضي (الفقرة 61-3-231).<br/><br/>
+سيتم إرسال خطاب القرار بالبريد إلى مقدم الطلب، وكل من حضر جلسة الاستماع، وكل من قدم تعليقات مكتوبة بخصوص الاستخدام المقترح للأراضي. يمكن الطعن في أي خطاب قرار لدى مجلس الطعون على تقسيم المناطق (BZA) للفقرة 61-3-242 في غضون 14 يومًا من تاريخ القرار.<br/><br/>
+وفي حالة عدم الطعن، يصبح خطاب القرار نافذًا. يجب على مقدم الطلب بعد ذلك تسجيله في سجل أعمال مقاطعة وين وتقديم تصريح بناء لدى إدارة المباني وهندسة السلامة والبيئة لتغيير الاستخدام والقيام بأي أعمال بناء. بعد اجتياز جميع عمليات الفحص المطلوبة، سيتم إصدار شهادة إشغال.<br/><br/>
+وفي النهاية، إذا كان الاستخدام المقترح للأراضي يتطلب رخصة تجارية، فيمكن التقديم على هذه الرخصة وإصدارها. وحينها فقط يمكن افتتاح مكان الاستخدام الجديد وتشغيله.</p>
+
+<p dir='rtl'> </p>
+
+    question:  مراجعة مخطط الموقع
+    answer:  <p dir='rtl'>يتم التكليف بمراجعة مخطط الموقع (SPR) بموجب الفصل 61 من مرسوم تقسيم المناطق بمدينة ديترويت في حالات محددة متعددة بما في ذلك جميع الاستخدامات المشروطة للأراضي (الفقرة 61-3-113). وحسب منطقة تقسيم المناطق، ترجع صلاحية مراجعة مخطط الموقع واعتمادها إما لإدارة التخطيط والتنمية أو مجلس المدينة (من خلال لجنة تخطيط المدينة). تكون إدارة المباني وهندسة السلامة والبيئة مخولة بالمشاركة في عملية المراجعة.<br/><br/>
+لتقديم طلب لمراجعة مخطط الموقع، يجب تقديم ثلاث مجموعات محددة الأبعاد بشكل صحيح ومرسومة بالحجم الصحيح لمخططات الموقع والطوابق والارتفاعات مع الرسوم المناسبة ($100.00 للاستخدامات المشروطة و$160.00 لجميع الاستخدامات الأخرى) إلى شعبة مراجعة المخططات، بالغرفة 409. وسيقوم الموظفون بمراجعة المخططات لتحديد مدى استيفائها للالتزام بالتقسيم والتصميم والمتطلبات التشغيلية، عادةً في غضون 10 أيام من استلام المجموعة المقدمة الكاملة. سيتم إبلاغ مقدم الطلب بالتعديلات و/أو التغييرات و/أو التحسينات الضرورية، أو إذا كانت المخططات تلبي جميع المعايير، فسيتم اعتمادها وسيتم تحديد موعد جلسة الاستماع العامة (إذا لزم الأمر).</p>
+
 summary:   
 
 *******************************************************************************
@@ -29393,6 +29423,36 @@ http://detroitmi.theneighborhoods.org/node/1231
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  এলাকার আবেদন প্রক্রিয়া
+    answer:  <p>আবাসনের এলাকাভুক্ত জমির 500 ফুটের মধ্যে কিছু ব্যবহারের সীমিতকরণে ছাড় দিতে  এলাকার আবেদনের প্রয়োজন।</p>
+
+<p>আবেদনকারীর সরবরাহ করা আবেদনের ফর্ম ব্যবহার করতে, যথাযথ ফি প্রদান করতে এবং এই ধরণের আবেদনে স্বাক্ষর করা যোগ্য সকল ব্যক্তিদের মধ্যে অন্ততঃ 2/3 অংশের (67% এর) স্বাক্ষর সফলভাবে প্রাপ্ত করতে BSEED এর লিখিত প্রণালী অনুসরণ করার প্রয়োজন।<br/><br/>
+প্রয়োজনীয় সংখ্যক স্বাক্ষর প্রাপ্ত করতে ব্যর্থ হওয়ার অর্থ হল, প্রকল্পটি সাইট পরিকল্পনার পর্যালোচনা বা প্রকাশ্য শুনানি পর্যন্ত নাও এগোতে পারে।<br/><br/>
+এলাকার আবেদনগুলি রুম 407-স্থিত জোনিং ডিভিশন থেকে তুলে নেওয়া আবশ্যক।</p>
+
+    question:  জাহাজের মাল রাখার প্রাঙ্গণ, আস্তাকুঁড় ও ব্যবহৃত গাড়ির যন্ত্রাংশ বিক্রি
+    answer:  <p>একটি প্রকল্প জমা দেওয়ার ও সাইট পরিকল্পনা পর্যালোচনার পর প্রয়োজনীয় প্রকাশ্য শুনানির সময় স্থির করা হয়। প্রকাশ্য শুনানির বিজ্ঞপ্তিটি সকল আবাসিক, সম্পত্তির মালিক ও Detroit Legal News-এ প্রকাশিত প্রস্তাবিত শর্তসাপেক্ষ জমির ব্যবহার এর 300 ফুট ব্যাসার্ধের মধ্যেকার ব্যবসাগুলিকে ডাকযোগে পাঠানো ও সম্পত্তিতে টাঙিয়ে দেওয়া আবশ্যক। মিশিগান স্টেট জোনিং সক্ষম করার আইন-এ এই ধরণের প্রকাশ্য শুনানির অন্ততঃ 15 দিন আগে আগাম বিজ্ঞপ্তি দেওয়ার প্রয়োজন।<br/><br/>
+প্রস্তাবিত বিশেষ জমির ব্যবহারের প্রকাশ্য শুনানির সময় সাধারণতঃ বুধবার সকাল 9:00থেকে শুরু করে প্রতি আধঘণ্টায় স্থির করা হয়। কোনো নির্দিষ্ট বুধবারে শুনানির সংখ্যা সাধারণতঃ দুই থেকে ছয়ের মধ্যে থাকে। এর ফি বর্তমানে $1,000.00।<br/><br/>
+শুনানির বিষয়সূচি:</p>
+
+<ol><li>শুনানি আধিকারিক শুনানির বিবরণ ঘোষণা করলেন</li>
+	<li>একজন BSEED ভবন পরিদর্শকের দ্বারা একটি কর্মী রিপোর্ট দেওয়া হল</li>
+	<li>উন্নয়ন দল তাদের প্রস্তাবর উপর একটি উপস্থাপনা পেশ করলো</li>
+	<li>পরিকল্পনা ও উন্নয়ন বিভাগ(Planning &amp; Development Department - P&amp;DD) এর একজন নগর পরিকল্পনাকারী একটি রিপোর্ট ও সুপারিশ পেশ করলেন</li>
+	<li>জনগণকে এই প্রস্তাবের উপর প্রশ্ন জিজ্ঞাসা করার ও মন্তব্য করার সুযোগ দেওয়া হল</li>
+</ol><p>শুনানিতে কোনো সিদ্ধান্ত নেওয়া হয় না। 2-3 সপ্তাহের মধ্যে, শুনানি আধিকারিক P&amp;DD'র সুপারিশ, শুনানিতে হওয়া আলোচনা এবং শর্তসাপেক্ষ জমির ব্যবহারের সুনির্দিষ্ট অনুমোদন মাপকাঠি (ধারা 61-3-231) অন্তর্ভুক্ত করে সিদ্ধান্ত পত্রের একটি খসড়া তৈরি করলেন।<br/><br/>
+সিদ্ধান্ত পত্রটি আবেদনকারীর, শুনানিতে উপস্থিত সকলের এবং প্রস্তাবিত জমির ব্যবহার সম্পর্কে যারা লিখিত মন্তব্য জমা দিয়েছিলেন তাদের প্রত্যেককে ডাকযোগে পাঠানো হবে। যে কোনো সিদ্ধান্ত পত্রের বিরুদ্ধে জোনিং আপীল বোর্ড(Board of Zoning Appeals - BZA) এর কাছে ধারা 61-3-242 অনুসারে সিদ্ধান্তের তারিখের 14 দিনের মধ্যে আপীল করা যাবে।<br/><br/>
+কোনো আপীল করা না হলে সিদ্ধান্ত পত্রটি কার্যকর হবে। তারপর আবেদনকারীর ওয়েন কাউন্টি রেজিস্টার অব ডীডস-এ তা রেকর্ড করা এবং BSEED'র কাছে ব্যবহার পরিবর্তন ও কোনো নির্মাণকার্য সম্পাদন করার জন্য একটি ভবন অনুমোদন দাখিল করা আবশ্যক। যাবতীয় প্রয়োজনীয় পরিদর্শন পাস হয়ে যাওয়ার পর একটি বসবাসের শংসাপত্র জারি করা হবে।<br/><br/>
+শেষমেশ, প্রস্তাবিত জমির ব্যবহারের কোনো ব্যবসায়িক লাইসেন্সের প্রয়োজন হলে সেরূপ লাইসেন্সের জন্য আবেদন করা ও জারি করা যাবে। কেবলমাত্র তখনই নতুন ব্যবহার খোলা ও চালানো যাবে।</p>
+
+<p> </p>
+
+    question:  সাইট পরিকল্পনা পর্যালোচনা
+    answer:  <p>সাইট পরিকল্পনা পর্যালোচনা (SPR) ডেট্রয়েট সিটির জোনিং অধ্যাদেশ অধ্যায় 61 এর দ্বারা বিভিন্ন নির্দিষ্ট ক্ষেত্রে বাধ্যতামূলক করা হয়েছে, যার মধ্যে পড়ে যাবতীয় শর্তসাপেক্ষ জমির ব্যবহার (ধারা 61-3-113)। জোনিং ডিসট্রিক্টের উপর নির্ভর করে, হয় পরিকল্পনা ও উন্নয়ন বিভাগ (P&amp;DD) নতুবা সিটি কাউন্সিল (সিটি পরিকল্পনা কমিশনের মাধ্যমে) এর হাতে সাইট পরিকল্পনাগুলি পর্যালোচনা ও অনুমোদনের ক্ষমতা রয়েছে। BSEED পর্যালোচনা প্রক্রিয়ায় অংশ নেওয়ার ক্ষমতাপ্রাপ্ত।<br/><br/>
+SPR এর জন্য আবেদন করতে, যথাযথ মাত্রাযুক্ত ও স্কেল অনুসারে আঁকা সাইট, ভূমি ও উচ্চতার পরিকল্পনার তিনটি সেট উপযুক্ত ফি (শর্তসাপেক্ষ ব্যবহারের জন্য $100.00 ও অন্যান্য সব ব্যবহারের জন্য $160.00) সহ পরিকল্পনা পর্যালোচনা শাখা, রুম 409-এ জমা দেওয়া আবশ্যক। কর্মীরা সম্পূর্ণ জমা দেওয়ার প্যাকেজ পাওয়ার 10 দিনের মধ্যে জোনিং, নকশা ও ক্রিয়াশীলতার প্রয়োজনীয়তাগুলি সহ প্রতিপালনের পরিকল্পনাগুলির পর্যালোচনা করবেন। আবেদনকারীকে প্রয়োজনীয় রদবদল, পরিবর্তন এবং/অথবা উন্নতি সম্পর্কে জানানো হবে অথবা পরিকল্পনাগুলি যাবতীয় মান পূরণ করলে সেগুলি অনুমোদিত হবে এবং প্রকাশ্য শুনানির সময় নির্ধারিত হবে (প্রয়োজনে)।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29403,6 +29463,36 @@ http://detroitmi.theneighborhoods.org/node/1231
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  Proceso de solicitud de vecindario
+    answer:  <p>Se requiere una solicitud de vecindario para no aplicar la restricción sobre ciertos usos dentro de los 500 pies  de terrenos divididos en zonas residenciales.</p>
+
+<p>El solicitante debe seguir el procedimiento escrito del Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering &amp; Environmental Department, BSEED), usar los formularios de solicitud provistos, pagar las tarifas correspondientes y conseguir exitosamente las firmas de al menos 2/3 (67 %) de todas aquellas personas elegibles para firmar dicha solicitud.<br/><br/>
+Si no se obtiene la cantidad de firmas necesarias, el proyecto no puede pasar a la revisión del plano de obra ni a una audiencia pública.<br/><br/>
+Las solicitudes de vecindario deben retirarse en la Zoning Division in Room 407.</p>
+
+    question:  Requisitos para la venta de autopartes usadas, depósitos de chatarra y desguaces
+    answer:  <p>Después de que se presenta un proyecto y se apruebe tras ser sometido a la revisión del plano de obra, se programa la audiencia pública requerida. Se debe enviar por correo una notificación de la audiencia pública a todos los residentes, los propietarios de viviendas y las empresas que estén dentro de un radio de 300 pies del uso condicional del terreno propuesto. Además, esta se debe publicar en Detroit Legal News y se debe anunciar en un cartel en la propiedad. La Ley de Habilitación de Zonificación del Estado de Míchigan (State of Michigan Zoning Enabling Act) requiere que se envíe una notificación al menos 15 días antes de dichas audiencias públicas.<br/><br/>
+Las audiencias públicas sobre el uso especial del terreno se programan habitualmente los miércoles por la mañana a partir de las 9:00 a. m. y cada media hora a partir de ese horario. La cantidad de audiencias que se llevan a cabo en un miércoles dado varía, pero es habitualmente de entre dos y seis. La tarifa es actualmente de $1,000.00.<br/><br/>
+Programa de las audiencias:</p>
+
+<ol><li>El funcionario de audiencias anuncia los detalles de la audiencia.</li>
+	<li>Un inspector de construcción del Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering &amp; Environmental Department, BSEED) otorga un informe del personal.</li>
+	<li>El equipo de desarrollo brinda una presentación de su propuesta.</li>
+	<li>Un planificador urbano del Departamento de Planificación y Desarrollo (Planning &amp; Development Department, P&amp;DD) proporciona un informe y brinda recomendaciones.</li>
+	<li>Se le da la oportunidad al público de hacer preguntas y comentarios sobre la propuesta.</li>
+</ol><p>En la audiencia no se toma ninguna decisión. Dentro de un período de entre 2 a 3 semanas, el funcionario de audiencias redacta una carta de decisión donde incorpora la recomendación del P&amp;DD, el debate de la audiencia y los criterios específicos de la aprobación para los usos condicionales de terrenos (sección 61-3-231).<br/><br/>
+La carta de decisión se enviará por correo al solicitante, a todas las personas que asistieron a la audiencia, y a todas las personas que enviaron algún comentario por escrito en relación con el uso del terreno propuesto. Cualquier carta de decisión puede apelarse ante la Junta de Apelaciones de Zonificación (Board of Zoning Appeals, BZA) conforme a la sección 61-3-242 dentro de los 14 días posteriores a la fecha de la decisión.<br/><br/>
+Si no se efectúa una apelación, la carta de decisión se torna efectiva. Luego, el solicitante debe asentarlo en el Registro de Propiedad del Condado (Wayne County Register of Deeds) y solicitar un permiso de construcción al Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering &amp; Environmental Department, BSEED) para cambiar el uso y llevar a cabo cualquier trabajo de construcción. Después de que se aprueban todas las inspecciones requeridas, se emitirá un Certificado de ocupación.<br/><br/>
+Finalmente, si el uso del terreno propuesto requiere una licencia comercial, esta se puede solicitar y emitir. Solo después de eso el nuevo uso será válido y se podrá poner en funcionamiento.</p>
+
+<p> </p>
+
+    question:  Revisión de los planos de obra
+    answer:  <p>El capítulo 61 de la Ordenanza de Zonificación de la ciudad de Detroit exige la revisión de los planos de obra (Site Plan Review, SPR) en varias instancias específicas que incluyen todos los usos condicionales de terrenos (sección 61-3-113). De acuerdo con el distrito de zonificación, el Departamento de Planificación y Desarrollo (Planning and Development Department, P&amp;DD) o el Concejo Municipal (City Council) (a través de la Comisión de Planificación Municipal [City Planning Commission]) tiene la facultad de revisar y aprobar los planos de obra. El Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering &amp; Environmental Department, BSEED) está autorizado a participar en el proceso de revisión.<br/><br/>
+Para solicitar la SPR, deben presentarse tres juegos de planos de obra, de planta y de elevación con las dimensiones y a escala junto con la tarifa adecuada ($100.00 para usos condicionales y $160.00 para todos los demás usos) ante la Plan Review Division, Room 409. El personal revisará los planos para verificar que se cumplan los requisitos operativos, de zonificación y de diseño habitualmente dentro de los 10 días posteriores a la recepción de un paquete de presentación completo. Se informará al solicitante sobre las modificaciones, reformas o mejoras que sean necesarias o, en caso de que los planos cumplan con todas las normas, estos se aprobarán y se programará la audiencia pública (si es necesario).</p>
+
 summary:   
 
 *******************************************************************************
@@ -29413,6 +29503,62 @@ http://detroitmi.theneighborhoods.org/node/1521
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  كيف أقوم بإعادة التدوير في ديترويت؟
+    answer:  <p dir='rtl'>تقوم مدينة ديترويت بجمع مواد إعادة التدوير الموضوعة في الحاوية المخصصة على الرصيف كل أسبوعين.  برنامج إعادة التدوير تطوعي، ويجب على المقيمين اختيار الاشتراك فيه. البرنامج مفتوح لجميع السكان المقيمين في منزل عائلة واحدة أو في منزل به ما يصل إلى 4 وحدات، بما في ذلك أولئك الذين لم يقوموا بإعادة التدوير من قبل.</p>
+
+<p dir='rtl'>إذا كنت لا تقوم بإعادة التدوير، فالآن هو الوقت المناسب للانضمام إلى الآلاف من سكان ديترويت الذين يقومون بحماية البيئة وخفض معدلات التلوث عن طريق إعادة التدوير.   سيحتاج جميع المقيمين إلى شراء سلة إعادة التدوير مقابل $25 للمشاركة في برنامج إعادة التدوير. أو للحصول على سلة إعادة التدوير مجانًا، يمكن للمقيمين إما حضور إحدى ورش إعادة التدوير (انظر التفاصيل أدناه) أو لعب  <a href="http://app.detroitmi.gov/recycling/" dir='rtl'>لعبة إعادة التدوير التعليمية</a>. يجب على السكان الاتصال بالشركة المتعهدة المعينة لشراء سلة إعادة التدوير.</p>
+
+    question:  ما الذي يمكنني إعادة تدويره؟
+    answer:  <p dir='rtl'>من المهم أن تضع سلتك في موعد لا يتجاوز 7 صباحًا، فهذا يضمن أن تكون السلة جاهزة ليتم جمعها عند وصول السائق. من الممكن أن يتم وضع السلة في وقت مبكر بالليل قبل يوم جمعها وينبغي إرجاعها إلى عقارك خلال يوم بعد عملية الجمع. <br/><br/>
+يتم جمع المواد الخاصة بإعادة التدوير الموضوعة على الأرصفة كل أسبوعين. عرض خريطة الخدمات (<a href="http://www.detroitmi.gov/PublicWorks" target="_blank" dir='rtl'>www.detroitmi.gov/<wbr dir='rtl'></wbr>PublicWorks</a></p>
+
+<p dir='rtl'>) لتحديد جدول جمع مواد إعادة التدوير الخاص بك والاشتراك في رسائل التذكير النصية المجانية.</p>
+
+    question:  ما يمكن إعادة تدويره وما لا يمكن إعادة تدويره
+    answer:  <p dir='rtl'><strong dir='rtl'>لا ينبغي أبدًا صب المواد السامة والمواد المذيبة والمعادن الثقيلة، وغيرها من المنتجات السامة في أنابيب الصرف أو إلقاؤها في سلة المهملات</strong>. بل استخدم المنتجات السامة وفق الملصق الموضح تمامًا. لن يتم قبول هذه المواد إلا في مرفق استلام النفايات المنزلية الخطرة (HHW) في 2000 E. Ferry Street (بالقرب من الطريقين السريعين I-75 وI-94). يمكن للأفراد الاتصال بالرقم (313) 923-2240 لتحديد موعد لإحضار المواد المنزلية الخطرة إلى المرفق، وهو مفتوح طوال العام من الاثنين إلى الجمعة من الساعة 8:30 صباحًا إلى الساعة 3:30 مساءً. هذا المرفق مفتوح لسكان ديترويت فقط! لا يوجد أي رسوم!</p>
+
+<h2 dir='rtl'><strong dir='rtl'>اتصل لتحديد موعد لإحضار المواد.</strong></h2>
+
+<p dir='rtl'><strong dir='rtl'>مرفق استلام النفايات المنزلية الخطرة (HHW) </strong><br/>
+2000 E. Ferry<br/>
+(بالقرب من الطريقين السريعين I-75 وI-94)</p>
+
+<p dir='rtl'>(313) 923-2240 or (313) 876-0148</p>
+
+<p dir='rtl'><strong dir='rtl'>يمكن أن يأخذ المقيمون المواد التالية إلى مرفق النفايات المنزلية الخطرة:</strong><br/>
+البطاريات المنزلية<br/>
+معدات المكاتب المنزلية<br/>
+المعدات الإلكترونية للسيارات<br/>
+(البطاريات، سائل الفرامل، الوقود، الكيروسين، زيت المحركات، المرشحات، وغيرها)<br/><br/><strong dir='rtl'>المواد السامة المنزلية:</strong><br/>
+المنظفات والملمعات<br/>
+الأسمدة والمبيدات الحشرية ومبيدات الأعشاب الضارة<br/>
+منتجات إصلاح المنزل (الغراء والمواد العازلة)<br/>
+موازين الحرارة الزئبقية<br/>
+مخففات الطلاء والمواد المذيبة والورنيش<br/>
+المواد الحافظة للأخشاب<br/>
+مصابيح الفلورسنت<br/><br/><strong dir='rtl'>لن يقبل المرفق ما يلي:</strong><br/>
+النفايات غير المعروفة أو غير المزودة بملصق<br/>
+النفايات الناجمة عن المنشآت التجارية<br/>
+أجهزة كشف الدخان<br/>
+المواد المشعة<br/>
+المتفجرات<br/>
+المواد الحساسة للصدمات<br/><br/><em dir='rtl'><strong dir='rtl'>برعاية هيئة استرداد موارد ديترويت الكبرى بمساعدة ودعم من شركة EQ Detroit, Inc</strong></em></p>
+
+    question:  ماذا يمكنني أن أفعل بالمواد غير القابلة لإعادة التدوير الموضوعة على الرصيف؟
+    answer:  <p dir='rtl'><strong dir='rtl'>قم بإعادة التدوير هنا!</strong><br/><strong dir='rtl'><a href="http://www.recyclehere.net/" target="_blank" title="Recycle Here!">http://www.recyclehere.net</a></strong><br/>
+الستايروفوم<br/>
+المواد المعقمة<br/>
+البطاريات<br/>
+الأكياس البلاستيكية<br/>
+أجهزة الكمبيوتر والإلكترونيات<br/>
+سكان مدينة ديترويت فقط!<br/><br/>
+قم بإعادة التدوير هنا! لا نقبل الإلكترونيات من السكان أو الشركات غير المقيمين في مدينة ديترويت. <br/>
+يُرجى مراجعة مكتب البلدية الحكومي المحلي لديك لمعرفة خيارات الجمع أو الاتصال بشركة: <strong dir='rtl'>GEEP Michigan </strong></p>
+
+<p dir='rtl'>على <a href="http://www.geepmichigan.com/" target="_blank" dir='rtl'><strong dir='rtl'>www.geepmichigan.com</strong></a> أو اتصل بنا على الرقم المجاني 1-877-GEEP-4-YU (1-877-4337-498).</p>
+
 summary:   
 
 *******************************************************************************
@@ -29423,6 +29569,62 @@ http://detroitmi.theneighborhoods.org/node/1521
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  আমি ডেট্রয়েটে কীভাবে রিসাইকেল করবো?
+    answer:  <p>ডেট্রয়েট সিটি প্রতি একসপ্তাহ অন্তর রাস্তার ধারের নির্ধারিত পাত্রে রাখা রিসাইক্লিং এর উপকরণ সংগ্রহ করছে।  রিসাইক্লিং কার্যক্রমটি স্বেচ্ছাধীন এবং আবাসিকদের তা বেছে নেওয়া আবশ্যক। এই কার্যক্রমটি একটি একক পারিবারিক বাড়িতে অথবা 4টি ইউনিট পর্যন্ত রয়েছে এমন বাড়িতে বসবাসকারী সকল বাসিন্দার জন্য উন্মুক্ত, যার মধ্যে তাড়াও পড়বেন যারা এর আগে রিসাইকেল করাননি।</p>
+
+<p>আপনি রিসাইকেল না করালে এখনই সেই সময় যখন আপনি সেই হাজার হাজার Detroit-বাসীর সঙ্গে যোগ দিতে পারেন যারা পরিবেশকে রক্ষা করছেন এবং রিসাইকেল করে দূষণ কম করছেন।   সকল বাসিন্দাকে রিসাইক্লিং কার্যক্রমে অংশগ্রহণ করতে $25 দিয়ে রিসাইক্লিং কার্ট কিনতে হবে। অন্যথায়, বিনামূল্যে রিসাক্লিং এর পাত্র পেতে আবাসিকরা হয় রিসাইক্লিং এর কর্মশালায় উপস্থিত হতে পারেন (নীচে বিস্তারিত দেখে নিন), নতুবা  <a href="http://app.detroitmi.gov/recycling/">শিক্ষামূলক রিসাইক্লিং গেম</a> খেলতে পারেন। আবাসিকদের রিসাইক্লিং কার্ট কিনতে তাদের নির্ধারিত ঠিকাদারের সঙ্গে যোগাযোগ করা আবশ্যক।</p>
+
+    question:  আমি কী রিসাইকেল করতে পারি?
+    answer:  <p>আপ্নাত কার্টটি সকাল 7টার মধ্যে বার করা জরুরি, কারণ তাতে ড্রাইভার এসে পড়লেই আপনার কার্টটি সংগ্রহের জন্য প্রস্তুত থেকে নিশ্চিত করা হয়। কার্টগুলিকে আপনার সংগ্রহের আগের রাত থেকেই বের করে রাখা যায় এবং সেটিকে সংগ্রহের পর একদিনের মধ্যে আপনার সম্পত্তিতে ফেরত দিয়ে যেতে হবে। <br/><br/>
+রাস্তার ধারের রিসাইক্লিং এর সামগ্রী এক সপ্তাহ অন্তর সংগ্রহ করা হয়। পরিষেবা মানচিত্রটি দেখুন (<a href="http://www.detroitmi.gov/PublicWorks" target="_blank">www.detroitmi.gov/<wbr></wbr>PublicWorks</a></p>
+
+<p>) আপনার রিসাইক্লিং এর সামগ্রী সংগ্রহের সময়সূচি নির্ধারণ করতে এবং বিনামূল্যের অনুস্মারক টেক্সট মেসেজের জন্য সাইন আপ করতে।</p>
+
+    question:  রিসাইক্লিং-এ কী করবেন ও করবেন না
+    answer:  <p><strong>বিষ, দ্রাবক, ভারী ধাতু, ও বিষাক্ত পণ্যগুলি কখনোই নর্দমায় ঢেলে দেওয়া বা আবর্জনার মধ্যে ফেলে দেওয়া উচিত নয়</strong>। তার বদলে, লেবেল অনুসারে বিষাক্ত পণ্যগুলিকে সম্পূর্ণ ব্যবহার করে ফেলুন। এই জিনিসগুলিকে কেবলমাত্র 2000 E. Ferry Street (near the I-75 and I-94 freeways) ঠিকানায় অবস্থিত গৃহস্থালির বিপজ্জনক বর্জ্য(Household Hazardous Waste - HHW) গ্রহণ করার সুবিধায় গ্রহণ করা হয়। ব্যক্তিগণ গৃহস্থালির বিপজ্জনক বর্জ্য (HHW) সুবিধায় নিয়ে আসার সময় নির্ধারণ করতে (313) 923-2240 নম্বরে ফোন করতে পারেন, যেটি সারা বছর সোমবার থেকে শুক্রবার সকাল 8:30টা থেকে বিকেল 3:30টে পর্যন্ত খোলা থাকে। এই সুবিধাটি কেবল ডেট্রয়েটের বাসিন্দাদের জন্যই! এর জন্য কোনো মূল্য লাগে না!</p>
+
+<h2><strong>উপকরণগুলি নিয়ে আসার জন্য সময় নির্ধারণ করতে ফোন করুন।</strong></h2>
+
+<p><strong>গৃহস্থালির বিপজ্জনক বর্জ্য (HHW) গ্রহণ করার সুবিধা </strong><br/>
+2000 E. Ferry<br/>
+(নিকটে I-75 এবং I-94 freeways)</p>
+
+<p>(313) 923-2240 or (313) 876-0148</p>
+
+<p><strong>আবাসিকরা এই জিনিসগুলিকে HHW সুবিধায় নিয়ে আসতে পারেন:</strong><br/>
+বাড়িতে ব্যবহৃত ব্যাটারি<br/>
+বাড়ির দপ্তরের সরঞ্জাম<br/>
+মোটরগাড়ির বৈদ্যুতিন সরঞ্জাম<br/>
+(ব্যাটারি, ব্রেক ফ্লুয়িড, জ্বালানি, কেরোসিন, মোটর অয়েল, ফিল্টার, ইত্যাদি)<br/><br/><strong>বাড়ির বিষাক্ত দ্রব্য:</strong><br/>
+পরিষ্কারক ও পালিশের উপাদান<br/>
+সার, কীটনাশক ও আগাছানাশক<br/>
+বাড়ির মেরামতির উপকরণ (আঠা ও ফুটো বন্ধ করার দড়ি-ন্যাকড়া ইত্যাদি)<br/>
+পারদ থার্মোমিটার<br/>
+পেন্ট এর থিনার, দ্রাবক ও ভার্নিশ<br/>
+কাঠ সংরক্ষক<br/>
+ফ্লুওরেসেন্ট আলোর বালব<br/><br/><strong>এই সুবিধায় যা যা গ্রহণ করা হবে না:</strong><br/>
+অজানা বা লেবেল না করা বর্জ্য<br/>
+বাণিজ্যিকভাবে উৎপন্ন বর্জ্য<br/>
+ধোঁয়া সনাক্ত করার যন্ত্র<br/>
+তেজস্ক্রিয় উপকরণ<br/>
+বিস্ফোরক<br/>
+অভিঘাত-সংবেদী উপকরণ<br/><br/><em><strong>স্পনসর করেছেন গ্রেট ডেট্রয়েট রিসোর্স পুনরুদ্ধার কর্তৃপক্ষ, সহায়তা ও সমর্থন করেছেন EQ Detroit, Inc</strong></em></p>
+
+    question:  রাস্তার ধারে রিসাইকেল করা যাবে না এমন জিনিসগুলো নিয়ে আমি কী করবো?
+    answer:  <p><strong>এখানে রিসাইকেল করুন!</strong><br/><strong><a href="http://www.recyclehere.net/" target="_blank" title="Recycle Here!">http://www.recyclehere.net</a></strong><br/>
+স্টাইরোফোম<br/>
+পচন নিবারক<br/>
+ব্যাটারি<br/>
+প্লাস্টিক ব্যাগ<br/>
+কম্পিউটার ও বৈদ্যুতিন যন্ত্রপাতি<br/>
+কেবল ডেট্রয়েট সিটির বাসিন্দাদের জন্যই!<br/><br/>
+এখানে রিসাইকেল করুন! ডেট্রয়েটের বাসিন্দা নন এমন ব্যক্তিদের থেকে ব্যবসার থেকে বৈদ্যুতিন যন্ত্রপাতি গ্রহণ করা হয় না। <br/>
+সংগ্রহের বিকল্পগুলির বা যোগাযোগ করা জন্য অনুগ্রহ করে আপনার স্থানীয় পৌর সরকারের দপ্তরের কাছে যান: <strong>GEEP Michigan </strong></p>
+
+<p>এখানে <a href="http://www.geepmichigan.com/" target="_blank"><strong>www.geepmichigan.com</strong></a> অথবা আমাদেরকে বিনা শুল্কে ফোন করুন 1-877-GEEP-4-YU (1-877-4337-498) নম্বরে।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29433,6 +29635,62 @@ http://detroitmi.theneighborhoods.org/node/1521
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Cómo reciclo en Detroit?
+    answer:  <p>La ciudad de Detroit realiza la recolección de los materiales de reciclaje colocados en el contenedor designado en el bordillo semana por medio.  El programa de reciclaje es voluntario, y los residentes deben adherirse. El programa está abierto a todos los residentes que viven en una vivienda unifamiliar o en una casa hasta con 4 unidades, incluidos aquellos que anteriormente no reciclaban.</p>
+
+<p>Si no participa en el reciclaje, este es un excelente momento para unirse a miles de ciudadanos de Detroit que protegen el medio ambiente y generan menos contaminación al reciclar.   Todos los residentes deberán comprar el carro de reciclaje por $25 para participar en el programa de reciclaje. Como alternativa, para recibir un cesto de reciclaje de forma gratuita, los residentes pueden asistir a un taller de reciclaje (consulte los detalles a continuación) o participar en el <a href="http://app.detroitmi.gov/recycling/">juego de reciclaje educativo</a>. Los residentes deben ponerse en contacto con su contratista designado para comprar el carro de reciclaje.</p>
+
+    question:  ¿Qué puedo reciclar?
+    answer:  <p>Es importante sacar el carro a más tardar a las 7:00 a. m. para asegurarse de que cuando llegue el conductor el carro esté listo para la recolección. Los carros pueden sacarse a partir de la noche previa al día asignado para su recolección y se deben devolver a su propiedad dentro del día posterior a la recolección. <br/><br/>
+Los materiales de reciclaje en los bordillos se recogen semana por medio. Consulte el mapa de servicios (<a href="http://www.detroitmi.gov/PublicWorks" target="_blank">www.detroitmi.gov/<wbr></wbr>PublicWorks</a></p>
+
+<p>) para determinar su cronograma de recolección de materiales de reciclaje y para registrarse a fin de recibir mensajes de texto gratuitos con recordatorios.</p>
+
+    question:  Qué hacer y qué no hacer al reciclar
+    answer:  <p><strong>Jamás deben verterse en el desagüe ni arrojarse a la basura venenos, disolventes, metales pesados ni ningún otro producto tóxico</strong>. En su lugar, use los productos tóxicos por completo de acuerdo con la etiqueta. Estos productos solo se aceptarán en el centro de recepción de Desechos Peligrosos del Hogar (Household Hazardous Waste, HHW) ubicado en 2000 E. Ferry Street (cerca de las autopistas I-75 e I-94). Las personas pueden llamar al (313) 923-2240 para programar un horario a fin de llevar los desechos peligrosos del hogar (HHW) al centro, que está abierto todo el año de lunes a viernes, de 8:30 a. m. a 3:30 p. m. ¡Este centro está abierto SOLAMENTE para los residentes de Detroit! ¡No se aplica ningún costo!</p>
+
+<h2><strong>Llame para programar un horario a fin de llevar los productos.</strong></h2>
+
+<p><strong>Centro de recepción de Desechos Peligrosos del Hogar (Household Hazardous Waste, HHW) </strong><br/>
+2000 E. Ferry<br/>
+(cerca de las autopistas I-75 e I-94)</p>
+
+<p>(313) 923-2240 or (313) 876-0148</p>
+
+<p><strong>Los residentes pueden llevar los siguientes productos al centro de recepción de HHW:</strong><br/>
+Baterías de uso doméstico<br/>
+Equipo de oficina del hogar<br/>
+Equipo electrónico del automóvil<br/>
+(Baterías, líquido de frenos, combustible, querosene, aceite para motor, filtros, etc.)<br/><br/><strong>Sustancias tóxicas del hogar:</strong><br/>
+Limpiadores y abrillantadores<br/>
+Fertilizantes, pesticidas y herbicidas<br/>
+Productos para realizar reparaciones en el hogar (pegamentos y selladores)<br/>
+Termómetros de mercurio<br/>
+Diluyentes de pintura, solventes y barnices<br/>
+Conservantes de madera<br/>
+Bombillas fluorescentes<br/><br/><strong>El centro no aceptará lo siguiente:</strong><br/>
+Desechos sin etiqueta o desconocidos<br/>
+Desechos generados por actividades comerciales<br/>
+Detectores de humo<br/>
+Materiales radioactivos<br/>
+Explosivos<br/>
+Materiales sensibles al choque<br/><br/><em><strong>Patrocinado por la Autoridad de Recuperación de Recursos de la Gran Detroit (Greater Detroit Resource Recovery Authority) con la asistencia y el soporte de EQ Detroit, Inc</strong></em></p>
+
+    question:  ¿Qué puedo hacer con los productos que no se recogen para reciclar en el bordillo?
+    answer:  <p><strong>¡Recicle aquí!</strong><br/><strong><a href="http://www.recyclehere.net/" target="_blank" title="Recycle Here!">http://www.recyclehere.net</a></strong><br/>
+Poliestireno extruido<br/>
+Materiales asépticos<br/>
+Baterías<br/>
+Bolsas plásticas<br/>
+Computadoras y dispositivos electrónicos<br/>
+¡Residentes de la ciudad de Detroit solamente!<br/><br/>
+¡Recicle aquí! no acepta dispositivos electrónicos de personas que no residan en Detroit ni de empresas. <br/>
+Consulte en la Oficina del Gobierno Municipal (Municipal Government Office) local acerca de las opciones de recolección o comuníquese con: <strong>GEEP Michigan </strong></p>
+
+<p>en <a href="http://www.geepmichigan.com/" target="_blank"><strong>www.geepmichigan.com</strong></a> o llámenos a nuestra línea telefónica gratuita al 1-877-GEEP-4-YU (1-877-4337-498).</p>
+
 summary:   
 
 *******************************************************************************
@@ -29443,6 +29701,11 @@ http://detroitmi.theneighborhoods.org/node/1581
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  متى يتم استقطاع الضرائب العقارية؟
+    answer:  <p dir='rtl'><span style="color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">يمكن دفع ضرائب مدينة ديترويت على أقساط.  إذا اخترت خيار الدفع على أقساط، فيجب عليك سداد الدفعة الأولى والثانية في التواريخ المدرجة أدناه أو قبلها.  إذا لم يتم استلام الدفعة الأولى بحلول تاريخ الاستحقاق (15 أغسطس)، فلن تظل مؤهلاً للمشاركة في برنامج الدفع الجزئي وستكون الدفعة الصيفية كاملة مستحقة الدفع في 31 أغسطس.  وسيخضع أي رصيد صيفي متبقٍ لغرامة وفوائد بدءًا من 1 يوليو.</span></p>
+
 summary:   
 
 *******************************************************************************
@@ -29453,6 +29716,11 @@ http://detroitmi.theneighborhoods.org/node/1581
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  আমার সম্পত্তি কর কখন প্রদেয় হবে?
+    answer:  <p><span style="color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">ডেট্রয়েট সিটির করগুলি কিস্তিতে প্রদান করা যায়।  আপনি কিস্তির বিকল্পটি বেছে নিলে আপনাকে অবশ্যই প্রথম ও দ্বিতীয় কিস্তি নীচে তালিকাভুক্ত তারিখে বা তার আগে প্রদান করতে হবে।  আপনার প্রথম কিস্তি নির্দিষ্ট তারিখের (15 অগাস্ট) আগে গৃহীত না হলে আপনি আর আংশিক পেমেন্টের কার্যক্রমে অংশ নেওয়ার যোগ্য থাকবেন না এবং গ্রীষ্মের পূর্ণ অর্থ 31 অগাস্টের মধ্যে প্রদেয় হবে।  গ্রীষ্মের অর্থের যে কোনো বাকি থাকা অর্থ জরিমানা ও 1লা জুলাই থেকে সুদ প্রদানের শর্তাধীন হবে।</span></p>
+
 summary:   
 
 *******************************************************************************
@@ -29463,6 +29731,11 @@ http://detroitmi.theneighborhoods.org/node/1581
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Cuándo vencen mis impuestos sobre la propiedad?
+    answer:  <p><span style="color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">Los impuestos de la ciudad de Detroit pueden pagarse en cuotas.  Si elige la opción de pago en cuotas, debe realizar el primer pago y el segundo en las fechas que se indican a continuación o antes de estas.  Si no se recibe su primer pago para la fecha de vencimiento (15 de agosto) ya no será elegible para participar en el programa de pagos parciales y el pago completo correspondiente al verano vencerá el 31 de agosto.  Cualquier saldo restante estará sujeto a sanciones e intereses desde el 1 de julio.</span></p>
+
 summary:   
 
 *******************************************************************************
@@ -29473,6 +29746,71 @@ http://detroitmi.theneighborhoods.org/node/2471
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  كيف أشتري عقارًا مملوكًا ملكية عامة في مدينة ديترويت؟
+    answer:  <p dir='rtl'>تعمل مدينة ديترويت بنشاط على تسويق العديد من العقارات التجارية المملوكة ملكية عامة عبر الإنترنت.  يمكن العثور على معلومات حول هذه العقارات وكيفية شرائها على موقع التسويق العقاري في المدينة</p>
+
+<figure role="group" class="embedded-entity" dir='rtl'><div dir='rtl'><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/city-detroit-real-estate-site" hreflang="en" dir='rtl'>City of Detroit Real Estate Site</a>
+    question:  ماذا يتعين عليّ فعله إذا كنت أرغب في استئجار عقار أو استخدام عقار بشكل مؤقت أو الاحتفاظ به؟
+    answer:  <p dir='rtl'>للتقدم بطلب استئجار عقار أو اقتراح استخدام آخر مؤقت، يُرجى التقدم بطلب باستخدام نموذج طلب العقار ووصف مدة الإيجار أو الاستخدام المؤقت في قسم “الاستخدام المقترح”.</p>
+
+<p dir='rtl'>لاستئجار عقار مملوك للمدينة، يجب أن يكون المتقدمون مسجلين لدى مدينة ديترويت لأغراض معرفة الضريبة على الممتلكات الشخصية والضريبة المقتطعة.  بالإضافة إلى ذلك، يجب على المتقدمين تقديم ما يلي: <br/><br/>
+• مخالصة ضريبة الدخل<br/>
+• مخالصة الحسابات المستحقة القبض<br/>
+• نموذج طلب المورد<br/>
+• ميثاق تكافؤ الفرص (مخالصة الموارد البشرية)<br/>
+• إفادة خطية للكشف عن المصالح من قبل الشركات المتعهدة والبائعين</p>
+
+    question:  من يتخذ القرارات بشأن نقل ملكية العقارات المملوكة ملكية عامة في ديترويت؟
+    answer:  <p dir='rtl'>يتم اتخاذ القرارات المتعلقة بنقل ملكية العقارات التي تملكها هيئة المصرف العقاري بديترويت (DLBA) ومدينة ديترويت من قبل اللجنة العقارية للمدينة. وتتكون اللجنة من قيادة من الإدارات والوكالات والمنظمات المسؤولة عن نقل ملكية العقارات المملوكة للمدينة وهيئة المصرف العقاري بديترويت، بما في ذلك: مكتب العمدة (فريق الوظائف والاقتصاد)، وإدارة الإسكان والإحياء (HRD)، وإدارة التخطيط والتنمية (P&amp;DD)، ومؤسسة النمو الاقتصادي بديترويت، وإدارة الشؤون القانونية بالمدينة، وهيئة ديترويت للبناء (DBA)، وهيئة المصرف العقاري بديترويت (DLBA)، وإدارة الأحياء (DON). </p>
+
+<p dir='rtl'>تسعى اللجنة العقارية إلى إعادة العقارات المملوكة ملكية عامة إلى أيدي مواطنين ومنظمات خاصة مسؤولة، وذلك من خلال نقل ملكية العقارات المملوكة ملكية عامة بطريقة شفافة وعادلة وفعالة. وتكون اللجنة مسؤولة أيضًا عن تنفيذ التخطيط الاستراتيجي ومبادرات التنمية الاقتصادية في المدينة وتشجيع التنمية الصحية والمستدامة.</p>
+
+    question:  كم تستغرق عملية البيع؟
+    answer:  <p dir='rtl'>بالنسبة للمعاملات الأقل تعقيدًا، غالبًا ما تستغرق عملية البيع أربعة أشهر من وقت تقديم الطلب حتى الإغلاق.  ويتضمن ذلك مراجعة الطلب والتفاوض والحصول على الموافقات اللازمة من مجلس المدينة والإغلاق.  وغالبًا ما تستغرق المشروعات الأوسع نطاقًا والمعاملات الأكثر تعقيدًا وقتًا أطول لاستكمالها. </p>
+
+    question:  هل أحتاج إلى القيام بأي شيء قبل التقدم بطلب لشراء عقار؟
+    answer:  <p dir='rtl'>قبل التقدم بطلب لشراء عقار، يُرجى التأكد من أنه لا توجد عليك أو على المنظمة التي تمثلها ضرائب دخل شخصية أو ضريبة دخل شركات معلقة أو ضرائب عقارية أو فواتير مياه أو مخالفات مبانٍ. إذا كنت تقترح عملية تطوير كاملة أو إعادة تأهيل هيكلية شاملة، فيُرجى تقديم خطة مفاهيمية على الأقل تحدد الاستخدام المقترح للعقار، ونطاق العمل، والتكاليف التقديرية ومصادر التمويل، والخبرة السابقة مع عمليات تطوير مماثلة. يمكن تحميل هذه المستندات الإضافية رقميًا عند ملء نموذج طلب العقار.</p>
+
+    question:  كيف أعرف أن العقار مملوك ملكية عامة؟
+    answer:  <p dir='rtl'>قبل التقدم بطلب لشراء عقار، يرجى البحث في حالة ملكيته.  تكون المعلومات المحفوظة في مكتب وزير المالية بمقاطعة وين بشأن الملكية متاحة عبر الإنترنت: <a href="http://www.waynecounty.com/treasurer/treasurer_payonline.htm" title="Wayne County treasurer property search">http://www.waynecounty.com/treasurer/treasurer_payonline.htm</a>.  وبالإضافة إلى ذلك، يتضمن  <a href="http://www.makeloveland.com/" title="Interactive map of the City of Detroit">www.MakeLoveland.com</a> خريطة تفاعلية للمدينة توفر معلومات عن ملكية العقار. </p>
+
+    question:  كيف يتم تسويق العقار وتسعيره؟
+    answer:  <p dir='rtl'>بشكل عام يتم تسويق العقارات الموجودة في مناطق استراتيجية حيوية، أو العقارات التي تتوقع المدينة أن تكون مطلوبة بشدة أو تتلقى أكثر من عرض واحد، على الموقع الإلكتروني للتسويق العقاري الخاص بالمدينة (</p>
+
+<figure role="group" class="embedded-entity" dir='rtl'><div dir='rtl'><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/city-detroit-real-estate-site" hreflang="en" dir='rtl'>City of Detroit Real Estate Site</a>
+    question:  ما برنامج شركاء المجتمع؟
+    answer:  <p dir='rtl'>أنشأت هيئة المصرف العقاري بديترويت برنامج شركاء المجتمع (Community Partner Program) لتشجيع المنظمات الدينية والمجتمعية على المساعدة في استقرار الأحياء وإحداث تحول بها. يجب على شركاء المجتمع المهتمين بشراء عقار مملوك ملكية عامة استخدام نموذج طلب العقار.  لمعرفة المزيد عن برنامج شركاء المجتمع والتقدم بطلب لتصبح أحد شركاء المجتمع، تفضل بزيارة موقع الويب الخاص بهيئة المصرف العقاري بدترويت: </p>
+
+<figure role="group" class="embedded-entity" dir='rtl'><div dir='rtl'><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/dlba-community-partnership" hreflang="en" dir='rtl'>DLBA Community Partnership</a>
+    question:  ماذا لو أن خططي الخاصة بالعقار لا تتوافق مع تقسيم المناطق؟
+    answer:  <p dir='rtl'>نوصيك بشدة بمراجعة متطلبات تقسيم المناطق للعقار الذي تهتم بشرائه. يتوفر مؤشر خريطة تقسيم المناطق ويمكن الاطلاع عليه على موقع الويب الخاص بالمدينة: <a href="/How-Do-I/Apply-for-Permits/Zoning-Map-Index" target="_blank" dir='rtl'>https://www.detroitmi.gov/How-Do-I/Apply-for-Permits/Zoning-Map-Index</a>.  بشكل عام، لا تقوم المدينة ببيع العقار إذا تعارض مع قانون تقسيم المناطق.  ولكن إذا كنت تعتقد أن استخدامك المقترح للعقار مناسب تمامًا للموقع بالرغم من عدم التوافق المحتمل مع قانون تقسيم المناطق، فيُرجى تقديم الطلب باستخدام نموذج طلب العقار والإشارة إلى مشكلة تقسيم المناطق المحتملة.</p>
+
+<p dir='rtl'> </p>
+
+    question:  ماذا لو كان لدي استفسارات بشأن حالة العقار؟
+    answer:  <p dir='rtl'>يتم بيع جميع العقارات على حالتها. ولا يوجد وصف لحالة العقار.  ويتم تشجيع المشترين على القيام بكل العناية والفحص اللازمين قبل الإغلاق.</p>
+
+    question:  ما نوع العقار المعروض للبيع؟
+    answer:  <p dir='rtl'>تعرض المدينة عقارات سكنية ومباني تجارية وأراضي خالية ومباني صناعية/بنايات المخازن.  يمكن للأفراد المهتمين بهذه العقارات التقدم لشرائها باستخدام نموذج طلب العقار.  عادة ما يتم بيع المنازل لعائلة واحدة أو قطع الأراضي السكنية الجانبية من قبل هيئة المصرف العقاري بديترويت عبر </p>
+
+<figure role="group" class="embedded-entity" dir='rtl'><div dir='rtl'><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/detroit-land-bank-authority-dlba" hreflang="en" dir='rtl'>هيئة المصرف العقاري بديترويت (DLBA)</a>
+    question:  كيف أدفع مقابل العقار؟
+    answer:  <p dir='rtl'>بالنسبة للعقارات التجارية، إذا تمت الموافقة عليها من قبل المدينة وتم الاتفاق على السعر، فيجب دفع وديعة عربون مالية بنسبة عشرة في المائة (10٪) من سعر الشراء بأموال معتمدة إلى هيئة ديترويت للبناء في وقت اتفاقية الشراء. يجب سداد مبلغ سعر الشراء عند الإغلاق إما عن طريق حوالة مصرفية أو أموال معتمدة أو شيك مصرفي.</p>
+
+    question:  ما نوع السند الذي تصدره المدينة؟
+    answer:  <p dir='rtl'>تقدم المدينة سند التنازل. ولا تقدم المدينة أي ضمان، أو تأمين عقاري، ولا تدّعي أن شركات التأمين العقاري ستؤمّن مثل هذه الأراضي.</p>
+
+    question:  ماذا يجب أن أفعل إذا كانت الأرض المملوكة ملكية عامة مملوكة من قبل كيان آخر؟
+    answer:  <p dir='rtl'>إذا كنت ترغب في شراء عقار مملوك من قبل هيئة Michigan Land Bank Fast Track Authority في ولاية ميشيغان، فيُرجى زيارة موقعها</p>
+
+<figure role="group" class="embedded-entity" dir='rtl'><div dir='rtl'><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/michigan-land-bank-fast-track-authority" hreflang="en" dir='rtl'>Michigan Land Bank Fast Track Authority</a>
+    question:  ماذا لو كان لدي أسئلة أخرى؟
+    answer:  <p dir='rtl'>إذا كان لديك أي أسئلة أو استفسارات إضافية، فيُرجى الاتصال بـ</p>
+
+<figure role="group" class="embedded-entity" dir='rtl'><article class="contact-item" dir='rtl'><article class="box" dir='rtl'><article class="icon" dir='rtl'></article><article class="contact-info" dir='rtl'></article></article></article><figcaption dir='rtl'>جيل براينت</figcaption></figure><p dir='rtl'> </p>
+
 summary:   
 
 *******************************************************************************
@@ -29483,6 +29821,71 @@ http://detroitmi.theneighborhoods.org/node/2471
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  আমি কীভাবে ডেট্রয়েটে সরকারি মালিকানায় থাকা সম্পত্তি কিনতে পারি?
+    answer:  <p>ডেট্রয়েট সিটি সক্রিয়ভাবে বিভিন্ন সরকারি মালিকানায় থাকা বাণিজ্যিক সম্পত্তি অনলাইনে বিপণন করছে।  এই সম্পত্তিগুলির সম্পর্কে তথ্য ও কীভাবে সেগুলি কেনা যাবে তা City’র ভূসম্পত্তির বিপণনে পাওয়া যাবে</p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/city-detroit-real-estate-site" hreflang="en">ডেট্রয়েট সিটির ভূসম্পত্তির সাইট</a>
+    question:  আমি কোনো সম্পত্তি লীজ নিতে চাইলে অথবা সাময়িকভাবে কোনো সম্পত্তি ব্যবহার বা রক্ষণাবেক্ষণ করতে চাইলে আমাকে কী করতে হবে?
+    answer:  <p>কোনো সম্পত্তি লীজ নিতে বা অন্য কোনোটি সাময়িকভাবে ব্যবহার করতে অনুগ্রহ করে সম্পত্তির আবেদনের ফর্ম ব্যবহার করে আবেদন করুন এবং লীজের বা সাময়িক ব্যবহারের সময়ের দৈর্ঘ্য “প্রস্তাবিত ব্যবহার” অংশে বর্ণনা করুন।</p>
+
+<p>সিটির মালিকানায় থাকা সম্পত্তি লীজ নিতে আবেদনকারীদের ডেট্রয়েট সিটির কাছে ব্যক্তিগত সম্পত্তি কর ও নিবারক করের উদ্দেশ্যে রেজিস্টার করা আবশ্যক।  তদতিরিক্ত, আবেদনকারীদের এগুলি প্রদান করা আবশ্যক: <br/><br/>
+• আয়করের ছাড়পত্র<br/>
+• প্রাপ্য হিসাবের ছাড়পত্র<br/>
+• সরবরাহকারীর আবেদনের ফর্ম<br/>
+• সমান সুযোগের চুক্তি (HR এর ছাড়পত্র)<br/>
+• ঠিকাদার ও বিক্রেতাদের দ্বারা সুদসমূহ প্রকাশের হলফনামা</p>
+
+    question:  ডেট্রয়েটে সরকারি মালিকানায় থাকা সম্পত্তির প্রত্যায়ন সম্পর্কে কে সিদ্ধান্ত নেন?
+    answer:  <p>DLBA এবং ডেট্রয়েট সিটির মালিকানায় থাকা সম্পত্তির প্রত্যায়ন সম্পর্কে সিদ্ধান্ত নেন City’র ভূসম্পত্তি কমিটি। এই কমিটি গঠিত হয়েছে City ও DLBA এর মালিকানায় থাকা সম্পত্তি প্রত্যায়নের জন্য দায়ী বিভাগ, সংস্থা ও সংগঠনগুলি, যার মধ্য পড়ে: মেয়রের দপ্তর (কর্মসংস্থান ও অর্থনৈতিক দল), আবাসন ও পুনরুজ্জীবন বিভাগ, পরিকল্পনা ও উন্নয়ন বিভাগ, ডেট্রয়েট ইকনমিক গ্রোথ কর্পোরেশন, City'র আইন বিভাগ, ডেট্রয়েট ইমারত কর্তৃপক্ষ, DLBA, এবং এলাকাগুলির বিভাগ। </p>
+
+<p>ভূসম্পত্তির কমিটি সরকারি মালিকানায় থাকা সম্পত্তি দায়িত্বশীল ব্যক্তি নাগরিকদের ও সংগঠনগুলির হাতে সরকারি মালিকানায় থাকা সম্পত্তি স্বচ্ছ, ন্যায্য ও কর্মদক্ষ উপায়ে প্রত্যায়নের দ্বারা তুলে দেওয়ার প্রয়াস করছে। এই কমিটি সিটিতে কৌশলগত পরিকল্পনা ও অর্থনৈতিক উন্নয়নের উদ্যোগ সম্পাদনের এবং সুস্থ, ভারসাম্যযুক্ত উন্নয়নে উৎসাহিত করার জন্যও দায়ী।</p>
+
+    question:  বিক্রির প্রক্রিয়ায় কত সময় লাগে?
+    answer:  <p>আরও কম জটিল লেনদেনের ক্ষেত্রে বিক্রির প্রক্রিয়ায় আবেদন করা থেকে শুরু করে সম্পূর্ণ হওয়া অবধি প্রায়শই চার মাস সময় লাগে।  এর মধ্যে পড়ে আবেদন পর্যালোচনা, দরাদরি, সিটি কাউন্সিলের থেকে প্রয়োজনীয় অনুমতি পাওয়া এবং সম্পূর্ণ হওয়া।  বেশি বড়ো মাপের প্রকল্প ও আরও জটিল লেনদেনের ক্ষেত্রে সম্পূর্ণ হতে আরও বেশি সময় লাগে। </p>
+
+    question:  সম্পত্তি কেনার আবেদন করার আগে আমাকে কি কিছু করতে হবে?
+    answer:  <p>সম্পত্তি কেনার আবেদন করার আগে, অনুগ্রহ করে নিশ্চিত হয়ে নিন যে আপনার বা আপনি যে সংগঠনের প্রতিনিধি, তার কোনো ব্যক্তিগত বা কর্পোরেট আয়কর, সম্পত্তি কর, জল/পানির বিল বা গাছপালা কাটার লঙ্ঘন বকেয়া নেই। আপনি একেবারে মাটি থেকে উন্নয়ন বা ব্যাপক কাঠামোগত পুনর্বাসনের প্রস্তাব করলে অনুগ্রহ করে সম্পত্তির প্রস্তাবিত ব্যবহার, কাজের পরিধি, আনুমানিক খরচ ও অর্থায়নের উৎস এবং অনুরূপ উন্নয়নে পূর্ব-অভিজ্ঞতা চিহ্নিত করে এমন অন্ততঃ একটি ধারনাগত পরিকল্পনা প্রদান করুন। এই অতিরিক্ত নথিগুলি সম্পত্তির আবেদনের ফর্ম পূরণের সময় ডিজিটাল উপায়ে আপলোড করা যাবে।</p>
+
+    question:  আমি কীভাবে জানবো যে সম্পত্তিটি সরকারি মালিকানার কিনা?
+    answer:  <p>কোনো সম্পত্তি কেনার আবেদন করার আগে অনুগ্রহ করে তার মালিকানার স্থিতি সম্পর্কে অনুসন্ধান করে নিন।  মালিকানা সম্পর্কে ওয়েন কাউন্টি ট্রেজারার এর দপ্তরে ধরে রাখা তথ্য অনলাইনে উপলব্ধ: <a href="http://www.waynecounty.com/treasurer/treasurer_payonline.htm" title="Wayne County treasurer property search">http://www.waynecounty.com/treasurer/treasurer_payonline.htm</a>।  তদতিরিক্ত, <a href="http://www.makeloveland.com/" title="Interactive map of the City of Detroit">www.MakeLoveland.com</a> এতে City'র একটি ইন্টার‌্যাক্টিভ মানচিত্র রয়েছে যা সম্পত্তির মালিকানা সংক্রান্ত তথ্য প্রদান করে। </p>
+
+    question:  সম্পত্তির বিপণন ও মূল্য-নির্ধারণ কীভাবে করা হয়?
+    answer:  <p>কৌশলগত এলাকায় অবস্থিত অথবা সিটি যে সম্পত্তির চাহিদা খুব বেশি হবে বা নিলামে একাধিক ডাক আসবে বলে প্রত্যাশা করে, সেগুলিকে সাধারণতঃ সিটি’র ভূসম্পত্তি বিপণনের ওয়েবসাইটে প্রকাশ্যে বিপণন করা হয় (</p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/city-detroit-real-estate-site" hreflang="en">ডেট্রয়েট সিটির ভূসম্পত্তির সাইট</a>
+    question:  কমিউনিটি অংশীদারিত্ব কার্যক্রম কী?
+    answer:  <p>DLBA আস্থা ও কমিউনিটি-ভিত্তিক সংগঠনগুলিকে তাদের পাড়াগুলিকে সুস্থিত ও রূপান্তরিত করতে উৎসাহিত করার জন্য একটি কমিউনিটি অংশীদারিত্ব কার্যক্রম তৈরি করেছে। সরকারি মালিকানায় থাকা সম্পত্তি কিনতে আগ্রহী কমিউনিটি অংশীদারদের সম্পত্তির আবেদনের ফর্মটি ব্যবহার করতে হবে।  কমিউনিটি অংশীদারিত্ব কার্যক্রম সম্পর্কে আরও জানতে এবং একজন কমিউনিটি অংশীদার হওয়ার জন্য আবেদন করতে DLBA's ওয়েবসাইট দেখুন: </p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/dlba-community-partnership" hreflang="en">DLBA কমিউনিটি অংশীদারিত্ব</a>
+    question:  আমার সম্পত্তির পরিকল্পনা জোনিং প্রতিপালন না করলে কী হবে?
+    answer:  <p>আপনি যে সম্পত্তিটি কিনতে আগ্রহী আপনাকে তার জোনিং এর প্রয়োজনীয়তাসমূহ পর্যালোচনা করতে বিশেষভাবে উৎসাহ দেওয়া হচ্ছে। একটি জোনিং ম্যাপ ইনডেক্স উপলব্ধ রয়েছে এবং সেটি সিটি’র ওয়েবসাইটে দেখে নেওয়া যাবে: <a href="/How-Do-I/Apply-for-Permits/Zoning-Map-Index" target="_blank">https://www.detroitmi.gov/How-Do-I/Apply-for-Permits/Zoning-Map-Index</a>।  সাধারণতঃ, সিটি কোনো সম্পত্তির জোনিং আইনের সঙ্গে দ্বন্দ্ব দেখা দিলে সেটি বিক্রি করে না।  তৎসত্ত্বেও, আপনার সম্পত্তিটির প্রস্তাবিত ব্যবহার জোনিং আইন প্রতিপালিত না হওয়া সত্ত্বেও ঐ স্থানের পক্ষে তা উপযুক্ত মনে হলে অনুগ্রহ করে সম্পত্তির আবেদনের ফর্মটি ব্যবহার করুন এবং সম্ভাব্য জোনিং সমস্যাটি উল্লেখ করুন।</p>
+
+<p> </p>
+
+    question:  আমার সম্পত্তিটির অবস্থা সম্পর্কে উদ্বেগ থাকলে কী হবে?
+    answer:  <p>যাবতীয় সম্পত্তি যেমনটা রয়েছে সেই অবস্থায় বিক্রি করা হয়। সম্পত্তিটির অবস্থা সম্পর্কে কোনো বিবৃতি দেওয়া থাকে না।  ক্রেতাদের সম্পূর্ণ হওয়ার আগে যাবতীয় প্রয়োজনীয় যথোপযুক্ত অধ্যয়ন ও অনুসন্ধান সম্পাদনে উৎসাহ দেওয়া হচ্ছে।</p>
+
+    question:  কোন ধরণের সম্পত্তি বিক্রির জন্য পেশ করা হচ্ছে?
+    answer:  <p>সিটি আবাসিক সম্পত্তি, বাণিজ্যিক ভবন ও খালি জমি এবং শিল্পের/গুদামখানার ইমারত পেশ করে।  এইসব সম্পত্তিতে আগ্রহী ব্যক্তিরা সম্পত্তির আবেদনের ফর্ম ব্যবহার করে এগুলি কেনার আবেদন করতে পারেন।  একক-পারিবারিক বাড়ি ও আবাসনের ধারের লটগুলি সাধারণতঃ DLBA দ্বারা  -এ বিক্রি করা হয়</p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/detroit-land-bank-authority-dlba" hreflang="en">ডেট্রয়েট ল্যান্ড ব্যাংক অথরিটি(Detroit Land Bank Authority - DLBA)</a>
+    question:  আমি কীভাবে সম্পত্তির মূল্য প্রদান করবো?
+    answer:  <p>বাণিজ্যিক সম্পত্তির জন্য, সিটির দ্বারা অনুমোদিত ও একটি মূল্যে সম্মত হওয়া গেলে ক্রয়মূল্যের দশ শতাংশ (10%) আন্তরিক অর্থ আমানত হিসেবে ক্রয়ের চুক্তি করার সময় ডেট্রয়েট ইমারত কর্তৃপক্ষকে শংসিত তহবিলে প্রদান করতে হবে। ক্রয়মূল্যের বাকিটা সম্পূর্ণ হওয়ার সময় তার হস্তান্তর, শংসিত তহবিল বা ক্যাশিয়ার চেক মারফৎ প্রদেয় হবে।</p>
+
+    question:  সিটির দ্বারা কী ধরণের দলিল জারি করা হয়?
+    answer:  <p>সিটি একটি দাবি ত্যাগ দলিল পেশ করে। সিটি কোনো জামিননামা বা স্বত্ব বিমা পেশ করে না, এবং এও দাবি করে না যে, কো নো স্বত্ব বিমা কোম্পানি এই ধরণের মোড়কের বিমা করবে।</p>
+
+    question:  সরকারি মালিকানায় থাকা জমি অন্য কোনো সত্তার মালিকানায় থাকলে আমাকে কী করতে হবে?
+    answer:  <p>আপনি মিশিগান ল্যান্ড ব্যাংক ফাস্ট ট্র্যাক অথরিটি(Michigan Land Bank Fast Track Authority)-র মালিকানাধীন সম্পত্তি কিনতে আগ্রহী হলে অনুগ্রহ করে তাদের দেখুন</p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/michigan-land-bank-fast-track-authority" hreflang="en">মিশিগান ল্যান্ড ব্যাংক ফাস্ট ট্র্যাক অথরিটি</a>
+    question:  আমার অন্য প্রশ্ন থাকলে কী করবো?
+    answer:  <p>আপনার কোনো অতিরিক্ত প্রশ্ন বা উদ্বেগ থাকলে অনুগ্রহ করে যোগাযোগ করুন</p>
+
+<figure role="group" class="embedded-entity"><article class="contact-item"><article class="box"><article class="icon"></article><article class="contact-info"></article></article></article><figcaption>Jill Bryant</figcaption></figure><p> </p>
+
 summary:   
 
 *******************************************************************************
@@ -29493,6 +29896,71 @@ http://detroitmi.theneighborhoods.org/node/2471
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Cómo compro propiedades públicas en Detroit?
+    answer:  <p>La ciudad de Detroit está comercializando activamente muchas propiedades comerciales públicas en línea.  Puede encontrar información sobre estas propiedades y sobre cómo comprarlas en el sitio de comercialización de los bienes inmuebles de la ciudad</p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/city-detroit-real-estate-site" hreflang="en">Sitio de bienes inmuebles de la ciudad de Detroit</a>
+    question:  ¿Qué debo hacer si quiero alquilar una propiedad, o usar o mantener temporalmente una propiedad?
+    answer:  <p>Para solicitar el alquiler de una propiedad o proponer otro uso temporal, presente su solicitud mediante el formulario de solicitud de propiedad y describa la duración del alquiler o el uso temporal en la sección “Uso propuesto”.</p>
+
+<p>Para alquilar una propiedad de la Ciudad, los solicitantes deben estar inscritos en la ciudad de Detroit para los fines del impuesto sobre bienes personales y la retención de impuestos.  Además, los solicitantes deben proporcionar: <br/><br/>
+• Libre deuda de impuestos sobre los ingresos<br/>
+• Verificación de cuentas por cobrar<br/>
+• Formulario de solicitud de proveedor<br/>
+• Convenio de igualdad de oportunidades (autorización de RR. HH.)<br/>
+• Declaración jurada de divulgación de intereses por parte de contratistas y proveedores</p>
+
+    question:  ¿Quién toma decisiones acerca de la disposición de la propiedad pública en Detroit?
+    answer:  <p>Las decisiones relacionadas con la disposición de la propiedad perteneciente a la DLBA y la ciudad de Detroit están a cargo del comité inmobiliario de la Ciudad. El comité está integrado por los líderes de los departamentos, las agencias y las organizaciones responsables de la disposición de la propiedad perteneciente a la Ciudad y a la DLBA, que incluyen los siguientes: la Oficina del Alcalde (Mayor’s Office) (equipo de economía y trabajo), el Departamento de Viviendas y Revitalización (Housing and Revitalization Department), el Departamento de Planificación y Desarrollo (Planning &amp; Development Department), la Corporación de Crecimiento Económico de Detroit (Detroit Economic Growth Corporation), el Departamento de Justicia de la Ciudad (City Law Department), la Autoridad de Construcción de Detroit (Detroit Building Authority), la DLBA y el Departamento de Vecindarios (Department of Neighborhoods). </p>
+
+<p>El comité inmobiliario se esfuerza por colocar la propiedad pública nuevamente en manos de organizaciones y ciudadanos privados responsables al disponer de la propiedad pública de una manera transparente, justa y eficiente. El comité también es responsable de ejecutar las iniciativas de desarrollo económico y planificación estratégica de la Ciudad y de promover el desarrollo saludable y sustentable.</p>
+
+    question:  ¿Cuánto demora el proceso de venta?
+    answer:  <p>En el caso de las transacciones menos complejas, el proceso de venta con frecuencia demora cuatro meses desde el momento de la solicitud hasta el cierre.  Esto incluye la revisión de la solicitud, la negociación, la obtención de las aprobaciones necesarias del Concejo Municipal (City Council) y el cierre.  Los proyectos de mayor envergadura y las transacciones más complejas con frecuencia demoran más en completarse. </p>
+
+    question:  ¿Debo hacer algo antes de presentar la solicitud de compra de una propiedad?
+    answer:  <p>Antes de presentar la solicitud de compra de una propiedad, asegúrese de que usted o la organización a la que representa no adeuden impuestos sobre los ingresos personales o corporativos, impuestos sobre la propiedad, facturas de agua o violaciones por deterioro. Si propone llevar a cabo un desarrollo desde cero o una rehabilitación estructural extensa, proporcione al menos un plano conceptual donde se identifique el uso propuesto de la propiedad, el alcance del trabajo, los costos estimados y las fuentes de financiación, así como la experiencia previa con desarrollos similares. Estos documentos adicionales pueden cargarse digitalmente al completar el Formulario de solicitud de propiedad.</p>
+
+    question:  ¿Cómo puedo saber si una propiedad es pública?
+    answer:  <p>Antes de presentar la solicitud de compra de una propiedad, investigue acerca del propietario.  La información que se conserva en la Oficina del Tesorero (Treasurer’s Office) del condado de Wayne en relación con la propiedad está disponible en línea en: <a href="http://www.waynecounty.com/treasurer/treasurer_payonline.htm" title="Wayne County treasurer property search">http://www.waynecounty.com/treasurer/treasurer_payonline.htm</a>.  Además, <a href="http://www.makeloveland.com/" title="Interactive map of the City of Detroit">www.MakeLoveland.com</a> se incluye un mapa interactivo de la Ciudad que brinda información sobre a quién pertenece la propiedad. </p>
+
+    question:  ¿Cómo se comercializan y tasan las propiedades?
+    answer:  <p>Las propiedades ubicadas en zonas estratégicas o las propiedades que la Ciudad espera que tengan una alta demanda o que reciban más de una oferta, por lo general, se comercializan públicamente en el sitio web de comercialización de los bienes inmuebles de la Ciudad (</p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/city-detroit-real-estate-site" hreflang="en">Sitio de bienes inmuebles de la ciudad de Detroit</a>
+    question:  ¿Qué es el Programa de Socios Comunitarios?
+    answer:  <p>La DLBA creó el Programa de Socios Comunitarios para alentar a las organizaciones religiosas y comunitarias a ayudar a estabilizar y transformar sus vecindarios. Los socios comunitarios interesados en comprar una propiedad pública deben usar el Formulario de solicitud de propiedad.  Para obtener más información sobre el Programa de Socios Comunitarios y para presentar la solicitud para convertirse en un socio comunitario, visite el sitio web de la DLBA: </p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/dlba-community-partnership" hreflang="en">Asociación comunitaria de la DLBA</a>
+    question:  ¿Qué ocurre si mis planos para la propiedad no cumplen con la zonificación?
+    answer:  <p>Se le recomienda encarecidamente que revise los requisitos de zonificación de la propiedad que le interesa comprar. Puede consultar un Índice del mapa de zonificación en el sitio web de la Ciudad: <a href="/How-Do-I/Apply-for-Permits/Zoning-Map-Index" target="_blank">https://www.detroitmi.gov/How-Do-I/Apply-for-Permits/Zoning-Map-Index</a>.  Por lo general, la Ciudad no vende propiedades que presenten conflictos con el código de zonificación.  Sin embargo, si usted considera que su uso propuesto para la propiedad es adecuado para la ubicación a pesar del posible incumplimiento con el código de zonificación, presente la solicitud mediante el Formulario de solicitud de propiedad e indique el posible problema de zonificación.</p>
+
+<p> </p>
+
+    question:  ¿Qué ocurre si tengo inquietudes respecto del estado de la propiedad?
+    answer:  <p>Todas las propiedades se venden en el estado en que se encuentran. No se realizan declaraciones respecto del estado de la propiedad.  Se alienta a los compradores a realizar la diligencia debida y las investigaciones que sean necesarias antes del cierre.</p>
+
+    question:  ¿Qué tipo de propiedad se ofrece para la venta?
+    answer:  <p>La Ciudad ofrece propiedades residenciales, edificios comerciales, terrenos baldíos y edificios industriales/de almacenamiento.  Las personas interesadas en estas propiedades pueden solicitar su compra mediante el Formulario de solicitud de propiedad.  La venta de las viviendas unifamiliares y los lotes contiguos residenciales generalmente la realiza la DLBA en </p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-forms view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/forms/detroit-land-bank-authority-dlba" hreflang="en">Detroit Land Bank Authority (DLBA)</a>
+    question:  ¿Cómo pago la propiedad?
+    answer:  <p>En el caso de propiedades comerciales, si se cuenta con la aprobación de la Ciudad y se llega a un acuerdo respecto del precio, debe pagarse un depósito de seña del diez por ciento (10 %) del precio de la compra en fondos certificados a la Autoridad de Construcción de Detroit (Detroit Building Authority) al momento del acuerdo de compra. El saldo del precio de la compra debe pagarse al momento del cierre mediante trasferencia bancaria, fondos certificados o cheque de caja.</p>
+
+    question:  ¿Qué tipo de escritura otorga la Ciudad?
+    answer:  <p>La Ciudad entrega una escritura de renuncia. La Ciudad no brinda ninguna garantía o seguro de título, ni declara que las compañías de seguros de títulos asegurarán dichas parcelas.</p>
+
+    question:  ¿Qué debo hacer si el terreno público pertenece a otra entidad?
+    answer:  <p>Si le interesa comprar una propiedad que pertenece a Michigan Land Bank Fast Track Authority, visite</p>
+
+<figure role="group" class="embedded-entity"><div><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/michigan-land-bank-fast-track-authority" hreflang="en">Michigan Land Bank Fast Track Authority</a>
+    question:  ¿Qué debo hacer si tengo otras preguntas?
+    answer:  <p>Si tiene otras preguntas o inquietudes, póngase en contacto con</p>
+
+<figure role="group" class="embedded-entity"><article class="contact-item"><article class="box"><article class="icon"></article><article class="contact-info"></article></article></article><figcaption>Jill Bryant</figcaption></figure><p> </p>
+
 summary:   
 
 *******************************************************************************
@@ -29503,6 +29971,26 @@ http://detroitmi.theneighborhoods.org/node/2481
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ما هو؟
+    answer:  <p dir='rtl'>يقدم برنامج Detroit 0% Home Repair Loans قروضًا بفائدة قدرها 0% من $5,000 إلى $25,000 لمساعدة أصحاب المنازل في ديترويت على الاستثمار في منازلهم وإصلاحها – تعزيز الصحة والسلامة العامة، وزيادة قيم العقارات ومساعدة السكان على الحصول على التأمين الخاص بصاحب المنزل والحفاظ عليه.</p>
+
+    question:  ما الإصلاحات المؤهلة؟
+    answer:  <p dir='rtl'>إذا كان المنزل معرضًا لمخاطر صحية وأمنية، فيجب معالجة هذه المشكلات أولاً قبل إجراء إصلاحات أخرى. فيما يلي عينة من المشروعات:</p>
+
+<p dir='rtl'><br/>
+تصحيح مخاطر الصحة والسلامة (مطلوب)<br/>
+الإصلاحات الكهربائية.<br/>
+استبدال الفرن.<br/>
+استبدال السقف.<br/>
+السباكة.<br/>
+استبدال الأبواب والنوافذ.<br/>
+تدعيم الشرفات والدعم الهيكلي.</p>
+
+    question:  كيف أتقدم بطلب؟
+    answer:  <p dir='rtl'>بدءًا من شهر مارس، ستكون الطلبات متاحة عبر الإنترنت وفي عدد من المواقع في جميع أنحاء المدينة، بما في ذلك مراكز استيعاب الأحياء (Neighborhood Intake Centers)، ومكاتب مديري مناطق الأحياء (Neighborhood District Managers) بمدينة ديترويت، ومراكز الترفيه (Recreation Centers) بمدينة ديترويت.  يجب على المتقدمين استيفاء الطلب وإرسال جميع المستندات المطلوبة إلى مركز استيعاب الأحياء (Neighborhood Intake Center).  المساعدة في استيفاء الطلب ستكون متاحة في مراكز الاستيعاب.  انتقل إلى <a href="http://www.detroitmi.gov/LinkClick.aspx?link=http%3a%2f%2fwww.detroithomeloans.org%2f&amp;amp;tabid=1466&amp;amp;portalid=0&amp;amp;mid=7351" title="Detroit Home Loan Repairs">detroithomeloans.org</a> للحصول على مزيد من المعلومات.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29513,6 +30001,26 @@ http://detroitmi.theneighborhoods.org/node/2481
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  এটা কী?
+    answer:  <p>ডেট্রয়েট 0% গৃহ মেরামতি ঋণ কার্যক্রম ডেট্রয়েটের বাড়ির মালিকদের তাদের বাড়িতে বিনিয়োগ করতে ও বাড়ি মেরামত করতে $5,000 থেকে $25,000 পর্যন্ত 0% সুদে ঋণ পেশ করে – যা জনস্বাস্থ্য ও সুরক্ষাকে উন্নীত করে, সম্পত্তির মূল্য বাড়ায় এবং আবাসিকদের তাদের বাড়ির মালিক’দের বিমা প্রাপ্ত করতে ও বজায় রাখতে সাহায্য করে।</p>
+
+    question:  কোন কোন মেরামতি এর যোগ্য?
+    answer:  <p>বাড়িটিতে স্বাস্থ্য ও সুরক্ষা সংক্রান্ত বিপত্তি থাকলে অন্যান্য মেরামতি করানোর আগে প্রথমে সেই সমস্যাগুলির সমাধান করা আবশ্যক। নিম্নলিখিতগুলি হল নমুনা প্রকল্প:</p>
+
+<p><br/>
+স্বাস্থ্য ও সুরক্ষা সংক্রান্ত বিপত্তির সংশোধন (প্রয়োজনীয়)<br/>
+বৈদ্যুতিক মেরামতি;<br/>
+চুল্লি বদলানো;<br/>
+ছাদ বদলানো;<br/>
+জল/পানি সরবরাহ;<br/>
+দরজা ও জানলা বদলানো;<br/>
+বারান্দা ও কাঠামোর অবলম্বন।</p>
+
+    question:  আমি কীভাবে আবেদন করবো?
+    answer:  <p>মার্চ মাস থেকে শুরু করে আবেদনগুলি অনলাইনে এবং শহর জুড়ে বিভিন্ন জায়গায় পাওয়া যাবে, যার মধ্যে পড়ে নেইবারহুড ইনটেক সেন্টার(Neighborhood Intake Centers), ডেট্রয়েট সিটি নেইবারহুড ডিসট্রিক্ট ম্যানেজার(Neighborhood District Managers)-দের’ দপ্তর ও ডেট্রয়েট সিটির বিনোদন কেন্দ্রগুলি।  আবেদনকারীদের আবেদন সম্পূর্ণ করা ও কোনো নেইবারহুড ইনটেক সেন্টারে যাবতীয় প্রয়োজনীয় নথি জমা দেওয়া আবশ্যক।  ইনটেক সেন্টারগুলিতে আবেদন পূরণ করার সহায়তা উপলব্ধ।  আরও তথ্যের জন্য <a href="http://www.detroitmi.gov/LinkClick.aspx?link=http%3a%2f%2fwww.detroithomeloans.org%2f&amp;amp;tabid=1466&amp;amp;portalid=0&amp;amp;mid=7351" title="Detroit Home Loan Repairs">detroithomeloans.org</a> -এ যান।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29523,6 +30031,26 @@ http://detroitmi.theneighborhoods.org/node/2481
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Qué es?
+    answer:  <p>El Programa de Préstamos para la Reparación de Viviendas con 0 % de Interés de Detroit ofrece préstamos con un interés del 0 % de montos comprendidos entre $5,000 y $25,000 para ayudar a los propietarios de viviendas de Detroit a invertir en sus hogares y a repararlos. De esta manera, se promueve la salud y la seguridad públicas, se aumenta el valor de las propiedades, y se ayuda a los residentes a conseguir y mantener el seguro del hogar.</p>
+
+    question:  ¿Qué reparaciones califican?
+    answer:  <p>Si el hogar presenta riesgos para la salud y la seguridad, dichos problemas deben solucionarse antes de que puedan realizarse otras reparaciones. Los siguientes son ejemplos de proyectos:</p>
+
+<p><br/>
+Eliminación de riesgos para la salud y la seguridad (obligatorio)<br/>
+Reparaciones eléctricas<br/>
+Sustitución de la caldera<br/>
+Sustitución del techo<br/>
+Instalación de tuberías<br/>
+Sustitución de puertas y ventanas<br/>
+Soporte estructural y porches</p>
+
+    question:  ¿Cómo puedo presentar una solicitud?
+    answer:  <p>A partir de marzo, las solicitudes estarán disponibles en línea y en diferentes lugares en toda la ciudad, que incluyen los Centros de Admisión de los Vecindarios (Neighborhood Intake Centers), las Oficinas de Directores de Distrito de los Vecindarios de la Ciudad de Detroit (City of Detroit Neighborhood District Managers’ Offices) y los Centros de Recreación de la Ciudad de Detroit (City of Detroit Recreation Centers).  Los solicitantes deben completar la solicitud y presentar todos los documentos requeridos ante el Centro de Admisión de los Vecindarios.  En los centros de admisión se brindará ayuda para completar la solicitud.  Visite <a href="http://www.detroitmi.gov/LinkClick.aspx?link=http%3a%2f%2fwww.detroithomeloans.org%2f&amp;amp;tabid=1466&amp;amp;portalid=0&amp;amp;mid=7351" title="Detroit Home Loan Repairs">detroithomeloans.org</a> para obtener más información.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29533,6 +30061,42 @@ http://detroitmi.theneighborhoods.org/node/2501
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  كيفية الحصول على قرار تزكية
+    answer:  <p dir='rtl'>يمكن طلب قرار تزكية من أي عضو من أعضاء المجلس لشخص لديه سيرة ذاتية تتضمن قائمة من الإنجازات البارزة أو لفعالية أو منظمة يتم تكريمها لمساهمتها في مدينة ديترويت. ويلزم تقديم سيرة ذاتية تتضمن قائمة بالإنجازات وأي معلومات إضافية تجدها ذات صلة بالشخص أو الفعالية أو المنظمة التي يتم تكريمها.<br/>
+ </p>
+
+<p dir='rtl'>يجب تقديم الطلبات قبل عشرة (10) أيام عمل من تاريخ التسليم المتوقع. </p>
+
+    question:  كيفية الحصول على قرار تزكية للتأبين
+    answer:  <p dir='rtl'>يمكن طلب قرار تزكية للتأبين من أي عضو من أعضاء المجلس لشخص يتم تكريمه بعد وفاته ليتم تقديمه لعائلته/ا.</p>
+
+<p dir='rtl'>يلزم تقديم سيرة ذاتية أو نعي.</p>
+
+    question:  كيفية الحصول على جائزة Spirit of Detroit
+    answer:  <p dir='rtl'>يمكن طلب جائزة روح ديترويت (Spirit of Detroit) من أي عضو من أعضاء المجلس لشخص أو فعالية أو منظمة يتم تكريمها لإنجاز بارز أو تقديم خدمة متميزة لمواطني ديترويت. ويلزم تقديم اسم الشخص، أو الفعالية، أو المنظمة وسبب التكريم.</p>
+
+<p dir='rtl'>يجب تقديم الطلبات قبل خمسة (5) أيام عمل من تاريخ التسليم المتوقع.</p>
+
+    question:  كيفية الحصول على جائزة تقدير
+    answer:  <p dir='rtl'>يمكن طلب جائزة تقدير من أي عضو من أعضاء المجلس لشخص أو فعالية أو منظمة يتم شكره/ا لإنجازاته/ا العديدة. ويلزم تقديم اسم الشخص، أو الفعالية، أو المنظمة وسبب التكريم.</p>
+
+<p dir='rtl'>يجب تقديم الطلبات قبل خمسة (5) أيام عمل من تاريخ التسليم المتوقع. </p>
+
+    question:  كيفية الحصول على جائزة Distinguished Service
+    answer:  <p dir='rtl'>يمكن طلب جائزة الخدمة المتميزة (Distinguished Service) من أي عضو من أعضاء المجلس لشخص أو فعالية أو منظمة يتم تكريمها لخدمة المجتمع أو الخدمة العسكرية أو التقاعد. ويلزم تقديم اسم الشخص، أو الفعالية، أو المنظمة وسبب التكريم.</p>
+
+<p dir='rtl'>يجب تقديم الطلبات قبل خمسة (5) أيام عمل من تاريخ التسليم المتوقع. </p>
+
+    question:  كيفية الحصول على دبوس Spirit of Detroit
+    answer:  <p dir='rtl'>يمكن طلب دبوس روح ديترويت (Spirit of Detroit) من أي عضو من أعضاء المجلس لشخص كرمز للنوايا الحسنة. ويلزم تقديم اسم الشخص، أو الفعالية، أو المنظمة وسبب التكريم.</p>
+
+<p dir='rtl'> </p>
+
+<p dir='rtl'>يجب تقديم الطلبات قبل خمسة (5) أيام عمل من تاريخ التسليم المتوقع. <br/>
+ </p>
+
 summary:   
 
 *******************************************************************************
@@ -29543,6 +30107,42 @@ http://detroitmi.theneighborhoods.org/node/2501
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  কীভাবে একটি প্রামাণিক সাক্ষ্যপত্র প্রাপ্ত করবেন?
+    answer:  <p>কাউন্সিলের কোনো সদস্যের কাছে এমন কোনো ব্যক্তির জন্য একটি প্রামাণিক সাক্ষ্যপত্রের অনুরোধ করা যায় জীবন বৃত্তান্তের তালিকায় অসামান্য কৃতিত্ব বা কোনো ঘটনা রয়েছে অথবা কোনো সংগঠন ডেট্রয়েট সিটির দ্বারা তাদের অবদানের(অবদানগুলির) জন্য সম্মানিত করা হয়েছে। এমন জীবন বৃত্তান্ত জমা দেওয়া প্রয়োজন যার মধ্যে রয়েছে কৃতিত্বের একটি তালিকা এবং কোনো অতিরিক্ত তথ্য যা আপনি একজন ব্যক্তি, ঘটনা বা সংগঠনের সম্মানিত হওয়ার সম্পর্কে প্রাসঙ্গিক বলে মনে করছেন।<br/>
+ </p>
+
+<p>অনুরোধগুলি প্রত্যাশিত বিতরণের তারিখের দশটি (10) কর্মদিবস আগে জমা দেওয়া আবশ্যক। </p>
+
+    question:  কীভাবে একটি প্রামাণিক সাক্ষ্যপত্রের সংকল্পের স্মরণিকা প্রাপ্ত করবেন?
+    answer:  <p>একটি প্রামাণিক সাক্ষ্যপত্রের সংকল্পের স্মরণিকার জন্য কাউন্সিলের কোনো সদস্যের কাছে কোনো ব্যক্তির মরণোত্তর সম্মান, যা তার পরিবারের হাতে দেওয়া হবে, তা পাওয়ার জন্য অনুরোধ করা যেতে পারে।</p>
+
+<p>একটি জীবন বৃত্তান্ত বা শোক সংবাদ জমা দেওয়ার প্রয়োজন।</p>
+
+    question:  কীভাবে স্পিরিট অব ডেট্রয়েট(Spirit of Detroit) পুরস্কার প্রাপ্ত করা যায়
+    answer:  <p>কাউন্সিলের কোনো সদস্যের কাছে কোনো ব্যক্তি, ঘটনা বা সংগঠনের কোনো অসামান্য কৃতিত্ব বা ডেট্রয়েটের নাগরিকদের প্রতি পরিষেবার জন্য স্পিরিট অব ডেট্রয়েট পুরস্কারের অনুরোধ করা যায়। ব্যক্তি, ঘটনা বা সংগঠনের নাম এবং সম্মান পাওয়ার কারণ জমা দেওয়ার প্রয়োজন।</p>
+
+<p>অনুরোধগুলি প্রত্যাশিত বিতরণের তারিখের পাঁচটি (5) কর্মদিবস আগে জমা দেওয়া আবশ্যক।</p>
+
+    question:  কীভাবে স্বীকৃতি পুরস্কার প্রাপ্ত করা যায়
+    answer:  <p>কাউন্সিলের কোনো সদস্যের কাছে কোনো ব্যক্তি, ঘটনা বা সংগঠনের তাদের বিভিন্ন গুণপনার জন্য স্বীকৃতি পেতে স্বীকৃতি পুরস্কারের অনুরোধ করা যায়। ব্যক্তি, ঘটনা বা সংগঠনের নাম এবং সম্মান পাওয়ার কারণ জমা দেওয়ার প্রয়োজন।</p>
+
+<p>অনুরোধগুলি প্রত্যাশিত বিতরণের তারিখের পাঁচটি (5) কর্মদিবস আগে জমা দেওয়া আবশ্যক। </p>
+
+    question:  কীভাবে বিশিষ্ট পরিষেবা পুরস্কার প্রাপ্ত করতে হয়
+    answer:  <p>কাউন্সিলের কোনো সদস্যের কাছে কোনো ব্যক্তি, ঘটনা বা সংগঠনের কমিউনিটি পরিষেবা, সামরিক সেবা বা অবসর গ্রহণের জন্য বিশিষ্ট পরিষেবা পুরস্কারের অনুরোধ করা যায়। ব্যক্তি, ঘটনা বা সংগঠনের নাম এবং সম্মান পাওয়ার কারণ জমা দেওয়ার প্রয়োজন।</p>
+
+<p>অনুরোধগুলি প্রত্যাশিত বিতরণের তারিখের পাঁচটি (5) কর্মদিবস আগে জমা দেওয়া আবশ্যক। </p>
+
+    question:  কীভাবে স্পিরিট অব ডেট্রয়েট পিন পাওয়া যায় 
+    answer:  <p>কাউন্সিলের কোনো সদস্যের কাছে কোনো ব্যক্তির শুভেচ্ছার নিদর্শের জন্য স্পিরিট অব ডেট্রয়েট পিন এর জন্য অনুরোধ করা যায়। ব্যক্তি, ঘটনা বা সংগঠনের নাম এবং সম্মান পাওয়ার কারণ জমা দেওয়ার প্রয়োজন।</p>
+
+<p> </p>
+
+<p>অনুরোধগুলি প্রত্যাশিত বিতরণের তারিখের পাঁচটি (5) কর্মদিবস আগে জমা দেওয়া আবশ্যক। <br/>
+ </p>
+
 summary:   
 
 *******************************************************************************
@@ -29553,6 +30153,42 @@ http://detroitmi.theneighborhoods.org/node/2501
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  Cómo recibir una Resolución testimonial
+    answer:  <p>Puede solicitarse una Resolución testimonial (Testimonial Resolution) a cualquier miembro del Concejo para una persona que presente una biografía que incluya una lista de logros sobresalientes, o para un evento o una organización que se homenajeen por sus contribuciones a la ciudad de Detroit. Se requiere la presentación de una biografía que incluya una lista de logros y cualquier información adicional que usted considere pertinente para la persona, el evento o la organización que se homenajee.<br/>
+ </p>
+
+<p>Las solicitudes deben presentarse diez (10) días hábiles antes de la fecha de entrega prevista. </p>
+
+    question:  Cómo recibir una Resolución testimonial en memoria de una persona
+    answer:  <p>Puede solicitarse una Resolución testimonial en memoria de una persona (Testimonial Memoriam Resolution) a un miembro del Concejo para la persona a quien se rinde homenaje de manera póstuma a fin de que sea entregada a su familia.</p>
+
+<p>Se requiere la presentación de una biografía o un obituario.</p>
+
+    question:  Cómo recibir un Premio Espíritu de Detroit
+    answer:  <p>Puede solicitarse un Premio Espíritu de Detroit (Spirit of Detroit Award) a cualquier miembro del Concejo para una persona, un evento o una organización que se homenajeen por un logro sobresaliente o por el servicio a los ciudadanos de Detroit. Se requiere la presentación del nombre de la persona, del evento o de la organización y el motivo del homenaje.</p>
+
+<p>Las solicitudes deben presentarse cinco (5) días hábiles antes de la fecha de entrega prevista.</p>
+
+    question:  Cómo recibir un Premio al Reconocimiento
+    answer:  <p>Puede solicitarse un Premio al Reconocimiento (Award of Recognition) a cualquier miembro del Concejo para una persona, un evento o una organización en reconocimiento por sus diversos logros. Se requiere la presentación del nombre de la persona, del evento o de la organización y el motivo del homenaje.</p>
+
+<p>Las solicitudes deben presentarse cinco (5) días hábiles antes de la fecha de entrega prevista. </p>
+
+    question:  Cómo recibir un Premio al Servicio Distinguido
+    answer:  <p>Puede solicitarse un Premio al Servicio Distinguido (Distinguished Service Award) a cualquier miembro del Concejo para ser entregado a una persona, un evento o una organización que se homenajeen por el servicio comunitario, el servicio militar o la jubilación. Se requiere la presentación del nombre de la persona, del evento o de la organización y el motivo del homenaje.</p>
+
+<p>Las solicitudes deben presentarse cinco (5) días hábiles antes de la fecha de entrega prevista. </p>
+
+    question:  Cómo recibir un Prendedor del Espíritu de Detroit
+    answer:  <p>Puede solicitarse un Prendedor del Espíritu de Detroit a cualquier miembro del Concejo para ser entregado a una persona como muestra de buena voluntad. Se requiere la presentación del nombre de la persona, del evento o de la organización y el motivo del homenaje.</p>
+
+<p> </p>
+
+<p>Las solicitudes deben presentarse cinco (5) días hábiles antes de la fecha de entrega prevista. <br/>
+ </p>
+
 summary:   
 
 *******************************************************************************
@@ -29563,6 +30199,19 @@ http://detroitmi.theneighborhoods.org/node/2586
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  معلومات عامة عن متطلبات تصاريح المباني
+    answer:  <p dir='rtl'>تقوم الشعبة الهيكلية بمراجعة مستندات البناء والامتثال للقواعد حسب قوانين البناء في ولاية ميشيغان التالية:</p>
+
+<ul dir='rtl'><li dir='rtl'>قانون البناء الخاص بولاية ميشيغان لعام 2012 (Michigan Building Code)، والذي يتضمن قواعد التصميم الخالي من العوائق في ميشيغان (Michigan Barrier-Free Design Rules)</li>
+	<li dir='rtl'>قانون إعادة تأهيل المباني الحالية الخاص بولاية ميشيغان لعام 2012 (Michigan Rehabilitation Code for Existing Buildings)</li>
+	<li dir='rtl'>قانون الطاقة الموحدة الخاص بولاية ميشيغان لعام 2009 (Michigan Uniform Energy Code)</li>
+</ul><p dir='rtl'> </p>
+
+<p dir='rtl'>يُرجى مراجعة موقع الويب الخاص بالولاية على: <strong dir='rtl'><a href="http://www.michigan.gov" target="_blank" dir='rtl'>www.michigan.gov</a></strong><br/>
+يمكن شراء نسخ من هذه القوانين من إدارة المباني وهندسة السلامة والبيئة.(BSEED). يرجى التحقق من توفرها عن طريق الاتصال بأمين الصندوق على الرقم (313) 224-3169.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29573,6 +30222,19 @@ http://detroitmi.theneighborhoods.org/node/2586
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ভবনের অনুমতির প্রয়োজনীয়তার সাধারণ তথ্য
+    answer:  <p>কাঠামোগত শাখা নির্মাণের নথিপত্র পর্যালোচনা করে এবং মিশিগান স্টেট এর নিম্নলিখিত নির্মাণ বিধি এর উপর প্রতিপালনের ভিত্তি স্থাপন করে:</p>
+
+<ul><li>2012 সালের মিশিগান ইমারত বিধি(Michigan Building Code), যার মধ্যে রয়েছে Michigan বাধাহীন নকশার নিয়মাবলী(Barrier-Free Design Rules)</li>
+	<li>বিদ্যমান ইমারতগুলির জন্য 2012 সালের মিশিগান পুনর্বাসন বিধি(Michigan Rehabilitation Code)</li>
+	<li>2009 সালের মিশিগান অভিন্ন শক্তি বিধি(Michigan Uniform Energy Code)</li>
+</ul><p> </p>
+
+<p>এখানে State এর ওয়েবসাইট দেখে নিন : <strong><a href="http://www.michigan.gov" target="_blank">www.michigan.gov</a></strong><br/>
+এই বিধিসমূহের প্রতিলিপি ইমারত, নিরাপত্তা কারিগরি ও পরিবেশ বিভাগ(Buildings, Safety Engineering and Environmental Department - BSEED) থেকে কিনতে পাওয়া যায়। অনুগ্রহ করে ক্যাশিয়ারের সঙ্গে (313) 224-3169 নম্বরে যোগাযোগ করে উপলব্ধতা দেখে নিন।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29583,6 +30245,19 @@ http://detroitmi.theneighborhoods.org/node/2586
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  Información general sobre los requisitos del permiso de construcción
+    answer:  <p>La División Estructural (Structural Division) revisa el cumplimiento de las bases y los documentos de construcción conforme a los siguientes Códigos de Construcción del Estado de Míchigan:</p>
+
+<ul><li>Código de Construcción de Míchigan de 2012 (2012 Michigan Building Code), que incluye las normas de diseño sin barreras de Míchigan</li>
+	<li>Código de Rehabilitación de Míchigan para Edificios Existentes de 2012 (2012 Michigan Rehabilitation Code for Existing Buildings)</li>
+	<li>Código de Energía Uniforme de Míchigan de 2009 (2009 Michigan Uniform Energy Code)</li>
+</ul><p> </p>
+
+<p>Consulte el sitio web del Estado en: <strong><a href="http://www.michigan.gov" target="_blank">www.michigan.gov</a></strong><br/>
+Pueden adquirirse copias de estos códigos en el Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED). Póngase en contacto con el cajero llamando al (313) 224-3169 para consultar la disponibilidad.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29593,6 +30268,11 @@ http://detroitmi.theneighborhoods.org/node/3361
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  أحتاج إلى نسخة من محضر اجتماع مجلس المدينة. أين يمكنني الحصول عليها؟
+    answer:  <p dir='rtl'>إذا تم عقد الاجتماع من عام 2010 حتى الوقت الحاضر، فيمكن الحصول عليها من مكتب كاتب المدينة في 2 Woodward Ave.، الغرفة 200, بديترويت بين الساعة 8:00 صباحًا إلى 5:00 مساءً من الاثنين وحتى الجمعة.  وإذا تم عقد الاجتماع قبل 2010, فتتوفر في مكتب المحفوظات.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29603,6 +30283,11 @@ http://detroitmi.theneighborhoods.org/node/3361
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  আমার সিটি কাউন্সিলের বৈঠকের কার্যবিবরণীর একটি প্রতিলিপির প্রয়োজন। আমি সেগুলি কোথায় পাবো?
+    answer:  <p>এই বৈঠকটি 2010 সাল থেকে শুরু করে বর্তমান অবধি কোনো সময়ের মধ্যে হয়ে থাকলে সেগুলি 2 Woodward Ave., Room 200, ডেট্রয়েট-স্থিত সিটি ক্লার্কের দপ্তর থেকে সোমবার থেকে শুক্রবার সকাল 8:00টা থেকে বিকেল 5:00টার মধ্যে পাওয়া যাবে।  বৈঠকটি এর আগে হয়ে থাকলে 2010, সেগুলি আর্কাইভের দপ্তরে পাওয়া যাবে।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29613,6 +30298,11 @@ http://detroitmi.theneighborhoods.org/node/3361
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  Necesito una copia de las actas de una reunión del Concejo Municipal (City Council). ¿Cómo puedo conseguirlas?
+    answer:  <p>Si la reunión tuvo lugar a partir del año 2010 hasta la fecha, las actas pueden solicitarse a la Oficina del Secretario Municipal (City Clerk's Office) en 2 Woodward Ave., Room 200, Detroit, de lunes a viernes, de 8:00 a. m. a 5:00 p. m.  Si la reunión tuvo lugar antes del 2010, las actas estarán disponible en la Oficina de Archivos (Archives Office).</p>
+
 summary:   
 
 *******************************************************************************
@@ -29623,6 +30313,15 @@ http://detroitmi.theneighborhoods.org/node/3866
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ما مزايا بطاقة هوية ديترويت؟
+    answer:  <p dir='rtl'> </p>
+
+<p dir='rtl'>يمكن أن تُسهل بطاقة هوية ديترويت الوصول إلى خدمات المدينة وربط السكان بالفرص التجارية والثقافية المحلية.  توفر بطاقة هوية ديترويت بطاقة هوية رسمية صادرة عن حكومة المدينة عليها الصورة والعنوان، بالإضافة إلى معلومات هامة أخرى.  إذا كنت من المتبرعين بالأعضاء، فيُمكنك أن توضح ذلك على البطاقة. كما يمكن أيضًا توضيح جهة الاتصال في حالة الطوارئ على البطاقة. يمكنك استخدام البطاقة لدخول جميع مباني المدينة والوصول إلى خدمات المدينة. تقبل إدارة شرطة ديترويت بطاقة هوية المدينة كبطاقة هوية سارية. سيتم قبول البطاقة من قبل شركات المرافق (مثل DTE وDWSD)، وبعض المؤسسات المالية، ومرافق الرعاية الصحية والمستشفيات، من بين أماكن أخرى كثيرة يمكن استخدام البطاقة الرسمية الحكومية أو إبرازها فيها.          <br/><br/>
+هناك أيضًا مجموعة من المزايا الرائعة التي يمكن استخدام البطاقة للحصول عليها بما في ذلك الخصومات في مجموعة كبيرة من المؤسسات الثقافية والشركات المحلية.  يمكنك العثور على قائمة كاملة بالمزايا هنا<span dir='rtl'>.</span></p>
+
+<div dir='rtl'> 
 summary:   
 
 *******************************************************************************
@@ -29633,6 +30332,15 @@ http://detroitmi.theneighborhoods.org/node/3866
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ডেট্রয়েট আইডি কার্ড এর উপকারিতাগুলি কী কী?
+    answer:  <p> </p>
+
+<p>ডেট্রয়েট-কার্ড সিটির পরিষেবাগুলির প্রবেশযোগ্যতা সুবিন্যস্ত করতে এবং বাসিন্দাদের স্থানীয় ব্যবসায়িক ও সাংস্কৃতিক সুযোগের সঙ্গে সংযুক্ত করতে পারে।  ডেট্রয়েট-আইডি কার্ড কার্ডধারীকে একটি সরকারি সিটি-সরকার দ্বারা জারি করা পরিচয়পত্র প্রদান করে যাতে অন্যান্য গুরুত্বপূর্ণ তথ্যের সঙ্গে একটি ফটো ও ঠিকানা থাকে।  আপনি অঙ্গদাতা হলে আপনি তাও কার্ডে প্রতিফলিত করতে পারেন। কার্ডে একটি আপৎকালীন যোগাযোগও প্রতিফলিত করা যেতে পারে। আপনি কার্ডটিকে যাবতীয় সিটি ইমারতে প্রবেশ করতে এবং সিটি পরিসেবাসমূহে প্রবেশযোগ্যতা পেতে ব্যবহার করতে পারেন। ডেট্রয়েট পুলিশ বিভাগ একটি বৈধ পরিচিতি হিসেবে সিটি আইডি কার্ড গ্রহণ করবে। কার্ডটি সরকারি পরিচিতির প্রয়োজন বা ব্যবহার রয়েছে এমন অন্যান্য অনেক জায়গার মধ্যে উপযোগিতা কোম্পানিগুলিতে, (অর্থাৎ, DTE ও DWSD), কিছু নির্দিষ্ট আর্থিক প্রতিষ্ঠানে, স্বাস্থ্য পরিচর্যা কেন্দ্রগুলিতে ও হাসপাতালগুলিতে গৃহীত হবে।          <br/><br/>
+কার্ডটি ব্যবহার করা যাবে এমন এক বিস্ময়কর সুবিধার মোড়কও রয়েছে যার মধ্যে পড়ে, বিভিন্ন ধরণের সাংস্কৃতিক প্রতিষ্ঠান ও স্থানীয় ব্যবসায় ছাড় পাওয়া।  সুযোগ-সুবিধার একটি সম্পূর্ণ তালিকা এখানে পাবেন<span>।</span></p>
+
+<div> 
 summary:   
 
 *******************************************************************************
@@ -29643,6 +30351,15 @@ http://detroitmi.theneighborhoods.org/node/3866
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Cuáles son los beneficios de la tarjeta de identificación de Detroit?
+    answer:  <p> </p>
+
+<p>La tarjeta de identificación de Detroit puede optimizar el acceso a los servicios de la ciudad y conectar a los residentes con las oportunidades culturales y los negocios locales.  La tarjeta de identificación de Detroit proporciona al titular una identificación oficial emitida por el gobierno de la Ciudad con fotografía y dirección, además de otra información importante.  Si usted es donante de órganos, puede solicitar que se incluya esa información en la tarjeta. También puede solicitar que se coloque un contacto de emergencia en la tarjeta. Puede usar la tarjeta para ingresar a todos los edificios municipales y acceder a los servicios de la Ciudad. El Departamento de Policía (Police Department) de Detroit aceptará la tarjeta de identificación de la Ciudad como identificación válida. La tarjeta será aceptada por las compañías de servicios públicos (p. ej., DTE y DWSD), en ciertas instituciones financieras, en centros de atención de salud y hospitales, entre muchas otras situaciones en las que se necesita o se usa identificación gubernamental oficial.          <br/><br/>
+También hay un paquete de increíbles beneficios para los que puede usarse la tarjeta, que incluyen descuentos en una amplia variedad de instituciones culturales y negocios locales.  Aquí puede encontrar una lista completa de beneficios.<span>.</span></p>
+
+<div> 
 summary:   
 
 *******************************************************************************
@@ -29653,6 +30370,19 @@ http://detroitmi.theneighborhoods.org/node/3886
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  هل حافلات إدارة النقل في ديترويت سهلة الوصول حسب القانون المتعلق بالأمريكيين ذوي الإعاقة؟
+    answer:  <p dir='rtl'><strong dir='rtl'>نعم!</strong> جميع حافلات ومسارات إدارة النقل في ديترويت سهلة الوصول حسب القانون المتعلق بالأمريكيين ذوي الإعاقة.</p>
+
+    question:  كم تبلغ أجرة الحافلة وما الخيارات الأخرى المتاحة لدفع الأجرة؟
+    answer:  <p dir='rtl'>تبلغ أجرة الاتجاه الواحد $1.50. وتبلغ أجرة تذكرة التحويل 25 سنتًا. بالإضافة إلى الدفع النقدي، توفر إدارة النقل في ديترويت مجموعة كبيرة من وسائل دفع الأجرة لتوفير أموال عملائنا ولراحتهم مما يلغي الحاجة إلى حمل أموال نقدية.<br/><br/>
+تسمح تذكرة الركوب لخمسة أيام (Five Day Pass) الجديدة للراكبين بالاستمتاع بعدد مرات ركوب غير محدود لمدة خمسة أيام متتالية مقابل $14.00. ويمكن شراؤها في أي يوم من الشهر. يبدأ أول يوم من الأيام الخمسة عند استخدام التذكرة أول مرة. وتوفر التذكرة الأموال أيضًا من تكلفة التنقل اليومي. <br/><br/>
+إن البطاقة الجديدة بقيمة $10 ($10 Value Card) مناسبة وتعرض لك المبلغ المتبقي لك. ويمكن استخدامها لدفع أي أجرة (للبالغين، وكبار السن، وذوي الإعاقة، والطلاب، وتذكرة التحويل)، ويمكن مشاركتها لدفع الأجرة لراكب واحد أو أكثر ينتقلون في نفس الوقت. لا يلزم استخدامها في نفس اليوم أو الأسبوع أو الشهر، وهي البطاقة المثالية للراكب الذي لا يركب حافلات إدارة النقل في ديترويت بشكل منتظم.<br/>
+ </p>
+
+<p dir='rtl'><a href="http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Transporation-Fares" target="_blank" dir='rtl'>قائمة كاملة بأسعار الأجرة والبطاقات التي تلبي احتياجاتك في التنقل.</a></p>
+
 summary:   
 
 *******************************************************************************
@@ -29663,6 +30393,19 @@ http://detroitmi.theneighborhoods.org/node/3886
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  DDOT বাসগুলি কি ADA প্রবেশযোগ্য?
+    answer:  <p><strong>হ্যাঁ!</strong> DDOT'র যাবতীয় বাস ও রুট ADA প্রবেশযোগ্য।</p>
+
+    question:  বাসের ভাড়া কত এবং ভাড়া দেওয়ার অন্যান্য কোন কোন বিকল্প রয়েছে?
+    answer:  <p>প্রাপ্তবয়স্কদের একপিঠের ভাড়া $1.50। স্থানান্তরের জন্য .25 সেন্ট। নগদ ছাড়াও DDOT আমাদের গ্রাহকদের সঞ্চয় ও স্বাচ্ছন্দের জন্য ভাড়া দেওয়ার বিভিন্ন ধরণের মাধ্যম পেশ করে যা আপনার নগদ বহনের প্রয়োজন দূর করে।<br/><br/>
+নতুন পাঁচদিনের পাস যাত্রীদের $14.00 মূল্যে পর পর পাঁচদিন অসীমসংখ্যক যাত্রা করার সুযোগ দেয়। এটি মাসের যে কোনো দিন কেনা যায়। পাঁচদিনের সময়কাল আপনি প্রথমবার পাস ব্যবহার করার সময় শুরু হয়। এই পাস আপনার দৈনিক যাত্রার খরচও কমায়। <br/><br/>
+নতুন $10 মূল্যের কার্ডটি সুবিধাজনক এবং এটি আপনার জন্য আপনার ফেরতের হিসেবও রাখে। এটি যে কোনো ভাড়া প্রদানের জন্য ব্যবহার করা যায় (প্রাপ্তবয়স্ক, প্রবীণ, প্রতিবন্ধী, শিক্ষার্থী ও স্থানান্তর) এবং এটিকে একই সময় যাত্রা করা এক বা একাধিক যাত্রীর ভাড়া দেওয়ার জন্যও শেয়ার করা যায়। এটি একই দিনে, সপ্তাহে বা মাসে ব্যবহার করার দরকার নেই এবং যে সব যাত্রী নিয়মিত DDOT-তে যাত্রা করেন না, এই কার্ডটি তাদের জন্য যথাযথ।<br/>
+ </p>
+
+<p><a href="http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Transporation-Fares" target="_blank">আপনার পরিবহণের প্রয়োজন পূরণে ভাড়ার ও ভাড়ার কার্ডের একটি সম্পূর্ণ তালিকা।</a></p>
+
 summary:   
 
 *******************************************************************************
@@ -29673,6 +30416,19 @@ http://detroitmi.theneighborhoods.org/node/3886
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Los autobuses del DDOT son accesibles conforme a la ADA?
+    answer:  <p><strong>¡Sí!</strong> Todos los autobuses y los recorridos del Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT) son accesibles conforme a la Ley sobre Estadounidenses con Discapacidades (Americans With Disabilities Act, ADA).</p>
+
+    question:  ¿Cuánto cuesta la tarifa del autobús y qué otras opciones hay para el pago de las tarifas?
+    answer:  <p>La tarifa de ida cuesta $1.50. Los transbordos cuestan 0.25 centavos. Además del efectivo, el Departamento de Transporte de Detroit (Detroit Department of Transportation, DDOT) ofrece una variedad de medios de pagos de tarifas para el ahorro y la comodidad de nuestros clientes que eliminan la necesidad de llevar dinero en efectivo.<br/><br/>
+El nuevo pase de cinco días permite a los pasajeros disfrutar viajes ilimitados durante cinco días consecutivos por $14.00. Puede comprarse cualquier día del mes. El día de inicio del período de cinco días comienza cuando usted usa por primera vez el pase. El pase también permite ahorrar dinero en el costo de sus viajes diarios. <br/><br/>
+La nueva tarjeta de $10 ($10 Value Card) es práctica y le permite llevar un registro de su cambio. Puede usarse para pagar cualquier tarifa (adulto, ciudadano mayor, persona con una discapacidad, estudiante y transbordo), y puede compartirse para pagar las tarifas de uno o más pasajeros que suben al mismo tiempo. No tiene que usarse el mismo día, la misma semana ni el mismo mes, y es la tarjeta perfecta para el pasajero que no utiliza el transporte del DDOT habitualmente.<br/>
+ </p>
+
+<p><a href="http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Transporation-Fares" target="_blank">Una lista completa de tarifas y tarjetas para abonar las tarifas para satisfacer sus necesidades de transporte público.</a></p>
+
 summary:   
 
 *******************************************************************************
@@ -29683,6 +30439,11 @@ http://detroitmi.theneighborhoods.org/node/4576
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ما معنى القيمة المقدرة (AV)?
+    answer:  <p dir='rtl'> <a href="http://www.investopedia.com/terms/a/assessedvalue.asp" target="_blank" dir='rtl'>القيمة المقدرة </a>هي عملية تقدير سنوية يتم إجراؤها لتحديد  <a href="http://www.investopedia.com/terms/m/marketvalue.asp" target="_blank" dir='rtl'>القيمة السوقية</a> المعقولة لمنزلك حسب ظروف سوق <a href="http://www.investopedia.com/terms/r/realestate.asp" target="_blank" dir='rtl'>العقارات</a> المحلي السائدة. يتطلب دستور ولاية ميشيغان تقدير قيمة العقارات بشكل موحد ولا يتجاوز 50% من سعر البيع المعتاد، وغالبًا ما يُشار إليه باسم  القيمة النقدية الفعلية. في كل سنة ضريبية، يحدد المخمن المحلي القيمة المقدرة (AV) لكل قطعة أرض من العقارات حسب حالة العقار اعتبارًا من 31 ديسمبر (يوم الضرائب) من السنة السابقة.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29693,6 +30454,11 @@ http://detroitmi.theneighborhoods.org/node/4576
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  মূল্যায়ন করা মূল্য(Assessed Value - AV) কী?
+    answer:  <p> <a href="http://www.investopedia.com/terms/a/assessedvalue.asp" target="_blank">মূল্যায়ন করা মূল্য </a>হল একটি বার্ষিক মূল্যায়ন যা সম্পাদিত হয় আপনার বাড়ির যুক্তিসঙ্গত <a href="http://www.investopedia.com/terms/m/marketvalue.asp" target="_blank">বাজার মূল্য</a> নির্ধারণ করতে, যার ভিত্তি হল বিদ্যমান স্থানীয় <a href="http://www.investopedia.com/terms/r/realestate.asp" target="_blank">ভূসম্পত্তির</a> বাজারের অবস্থা। মিশিগানের সংবিধান(Michigan Constitution)-এ সম্পত্তির অভিন্ন মূল্যায়ন করার এবং সাধারণ বিক্রয়মূল্যের 50% ছাড়িয়ে না যাওয়ার প্রয়োজন, যাকে প্রায়শই  প্রকৃত নগদ মূল্য বলা হয়। প্রতি করবর্ষে স্থানীয় মূল্যায়নকারী আগের বছরের 31 ডিসেম্বর (কর দিবস) সম্পত্তিটির অবস্থা যেমন ছিল তার ভিত্তিতে ভূসম্পত্তির প্রতিটি পার্সেলের মূল্যায়ন করা মূল্য (AV) নির্ধারণ করেন।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29703,6 +30469,11 @@ http://detroitmi.theneighborhoods.org/node/4576
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Qué es la tasación fiscal (AV)?
+    answer:  <p>La <a href="http://www.investopedia.com/terms/a/assessedvalue.asp" target="_blank">tasación fiscal </a>es una estimación anual realizada para decidir el <a href="http://www.investopedia.com/terms/m/marketvalue.asp" target="_blank">valor de mercado</a> razonable de su hogar conforme a las condiciones vigentes del mercado local <a href="http://www.investopedia.com/terms/r/realestate.asp" target="_blank">inmobiliario</a> . La Constitución de Míchigan requiere que la tasación de la propiedad se realice de manera uniforme y no supere el 50 % del precio de venta habitual, frecuentemente denominado  valor real en efectivo. Cada año fiscal, el tasador local determina la tasación fiscal (Assessed Value, AV) de cada parcela de bienes inmuebles de acuerdo con el estado de la propiedad a partir del 31 de diciembre (Día de Impuestos) del año previo.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29713,6 +30484,73 @@ http://detroitmi.theneighborhoods.org/node/501
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ما الأنواع المختلفة لقضايا مخالفات المباني؟
+    answer:  <p dir='rtl'>تكون مخالفات المباني قضايا مدنية. كان يتم معالجتها سابقًا كجنحة جنائية، وكانت - حتى وقت قريب - يتم الفصل فيها في محكمة المنطقة 36. هذه الانتهاكات أصبحت في الغالب جزءًا من تراكم القضايا الكبير في هذه المحكمة، وكذلك لم تُباشَر قضايا كثيرة على نحو فعّال. إلا أن الطريقة الجديدة للتعامل مع انتهاكات الفساد، داخل DAH،صُممت لكي يكون أكثر كفاءةً. وتتضمن القضايا التي تعرض على الإدارة مخالفات لصيانة العقار وتقسيم المناطق والنفايات الصلبة ومراسيم التخلص من النفايات بطرق غير مشروعة.</p>
+
+<p dir='rtl'> </p>
+
+<p dir='rtl'><strong dir='rtl'>صيانة العقارات</strong><br/>
+يتم إصدار إشعارات مخالفات المباني (Blight Violation Notice) من قبل مفتشي البناء والصحة وضباط الشرطة. تتضمن المخالفات في هذه الحالات، ولكن لا تقتصر على، ما يلي:</p>
+
+<ul dir='rtl'><li dir='rtl'>عدم الحصول على شهادة مطابقة مستندات</li>
+	<li dir='rtl'>عدم الحصول على شهادة تسجيل إيجار</li>
+	<li dir='rtl'>إيواء فئران</li>
+	<li dir='rtl'>عدم إزالة الثلج والجليد</li>
+	<li dir='rtl'>مركبات لا يمكن تشغيلها</li>
+	<li dir='rtl'>عدم الحفاظ على المظهر الخارجي للممتلكات</li>
+	<li dir='rtl'>عدم الامتثال لأوامر الطوارئ</li>
+</ul><p dir='rtl'><strong dir='rtl'>تقسيم المناطق</strong><br/>
+يتم إصدار إشعارات مخالفات المباني من قبل مفتشي البناء. تتضمن المخالفات في هذه الحالات، ولكن لا تقتصر على، ما يلي:</p>
+
+<ul dir='rtl'><li dir='rtl'>مخالفة الاستخدام الخاص للأراضي الممنوحة</li>
+	<li dir='rtl'>تغيير استخدام الأراضي بدون تصريح</li>
+	<li dir='rtl'>تغيير استخدام المبنى بدون تصريح</li>
+	<li dir='rtl'>عدم الحصول على شهادة الصيانة المطلوبة التي تحتوي على شروط المنح</li>
+</ul><p dir='rtl'><strong dir='rtl'>النفايات الصلبة والتخلص من النفايات بطرق غير مشروعة</strong><br/>
+يتم إصدار إشعارات مخالفات المباني في هذه الحالات من قبل مفتشي الصحة والبيئة وضباط الشرطة. تتضمن المخالفات في هذه الحالات، ولكن لا تقتصر على، ما يلي:</p>
+
+<ul dir='rtl'><li dir='rtl'>وضع حاويات Courville مبكرًا أو متأخرًا على الرصيف</li>
+	<li dir='rtl'>وضع النفايات الكبيرة بطريقة غير صحيحة</li>
+	<li dir='rtl'>تخزين النفايات الصلبة بطريقة غير صحيحة</li>
+	<li dir='rtl'>مخالفات روث الحيوانات والطيور</li>
+	<li dir='rtl'>التخلص من المخلفات غير القانوني</li>
+</ul>
+    question:  ما العقوبات والغرامات؟
+    answer:  <p dir='rtl'>ستقوم المدينة بكل قوة وعزم بملاحقة المخالفين، وتحصيل الغرامات. يتم تحديد الغرامات لمخالفات محددة في مدونة قوانين مدينة ديترويت وإدراجها في كل إشعار بمخالفات المباني. لا يمكن أن يقوم الموظف المعني بجلسات الاستماع بفرض عقوبة السجن لأي مخالفات. الحد الأقصى للغرامة التي يمكن فرضها هو $10,000.</p>
+
+<p dir='rtl'>إذا تجاهل أحد المواطنين إشعار مخالفات المباني، فسيتم إصدار قرار وأمر بالتخلف معتبرًا المواطن مسؤولاً عن المخالفة المزعومة في إشعار مخالفات المباني.</p>
+
+<p dir='rtl'>سيؤدي عدم دفع الغرامات والرسوم والتكاليف إلى بدء إجراءات التحصيل ضد المخالف، والتي قد تتضمن الحجز على الراتب و/أو فرض امتياز محكوم به على العقار.</p>
+
+    question:  ما طرق الدفع المتاحة؟
+    answer:  <p dir='rtl'>هناك العديد من خيارات الدفع لإشعار مخالفات المباني (BVN). يمكن الدفع بشكل شخصي في إدارة جلسات الاستماع الإدارية (DAH) خلال ساعات العمل، أو بالبريد، أو عبر الهاتف لمدفوعات بطاقات الائتمان. تقبل إدارة جلسات الاستماع الإدارية الدفع النقدي والشيكات الخاصة والحوالات المالية والشيكات المعتمدة وبطاقات VISA وMastercard وDiscovery.</p>
+
+<p dir='rtl'>خصومات الدفع والعقوبات - يلزم السداد في المواعيد:</p>
+
+<ul dir='rtl'><li dir='rtl'>سيتم تخفيض قيمة الغرامة المدفوعة قبل تاريخ جلسة الاستماع المقررة بنسبة 10%.</li>
+	<li dir='rtl'>سيتم زيادة قيمة الغرامة المدفوعة بعد تاريخ جلسة الاستماع المقررة بنسبة 10%.</li>
+</ul><p dir='rtl'>ملاحظة: يحدد تاريخ استلام المدفوعات من قبل إدارة جلسات الاستماع الإدارية ما إذا كان الخصم أو الغرامة ستُطبق.</p>
+
+<p dir='rtl'>الرسوم الإدارية التي يفرضها القانون:<br/>
+هناك رسم إداري صادر بتكليف تشريعي قدره $30 ($20 رسوم إدارية للمدينة و$10 التقدير القضائي للولاية (State Justice)) لمعالجة إشعار مخالفات المباني هذا وإصدار الحكم القضائي.</p>
+
+    question:  كيف يمكنني الاعتراض على إشعار مخالفات المباني (ورقة المخالفة)؟
+    answer:  <p dir='rtl'>يوضح إشعار مخالفات المباني (ورقة المخالفة) المخالفة المحددة وتاريخ ووقت ومكان حدوث المخالفة المزعومة وخيارات الدفع المتعلقة بالغرامة.</p>
+
+<p dir='rtl'> يلزم حضور جلسة الاستماع للاعتراض على المخالفة المزعومة. توضح إشعارات مخالفات المباني أيضًا تاريخ ووقت ومكان جلسة الاستماع المقررة. يجب توجيه الأسئلة إلى الإدارة التي أصدرت المخالفة. إذا كان يُعتقد أن الاستدعاء قد تم إصداره عن طريق الخطأ، فمن المستحسن بشدة أن يتم معالجة جميع المشاكل خلال جلسة الاستماع المقررة. قد تؤدي تبعات تجاهل إشعار مخالفات المباني إلى إصدار قرار لا اعتراض عليه وأمر بالتخلف ضد المخالف المزعوم.</p>
+
+<p dir='rtl'> اتصل بإدارة المباني وهندسة السلامة والبيئة.(BSEED) واطلب التحدث مع أحد مشرفي شعبة صيانة العقارات.</p>
+
+<div class="embedded-entity" dir='rtl'><article data-history-node-id="491" role="article" about="/node/491" class="contact-info token clearfix"><div class="content" dir='rtl'>
+              <article class="contact-item" dir='rtl'><article class="box" dir='rtl'><article class="icon" dir='rtl'><span class="fa fa-phone"></span>
+          </article><article class="contact-info" dir='rtl'><span dir='rtl'>شعبة صيانة العقارات</span>
+<br/><div class="field field--name-field-telephone field--type-telephone field--label-hidden field--items">
+              <div class="field--item" dir='rtl'><a href="tel:%28313%29628-2451" dir='rtl'>(313) 628-2451</a>
+    question:  ماذا يحدث إذا تم تجاهل إشعار مخالفات المباني؟
+    answer:  <p dir='rtl'>إذا لم تحضر جلسة الاستماع الخاصة بك أو تجاهلت إشعار مخالفات المباني، فسيسجل الموظف المعني بجلسات الاستماع قرارًا وأمرًا بالتخلف ضدك، بناءً على المخالفات المزعومة في الإشعار.  يمكن استخدام القرار وأمر التخلف لوضع رهن على العقار الخاص بك، و/أو الحجز على راتبك، و/أو التأثير على الإعفاء الذي تحصل عليه.  عادة ما تطلب المدينة فرض الغرامة القصوى في حالات التخلف إذا كانت المخالفة المزعومة في الإشعار تخضع لمجموعة من الغرامات.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29723,6 +30561,73 @@ http://detroitmi.theneighborhoods.org/node/501
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ক্ষয়ের মামলার বিভিন্ন প্রকারগুলি কী কী?
+    answer:  <p>ক্ষয়ের লঙ্ঘনগুলি দেওয়ানি মামলা। ইতিপূর্বে - সম্প্রতি পর্যন্ত - এগুলিকে ফৌজদারি অপকর্ম হিসেবে প্রক্রিয়া করা হতো এবং 36th District Court-এ বিচার করা হতো। এই ধরণের লঙ্ঘন প্রায়ই আদালতের পাহাড় প্রমাণ জমা কাজের একটি অঙ্গ এবং অনেক মামলা কার্যকরীভাবে অব্যাহত করা হতো না। DAH এর অধীনে ব্লাইট লঙ্ঘন পরিচালনা করার নতুন পদ্ধতি যেন আরও কার্যকর হয় সেই মতো তৈরি করা হয়েছে। বিভাগের কাছে আসা মামলাগুলির মধ্যে পড়ে সম্পত্তির রক্ষণাবেক্ষণ, জোনিং, কঠিন বর্জ্য ও বেআইনি খালাস করার অধ্যাদেশের লঙ্ঘনগুলি।</p>
+
+<p> </p>
+
+<p><strong>সম্পত্তির রক্ষণাবেক্ষণ</strong><br/>
+ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তিগুলি ইমারত ও স্বাস্থ্য পরিদর্শকদের এবং পুলিশ আধিকারিকদের দ্বারা জারি করা হয়। এই মামলাগুলির অন্তর্ভুক্ত হল, কিন্তু তাতেই এগুলি সীমাবদ্ধ নয়:</p>
+
+<ul><li>সম্মতির শংসাপত্র না নেওয়া</li>
+	<li>ভাড়ার রেজিস্ট্রেশন না নেওয়া</li>
+	<li>ইঁদুরের আশ্রয়স্থল</li>
+	<li>বরফ অপসারণ না করা</li>
+	<li>নিষ্ক্রিয় যানবাহন</li>
+	<li>সম্পত্তির বহিরাঙ্গন রক্ষণাবেক্ষণ না করা</li>
+	<li>জরুরি আদেশ মেনে না চলা</li>
+</ul><p><strong>জোনিং</strong><br/>
+ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তিগুলি ইমারত পরিদর্শকদের দ্বারা জারি করা হয়। এই মামলাগুলির অন্তর্ভুক্ত হল, কিন্তু তাতেই এগুলি সীমাবদ্ধ নয়:</p>
+
+<ul><li>বিশেষ জমির অনুমতির লঙ্ঘন</li>
+	<li>অনুমতি ছাড়া জমি ব্যবহারের পরিবর্তন</li>
+	<li>অনুমতি ছাড়া ভবন ব্যবহারের পরিবর্তন</li>
+	<li>সম্পত্তি রক্ষণাবেক্ষণের অবস্থা ঠিক আছে বলা আছে এমন প্রয়োজনীয় শংসাপত্র না পাওয়া</li>
+</ul><p><strong>কঠিন বর্জ্য ও বেআইনি খালাস করা</strong><br/>
+ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তিগুলি স্বাস্থ্য ও পরিবেশ পরিদর্শকদের এবং পুলিশ আধিকারিকদের দ্বারা জারি করা হয়। এই মামলাগুলির অন্তর্ভুক্ত হল, কিন্তু তাতেই এগুলি সীমাবদ্ধ নয়:</p>
+
+<ul><li>ফুটপাতের কিনারায় করভিল পাত্র আগে বা দেরিতে রাখা</li>
+	<li>অনেক বর্জ্য ইচ্ছাকৃতভাবে জমা করা</li>
+	<li>কঠিন বর্জ্য অনুপযুক্তভাবে জমা করা</li>
+	<li>পশু পাখির বিষ্ঠা সংক্রান্ত লঙ্ঘন</li>
+	<li>অবৈধভাবে জমা করা</li>
+</ul>
+    question:  কতটা শাস্তি দেওয়া ও জরিমানা করা হয়?
+    answer:  <p>সিটি লঙ্ঘনকারীদের পিছনে এবং জরিমানা সংগ্রহ করতে সক্রিয়ভাবে ও আগ বাড়িয়ে লেগে থাকবে। সুনির্দিষ্ট লঙ্ঘনের জরিমানাগুলির রূপরেখা ডেট্রয়েট সিটি কোড-এ দেওয়া রয়েছে এবং ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তিগুলির প্রতিটিতে তালিকাভুক্ত রয়েছে। শুনানি আধিকারিকগণ কোনো লঙ্ঘনকারীর উপর কারাদণ্ড চাপিয়ে দিতে পারবেন না। সর্বাধিক আরোপযোগ্য জরিমানা হল $10,000।</p>
+
+<p>কোনো নাগরিক ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষা করলে সেই নাগরিককে অভিযোগ করা ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি লঙ্ঘন করার জন্য দায়ী করে একটি সিদ্ধান্ত ও অনুপস্থিতির আদেশ জারি করা হবে।</p>
+
+<p>জরিমানা, ফি ও খরচ প্রদানের ব্যর্থ হওয়ার ফলে লঙ্ঘনকারীর বিরুদ্ধে সংগ্রহের ব্যবস্থা গ্রহণ করা শুরু করা হবে, যার মধ্যে পারিশ্রমিক বাজেয়াপ্ত করা এবং/অথবা সম্পত্তির উপর রায়ের পূর্বস্বত্ব স্থাপন করা থাকতে পারে।</p>
+
+    question:  উপলব্ধ পেমেন্ট পদ্ধতিগুলি কী কী?
+    answer:  <p>ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি (BVN) এর পেমেন্টের বিভিন্ন বিকল্প রয়েছে। প্রশাসনিক শুনানি বিভাগ (Department of Administrative Hearings - DAH)-এ কাজের ঘণ্টার মধ্যে সশরীরে, ডাকযোগে বা ক্রেডিট কার্ড মারফৎ পেমেন্টের ক্ষেত্রে টেলিফোনের মাধ্যমে পেমেন্ট করা যাবে। DAH নগদ, ব্যক্তিগত চেক, মানি অর্ডার, শংসিত চেক এবং VISA, Mastercard ও Discovery কার্ড গ্রহণ করে।</p>
+
+<p>পেমেন্টে ছাড় এবং শাস্তি - সময়মতো পেমেন্ট অপরিহার্য:</p>
+
+<ul><li>নির্ধারিত শুনানির তারিখের আগে জরিমানা প্রদান করলে তা 10% কমিয়ে দেওয়া হবে</li>
+	<li>নির্ধারিত শুনানির তারিখের পড়ে জরিমানা প্রদান করলে তা 10% বাড়িয়ে দেওয়া হবে</li>
+</ul><p>দ্রষ্টব্য: DAH দ্বারা প্রদত্ত অর্থ গ্রহণের তারিখ প্রযোজ্য ছাড় বা শাস্তি নির্ধারণ করবে।</p>
+
+<p>আইনের আদেশানুসারে প্রশাসনিক ফি:<br/>
+প্রক্রিয়াকরণের ও এই ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তির বিচারের জন্য একটি আইনত বাধ্যতামূলক $30 প্রশাসনিক ফি ($20 সিটির প্রশাসনিক ফি ও $10.00 স্টেটের বিচার মূল্যায়ন) রয়েছে।</p>
+
+    question:  আমি কীভাবে ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি (টিকিট) এর বিরোধিতা করবো?
+    answer:  <p>ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি (টিকিট)-তে নির্দিষ্ট লঙ্ঘন, তারিখ, সময় ও অভিযোগে বর্ণিত লঙ্ঘন ঘটার স্থান এবং জরিমানা সংক্রান্ত পেমেন্টের বিকল্পগুলি বলা থাকে।</p>
+
+<p> অভিযোগে বর্ণিত লঙ্ঘনের বিরোধিতা করার জন্য শুনানিতে উপস্থিত থাকতে হয়। ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তিতে নির্ধারিত শুনানির তারিখ, সময় ও স্থানও দেওয়া থাকে। যে বিভাগ লঙ্ঘন জারি করেছে প্রশ্নগুলি তাদেরকেই করা আবশ্যক। এই তলব ভুল করে করা হয়েছে বলে মনে করা হলে নির্ধারিত শুনানিতে যাবতীয় উদ্বেগের সমাধান করার জন্য দৃঢ়ভাবে সুপারিশ করা হচ্ছে। ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষার পরিণামে অভিযুক্ত লঙ্ঘনকারীর বিরুদ্ধে বিনা প্রতিদ্বন্দ্বিতায় সিদ্ধান্ত ও অনুপস্থিতির আদেশ জারি করা হতে পারে।</p>
+
+<p> ইমারত, নিরাপত্তা ইঞ্জিনিয়ারিং ও পরিবেশ বিভাগ(Buildings, Safety Engineering and Environmental Department - BSEED) এর সঙ্গে যোগাযোগ করুন ও সম্পত্তি রক্ষণাবেক্ষণ শাখা(Property Maintenance Division)-র সুপারভাইজারের সঙ্গে কথা বলতে চান।</p>
+
+<div class="embedded-entity"><article data-history-node-id="491" role="article" about="/node/491" class="contact-info token clearfix"><div class="content">
+              <article class="contact-item"><article class="box"><article class="icon"><span class="fa fa-phone"></span>
+          </article><article class="contact-info"><span>সম্পত্তি রক্ষণাবেক্ষণ শাখা</span>
+<br/><div class="field field--name-field-telephone field--type-telephone field--label-hidden field--items">
+              <div class="field--item"><a href="tel:%28313%29628-2451">(313) 628-2451</a>
+    question:  ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষা করা হলে কী হবে?
+    answer:  <p>আপনি শুনানিতে উপস্থিত না হলে বা ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষা করলে শুনানি আধিকারিক বিজ্ঞপ্তিতে করা লঙ্ঘনের অভিযোগের ভিত্তিতে আপনার বিরুদ্ধে একটি সিদ্ধান্ত ও অনুপস্থিতির আদেশ জারি করবেন।  কোনো সিদ্ধান্ত ও অনুপস্থিতির আদেশ আপনার সম্পত্তির উপর পূর্বস্বত্ব স্থাপন করতে, আপনার মজুরী বাজেয়াপ্ত করতে এবং/অথবা আপনার ক্রেডিটকে প্রভাবিত করতে ব্যবহার করা হতে পারে।  বিজ্ঞপ্তিতে অভিযোগ করা লঙ্ঘনের জন্য বড়ো পরিসরের জরিমানার দায় থাকলে অনুপস্থিতির ক্ষেত্রে সিটি সাধারণতঃ সর্বাধিক জরিমানা আরোপ করার অনুরোধ করে।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29733,6 +30638,73 @@ http://detroitmi.theneighborhoods.org/node/501
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ¿Cuáles son los diferentes tipos de casos de deterioro?
+    answer:  <p>Las violaciones por deterioro son casos civiles. Anteriormente se procesaban como delitos penales menores y, hasta hace poco, eran resueltos por el Tribunal de Distrito 36 (36th District Court). Estas violaciones solían acumularse y quedaba una gran cantidad de casos pendientes en dicho tribunal, por lo que muchos de ellos no se procesaban efectivamente. El nuevo método de abordar las violaciones por deterioro, a cargo del DAH, fue diseñado para ser más eficaz. Los casos que se presentan ante el Departamento incluyen violaciones de ordenanzas en materia de mantenimiento de la propiedad, zonificación, residuos sólidos y vertidos ilegales.</p>
+
+<p> </p>
+
+<p><strong>MANTENIMIENTO DE LA PROPIEDAD</strong><br/>
+Las Notificaciones de violación por deterioro son emitidas por inspectores de construcción y de salud, y por oficiales de policía. Las violaciones en estos casos incluyen, entre otras, las siguientes:</p>
+
+<ul><li>No obtener el certificado de cumplimiento</li>
+	<li>No obtener un certificado de registro de alquiler</li>
+	<li>Refugio de ratas</li>
+	<li>No retirar la nieve y el hielo</li>
+	<li>Vehículos inoperables</li>
+	<li>No mantener el exterior de la propiedad</li>
+	<li>No cumplir con órdenes de emergencia</li>
+</ul><p><strong>ZONIFICACIÓN</strong><br/>
+Las Notificaciones de violación por deterioro son emitidas por inspectores de edificios. Las violaciones en estos casos incluyen, entre otras, las siguientes:</p>
+
+<ul><li>Violaciones de permisos especiales de uso de terrenos</li>
+	<li>Cambio en el uso de terrenos sin un permiso</li>
+	<li>Cambio en el uso de edificios sin un permiso</li>
+	<li>No obtener el certificado requerido de mantenimiento de las condiciones de la subvención</li>
+</ul><p><strong>RESIDUOS SÓLIDOS Y VERTIDO ILEGAL</strong><br/>
+En estos casos, las Notificaciones de violación por deterioro son emitidas por inspectores ambientales y de salud, y por oficiales de policía. Las violaciones en estos casos incluyen, entre otras, las siguientes:</p>
+
+<ul><li>Colocación anticipada o tardía de contenedores de Courville en bordillo</li>
+	<li>Disposición inadecuada de los residuos a granel</li>
+	<li>Almacenamiento inadecuado de los residuos sólidos</li>
+	<li>Violaciones por excremento de animales y aves</li>
+	<li>Vertido ilegal</li>
+</ul>
+    question:  ¿Cuáles son las sanciones y las multas?
+    answer:  <p>La Ciudad hará un seguimiento de forma activa y enérgica tanto de los infractores como del cobro de las multas. Las multas se describen según las violaciones específicas en el Código de la Ciudad de Detroit (Detroit City Code) y se enumeran en cada Notificación de violación por deterioro. Los funcionarios de las audiencias no pueden imponer la pena de prisión para ninguna violación. La multa máxima que puede imponerse es de $10,000.</p>
+
+<p>Si un ciudadano ignora una Notificación de violación por deterioro, se tomará una decisión y se emitirá una orden de incumplimiento donde se determinará que el ciudadano es responsable de la violación alegada en la Notificación de violación por deterioro.</p>
+
+<p>Si no se pagan las multas, las tarifas y los costos, se iniciarán acciones de cobro contra el infractor, que pueden incluir el embargo de salarios o gravámenes por fallo impuestos sobre la propiedad.</p>
+
+    question:  ¿Cuáles son los métodos de pago disponibles?
+    answer:  <p>Hay varias opciones de pago para una Notificación de violación por deterioro (Blight Violation Notice, BVN). Los pagos pueden realizarse en persona en el Departamento de Audiencias Administrativas (Department of Administrative Hearings, DAH) durante el horario de atención, por correo o por teléfono para los pagos con tarjeta de crédito. El DAH acepta dinero en efectivo, cheques personales, órdenes de pago, cheques certificados, y tarjetas VISA, Mastercard y Discovery.</p>
+
+<p>Descuento en el pago y sanciones - El pago puntual es esencial:</p>
+
+<ul><li>Una MULTA pagada ANTES de la fecha de la audiencia programada tendrá una reducción del 10 %</li>
+	<li>Una MULTA pagada DESPUÉS de la fecha de la audiencia programada tendrá un aumento del 10 %</li>
+</ul><p>NOTA: Se determina si se aplica un descuento o una sanción en función de la fecha de la recepción del pago por parte del DAH.</p>
+
+<p>Tarifa administrativa establecida por ley:<br/>
+Hay una tarifa administrativa de $30 establecida legislativamente (tarifa administrativa de la Ciudad de $20 y evaluación de la Justicia Estatal de $10.00) para el procesamiento y la adjudicación de esta Notificación de violación por deterioro.</p>
+
+    question:  ¿Cómo refuto una Notificación de violación por deterioro (multa)?
+    answer:  <p>La Notificación de violación por deterioro (multa) estipula la violación específica, la fecha, la hora y el lugar en que tuvo lugar la violación alegada, y las opciones de pago en relación con la multa.</p>
+
+<p> Es necesario comparecer en la audiencia para objetar la violación alegada. Las Notificaciones de violación por deterioro también indican la fecha, la hora y el lugar de la audiencia programada. Las preguntas deben dirigirse al departamento que emitió la violación. Si se cree que la citación fue emitida por error, se recomienda enfáticamente abordar todas las inquietudes durante la audiencia programada. Las consecuencias de ignorar una Notificación de violación por deterioro pueden dar lugar a un fallo no objetado y a la emisión de una declaración de rebeldía contra el presunto infractor.</p>
+
+<p> Póngase en contacto con el Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED) y pida hablar con el supervisor de la División de Mantenimiento de Propiedades (Property Maintenance Division).</p>
+
+<div class="embedded-entity"><article data-history-node-id="491" role="article" about="/node/491" class="contact-info token clearfix"><div class="content">
+              <article class="contact-item"><article class="box"><article class="icon"><span class="fa fa-phone"></span>
+          </article><article class="contact-info"><span>División de Mantenimiento de Propiedades (Property Maintenance Division)</span>
+<br/><div class="field field--name-field-telephone field--type-telephone field--label-hidden field--items">
+              <div class="field--item"><a href="tel:%28313%29628-2451">(313) 628-2451</a>
+    question:  ¿Qué sucede si se ignora una Notificación de violación por deterioro?
+    answer:  <p>Si no comparece en su audiencia o ignora una Notificación de violación por deterioro, un funcionario de audiencias emitirá un fallo y una declaración de rebeldía en su contra, conforme a las violaciones alegadas en la Notificación.  Un fallo y una declaración de rebeldía pueden usarse para imponer un gravamen sobre su propiedad, embargar su salario o afectar su crédito.  La Ciudad habitualmente solicita que se imponga la multa máxima en cuestiones de incumplimiento si la violación alegada en la notificación se encontraba sujeta a un rango de multas.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29743,6 +30715,10 @@ http://detroitmi.theneighborhoods.org/node/6476
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  ضريبة الدخل على الرياضيين غير المقيمين للفرق الرياضية الزائرة
+    answer:  <div class="embedded-entity" dir='rtl'><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/income-tax-non-resident-athletes" hreflang="en" dir='rtl'>ضريبة الدخل على الرياضيين غير المقيمين </a>
 summary:   
 
 *******************************************************************************
@@ -29753,6 +30729,10 @@ http://detroitmi.theneighborhoods.org/node/6476
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  আগত অ্যাথলেটিক্স দলগুলির অনাবাসী অ্যাথলিটদের আয়কর
+    answer:  <div class="embedded-entity"><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/income-tax-non-resident-athletes" hreflang="en">অনাবাসী অ্যাথলিটদের আয়কর </a>
 summary:   
 
 *******************************************************************************
@@ -29763,6 +30743,10 @@ http://detroitmi.theneighborhoods.org/node/6476
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  Impuesto sobre los ingresos: deportistas no residentes de equipos deportivos visitantes
+    answer:  <div class="embedded-entity"><article class="media media-document view-mode-browser-teaser media--type- media--unpublished"><div class="field field--name-name field--type-string field--label-hidden field--item"><a href="/document/income-tax-non-resident-athletes" hreflang="en">Impuesto sobre los ingresos: deportistas no residentes </a>
 summary:   
 
 *******************************************************************************
@@ -29773,6 +30757,53 @@ http://detroitmi.theneighborhoods.org/node/9466
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  أنواع المخالفات
+    answer:  <p dir='rtl'>تقوم شعبة الإنفاذ البيئي التابعة لإدارة الأشغال العامة بإنفاذ قوانين الفصل 9 (صيانة العقارات) والفصل 22 (النفايات الصلبة) وإصدار مخالفات لما يلي:</p>
+
+<ul dir='rtl'><li dir='rtl'>الأعشاب والحشائش العالية</li>
+	<li dir='rtl'>إزالة الثلوج والجليد</li>
+	<li dir='rtl'>مركبات لا يمكن تشغيلها</li>
+	<li dir='rtl'>وضع حاويات Courville بشكل غير صحيح</li>
+	<li dir='rtl'>إيواء فئران</li>
+</ul><p dir='rtl'>توفر شعبة الإنفاذ البيئي التابعة لإدارة الأشغال العامة أنشطة التوعية والتدريب المجتمعية لتعريف المقيمين بمتطلبات المراسيم بشأن تخزين النفايات الصلبة ومعالجتها ونقلها.</p>
+
+<p dir='rtl'> يقوم مفتشو الإنفاذ البيئي بالفحوصات وأنشطة التثقيف وحماية المدينة ضد تفشي القوارض في البيئة.  من خلال برنامج تأثير القوارض (Rodent Impact)، تقوم شعبة الإنفاذ البيئي بتثقيف العامة بشأن طرق تقليل أعداد القوارض.</p>
+
+<p dir='rtl'> لطلب خدمات الإنفاذ البيئي، يرجى الاتصال على <a href="الهاتف:(313) 876-0974">(313) 876-0974</a> .</p>
+
+    question:  العقوبات والغرامات
+    answer:  <p dir='rtl'>ستقوم المدينة بكل قوة وعزم بملاحقة المخالفين، وتحصيل الغرامات. يتم تحديد الغرامات لمخالفات محددة في مدونة قوانين مدينة ديترويت وإدراجها في كل إشعار بمخالفات المباني. لا يمكن أن يقوم الموظف المعني بجلسات الاستماع بفرض عقوبة السجن لأي مخالفات. الحد الأقصى للغرامة التي يمكن فرضها هو $10,000.</p>
+
+<p dir='rtl'>إذا تجاهل أحد المواطنين إشعار مخالفات المباني، فسيتم إصدار قرار وأمر بالتخلف معتبرًا المواطن مسؤولاً عن المخالفة المزعومة في إشعار مخالفات المباني.</p>
+
+<p dir='rtl'>سيؤدي عدم دفع الغرامات والرسوم والتكاليف إلى بدء إجراءات التحصيل ضد المخالف، والتي قد تتضمن الحجز على الراتب و/أو فرض امتياز محكوم به على العقار.</p>
+
+    question:  طرق الدفع المتاحة
+    answer:  <p dir='rtl'>هناك العديد من خيارات الدفع لإشعار مخالفات المباني (BVN). يمكن الدفع بشكل شخصي في إدارة جلسات الاستماع الإدارية (DAH) خلال ساعات العمل، أو بالبريد، أو عبر الهاتف لمدفوعات بطاقات الائتمان. تقبل إدارة جلسات الاستماع الإدارية الدفع النقدي والشيكات الخاصة والحوالات المالية والشيكات المعتمدة وبطاقات VISA وMastercard وDiscovery.</p>
+
+<p dir='rtl'>يلزم السداد في المواعيد.</p>
+
+<p dir='rtl'>خصومات الدفع والعقوبات:</p>
+
+<ul dir='rtl'><li dir='rtl'>سيتم تخفيض قيمة الغرامة المدفوعة قبل تاريخ جلسة الاستماع المقررة بنسبة 10%.</li>
+	<li dir='rtl'>سيتم زيادة قيمة الغرامة المدفوعة بعد تاريخ جلسة الاستماع المقررة بنسبة 10%.</li>
+</ul><p dir='rtl'>ملاحظة: يحدد تاريخ استلام المدفوعات من قبل إدارة جلسات الاستماع الإدارية ما إذا كان الخصم أو الغرامة ستُطبق.</p>
+
+<p dir='rtl'>الرسوم الإدارية التي يفرضها القانون<br/>
+ هناك رسم إداري صادر بتكليف تشريعي قدره $30 ($20 رسوم إدارية للمدينة و$10 التقدير القضائي للولاية (State Justice)) لمعالجة إشعار مخالفات المباني هذا وإصدار الحكم القضائي.</p>
+
+    question:  كيف يمكنني الاعتراض على إشعار مخالفات المباني (ورقة المخالفة)؟
+    answer:  <p dir='rtl'>يوضح إشعار مخالفات المباني (ورقة المخالفة) المخالفة المحددة وتاريخ ووقت ومكان حدوث المخالفة المزعومة وخيارات الدفع المتعلقة بالغرامة.</p>
+
+<p dir='rtl'> يلزم حضور جلسة الاستماع للاعتراض على المخالفة المزعومة. توضح إشعارات مخالفات المباني أيضًا تاريخ ووقت ومكان جلسة الاستماع المقررة. يجب توجيه الأسئلة إلى الإدارة التي أصدرت المخالفة. إذا كان يُعتقد أن الاستدعاء قد تم إصداره عن طريق الخطأ، فمن المستحسن بشدة أن يتم معالجة جميع المشاكل خلال جلسة الاستماع المقررة. قد تؤدي تبعات تجاهل إشعار مخالفات المباني إلى إصدار قرار لا اعتراض عليه وأمر بالتخلف ضد المخالف المزعوم.</p>
+
+<p dir='rtl'> اتصل بإدارة المباني وهندسة السلامة والبيئة.(BSEED) على الرقم <a href="tel:(313)628-2451" dir='rtl'>(313) 628-2451</a> واطلب التحدث مع أحد مشرفي شعبة صيانة العقارات.</p>
+
+    question:  ماذا يحدث إذا تم تجاهل إشعار مخالفات المباني؟
+    answer:  <p dir='rtl'>إذا لم تحضر جلسة الاستماع الخاصة بك أو تجاهلت إشعار مخالفات المباني، فسيسجل الموظف المعني بجلسات الاستماع قرارًا وأمرًا بالتخلف ضدك، بناءً على المخالفات المزعومة في الإشعار.  يمكن استخدام القرار وأمر التخلف لوضع رهن على العقار الخاص بك، و/أو الحجز على راتبك، و/أو التأثير على الإعفاء الذي تحصل عليه.  عادة ما تطلب المدينة فرض الغرامة القصوى في حالات التخلف إذا كانت المخالفة المزعومة في الإشعار تخضع لمجموعة من الغرامات.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29783,6 +30814,53 @@ http://detroitmi.theneighborhoods.org/node/9466
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  লঙ্ঘনের প্রকারগুলি
+    answer:  <p>DPW পরিবেশগত বলবৎকরণ উপশাখা অধ্যায় 9 (সম্পত্তি রক্ষণাবেক্ষণ) ও অধ্যায় 22 (কঠিন বর্জ্য) উভয় বিধিকেই বলবৎ করে এবং এর জন্য লঙ্ঘন জারি করে:</p>
+
+<ul><li>বড়ো বড়ো আগাছা ও ঘাস</li>
+	<li>তুষার ও বরফ সরানো</li>
+	<li>চালানো যাবে না এমন যানবাহন</li>
+	<li>কারভিল পাত্রগুলি ভুলভাবে রাখা</li>
+	<li>ইঁদুরের আশ্রয়স্থল</li>
+</ul><p>DPW'র পরিবেশগত বলবৎকরণ উপশাখা বাসিন্দাদের কঠিন বর্জ্য মজুতকরণ, নাড়াচাড়া করা ও পরিবহণের অধ্যাদেশের প্রয়োজনীয়তার সঙ্গে পরিচিত করতে কমিউনিটি প্রচার ও প্রশিক্ষণের কার্যকলাপ প্রদান করে।</p>
+
+<p> পরিবেশগত বলবৎকরণ পরিদর্শকগণ সিটিকে পরিবেশগত তীক্ষ্ণদন্ত প্রাণীদের উপদ্রবের বিরুদ্ধে তদন্ত করেন, শিক্ষাদান করেন ও রক্ষা করেন।  তীক্ষ্ণদন্ত প্রাণীদের প্রভাব প্রোগ্রাম এর মাধ্যমে পরিবেশগত বলবৎকরণ জনগণকে তীক্ষ্ণদন্ত প্রাণীদের সংখ্যা কমানোর উপায় সম্পর্কে শিক্ষাদান করে।</p>
+
+<p> পরিবেশগত বলবৎকরণ পরিষেবার অনুরোধ করতে অনুগ্রহ করে ফোন করুন <a href="ফোন:(313) 876-0974">(313) 876-0974</a> ।</p>
+
+    question:  শাস্তি ও জরিমানা
+    answer:  <p>সিটি লঙ্ঘনকারীদের পিছনে এবং জরিমানা সংগ্রহ করতে সক্রিয়ভাবে ও আগ বাড়িয়ে লেগে থাকবে। সুনির্দিষ্ট লঙ্ঘনের জরিমানাগুলির রূপরেখা ডেট্রয়েট সিটি কোড-এ দেওয়া রয়েছে এবং ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তিগুলির প্রতিটিতে তালিকাভুক্ত রয়েছে। শুনানি আধিকারিকগণ কোনো লঙ্ঘনকারীর উপর কারাদণ্ড চাপিয়ে দিতে পারবেন না। সর্বাধিক আরোপযোগ্য জরিমানা হল $10,000।</p>
+
+<p>কোনো নাগরিক ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষা করলে সেই নাগরিককে অভিযোগ করা ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি লঙ্ঘন করার জন্য দায়ী করে একটি সিদ্ধান্ত ও অনুপস্থিতির আদেশ জারি করা হবে।</p>
+
+<p>জরিমানা, ফি ও খরচ প্রদানের ব্যর্থ হওয়ার ফলে লঙ্ঘনকারীর বিরুদ্ধে সংগ্রহের ব্যবস্থা গ্রহণ করা শুরু করা হবে, যার মধ্যে পারিশ্রমিক বাজেয়াপ্ত করা এবং/অথবা সম্পত্তির উপর রায়ের পূর্বস্বত্ব স্থাপন করা থাকতে পারে।</p>
+
+    question:  পেমেন্টের উপলব্ধ পদ্ধতিগুলি
+    answer:  <p>ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি (BVN) এর পেমেন্টের বিভিন্ন বিকল্প রয়েছে। প্রশাসনিক শুনানি বিভাগ (Department of Administrative Hearings - DAH)-এ কাজের ঘণ্টার মধ্যে সশরীরে, ডাকযোগে বা ক্রেডিট কার্ড মারফৎ পেমেন্টের ক্ষেত্রে টেলিফোনের মাধ্যমে পেমেন্ট করা যাবে। DAH নগদ, ব্যক্তিগত চেক, মানি অর্ডার, শংসিত চেক এবং VISA, Mastercard ও Discovery কার্ড গ্রহণ করে।</p>
+
+<p>সময়মতো পেমেন্ট অপরিহার্য।</p>
+
+<p>পেমেন্টে ছাড় ও শাস্তি:</p>
+
+<ul><li>নির্ধারিত শুনানির তারিখের আগে জরিমানা প্রদান করলে তা 10% কমিয়ে দেওয়া হবে</li>
+	<li>নির্ধারিত শুনানির তারিখের পড়ে জরিমানা প্রদান করলে তা 10% বাড়িয়ে দেওয়া হবে</li>
+</ul><p>দ্রষ্টব্য: DAH দ্বারা প্রদত্ত অর্থ গ্রহণের তারিখ প্রযোজ্য ছাড় বা শাস্তি নির্ধারণ করবে।</p>
+
+<p>আইনের আদেশানুসারে প্রশাসনিক ফি<br/>
+ প্রক্রিয়াকরণের ও এই ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তির বিচারের জন্য একটি আইনত বাধ্যতামূলক $30 প্রশাসনিক ফি ($20 সিটির প্রশাসনিক ফি ও $10.00 স্টেটের বিচার মূল্যায়ন) রয়েছে।</p>
+
+    question:  আমি কীভাবে ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি (টিকিট) এর বিরোধিতা করবো?
+    answer:  <p>ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি (টিকিট)-তে নির্দিষ্ট লঙ্ঘন, তারিখ, সময় ও অভিযোগে বর্ণিত লঙ্ঘন ঘটার স্থান এবং জরিমানা সংক্রান্ত পেমেন্টের বিকল্পগুলি বলা থাকে।</p>
+
+<p> অভিযোগে বর্ণিত লঙ্ঘনের বিরোধিতা করার জন্য শুনানিতে উপস্থিত থাকতে হয়। ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তিতে নির্ধারিত শুনানির তারিখ, সময় ও স্থানও দেওয়া থাকে। যে বিভাগ লঙ্ঘন জারি করেছে প্রশ্নগুলি তাদেরকেই করা আবশ্যক। এই তলব ভুল করে করা হয়েছে বলে মনে করা হলে নির্ধারিত শুনানিতে যাবতীয় উদ্বেগের সমাধান করার জন্য দৃঢ়ভাবে সুপারিশ করা হচ্ছে। ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষার পরিণামে অভিযুক্ত লঙ্ঘনকারীর বিরুদ্ধে বিনা প্রতিদ্বন্দ্বিতায় সিদ্ধান্ত ও অনুপস্থিতির আদেশ জারি করা হতে পারে।</p>
+
+<p> ইমারত, নিরাপত্তা ইঞ্জিনিয়ারিং ও পরিবেশ বিভাগ(BSE&amp;ED) এর সঙ্গে <a href="tel:(313)628-2451">(313) 628-2451</a> নম্বরে  যোগাযোগ করুন ও সম্পত্তি রক্ষণাবেক্ষণ শাখার সুপারভাইজারের সঙ্গে কথা বলতে চান।</p>
+
+    question:  কোনো ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষা করলে কী হবে?
+    answer:  <p>আপনি শুনানিতে উপস্থিত না হলে বা ক্ষয়ের লঙ্ঘনের বিজ্ঞপ্তি উপেক্ষা করলে শুনানি আধিকারিক বিজ্ঞপ্তিতে করা লঙ্ঘনের অভিযোগের ভিত্তিতে আপনার বিরুদ্ধে একটি সিদ্ধান্ত ও অনুপস্থিতির আদেশ জারি করবেন।  কোনো সিদ্ধান্ত ও অনুপস্থিতির আদেশ আপনার সম্পত্তির উপর পূর্বস্বত্ব স্থাপন করতে, আপনার মজুরী বাজেয়াপ্ত করতে এবং/অথবা আপনার ক্রেডিটকে প্রভাবিত করতে ব্যবহার করা হতে পারে।  বিজ্ঞপ্তিতে অভিযোগ করা লঙ্ঘনের জন্য বড়ো পরিসরের জরিমানার দায় থাকলে অনুপস্থিতির ক্ষেত্রে সিটি সাধারণতঃ সর্বাধিক জরিমানা আরোপ করার অনুরোধ করে।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29793,6 +30871,53 @@ http://detroitmi.theneighborhoods.org/node/9466
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  Tipos de violaciones
+    answer:  <p>La Sección de Cumplimiento Ambiental (Environmental Enforcement Section) del Departamento de Obras Públicas (Department of Public Works, DPW) exige el cumplimiento del capítulo 9 (Mantenimiento de propiedades) y del capítulo 22 (Residuos sólidos) de los códigos y establece las violaciones para lo siguiente:</p>
+
+<ul><li>Maleza y césped altos</li>
+	<li>Retiro de la nieve y del hielo</li>
+	<li>Vehículos inoperables</li>
+	<li>Colocación inapropiada de contenedores de Courville</li>
+	<li>Refugio de ratas</li>
+</ul><p>La Sección de Cumplimiento Ambiental del DPW ofrece actividades de difusión y capacitación para que los residentes se familiaricen con los requisitos de las ordenanzas sobre el almacenamiento, la manipulación y el transporte de residuos sólidos.</p>
+
+<p> Los inspectores de Cumplimiento Ambiental investigan sobre las infestaciones ambientales de roedores, educan a la ciudad acerca de estas y la protegen.  A través del Programa Impacto de los Roedores, la Sección de Cumplimiento Ambiental educa al público sobre las formas de reducir las poblaciones de roedores.</p>
+
+<p> Para solicitar los servicios de la Sección de Cumplimiento Ambiental, llame al <a href="teléfono: (313) 876-0974">(313) 876-0974</a> .</p>
+
+    question:  Sanciones y multas
+    answer:  <p>La Ciudad hará un seguimiento de forma activa y enérgica tanto de los infractores como del cobro de las multas. Las multas se describen según las violaciones específicas en el Código de la Ciudad de Detroit (Detroit City Code) y se enumeran en cada Notificación de violación por deterioro. Los funcionarios de las audiencias no pueden imponer la pena de prisión para ninguna violación. La multa máxima que puede imponerse es de $10,000.</p>
+
+<p>Si un ciudadano ignora una Notificación de violación por deterioro, se tomará una decisión y se emitirá una orden de incumplimiento donde se determinará que el ciudadano es responsable de la violación alegada en la Notificación de violación por deterioro.</p>
+
+<p>Si no se pagan las multas, las tarifas y los costos, se iniciarán acciones de cobro contra el infractor, que pueden incluir el embargo de salarios o gravámenes por fallo impuestos sobre la propiedad.</p>
+
+    question:  Métodos de pago disponibles
+    answer:  <p>Hay varias opciones de pago para una Notificación de violación por deterioro (Blight Violation Notice, BVN). Los pagos pueden realizarse en persona en el Departamento de Audiencias Administrativas (Department of Administrative Hearings, DAH) durante el horario de atención, por correo o por teléfono para los pagos con tarjeta de crédito. El DAH acepta dinero en efectivo, cheques personales, órdenes de pago, cheques certificados, y tarjetas VISA, Mastercard y Discovery.</p>
+
+<p>El pago puntual es esencial.</p>
+
+<p>Descuento en el pago y sanciones:</p>
+
+<ul><li>Una MULTA pagada ANTES de la fecha de la audiencia programada tendrá una reducción del 10 %</li>
+	<li>Una MULTA pagada DESPUÉS de la fecha de la audiencia programada tendrá un aumento del 10 %</li>
+</ul><p>NOTA: Se determina si se aplica un descuento o una sanción en función de la fecha de la recepción del pago por parte del DAH.</p>
+
+<p>Tarifa administrativa establecida por ley:<br/>
+ Hay una tarifa administrativa de $30 establecida legislativamente (tarifa administrativa de la Ciudad de $20 y evaluación de la Justicia Estatal de $10.00) para el procesamiento y la adjudicación de esta Notificación de violación por deterioro.</p>
+
+    question:  ¿Cómo refuto una Notificación de violación por deterioro (multa)?
+    answer:  <p>La Notificación de violación por deterioro (multa) estipula la violación específica, la fecha, la hora y el lugar en que tuvo lugar la violación alegada, y las opciones de pago en relación con la multa.</p>
+
+<p> Es necesario comparecer en la audiencia para objetar la violación alegada. Las Notificaciones de violación por deterioro también indican la fecha, la hora y el lugar de la audiencia programada. Las preguntas deben dirigirse al departamento que emitió la violación. Si se cree que la citación fue emitida por error, se recomienda enfáticamente abordar todas las inquietudes durante la audiencia programada. Las consecuencias de ignorar una Notificación de violación por deterioro pueden dar lugar a un fallo no objetado y a la emisión de una declaración de rebeldía contra el presunto infractor.</p>
+
+<p> Póngase en contacto con el Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSE&amp;ED) llamando al <a href="tel:(313)628-2451">(313) 628-2451</a> y pida hablar con el supervisor de la División de Mantenimiento de Propiedades (Property Maintenance Division).</p>
+
+    question:  ¿Qué sucede si se ignora una Notificación de violación por deterioro?
+    answer:  <p>Si no comparece en su audiencia o ignora una Notificación de violación por deterioro, un funcionario de audiencias emitirá un fallo y una declaración de rebeldía en su contra, conforme a las violaciones alegadas en la Notificación.  Un fallo y una declaración de rebeldía pueden usarse para imponer un gravamen sobre su propiedad, embargar su salario o afectar su crédito.  La Ciudad habitualmente solicita que se imponga la multa máxima en cuestiones de incumplimiento si la violación alegada en la notificación se encontraba sujeta a un rango de multas.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29803,6 +30928,29 @@ http://detroitmi.theneighborhoods.org/node/9871
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  <p dir='rtl'>1. نصائح الفحص والقوائم المرجعية</p>
+    answer:  <p dir='rtl'>راجع <a href="/departments/buildings-safety-engineering-and-environmental-department/inspection-tips" dir='rtl'>نصائح الفحص والقوائم المرجعية</a> للحصول على إرشادات. لا يضمن اتباع هذه النصائح إجراء عملية فحص ناجحة، ولكنها يمكن أن تساعدك على تجنب المخالفات التي يتم اكتشافها أثناء عمليات الفحص، وتسريع عملية الحصول على الشهادة.</p>
+
+    question:  <p dir='rtl'>2. إذا تم بناء العقار الخاص بك قبل عام 1978، فقم بتحديد موعد للفحص مع أحد المختصين المعتمدين لفحص عقارك ضد مخاطر الرصاص.</p>
+    answer:  <p dir='rtl'>من المهم تحديد موعد لذلك في أقرب وقت ممكن حيث يستغرق ذلك في المتوسط​من 6-8 أسابيع للحصول على تقرير التخليص الرئيسي (Lead Clearance Report) النهائي. راجع <a href="/departments/buildings-safety-engineering-and-environmental-department/addressing-lead" dir='rtl'>النصائح والموارد لمعالجة المخاطر الرئيسية </a>صفحة لمزيد من المعلومات.</p>
+
+    question:  <p dir='rtl'>3. قم بتحديد موعد الفحص الخاص بعقارك المؤجر.</p>
+    answer:  <p dir='rtl'>بالإضافة إلى مفتشي إدارة المباني وهندسة السلامة والبيئة، تضيف المدينة قدرات تفتيش من خلال تحديد شركات تفتيش تابعة لأطراف ثالثة للقيام بعمليات الفحص الأولية للعقارات المؤجرة التي تتضمن وحدة واحدة أو اثنتين.   بعد قيامك بتسجيل عقارك، سيتم توجيهك لتحديد موعد لعملية الفحص إما مع مفتش المدينة أو مفتش من طرف ثالث اعتمادًا على نوع العقار المؤجر الذي تقوم بإدخاله وموقع العقار.  سيتم تحديد موعد لعمليات الفحص للعقارات المكونة من وحدة واحدة أو اثنتين مع مفتش من طرف ثالث/ بينما سيتم تحديد موعد لعمليات الفحص للعقارات المكونة من 3 وحدات فأكثر مع مفتش المدينة. <a href="/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/quick-steps-obtain-certificate-of-compliance/schedule-inspection" dir='rtl'>حدد موعد عملية الفحص</a>.</p>
+
+<p dir='rtl'> </p>
+
+<p dir='rtl'><strong dir='rtl'>ملاحظة لعقارات الفقرة رقم 8: </strong> بالنسبة للعقار المكون من وحدة واحدة أو اثنتين الذي يتلقى  <strong dir='rtl'>إيصالات حسب الفقرة 8</strong>، يجب عليك تقديم تقرير الفحص حسب معيار جودة المساكن (Housing Quality Standard ) من وكالة فيدرالية معتمدة (مثل لجنة إسكان ديترويت) و <a href="http://www.detroitmi.gov/Portals/0/docs/Forms/BSEED/Affidavit_for_Issuance_Certificate_of_Compliance_for_Section_8_Rental_Housing.pdf" target="_blank" dir='rtl'>إفادة خطية موثقة لإصدار شهادة أداء الالتزامات للمنازل المؤجرة حسب الفقرة 8</a>  للحصول على شهادة أداء الالتزامات.  لا يلزم إجراء فحص منفصل من قبل مفتش الطرف الثالث بالمدينة بالإضافة إلى فحص معيار جودة المساكن. </p>
+
+<p dir='rtl'>بالنسبة للعقارات المؤجرة التي تحتوي على 3 وحدات فأكثر، يجب استيفاء متطلبات الفحص حسب الفقرة 8 ومتطلبات الفحص الخاصة بالمدينة للحصول على شهادة أداء الالتزامات.   لمزيد من المعلومات الخاصة بالمالك من لجنة الإسكان في ديترويت <a href="http://www.dhcmi.org/PageInd.aspx?page_id=14" target="_blank" dir='rtl'>تفضل بزيارة موقعهم على الويب.</a></p>
+
+    question:  <p dir='rtl'>4. قم بتقديم تقرير فحص/تقييم مخاطر الرصاص وتقرير اجتياز فحص الرصاص مع تقرير الفحص الناجح الخاص بك إلى شعبة صيانة العقارات التابعة لإدارة المباني وهندسة السلامة والبيئة من أجل الحصول على شهادة أداء الالتزامات (Certificate of Compliance).</p>
+    answer:  <p dir='rtl'>ينبغي أن تحصل على شهادة أداء الالتزامات الخاصة بك خلال 14 يومًا من تقديم جميع المواد المطلوبة. إذا لم تتلق تأكيدًا بشهادة أداء الالتزامات الخاصة بك خلال هذا الإطار الزمني، فاتصل بـ <a href="tel:(313)628-2451" dir='rtl'>(313) 628-2451</a>.</p>
+
+    question:  <p dir='rtl'>5. يُرجى الاحتفاظ بشهادة أداء الالتزامات متاحة عند الطلب، والرجوع إلى قاعدة بيانات شهادات أداء الالتزامات الخاصة بالمدينة عبر الإنترنت للتأكد من أن العقار الخاص بك مدرج.</p>
+    answer:  <p dir='rtl'>تظهر قاعدة البيانات هذه للمستأجرين المحتملين أن العقار الخاص بهم قد تم فحصه ويعد آمنًا للسكن به.</p>
+
 summary:   
 
 *******************************************************************************
@@ -29813,6 +30961,29 @@ http://detroitmi.theneighborhoods.org/node/9871
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  1. পরীক্ষা করার পরামর্শ ও চেকলিস্ট
+    answer:  <p>পথনির্দেশের জন্য <a href="/departments/buildings-safety-engineering-and-environmental-department/inspection-tips">পরিদর্শনের টিপস ও নজর-তালিকাগুলি</a> পর্যালোচনা করুন। এইসব টিপস অনুসরণ করা সফল পরিদর্শনের নিশ্চয়তা দেয় না, কিন্তু তা আপনাকে পরিদর্শনের সময় সচরাচর দেখতে পাওয়া লঙ্ঘনগুলি এড়াতে ও শংসায়ন প্রক্রিয়া দ্রুততর করতে সাহায্য করতে পারে।</p>
+
+    question:  2. আপনার প্রপার্টি 1978 সালের আগে নির্মিত হলে, সীসাজনিত বিপদের আশঙ্কা আছে কি না তা পরীক্ষা করতে সীসার বিষয়ে একজন শংসাপ্রাপ্ত পেশাদারের সাথে নির্দিষ্ট দিন ঠিক করুন।
+    answer:  <p>যত শীঘ্র সম্ভব সময়সূচি নির্ধারণ করা জরুরি, কেননা চূড়ান্ত লীড ক্লিয়ারেন্স রিপোর্ট পেতে গড়ে প্রায় 6-8 সপ্তাহ লেগে যায়। আরও তথ্যের জন্য <a href="/departments/buildings-safety-engineering-and-environmental-department/addressing-lead">প্রধান বিপত্তিগুলির সমাধানে টিপস ও সংস্থানসমূহ </a> পেজটি দেখুন।</p>
+
+    question:  3. Schedule your rental property inspection. 
+    answer:  <p>BSEED পরিদর্শকরা ছাড়াও City 1-2 ইউনিটের ভাড়া দেওয়া সম্পত্তিগুলির প্রাথমিক পরিদর্শন সম্পাদনে তৃতীয়পক্ষের পরিদর্শন কোম্পানিগুলিকে চিহ্নিত করার দ্বারা পরিদর্শনের সামর্থ্য বাড়াচ্ছে।   আপনি আপনার সম্পত্তি রেজিস্টার করার পর আপনাকে City বা তৃতীয়পক্ষের পরিদর্শকের সঙ্গে সময় নির্ধারণের দিকনির্দেশ করা হবে, যা নির্ভর করবে আপনার প্রবেশ করানো সম্পত্তির প্রকারের এবং সম্পত্তির অবস্থানের উপর।  1-2 ইউনিটের সম্পত্তিগুলি তৃতীয়পক্ষের পরিদর্শকের কাছে নির্ধারিত হবে, যেখানে 3 এর বেশি ইউনিটের পরিদর্শন নির্ধারিত হবে একজন City পরিদর্শকের কাছে। <a href="/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/quick-steps-obtain-certificate-of-compliance/schedule-inspection">আপনার পরিদর্শনের সময় নির্ধারণ করুন</a>।</p>
+
+<p> </p>
+
+<p><strong>ধারা 8 সম্পত্তিগুলির জন্য দ্রষ্টব্য: </strong> 1-2 ইউনিটের সম্পত্তিগুলির জন্য, যারা <strong>ধারা 8 ভাউচার</strong> পাচ্ছে, তার জন্য আপনার প্রতিপালনের শংসাপত্র পেতে আপনাকে অবশ্যই কোনো যুক্তরাষ্ট্রীয় শংসিত সংস্থা (অর্থাৎ ডেট্রয়েট হাউসিং কমিশন) এর থেকে আপনার আবাসনের গুণমানের মানক(Housing Quality Standard - HQS) পরিদর্শনের রিপোর্ট এবং একটি নোটারাইজ করা <a href="http://www.detroitmi.gov/Portals/0/docs/Forms/BSEED/Affidavit_for_Issuance_Certificate_of_Compliance_for_Section_8_Rental_Housing.pdf" target="_blank">ধারা 8 ভাড়া দেওয়া আবাসনের জন্য প্রতিপালনের শংসাপত্র জারিকরণ এর হলফনামা</a>  জমা দিতে হবে।  HQS পরিদর্শনের সঙ্গে আলাদা করে City'র তৃতীয়পক্ষের দ্বারা পরিদর্শনের প্রয়োজন নেই। </p>
+
+<p>3 এর বেশি ইউনিটের ভাড়া দেওয়া সম্পত্তিগুলির জন্য, প্রতিপালনের শংসাপত্র পেতে ধারা 8 এর পরিদর্শনের প্রয়োজনীয়তা ও City'র পরিদর্শনের প্রয়োজনীয়তা, উভয়ই পূরণ করা আবশ্যক।  ডেট্রয়েট হাউসিং কমিশনের থেকে আরও বাড়িওয়ালা-নির্দিষ্ট তথ্য পেতে  <a href="http://www.dhcmi.org/PageInd.aspx?page_id=14" target="_blank">তাদের ওয়েবসাইট দেখুন।</a></p>
+
+    question:  4. আপনার অনুবর্তিতার শংসাপত্র পেতে আপনার সীসা সম্পর্কিত পরীক্ষা/ঝুঁকি মূল্যায়ন এবং ক্লিয়ারেন্স রিপোর্ট এবং সেইসাথে আপনার সীসা পরীক্ষায় কৃতকার্য হওয়ার রিপোর্ট BSEED প্রপার্টি রক্ষনাবেক্ষণে জমা দিন।
+    answer:  <p>যাবতীয় প্রয়োজনীয় উপকরণ জমা দেওয়ার 14 দিনের মধ্যে আপনার প্রতিপালনের শংসাপত্র পেয়ে যাওয়ার কথা। এই সময়সীমার মধ্যে আপনার প্রতিপালনের শংসাপত্রের নিশ্চিতকরণ না পেলে  <a href="tel:(313)628-2451">(313) 628-2451</a> নম্বরে যোগাযোগ করুন।</p>
+
+    question:  5. আপনার অনুবর্তিতার শংসাপত্র এমনভাবে সংরক্ষণ করুন যাতে চাইলেই পাওয়া যায়, এবং আপনার প্রপার্টি নথিভুক্ত হয়েছে কি না তা নিশ্চিত করতে সিটির অনলাইন অনুবর্তিতার শংসাপত্র এর ডেটাবেস দেখুন।
+    answer:  <p>এই ডেটাবেসে আপনার ভবিষ্যতের সম্ভাব্য ভাড়াটেরা দেখতে পাবে যে আপনার সম্পত্তিটির পরিদর্শন করা হয়েছে এবং সেটি বাস করার পক্ষে নিরাপদ বলে বিবেচিত।</p>
+
 summary:   
 
 *******************************************************************************
@@ -29823,6 +30994,29 @@ http://detroitmi.theneighborhoods.org/node/9871
 title:  
 description:  
 organization information:  
+faq:
+
+    question:  1. Consejos sobre inspección y listas de verificación
+    answer:  <p>Revise las <a href="/departments/buildings-safety-engineering-and-environmental-department/inspection-tips">Sugerencias y listas de verificación sobre inspecciones</a> para usar como guía. El cumplimiento de estas sugerencias no garantiza una inspección exitosa, pero puede ayudarlo a evitar violaciones frecuentes encontradas durante las inspecciones y a acelerar el proceso de certificación.</p>
+
+    question:  2. Si su propiedad se construyó antes de 1978, programe una inspección con un profesional del plomo certificado para que inspeccione su propiedad en busca de riesgos relacionados con el plomo.
+    answer:  <p>Es importante realizar la programación lo antes posible, ya que se demora, en promedio, de unas 6 a 8 semanas para obtener el Informe de ausencia de plomo final. Consulte la página <a href="/departments/buildings-safety-engineering-and-environmental-department/addressing-lead">Sugerencias y recursos para abordar los peligros del plomo </a>a fin de obtener más información.</p>
+
+    question:  3. Programe la inspección de su propiedad para alquiler. 
+    answer:  <p>Además de los inspectores del Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED), la Ciudad está agregando la capacidad de inspección mediante la identificación de compañías de inspección independientes para que lleven a cabo las inspecciones iniciales de propiedades de alquiler de 1 a 2 unidades.   Una vez que haya registrado su propiedad, se le pedirá que programe una inspección con un inspector de la Ciudad o de un tercero según el tipo de propiedad de alquiler que haya ingresado y la ubicación de la propiedad.  Las inspecciones de propiedades de 1 a 2 unidades se programarán con un inspector independiente, mientras que las inspecciones de propiedades de más de 3 unidades se programarán con un inspector de la Ciudad. <a href="/departments/buildings-safety-engineering-and-environmental-department/property-maintenance-division/quick-steps-obtain-certificate-of-compliance/schedule-inspection">Programe su inspección</a>.</p>
+
+<p> </p>
+
+<p><strong>NOTA PARA LAS PROPIEDADES DE LA SECCIÓN 8: </strong> En el caso de las propiedades de 1 a 2 unidades que reciban un <strong>Vale de la Sección 8</strong>, deben presentar su informe de inspección de la Norma de Calidad de la Vivienda (Housing Quality Standard, HQS) de una agencia con habilitación federal (es decir, la Comisión de Vivienda de Detroit [Detroit Housing Commission]) y una <a href="http://www.detroitmi.gov/Portals/0/docs/Forms/BSEED/Affidavit_for_Issuance_Certificate_of_Compliance_for_Section_8_Rental_Housing.pdf" target="_blank">Declaración jurada certificada para la emisión del Certificado de cumplimiento de la Sección 8, Alquiler de viviendas (Rental Housing)</a>  para recibir su Certificado de cumplimiento.  Además de la inspección de HQS, no es necesario que una compañía independiente de inspección de la Ciudad lleve a cabo otra inspección. </p>
+
+<p>Para las propiedades en alquiler con más de 3 unidades, se debe cumplir con los requisitos de inspección de la Sección 8 y con los requisitos de inspección de la Ciudad a fin de recibir un Certificado de cumplimiento.  Para obtener información más específica del arrendador por parte de la Comisión de Vivienda de Detroit (Detroit Housing Commission) <a href="http://www.dhcmi.org/PageInd.aspx?page_id=14" target="_blank">visite su sitio web.</a></p>
+
+    question:  4. Para obtener su certificado de cumplimiento, presente el Informe de inspección de plomo/evaluación de riesgos y ausencia de plomo junto con el informe de inspección exitosa a la División de Mantenimiento de Propiedades del Departamento de Construcción, Ingeniería de la Seguridad y Medioambiente (Buildings, Safety Engineering and Environmental Department, BSEED).
+    answer:  <p>Debe recibir su Certificado de cumplimiento dentro de los 14 días posteriores a la presentación de todos los materiales requeridos. Si no recibió la confirmación de su Certificado de cumplimiento dentro de ese período, llame al <a href="tel:(313)628-2451">(313) 628-2451</a>.</p>
+
+    question:  5. Una vez que haya presentado la solicitud, su certificado de cumplimiento estará disponible. Para confirmar que su propiedad se encuentre registrada, consulte la base de datos de certificados de cumplimiento en línea de la ciudad.
+    answer:  <p>Esta base de datos muestra a los posibles inquilinos que su propiedad fue inspeccionada y se considera segura para la ocupación.</p>
+
 summary:   
 
 *******************************************************************************
