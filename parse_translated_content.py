@@ -28,7 +28,7 @@ class TranslatedPage():
         if not value:
             return ''
 
-        if type(value) is int:
+        if type(value) is not str:
             return value
 
         for bad, good in self.CLEANUPS.items():
@@ -58,6 +58,7 @@ class TranslatedPage():
         self.title = self.parse_value(data=data, name='name')
         self.desc = self.parse_value(data=data, name='description')
         self.organization_head_information = self.parse_value(data=data, name='field_organization_head_informat')
+        self.faq = self.parse_value(data=data, name='field_faq_pair', val_name="content")
         self.summary = self.parse_value(data=data, name='field_summary')
 
         self.content = ''
@@ -117,6 +118,13 @@ class TranslatedPage():
         output.write("\ntitle:  " + self.title.rstrip())
         output.write("\ndescription:  " + self.desc.rstrip())
         output.write("\norganization information:  " + self.organization_head_information.rstrip())
+
+        if self.faq:
+            output.write("\nfaq:\n")
+            for faq_pair in self.faq:
+                output.write("\n    question:  " + faq_pair['question'])
+                output.write("\n    answer:  " + faq_pair['answer'])
+
         output.write("\nsummary:   " + self.summary.rstrip())
         output.write("\n")
         output.write('\n*******************************************************************************\n')
