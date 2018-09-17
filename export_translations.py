@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 import os
 import sys
 import json
@@ -7,9 +8,7 @@ from datetime import datetime
 import requests
 from requests.auth import HTTPBasicAuth
 
-# REVIEW
-# import django
-# from django.conf import settings
+from util import get_secrets
 
 import translated_urls
 
@@ -42,14 +41,6 @@ urls = []
 # urls = translated_urls.hrd_urls
 # urls = translated_urls.board_urls
 # urls = translated_urls.faq_urls
-
-
-def get_secrets():
-
-    with open("../django_apps/secrets.json") as input:
-
-        secrets = input.read()
-        return json.loads(secrets)
 
 
 class ContentExporter():
