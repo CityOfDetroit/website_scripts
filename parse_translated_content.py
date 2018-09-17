@@ -28,6 +28,9 @@ class TranslatedPage():
         if not value:
             return ''
 
+        if type(value) is int:
+            return value
+
         for bad, good in self.CLEANUPS.items():
             value = value.replace(bad, good)
 
@@ -48,6 +51,8 @@ class TranslatedPage():
         """
         Parse json object.
         """
+
+        self.tid = self.parse_value(data, 'tid')
 
         self.title = self.parse_value(data, 'name')
         self.desc = self.parse_value(data, 'description')
