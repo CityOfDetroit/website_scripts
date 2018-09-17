@@ -48,6 +48,16 @@ class TranslationsLoader():
         Load a page of translated content.
         """
 
+
+        # description (all taxonomies):
+        # select description__value from taxonomy_term_field_data where tid = 1141;
+
+        # summary (departments only):
+        # taxonomy_term__field_summary -> field_summary_value
+        # select * from taxonomy_term__field_summary where bundle = 'departments' and langcode = 'en' and entity_id = 1411;
+
+
+
         # Update page title and description (all taxonomies)
         sql = text(" \
             update taxonomy_term_field_data tfd \
@@ -68,15 +78,15 @@ class TranslationsLoader():
 
             self.engine.execute(sql)
 
-        # if page.vid == 'government':
+        elif page.vid == 'government':
 
+            sql = text(" \
+                update taxonomy_term__field_organization_head_informat tfo \
+                set tfo.field_organization_head_informat_value = '{}' \
+                where tfo.bundle = 'government' and tfo.langcode = '{}' and tfo.entity_id = {} and tfo.revision_id = {}; \
+                ".format(page.organization_head_information, lang, page.tid, page.tid))
 
-        # description (all taxonomies):
-        # select description__value from taxonomy_term_field_data where tid = 1141;
-
-        # summary (departments only):
-        # taxonomy_term__field_summary -> field_summary_value
-        # select * from taxonomy_term__field_summary where bundle = 'departments' and langcode = 'en' and entity_id = 1411;
+            self.engine.execute(sql)
 
         # field_organization_head_informat_value (government):
         # select * from taxonomy_term__field_organization_head_informat where bundle = 'government' and langcode = 'en' and entity_id = 1276;
@@ -97,7 +107,7 @@ class TranslationsLoader():
         results = self.conn.execute(sql).fetchall()
 
         if len(results) != 1:
-            raise exception('Wrong # of rows returned')
+            raise exception('Wrong # of rows returned checking page name and description')
 
         for row in results:
             if row['name'] != page.title:
@@ -116,11 +126,29 @@ class TranslationsLoader():
             results = self.conn.execute(sql).fetchall()
 
             if len(results) != 1:
-                raise exception('Wrong # of rows returned')
+                raise exception('Wrong # of rows returned checking department summary')
 
             for row in results:
                 if row['field_summary_value'] != page.summary:
-                    raise exception('Page name did not update properly')
+                    raise exception('Page summary did not update properly')
+
+        elif page.vid == 'government':
+
+            sql = text(" \
+                select tfo.field_organization_head_informat_value \
+                from taxonomy_term__field_organization_head_informat tfo \
+                where tfo.bundle = 'government' and tfo.langcode = '{}' and tfo.entity_id = {} and tfo.revision_id = {}; \
+                ".format(lang, page.tid, page.tid))
+
+            self.engine.execute(sql)
+
+            if len(results) != 1:
+                raise exception('Wrong # of rows returned checking government org head info')
+
+            for row in results:
+                if row['field_organization_head_informat_value'] != page.organization_head_information:
+                    raise exception('Page org head info did not update properly')
+
 
 
     def stop(self):
