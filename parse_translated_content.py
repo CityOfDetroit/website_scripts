@@ -23,6 +23,17 @@ class TranslatedPage():
         "es": "spanish",
     }
 
+    def __init__(self):
+
+
+        self.url = ''
+        self.content = ''
+        self.title = ''
+        self.desc = ''
+        self.organization_head_information = ''
+        self.faq = []
+        self.summary = ''
+
     def clean_value(self, value):
 
         if not value:
@@ -70,10 +81,6 @@ class TranslatedPage():
 
         self.url = "detroitmi.theneighborhoods.org"
         self.content = input.read()
-        self.title = ''
-        self.desc = ''
-        self.organization_head_information = ''
-        self.summary = ''
 
     def parse_file(self, filename):
         """
