@@ -36,14 +36,14 @@ class TranslatedPage():
 
         return value.strip()
 
-    def parse_value(self, data, name):
+    def parse_value(self, data, name, val_name='value'):
 
         ret_val = ''
 
         val = data.get(name, {})
         if val:
             val = val[0]
-            ret_val = val.get('value', '')
+            ret_val = val.get(val_name, '')
 
         return self.clean_value(ret_val)
 
@@ -52,12 +52,13 @@ class TranslatedPage():
         Parse json object.
         """
 
-        self.tid = self.parse_value(data, 'tid')
+        self.tid = self.parse_value(data=data, name='tid')
+        self.vid = self.parse_value(data=data, name='vid', val_name='target_id')
 
-        self.title = self.parse_value(data, 'name')
-        self.desc = self.parse_value(data, 'description')
-        self.organization_head_information = self.parse_value(data, 'field_organization_head_informat')
-        self.summary = self.parse_value(data, 'field_summary')
+        self.title = self.parse_value(data=data, name='name')
+        self.desc = self.parse_value(data=data, name='description')
+        self.organization_head_information = self.parse_value(data=data, name='field_organization_head_informat')
+        self.summary = self.parse_value(data=data, name='field_summary')
 
         self.content = ''
 

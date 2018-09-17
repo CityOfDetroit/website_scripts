@@ -48,25 +48,38 @@ class TranslationsLoader():
         Load a page of translated content.
         """
 
+        # Update page title and description (all taxonomies)
         sql = text(" \
-            update taxonomy_term_field_data_delme tfd \
-            inner join taxonomy_term_hierarchy_delme tth \
-            on tth.tid = tfd.tid \
+            update taxonomy_term_field_data tfd \
             set tfd.name = '{}', tfd.description__value = '{}' \
-            where tfd.langcode = '{}' and tth.tid = {}; \
+            where tfd.langcode = '{}' and tfd.tid = {}; \
             ".format(page.title, page.desc, lang, page.tid))
 
         self.engine.execute(sql)
 
-        # description (all taxonomies):
-        # select description__value from taxonomy_term_field_data_delme where tid = 1141;
+        # Now update summary (departments only):
+        if page.vid == 'departments':
 
-        # summary:
+            sql = text(" \
+                update taxonomy_term__field_summary tfs \
+                set tfs.field_summary_value = '{}' \
+                where tfs.bundle = 'departments' and tfs.langcode = '{}' and tfs.entity_id = {} and tfs.revision_id = {}; \
+                ".format(page.summary, lang, page.tid, page.tid))
+
+            self.engine.execute(sql)
+
+        # if page.vid == 'government':
+
+
+        # description (all taxonomies):
+        # select description__value from taxonomy_term_field_data where tid = 1141;
+
+        # summary (departments only):
         # taxonomy_term__field_summary -> field_summary_value
-        # select * from taxonomy_term__field_summary where entity_id = 1411;
+        # select * from taxonomy_term__field_summary where bundle = 'departments' and langcode = 'en' and entity_id = 1411;
 
         # field_organization_head_informat_value (government):
-        # select * from taxonomy_term__field_organization_head_informat where bundle = 'government' and entity_id = 1276;
+        # select * from taxonomy_term__field_organization_head_informat where bundle = 'government' and langcode = 'en' and entity_id = 1276;
 
 
     def check_page(self, page, lang):
@@ -75,22 +88,40 @@ class TranslationsLoader():
         """
 
         sql = text(" \
-            select tth.tid, tfd.name, tfd.description__value \
-            from taxonomy_term_hierarchy_delme tth \
-            join taxonomy_term_field_data_delme tfd \
-            on tth.tid = tfd.tid \
-            where tfd.langcode = '{}' and tth.tid = {} \
+            select tfd.tid, tfd.name, tfd.description__value \
+            from taxonomy_term_field_data tfd \
+            where tfd.langcode = '{}' and tfd.tid = {} \
             order by tfd.name; \
             ".format(lang, page.tid))
 
         results = self.conn.execute(sql).fetchall()
 
+        if len(results) != 1:
+            raise exception('Wrong # of rows returned')
+
         for row in results:
-            print(row)
             if row['name'] != page.title:
                 raise exception('Page name did not update properly')
             if row['description__value'] != page.desc:
                 raise exception('Page description did not update properly')
+
+        if page.vid == 'departments':
+
+            sql = text(" \
+                select tfs.field_summary_value \
+                from taxonomy_term__field_summary tfs \
+                where tfs.bundle = 'departments' and tfs.langcode = '{}' and tfs.entity_id = {}; \
+                ".format(lang, page.tid))
+
+            results = self.conn.execute(sql).fetchall()
+
+            if len(results) != 1:
+                raise exception('Wrong # of rows returned')
+
+            for row in results:
+                if row['field_summary_value'] != page.summary:
+                    raise exception('Page name did not update properly')
+
 
     def stop(self):
         """
