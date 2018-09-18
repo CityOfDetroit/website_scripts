@@ -27,9 +27,15 @@ if __name__ == '__main__':
     # loader.table_names()
 
     page = TranslatedPage()
-    page.parse_file(filename=filename)
 
-    loader.load_page(page=page, lang=lang)
-    loader.check_page(page=page, lang=lang)
+    try:
+        page.parse_file(filename=filename)
+
+        loader.load_page(page=page, lang=lang)
+        loader.check_page(page=page, lang=lang)
+
+    except Exception as exc:
+        print("Exception caught: " + str(exc))
 
     loader.stop()
+
