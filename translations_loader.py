@@ -100,13 +100,13 @@ class TranslationsLoader():
         results = self.conn.execute(sql, lang=lang, tid=page.tid).fetchall()
 
         if len(results) != 1:
-            raise exception('Wrong # of rows returned checking page name and description')
+            raise Exception('Wrong # of rows returned checking page name and description')
 
         for row in results:
             if row['name'] != page.title:
-                raise exception('Page name did not update properly')
+                raise Exception('Page name did not update properly')
             if row['description__value'] != page.desc:
-                raise exception('Page description did not update properly')
+                raise Exception('Page description did not update properly')
 
         if page.vid == 'departments':
 
@@ -118,11 +118,11 @@ class TranslationsLoader():
             results = self.conn.execute(sql, lang=lang, tid=page.tid).fetchall()
 
             if len(results) != 1:
-                raise exception('Wrong # of rows returned checking department summary')
+                raise Exception('Wrong # of rows returned checking department summary')
 
             for row in results:
                 if row['field_summary_value'] != page.summary:
-                    raise exception('Page summary did not update properly')
+                    raise Exception('Page summary did not update properly')
 
         elif page.vid == 'government':
 
@@ -134,11 +134,11 @@ class TranslationsLoader():
             results = self.conn.execute(sql, lang=lang, tid=page.tid).fetchall()
 
             if len(results) != 1:
-                raise exception('Wrong # of rows returned checking government org head info')
+                raise Exception('Wrong # of rows returned checking government org head info')
 
             for row in results:
                 if row['field_organization_head_informat_value'] != page.organization_head_information:
-                    raise exception('Page org head info did not update properly')
+                    raise Exception('Page org head info did not update properly')
 
 
 
