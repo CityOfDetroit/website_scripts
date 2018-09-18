@@ -34,7 +34,6 @@ class TranslationsLoader():
 
         local_port=str(self.server.local_bind_port)
 
-
         self.engine = create_engine('{}://{}:{}@127.0.0.1:{}/{}?charset=utf8mb4'.format(self.db_engine, self.db_user, self.db_pass, local_port, self.db_name))
         self.conn = self.engine.connect()
 
@@ -57,35 +56,31 @@ class TranslationsLoader():
         # taxonomy_term__field_summary -> field_summary_value
         # select * from taxonomy_term__field_summary where bundle = 'departments' and langcode = 'en' and entity_id = 1411;
 
-        # Update page title and description (all taxonomies)
-        sql = text(" \
-            update taxonomy_term_field_data tfd \
-            set tfd.name = '{}', tfd.description__value = '{}' \
-            where tfd.langcode = '{}' and tfd.tid = {}; \
-            ".format(page.title, page.desc, lang, page.tid))
+        sql = text(
+            "update taxonomy_term_field_data tfd "
+            "set tfd.name = :name, tfd.description__value = :desc "
+            "where tfd.langcode = :lang and tfd.tid = :tid;")
 
-        self.engine.execute(sql)
+        self.engine.execute(sql, name=page.title, desc=page.desc, lang=lang, tid=page.tid)
 
         # Now update summary (departments only):
         if page.vid == 'departments':
 
-            sql = text(" \
-                update taxonomy_term__field_summary tfs \
-                set tfs.field_summary_value = '{}' \
-                where tfs.bundle = 'departments' and tfs.langcode = '{}' and tfs.entity_id = {} and tfs.revision_id = {}; \
-                ".format(page.summary, lang, page.tid, page.tid))
+            sql = text(
+                "update taxonomy_term__field_summary tfs "
+                "set tfs.field_summary_value = :summary "
+                "where tfs.bundle = 'departments' and tfs.langcode = :lang and tfs.entity_id = :tid and tfs.revision_id = :tid;")
 
-            self.engine.execute(sql)
+            self.engine.execute(sql, summary=page.summary, lang=lang, tid=page.tid)
 
         elif page.vid == 'government':
 
-            sql = text(" \
-                update taxonomy_term__field_organization_head_informat tfo \
-                set tfo.field_organization_head_informat_value = '{}' \
-                where tfo.bundle = 'government' and tfo.langcode = '{}' and tfo.entity_id = {} and tfo.revision_id = {}; \
-                ".format(page.organization_head_information, lang, page.tid, page.tid))
+            sql = text(
+                "update taxonomy_term__field_organization_head_informat tfo "
+                "set tfo.field_organization_head_informat_value = :informat "
+                "where tfo.bundle = 'government' and tfo.langcode = :lang and tfo.entity_id = :tid and tfo.revision_id = :tid;")
 
-            self.engine.execute(sql)
+            self.engine.execute(sql, informat=page.organization_head_information, lang=lang, tid=page.tid)
 
         # field_organization_head_informat_value (government):
         # select * from taxonomy_term__field_organization_head_informat where bundle = 'government' and langcode = 'en' and entity_id = 1276;
@@ -96,14 +91,13 @@ class TranslationsLoader():
         Verify that the given page got updated correctly.
         """
 
-        sql = text(" \
-            select tfd.tid, tfd.name, tfd.description__value \
-            from taxonomy_term_field_data tfd \
-            where tfd.langcode = '{}' and tfd.tid = {} \
-            order by tfd.name; \
-            ".format(lang, page.tid))
+        sql = text(
+            "select tfd.tid, tfd.name, tfd.description__value "
+            "from taxonomy_term_field_data tfd "
+            "where tfd.langcode = :lang and tfd.tid = :tid "
+            "order by tfd.name;")
 
-        results = self.conn.execute(sql).fetchall()
+        results = self.conn.execute(sql, lang=lang, tid=page.tid).fetchall()
 
         if len(results) != 1:
             raise exception('Wrong # of rows returned checking page name and description')
@@ -116,13 +110,12 @@ class TranslationsLoader():
 
         if page.vid == 'departments':
 
-            sql = text(" \
-                select tfs.field_summary_value \
-                from taxonomy_term__field_summary tfs \
-                where tfs.bundle = 'departments' and tfs.langcode = '{}' and tfs.entity_id = {}; \
-                ".format(lang, page.tid))
+            sql = text(
+                "select tfs.field_summary_value "
+                "from taxonomy_term__field_summary tfs "
+                "where tfs.bundle = 'departments' and tfs.langcode = :lang and tfs.entity_id = :tid;")
 
-            results = self.conn.execute(sql).fetchall()
+            results = self.conn.execute(sql, lang=lang, tid=page.tid).fetchall()
 
             if len(results) != 1:
                 raise exception('Wrong # of rows returned checking department summary')
@@ -133,13 +126,12 @@ class TranslationsLoader():
 
         elif page.vid == 'government':
 
-            sql = text(" \
-                select tfo.field_organization_head_informat_value \
-                from taxonomy_term__field_organization_head_informat tfo \
-                where tfo.bundle = 'government' and tfo.langcode = '{}' and tfo.entity_id = {} and tfo.revision_id = {}; \
-                ".format(lang, page.tid, page.tid))
+            sql = text(
+                "select tfo.field_organization_head_informat_value "
+                "from taxonomy_term__field_organization_head_informat tfo "
+                "where tfo.bundle = 'government' and tfo.langcode = :lang and tfo.entity_id = :tid and tfo.revision_id = :tid;")
 
-            self.engine.execute(sql)
+            results = self.conn.execute(sql, lang=lang, tid=page.tid).fetchall()
 
             if len(results) != 1:
                 raise exception('Wrong # of rows returned checking government org head info')
