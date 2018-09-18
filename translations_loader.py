@@ -34,7 +34,8 @@ class TranslationsLoader():
 
         local_port=str(self.server.local_bind_port)
 
-        self.engine = create_engine('{}://{}:{}@127.0.0.1:{}/{}'.format(self.db_engine, self.db_user, self.db_pass, local_port, self.db_name))
+
+        self.engine = create_engine('{}://{}:{}@127.0.0.1:{}/{}?charset=utf8mb4'.format(self.db_engine, self.db_user, self.db_pass, local_port, self.db_name))
         self.conn = self.engine.connect()
 
     def table_names(self):
@@ -55,8 +56,6 @@ class TranslationsLoader():
         # summary (departments only):
         # taxonomy_term__field_summary -> field_summary_value
         # select * from taxonomy_term__field_summary where bundle = 'departments' and langcode = 'en' and entity_id = 1411;
-
-
 
         # Update page title and description (all taxonomies)
         sql = text(" \
