@@ -47,7 +47,7 @@ class TranslatedPage():
 
         return value.strip()
 
-    def parse_value(self, data, name, val_name='value'):
+    def parse_value(self, data, name, val_name='value', alt_name=''):
 
         ret_val = ''
 
@@ -55,6 +55,8 @@ class TranslatedPage():
         if val:
             val = val[0]
             ret_val = val.get(val_name, '')
+        elif alt_name:
+            return self.parse_value(data=data, name=alt_name, val_name=val_name)
 
         return self.clean_value(ret_val)
 
@@ -66,10 +68,16 @@ class TranslatedPage():
         self.tid = self.parse_value(data=data, name='tid')
         self.vid = self.parse_value(data=data, name='vid', val_name='target_id')
 
-        self.title = self.parse_value(data=data, name='name')
+        self.title = self.parse_value(data=data, name='name', alt_name='title')
         self.desc = self.parse_value(data=data, name='description')
         self.organization_head_information = self.parse_value(data=data, name='field_organization_head_informat')
-        self.faq = self.parse_value(data=data, name='field_faq_pair', val_name="content")
+
+        faq_pairs = data.get('field_faq_pair', [])
+        for faq_pair in faq_pairs:
+
+            content = faq_pair.get('content', [])
+            self.faq.extend(content)
+
         self.summary = self.parse_value(data=data, name='field_summary')
 
         self.content = ''
@@ -129,8 +137,8 @@ class TranslatedPage():
         if self.faq:
             output.write("\nfaq:\n")
             for faq_pair in self.faq:
-                output.write("\n    question:  " + faq_pair['question'])
-                output.write("\n    answer:  " + faq_pair['answer'])
+                output.write("\nquestion:  " + faq_pair['question'])
+                output.write("\nanswer:  " + faq_pair['answer'])
 
         output.write("\nsummary:   " + self.summary.rstrip())
         output.write("\n")
