@@ -133,7 +133,7 @@ class TranslationsLoader():
 
             results = self.conn.execute(sql, lang=lang, tid=page.tid).fetchall()
 
-            if len(results) != 1:
+            if len(results) > 1:
                 raise Exception('Wrong # of rows returned checking government org head info')
 
             for row in results:
