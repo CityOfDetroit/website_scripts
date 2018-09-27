@@ -238,7 +238,7 @@ class ContentExporter():
             return url, data
 
     @staticmethod
-    def do_export(url):
+    def do_export(url, write_to_file=True):
 
         url, data = ContentExporter.get_data(url=url)
         if not url:
@@ -288,10 +288,13 @@ class ContentExporter():
         url_encoded = url[37 : ].replace("/", "%2F")
         url_encoded = ContentExporter.cleanup_url(url_encoded)
 
-        with open(url_encoded + ".txt", 'w') as output:
+        if write_to_file:
+            with open(url_encoded + ".txt", 'w') as output:
 
-            output.write(ContentExporter.cleanup_url(url) + "\n\n")
-            output.write(json.dumps(data))
+                output.write(ContentExporter.cleanup_url(url) + "\n\n")
+                output.write(json.dumps(data))
+
+        return url, data
 
 
 if __name__ == '__main__':
