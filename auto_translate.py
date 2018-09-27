@@ -23,7 +23,7 @@ if __name__ == '__main__':
     if len(sys.argv) != 2:
         raise Exception("Usage:  <url>")
 
-    url = sys.argv[2]
+    url = sys.argv[1]
 
     # First extract the english content to be translated
     true_url, data = ContentExporter.do_export(url=url, write_to_file=False)
