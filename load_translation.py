@@ -6,6 +6,38 @@ from parse_translated_content import TranslatedPage
 from translations_loader import TranslationsLoader
 
 
+import pdb
+
+
+class Loader():
+
+    def run(lang, filename):
+
+
+        pdb.set_trace()
+
+
+        if '/' + lang + '/' not in filename:
+            raise Exception("Error:  lang {} appears wrong based on file path".format(lang))
+
+        loader = TranslationsLoader()
+
+        loader.start()
+
+        page = TranslatedPage()
+
+        try:
+            page.parse_file(filename=filename)
+
+            loader.load_page(page=page, lang=lang)
+            loader.check_page(page=page, lang=lang)
+
+        except Exception as exc:
+            print("Exception caught: " + str(exc))
+
+        loader.stop()
+
+
 if __name__ == '__main__':
 
     # Usage:  <language> <filename>
@@ -17,25 +49,4 @@ if __name__ == '__main__':
     lang = sys.argv[1]
     filename = sys.argv[2]
 
-    if '/' + lang + '/' not in filename:
-        raise Exception("Error:  lang {} appears wrong based on file path".format(lang))
-
-    loader = TranslationsLoader()
-
-    loader.start()
-
-    # loader.table_names()
-
-    page = TranslatedPage()
-
-    try:
-        page.parse_file(filename=filename)
-
-        loader.load_page(page=page, lang=lang)
-        loader.check_page(page=page, lang=lang)
-
-    except Exception as exc:
-        print("Exception caught: " + str(exc))
-
-    loader.stop()
-
+    Loader().run(lang=lang, filename=filename)
