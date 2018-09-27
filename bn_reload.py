@@ -2,20 +2,13 @@
 
 import sys
 
-import load_translations
-
-
-import pdb
+import load_translation
 
 
 if __name__ == '__main__':
 
 	if len(sys.argv) < 2:
 		raise Exception('usage: bn_reload.py url')
-
-
-	pdb.set_trace()
-
 
 	url = sys.argv[1]
 	url = url[37 : ]
@@ -24,4 +17,4 @@ if __name__ == '__main__':
 
 	print(filename)
 
-	load_translations.Loader().run(lang='bn', filename=filename)
+	load_translation.Loader().run(lang='bn', filename=filename)

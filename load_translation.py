@@ -6,16 +6,9 @@ from parse_translated_content import TranslatedPage
 from translations_loader import TranslationsLoader
 
 
-import pdb
-
-
 class Loader():
 
-    def run(lang, filename):
-
-
-        pdb.set_trace()
-
+    def run(self, lang, filename):
 
         if '/' + lang + '/' not in filename:
             raise Exception("Error:  lang {} appears wrong based on file path".format(lang))
