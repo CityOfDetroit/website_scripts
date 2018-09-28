@@ -10,36 +10,39 @@ from export_translations import ContentExporter
 
 # from translations_loader import TranslationsLoader
 
+import inspect
+
 
 import pdb
 
 
 if __name__ == '__main__':
 
-
-    pdb.set_trace()
-
-
     if len(sys.argv) != 2:
         raise Exception("Usage:  <url>")
 
     url = sys.argv[1]
 
-    # First extract the english content to be translated
+    # Extract the content to be translated
     true_url, data = ContentExporter.do_export(url=url, write_to_file=False)
 
-    GOOGLE_APPLICATION_CREDENTIALS="[PATH]"
 
-    # Instantiates a client
-    translate_client = translate.Client()
+    pdb.set_trace()
 
-    # The text to translate
-    text = 'Hello, world!'
 
-    target = 'es'
+    # Instantiate a translation client
+    client = translate.Client.from_service_account_json('google_translate_key.json')
 
-    # Translates some text into Russian
-    translation = translate_client.translate(text, source_language='en', target_language=target)
+    page = TranslatedPage()
+    page.parse_json(data)
 
-    print(u'Text: {}'.format(text))
-    print(u'Translation: {}'.format(translation['translatedText']))
+    for value in [ page.content, page.title, page.desc, page.organization_head_information, page.faq, page.summary ]:
+
+        if value:
+
+            for lang in TranslatedPage.LANG_MAP.keys():
+
+                # Translate the content
+                translation = client.translate(value, source_language='en', target_language=lang)
+
+                print(translation['translatedText'])
