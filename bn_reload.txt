@@ -1,5 +1,4 @@
-http://detroitmi.theneighborhoods.org/
-http://detroitmi.theneighborhoods.org/department-appeals-and-hearings/blight-ticket-information
+http://detroitmi.theneighborhoods.org/departments/department-appeals-and-hearings/blight-ticket-information
 http://detroitmi.theneighborhoods.org/departments/department-neighborhoods
 http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/motorcity-makeover-information
 http://detroitmi.theneighborhoods.org/departments/department-neighborhoods/serve-detroit
@@ -10,7 +9,7 @@ http://detroitmi.theneighborhoods.org/departments/department-public-works/refuse
 http://detroitmi.theneighborhoods.org/departments/department-public-works/refuse-collection/bulk-yard-waste/curbside-bulk-waste-pickup
 http://detroitmi.theneighborhoods.org/departments/department-public-works/refuse-collection/recycle
 http://detroitmi.theneighborhoods.org/departments/department-public-works/street-maintenance
-http://detroitmi.theneighborhoods.org/departments/detroit-fire-department/arson-awareness
+http://detroitmi.theneighborhoods.org/departments/detroit-fire-department/fire-investigation-division/arson-awareness
 http://detroitmi.theneighborhoods.org/departments/health-department
 http://detroitmi.theneighborhoods.org/departments/health-department/birth-and-death-certificates
 http://detroitmi.theneighborhoods.org/departments/health-department/detroit-animal-care-and-control
@@ -23,7 +22,7 @@ http://detroitmi.theneighborhoods.org/departments/human-resources-department/app
 http://detroitmi.theneighborhoods.org/departments/human-resources-department/city-employee-information
 http://detroitmi.theneighborhoods.org/departments/human-resources-department/employee-forms
 http://detroitmi.theneighborhoods.org/departments/media-services-department
-http://detroitmi.theneighborhoods.org/departments/media-services-department/special-events
+http://detroitmi.theneighborhoods.org/departments/media-services-department/special-events-and-film-office
 http://detroitmi.theneighborhoods.org/departments/office-chief-financial-officer/ocfo-divisions/office-assessor
 http://detroitmi.theneighborhoods.org/departments/office-chief-financial-officer/ocfo-divisions/office-assessor/property-tax-assistance
 http://detroitmi.theneighborhoods.org/departments/office-chief-financial-officer/ocfo-divisions/office-assessor/renaissance-zones

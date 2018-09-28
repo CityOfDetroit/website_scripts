@@ -7,14 +7,23 @@ import load_translation
 
 if __name__ == '__main__':
 
-	if len(sys.argv) < 2:
-		raise Exception('usage: bn_reload.py url')
+	with open('bn_reload.txt') as url_list:
 
-	url = sys.argv[1]
-	url = url[37 : ]
+		for url in url_list:
 
-	filename = 'translated_content/bn/' + url.replace('/', '%2F') + '.txt'
+			url = url[37 : ].strip()
 
-	print(filename)
+			filename = 'translated_content/bn/' + url.replace('/', '%2F') + '.txt'
 
-	load_translation.Loader().run(lang='bn', filename=filename)
+			try:
+
+				file = open(filename)
+
+			except:
+
+				print(filename + " not found")
+				continue
+
+			print("loading " + filename)
+
+			load_translation.Loader().run(lang='bn', filename=filename)
