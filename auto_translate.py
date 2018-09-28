@@ -8,12 +8,22 @@ from google.cloud import translate
 from parse_translated_content import TranslatedPage
 from export_translations import ContentExporter
 
-# from translations_loader import TranslationsLoader
+import load_translation
 
 import inspect
 
 
 import pdb
+
+
+def machine_translate(client, lang, text):
+
+    # Translate the content
+    translation = client.translate(text, source_language='en', target_language=lang)
+
+    print(translation['translatedText'])
+
+    return translation['translatedText']
 
 
 if __name__ == '__main__':
@@ -33,16 +43,19 @@ if __name__ == '__main__':
     # Instantiate a translation client
     client = translate.Client.from_service_account_json('google_translate_key.json')
 
-    page = TranslatedPage()
-    page.parse_json(data)
+    source_page = TranslatedPage()
+    source_page.parse_json(data)
 
-    for value in [ page.content, page.title, page.desc, page.organization_head_information, page.faq, page.summary ]:
+    lang = 'es'
 
-        if value:
+    # Translate the content
+    translated_page = TranslatedPage()
 
-            for lang in TranslatedPage.LANG_MAP.keys():
+    translated_page.content = machine_translate(client=client, lang=lang, text=source_page.content)
+    translated_page.title =machine_translate(client=client, lang=lang, text=source_page.title)
+    translated_page.desc = machine_translate(client=client, lang=lang, text=source_page.desc)
+    translated_page.organization_head_information = machine_translate(client=client, lang=lang, text=source_page.organization_head_information)
+    translated_page.summary = machine_translate(client=client, lang=lang, text=source_page.summary)
 
-                # Translate the content
-                translation = client.translate(value, source_language='en', target_language=lang)
-
-                print(translation['translatedText'])
+    # Now write the translated content
+    load_translation.Loader().run_page(lang, page)

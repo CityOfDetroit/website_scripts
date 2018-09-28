@@ -8,19 +8,42 @@ from translations_loader import TranslationsLoader
 
 class Loader():
 
-    def run(self, lang, filename):
+    def run_file(self, lang, filename):
 
         if '/' + lang + '/' not in filename:
             raise Exception("Error:  lang {} appears wrong based on file path".format(lang))
+
+        page = TranslatedPage()
+        try:
+            page.parse_file(filename=filename)
+        except Exception as exc:
+            print("Exception caught: " + str(exc))
+
+        rerturn self.run_page(lang, page)
+
 
         loader = TranslationsLoader()
 
         loader.start()
 
-        page = TranslatedPage()
-
         try:
             page.parse_file(filename=filename)
+
+            loader.load_page(page=page, lang=lang)
+            loader.check_page(page=page, lang=lang)
+
+        except Exception as exc:
+            print("Exception caught: " + str(exc))
+
+        loader.stop()
+
+    def run_page(self, lang, page):
+
+        loader = TranslationsLoader()
+
+        loader.start()
+
+        try:
 
             loader.load_page(page=page, lang=lang)
             loader.check_page(page=page, lang=lang)
@@ -42,4 +65,4 @@ if __name__ == '__main__':
     lang = sys.argv[1]
     filename = sys.argv[2]
 
-    Loader().run(lang=lang, filename=filename)
+    Loader().run_file(lang=lang, filename=filename)
