@@ -95,6 +95,7 @@ ENV/
 env.bak/
 venv.bak/
 pip-selfcheck.json
+google_translate_key.json
 
 # Spyder project settings
 .spyderproject
