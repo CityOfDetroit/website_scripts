@@ -51,6 +51,9 @@ if __name__ == '__main__':
     # Translate the content
     translated_page = TranslatedPage()
 
+    translated_page.vid = source_page.vid
+    translated_page.tid = source_page.tid
+
     translated_page.content = machine_translate(client=client, lang=lang, text=source_page.content)
     translated_page.title =machine_translate(client=client, lang=lang, text=source_page.title)
     translated_page.desc = machine_translate(client=client, lang=lang, text=source_page.desc)
@@ -58,4 +61,5 @@ if __name__ == '__main__':
     translated_page.summary = machine_translate(client=client, lang=lang, text=source_page.summary)
 
     # Now write the translated content
-    load_translation.Loader().run_page(lang, page)
+    load_translation.Loader().run_page(lang, translated_page)
+

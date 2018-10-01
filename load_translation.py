@@ -19,23 +19,7 @@ class Loader():
         except Exception as exc:
             print("Exception caught: " + str(exc))
 
-        rerturn self.run_page(lang, page)
-
-
-        loader = TranslationsLoader()
-
-        loader.start()
-
-        try:
-            page.parse_file(filename=filename)
-
-            loader.load_page(page=page, lang=lang)
-            loader.check_page(page=page, lang=lang)
-
-        except Exception as exc:
-            print("Exception caught: " + str(exc))
-
-        loader.stop()
+        self.run_page(lang, page)
 
     def run_page(self, lang, page):
 
