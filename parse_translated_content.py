@@ -25,8 +25,10 @@ class TranslatedPage():
 
     def __init__(self):
 
-
         self.url = ''
+        self.tid = ''
+        self.vid = ''
+        
         self.content = ''
         self.title = ''
         self.desc = ''
