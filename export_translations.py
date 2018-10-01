@@ -277,9 +277,9 @@ class ContentExporter():
             ContentExporter.report_err("url {} was missing required data".format(url), "Missing required data")
             return 
 
-        print(json.dumps(data))
+        # print(json.dumps(data))
         ContentExporter.urls_exported[url] = True
-        print("")
+        # print("")
 
         if ContentExporter.output_errs:
             return

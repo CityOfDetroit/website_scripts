@@ -1,22 +1,23 @@
 #!/usr/bin/env python
 
 import sys
+import time
 
 from google.cloud import translate
 
-
 from parse_translated_content import TranslatedPage
 from export_translations import ContentExporter
-
 import load_translation
-
-import inspect
 
 
 def machine_translate(client, lang, text):
 
+    if not text:
+        return text
+
     # Translate the content
     translation = client.translate(text, source_language='en', target_language=lang)
+    time.sleep(1)
 
     # print(translation['translatedText'])
 
