@@ -18,7 +18,7 @@ def machine_translate(client, lang, text):
     # Translate the content
     translation = client.translate(text, source_language='en', target_language=lang)
 
-    print(translation['translatedText'])
+    # print(translation['translatedText'])
 
     return translation['translatedText']
 
