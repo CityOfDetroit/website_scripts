@@ -156,10 +156,8 @@ class AutoTranslator():
         for lang, translated_page in self.translated_pages.items():
 
             if translated_page.faq:
-                print('Writing FAQ content to file')
 
                 # Output translated faq content to file
-
                 filename = "{}_{}.txt".format(translated_page.nid, lang)
                 print("Writing faq content to {}".format(filename))
                 output = open(filename, mode='w')
@@ -191,4 +189,3 @@ if __name__ == '__main__':
     translator.save_translations()
  
     print('\nLoaded all translations\n')
-
