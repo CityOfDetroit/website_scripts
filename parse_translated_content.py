@@ -68,6 +68,7 @@ class TranslatedPage():
         """
 
         self.tid = self.parse_value(data=data, name='tid')
+        self.nid = self.parse_value(data=data, name='nid')
         self.vid = self.parse_value(data=data, name='vid', val_name='target_id')
 
         self.title = self.parse_value(data=data, name='name', alt_name='title')

@@ -12,9 +12,6 @@ from export_translations import ContentExporter
 import load_translation
 
 
-import pdb
-
-
 class MachineTranslatorHelper():
     """
     Class for handling interaction with google translation api.
@@ -51,22 +48,13 @@ class MachineTranslatorHelper():
         Parse html into chunks that are short enough to translate.
         """
 
-
-        pdb.set_trace()
-
-
         translated_text = ''
-
-
         soup = BeautifulSoup(text, 'html.parser')
 
-        elts = soup.find_all('p')
-        for elt in elts:
+        for elt in soup.find_all('p'):
 
-            print(elt)
-
-            tmp = self.translate_internal(lang, elt)
-            translated_text = translated_text + tmp
+            tmp = self.translate_internal(lang, str(elt))
+            translated_text += tmp + '\n'
 
         return translated_text
 
@@ -74,10 +62,6 @@ class MachineTranslatorHelper():
         """
         Translate text to desired language.
         """
-
-
-        pdb.set_trace()
-
 
         if not text:
             return text
@@ -142,22 +126,17 @@ class AutoTranslator():
             translated_page = TranslatedPage()
 
             translated_page.vid = source_page.vid
+            translated_page.nid = source_page.nid
             translated_page.tid = source_page.tid
 
-            # TODO bring this back
-
-            # translated_page.content = self.translator.translate(lang=lang, text=source_page.content)
-            # translated_page.title = self.translator.translate(lang=lang, text=source_page.title)
-            # translated_page.desc = self.translator.translate(lang=lang, text=source_page.desc)
-            # translated_page.organization_head_information = self.translator.translate(lang=lang, text=source_page.organization_head_information)
-            # translated_page.summary = self.translator.translate(lang=lang, text=source_page.summary)
+            translated_page.content = self.translator.translate(lang=lang, text=source_page.content)
+            translated_page.title = self.translator.translate(lang=lang, text=source_page.title)
+            translated_page.desc = self.translator.translate(lang=lang, text=source_page.desc)
+            translated_page.organization_head_information = self.translator.translate(lang=lang, text=source_page.organization_head_information)
+            translated_page.summary = self.translator.translate(lang=lang, text=source_page.summary)
 
             # translate any faq content
             for faq_pair in source_page.faq:
-
-
-                pdb.set_trace()
-
 
                 question = self.translator.translate(lang=lang, text=faq_pair['question'])
                 answer = self.translator.translate(lang=lang, text=faq_pair['answer'])
@@ -179,7 +158,12 @@ class AutoTranslator():
             if translated_page.faq:
                 print('Writing FAQ content to file')
 
-                # TODO output translated faq content to file
+                # Output translated faq content to file
+
+                filename = "{}_{}.txt".format(translated_page.nid, lang)
+                print("Writing faq content to {}".format(filename))
+                output = open(filename, mode='w')
+                translated_page.output_file(output=output, url=self.url, lang=lang)
 
             else:
 
@@ -195,10 +179,6 @@ if __name__ == '__main__':
     if len(sys.argv) != 2:
         raise Exception("Usage:  <url>")
 
-
-    pdb.set_trace()
-
-
     translator = AutoTranslator(url=sys.argv[1])
 
     # Extract content to be translated.
@@ -211,3 +191,4 @@ if __name__ == '__main__':
     translator.save_translations()
  
     print('\nLoaded all translations\n')
+
