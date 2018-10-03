@@ -101,11 +101,12 @@ class AutoTranslator():
         """
 
         # Extract the content to be translated
-        tmp = ContentExporter.do_export(url=self.url, write_to_file=False)
+        options={'write_to_file': False, 'skip_review_pages': False}
+        tmp = ContentExporter.do_export(url=self.url, options=options)
         if not tmp:
 
             ContentExporter.output_errs = True
-            ContentExporter.do_export(url=url, write_to_file=False)
+            ContentExporter.do_export(url=url, options=options)
             ContentExporter.report_err_cnt()
             raise Exception('content could not be exported')
 

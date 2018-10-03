@@ -238,7 +238,7 @@ class ContentExporter():
             return url, data
 
     @staticmethod
-    def do_export(url, write_to_file=True):
+    def do_export(url, options={}):
 
         url, data = ContentExporter.get_data(url=url)
         if not url:
@@ -248,7 +248,7 @@ class ContentExporter():
             ContentExporter.report_err("url {} does not need translation".format(url), "No translation needed")
             return
 
-        if ContentExporter.in_review(data):
+        if options.get('skip_review_pages', True) and ContentExporter.in_review(data):
             ContentExporter.report_err("url {} is still in REVIEW".format(url), "REVIEW status")
             return
 
@@ -288,7 +288,7 @@ class ContentExporter():
         url_encoded = url[37 : ].replace("/", "%2F")
         url_encoded = ContentExporter.cleanup_url(url_encoded)
 
-        if write_to_file:
+        if options.get('write_to_file', True):
             with open(url_encoded + ".txt", 'w') as output:
 
                 output.write(ContentExporter.cleanup_url(url) + "\n\n")
