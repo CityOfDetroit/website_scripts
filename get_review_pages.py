@@ -7,13 +7,11 @@ from datetime import datetime
 import requests
 from requests.auth import HTTPBasicAuth
 
-import django
-from django.conf import settings
+from util import get_secrets
 
 
 server = "http://detroitmi.theneighborhoods.org"
 urls = [
-
     "/2015-Construction-Projects",
     "/2015-Crime-Statistics",
     "/2016-Crime-Statistics",
@@ -923,7 +921,6 @@ urls = [
     "/youtheventform",
     "/youthprogramform",
     "/youthprograms",
-
 ]
 
 output_errs = False
@@ -952,7 +949,7 @@ def in_review(content):
 
 def check_status(url):
 
-    auth_values = tuple(settings.CREDENTIALS['DETROITMI'].values())
+    auth_values = tuple(get_secrets()['CREDENTIALS']['DETROITMI'].values())
 
     url = "{}{}".format(server, url)
 
@@ -974,9 +971,6 @@ if __name__ == '__main__':
 
     if len(sys.argv) == 2:
         output_errs = sys.argv[1] == '--debug=true'
-
-    os.environ['DJANGO_SETTINGS_MODULE'] = 'django_apps.settings'
-    django.setup()
 
     for url in urls:
 
