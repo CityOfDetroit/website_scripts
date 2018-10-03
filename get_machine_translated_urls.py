@@ -7,9 +7,6 @@ from datetime import datetime
 import requests
 from requests.auth import HTTPBasicAuth
 
-import django
-from django.conf import settings
-
 import crawler
 import translated_urls
 

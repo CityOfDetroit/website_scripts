@@ -302,9 +302,6 @@ if __name__ == '__main__':
     if len(sys.argv) == 2:
         ContentExporter.output_errs = sys.argv[1] == '--debug=true'
 
-    # os.environ['DJANGO_SETTINGS_MODULE'] = 'django_apps.settings'
-    # django.setup()
-
     for url in urls:
 
         ContentExporter.do_export(url=url)
