@@ -136,7 +136,7 @@ class EMDocsParser():
                             line = ''
 
             data = {
-                "base_path": "/files/emergency_manager_docs/",
+                "base_path": "/sites/detroitmi.localhost/files/migrated_docs/emergency-manager-reports/",
                 "reports": content
             }
 
