@@ -106,7 +106,7 @@ class AutoTranslator():
         if not tmp:
 
             ContentExporter.output_errs = True
-            ContentExporter.do_export(url=url, options=options)
+            ContentExporter.do_export(url=self.url, options=options)
             ContentExporter.report_err_cnt()
             raise Exception('content could not be exported')
 
