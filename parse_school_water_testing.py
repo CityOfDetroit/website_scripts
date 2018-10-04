@@ -27,7 +27,8 @@ class WaterTestSet():
         with open(filename, 'w', newline='') as csvfile:
 
             # writer = csv.writer(filename, delimiter=',', quotechar='"')
-            writer = csv.DictWriter(csvfile, fieldnames = self.field_names)
+            writer = csv.DictWriter(csvfile, fieldnames=self.field_names, quoting=csv.QUOTE_ALL)
+            writer.writeheader()
 
             for test in self.tests:
 
@@ -43,7 +44,8 @@ def clean_val(val):
 def clean_href(href):
 
     path = href.replace('/Portals/0/docs/Schools/School Water Testing/', '')
-    return 'http://detroitmi.theneighborhoods.org/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/' + path
+    href = 'http://detroitmi.theneighborhoods.org/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/' + path
+    return href.replace(' ', '%20')
 
 
 class WaterTestInfo():
@@ -93,7 +95,7 @@ class WaterTestInfo():
 
     def get_data(self):
 
-        return [ self.name, self.status, self.path, self.fix_plan_path, self.fix_plan_status ]
+        return [ self.name, self.status, self.path, self.fix_plan_status, self.fix_plan_path ]
 
     def is_complete(self):
 
