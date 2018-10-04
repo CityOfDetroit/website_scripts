@@ -1,75 +1,99 @@
 #!/usr/bin/env python
 
-import os
+import csv
 import json
-import sys
+import requests
+
+from bs4 import BeautifulSoup
 
 
-class WaterTestInfo():
+class WaterTestSet():
+    """
+    Contains set of water test results (e.g., all dps schools' water tests) to csv.
+    """
+
+    field_names = [ 'school_name', 'status', 'url', 'fix_plan_status', 'fix_plan_url' ]
 
     def __init__(self):
 
-        self.name = ''
-        self.path = ''
-        self.status = ''
+        self.tests = []
+
+    def add(self, test_info):
+
+        self.tests.append(test_info)
+
+    def write(self, filename):
+
+        with open(filename, 'w', newline='') as csvfile:
+
+            # writer = csv.writer(filename, delimiter=',', quotechar='"')
+            writer = csv.DictWriter(csvfile, fieldnames = self.field_names)
+
+            for test in self.tests:
+
+                row_data = { item[0] : item[1] for item  in zip(self.field_names, test.get_data()) }
+                writer.writerow(row_data)
+
+
+def clean_val(val):
+
+    return val.strip()
+
+
+def clean_href(href):
+
+    path = href.replace('/Portals/0/docs/Schools/School Water Testing/', '')
+    return 'http://detroitmi.theneighborhoods.org/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/' + path
+
+
+class WaterTestInfo():
+    """
+    An individual set of water test results for a given school.
+    """
+
+    def __init__(self, row):
+
+        cols = row.find_all('td')
+
+        name_col = cols[0]
+        href_col = cols[1]
+        status_col = cols[2]
+        if len(cols) < 4:
+            mitigation_plan_col = None
+        else:
+            mitigation_plan_col = cols[3]
+
+        self.name = clean_val(name_col.text)
+
+        if href_col.find('a'):
+            href = href_col.find('a').get('href')
+            self.path = clean_href(href)
+        else:
+            self.path = ''
+
+        self.status = clean_val(status_col.find('strong').text)
+
         self.fix_plan_path = ''
         self.fix_plan_status = ''
 
-    def parse_url(line):
-        """
-        Parse url into path and status.
-        """
+        if self.status == 'Elevated' and mitigation_plan_col:
 
-        if "href" not in line:
-            if 'Pending' == line:
-                return '', 'Pending'
+            child = mitigation_plan_col.findChild()
+            if child:
+
+                href = child.get('href')
+                if href:
+                    self.fix_plan_path = clean_href(href)
+
+                self.fix_plan_status = clean_val(child.text)
+
             else:
-                return '', ''
 
-        begin = 25
-        end = line.find('"', begin)
+                self.fix_plan_status = clean_val(mitigation_plan_col.text)
 
-        path = line[begin : end]
+    def get_data(self):
 
-        begin = line.find('>', end)
-        end = line.find('<', begin)
-
-        status = line[begin + 1: end]
-
-        return path, status
-
-    def parse_status(line):
-
-        begin = line.find('>')
-        end = line.find('<', begin)
-
-        if begin > 0 and end > 0:
-            status = line[begin + 1 : end]
-        else:
-            status = line
-        
-        return status
-
-    def add_val(self, line):
-
-        if not self.name:
-            self.name = line
-        elif not self.path:
-
-            # parse url
-            self.path, tmp = WaterTestInfo.parse_url(line)
-
-            # usually we throw away 'tmp', but sometimes there is no actually url (no report) if 
-            # results are pending - in this case, store tmp as the status.
-            if not self.path and tmp:
-                self.status = tmp
-
-        elif not self.status:
-            self.status = WaterTestInfo.parse_status(line)
-        else:
-
-            # parse fix plan
-            self.fix_plan_path, self.fix_plan_status = WaterTestInfo.parse_url(line)
+        return [ self.name, self.status, self.path, self.fix_plan_path, self.fix_plan_status ]
 
     def is_complete(self):
 
@@ -87,80 +111,56 @@ class WaterTestInfo():
 
         return self.name
 
-    def get_json(self):
 
-        return  {
-            "name": self.name,
-            "report_path": self.path,
-            "status": self.status,
-            "fix_plan_path": self.fix_plan_path,
-            "fix_plan_status": self.fix_plan_status,
-        }
+def get_pages():
 
+    urls = {
+        "dps": "http://www.detroitmi.gov/Government/Departments-and-Agencies/Detroit-Health-Department/School-Water-Testing/DPS-Water-Testing",
+        "day_care": "http://www.detroitmi.gov/Government/Departments-and-Agencies/Detroit-Health-Department/School-Water-Testing/Day-Care-Water-Testing",
+        "charter": "http://www.detroitmi.gov/Government/Departments-and-Agencies/Detroit-Health-Department/School-Water-Testing/Charter-and-EAA-Water-Testing",
+    }
 
-def ignore_line(line):
+    pages = {}
+    for key, url in urls.items():
 
-    ignore_starts = [ "<table", "</table", "<thead", "</thead", "<tbody", "</tbody", ]
-    for val in ignore_starts:
-        if line.startswith(val):
-            return True
+        response = requests.get(url)
 
-    ignores = [ "<td>", "</td>" ]
-    for val in ignores:
-        if line == val:
-            return True
+        pages[key] = response.text
 
-    return False
+    return pages
 
-def parse_lines(input_file):
+def parse_pages(pages):
 
-    water_test_info = []
-    first_item = True
-    line_num = 0
+    test_sets = {}
 
-    for line in input_file:
+    for key, page in pages.items():
 
-        line = line.lstrip().rstrip()
-        line_num = line_num + 1
+        test_set = WaterTestSet()
 
-        if line == "<tr>":
+        soup = BeautifulSoup(page, 'html.parser')
+        divs = soup.find_all('div', 'det-school-water')
+        for div in divs:
 
-            info = WaterTestInfo()
+            rows = div.find_all('tr')
+            header_parsed = False
 
-        elif line == "</tr>":
+            for row in rows:
 
-            if first_item:
-                first_item = False
-            else:
-                if not info.is_complete():
-                    raise Exception("info {} not complete (line num {}".format(info, line_num))
+                if header_parsed:
+                    test_info = WaterTestInfo(row)
+                    test_set.add(test_info)
+                else:
+                    header_parsed = True
 
-                # TODO remove "schools/" from beginning of path
+        test_sets[key] = test_set
 
-                water_test_info.append(info)
-
-        elif not ignore_line(line):
-
-            info.add_val(line)
-
-
-    return water_test_info
-
+    return test_sets
+        
 
 if __name__ == "__main__":
 
-    if len(sys.argv) < 2:
-        msg = "usage:  {} input_file\n(e.g., {} website_data/water_testing_dps.htm".format(sys.argv[0], sys.argv[0])
-        raise Exception(msg)
-
-    filename = sys.argv[1]
-    with open(filename, newline='', encoding="utf8") as input_file:
-
-        water_test_info = parse_lines(input_file)
-
-    output = {
-        "base_path": "/files/water_testing/",
-        "locations": [ info.get_json() for info in water_test_info ]
-    }
-
-    print(json.dumps(output))
+    pages = get_pages()
+    test_sets = parse_pages(pages)
+    for key, test_set in test_sets.items():
+        filename = key + '.csv'
+        test_set.write(filename=filename)
