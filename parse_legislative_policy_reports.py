@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
+import csv
 from lxml import html
 import json
 import requests
+import sys
 from selenium import webdriver
 
 
@@ -22,14 +24,28 @@ def ignore_link(path):
     return ".pdf" not in path.lower()
 
 
+class ReportInfo():
+
+    def __init__(self, section, sub_section, report_title, href):
+
+        self.section = section
+        self.sub_section = sub_section
+        self.report_title = report_title
+        self.href = href
+
+    def get_data(self):
+
+        return [ self.section, self.sub_section, self.report_title, self.href ]
+
 if __name__ == '__main__':
 
     url = "http://www.detroitmi.gov/How-Do-I/View-City-of-Detroit-Reports/Legislative-Policy-Division-Reports"
 
-    content = {
-        "base_path": "/sites/detroitmi.localhost/files/migrated_docs/legislative-policy-reports/",
-        "reports": {}
-    }
+    reports = []
+    section = ''
+    sub_section = ''
+    report_title = ''
+    href = ''
 
     driver = webdriver.Firefox()
     driver.get(url)
@@ -49,22 +65,33 @@ if __name__ == '__main__':
                 tmp = elt.find_element_by_tag_name('span')
                 if tmp:
                     section = tmp.text.strip()
-                    content["reports"][section] = {}
 
             else:
 
-                subtitle = elt.text.strip()
-                content["reports"][section][subtitle] = []
+                sub_section = elt.text.strip()
 
         else:
 
-            path = elt.get_attribute('href')
-            if path and not ignore_link(path):
+            href = elt.get_attribute('href')
+            if href and not ignore_link(href):
 
                 title = (elt.get_attribute('title') or elt.text).strip()
-                path = parse_path(path)
+                href = parse_path(href)
 
-                if title and path:
-                    content["reports"][section][subtitle].append({ title : path })
+                if title and href:
 
-    print(json.dumps(content))
+                    href = "http://detroitmi.theneighborhoods.org/sites/detroitmi.localhost/files/migrated_docs/legislative-policy-reports/" + href
+
+                    report_info = ReportInfo(section, sub_section, title, href)
+                    reports.append(report_info)
+
+    field_names = [ 'Section', 'Sub Section', 'Report Title', 'URL' ]
+
+    # writer = csv.writer(filename, delimiter=',', quotechar='"')
+    writer = csv.DictWriter(sys.stdout, fieldnames=field_names, quoting=csv.QUOTE_ALL)
+    writer.writeheader()
+
+    for report in reports:
+
+        row_data = { item[0] : item[1] for item  in zip(field_names, report.get_data()) }
+        writer.writerow(row_data)
