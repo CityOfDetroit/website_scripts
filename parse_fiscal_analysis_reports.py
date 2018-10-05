@@ -1,9 +1,13 @@
 #!/usr/bin/env python
 
+import csv
 from lxml import html
 import json
 import requests
 from selenium import webdriver
+
+
+import pdb
 
 
 def parse_path(path):
@@ -58,4 +62,8 @@ if __name__ == '__main__':
                 if title and path:
                     content["reports"][section].append({ title : path })
 
-    print(json.dumps(content))
+    # print(json.dumps(content))
+
+
+    pdb.set_trace()
+

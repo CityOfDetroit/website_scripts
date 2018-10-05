@@ -1,11 +1,15 @@
 #!/usr/bin/env python
 
 import os
+import csv
 import json
 from json import JSONEncoder
 from json import JSONDecoder
 import re
 import sys
+
+
+import pdb
 
 
 class EMDocsParser():
@@ -140,7 +144,10 @@ class EMDocsParser():
                 "reports": content
             }
 
-            print(json.dumps(data))
+            # print(json.dumps(data))
+
+
+            pdb.set_trace()
 
 
 if __name__ == "__main__":

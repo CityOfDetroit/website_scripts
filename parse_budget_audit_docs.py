@@ -1,8 +1,12 @@
 #!/usr/bin/env python
 
+import csv
 from lxml import html
 import json
 import requests
+
+
+import pdb
 
 
 def parse_link(link):
@@ -76,4 +80,7 @@ if __name__ == '__main__':
 			subtitle = report.xpath('span')[0].text
 			content["reports"][subtitle] = reports
 
-	print(json.dumps(content))
+	# print(json.dumps(content))
+
+
+	pdb.set_trace()
