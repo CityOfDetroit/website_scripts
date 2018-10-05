@@ -4,10 +4,8 @@ import csv
 from lxml import html
 import json
 import requests
+import sys
 from selenium import webdriver
-
-
-import pdb
 
 
 def parse_path(path):
@@ -18,7 +16,7 @@ def parse_path(path):
     if pos > 0:
         path = path[ : pos]
 
-    return path
+    return "http://detroitmi.theneighborhoods.org/sites/detroitmi.localhost/files/migrated_docs/fiscal-analysis-reports/" + path
 
 
 def ignore_link(path):
@@ -43,6 +41,11 @@ if __name__ == '__main__':
 
         elt.click()
 
+    field_names = [ 'Section', 'Report Title', 'URL' ]
+
+    writer = csv.DictWriter(sys.stdout, fieldnames=field_names, quoting=csv.QUOTE_ALL)
+    writer.writeheader()
+
     elts = driver.find_elements_by_xpath('//div[@class="dt-faq-item"] | //a')
     for elt in elts:
 
@@ -62,8 +65,6 @@ if __name__ == '__main__':
                 if title and path:
                     content["reports"][section].append({ title : path })
 
-    # print(json.dumps(content))
-
-
-    pdb.set_trace()
-
+                    report_data = [ section, title, path ]
+                    row_data = { item[0] : item[1] for item  in zip(field_names, report_data) }
+                    writer.writerow(row_data)
