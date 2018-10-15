@@ -101,7 +101,7 @@ class ContentExporter():
             if content.get(key):
 
                 tmp = content[key][0]['value']
-                translation_date = datetime.strptime(tmp, '%Y-%m-%d').date()
+                translation_date = datetime.strptime(tmp[:10], '%Y-%m-%d').date()
                 if translation_date < date_changed:
                     return True
                 else:
