@@ -87,7 +87,6 @@ if __name__ == '__main__':
 
     field_names = [ 'Section', 'Sub Section', 'Report Title', 'URL' ]
 
-    # writer = csv.writer(filename, delimiter=',', quotechar='"')
     writer = csv.DictWriter(sys.stdout, fieldnames=field_names, quoting=csv.QUOTE_ALL)
     writer.writeheader()
 
