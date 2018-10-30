@@ -13,6 +13,9 @@ import pdb
 
 def clean_href(href):
 
+    if 'LinkClick.aspx' in href:
+        return 'http://archive.detroitmi.gov' + href
+
     pos = href.find('?')
     if pos > 0:
         href = href[ : pos]
