@@ -35,7 +35,7 @@ class ReportInfo():
 
         elif 'No Meeting Held' in row:
 
-            print(row)
+            pass 
 
         else:
 
