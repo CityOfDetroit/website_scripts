@@ -1,20 +1,19 @@
-"school_name","status","url","fix_plan_status","fix_plan_url
-"St Peter Claver","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/St%20Peter%20Claver.pdf",,
-"St Timothy Head Start","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/St%20Timothy%20Head%20Start.pdf",,
-"Busy Minds Child Care Center Inc","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Busy%20Minds%20Child%20Care%20Center%20Inc.pdf",,
+"school_name","status","url","fix_plan_status","fix_plan_url"
 "2 Days Child Learning Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/2%20Days%20Child%20Learning%20Center.pdf",,
 "A and W Day Care Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/A%20and%20W%20Childcare.pdf",,
 "Above & Beyond Learning Child Care Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Above%20Beyond%20Learning%20Child%20Care%20Center.pdf",,
-"Academy of Beanie Care","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Academy%20of%20Beanie%20Care.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Academy%20of%20Beanie%20Care%20-%20Inspection.pdf
+"Academy of Beanie Care","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Academy%20of%20Beanie%20Care.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Academy%20of%20Beanie%20Care%20-%20Inspection.pdf"
+"Al-Wali","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Al-Wali.pdf",,
 "All About Kids","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/All%20About%20Kids.pdf",,
 "Angel Land Center of Hope","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Angel%20Land%20Center%20of%20Hope.pdf",,
 "Babes In The Woods","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Babes%20In%20The%20Woods.pdf",,
-"Brainiacs Clubhouse Child Development Center - Beaconsfield","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Brainiacs%20Clubhouse%20-%20Beaconsfield.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Brainiacs%20Clubhouse%20Child%20Development%20Center%20-%20Beaconsfield%20-%20Fix%20Plan.pdf
+"Brainiacs Clubhouse Child Development Center - Beaconsfield","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Brainiacs%20Clubhouse%20-%20Beaconsfield.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Brainiacs%20Clubhouse%20Child%20Development%20Center%20-%20Beaconsfield%20-%20Fix%20Plan.pdf"
 "Brainiacs Clubhouse Child Development Center - Morang","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Brainiacs%20Clubhouse%20-%20Morang.pdf",,
 "Bright Beginnings","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Bright%20Beginnings.pdf",,
 "Bright Horizons at One Campus Martius","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Bright%20Horizons%20at%20One%20Campus%20Martius.pdf",,
 "Bright Minds Child Care Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Bright%20Minds%20Child%20Care%20Center.pdf",,
 "Brite Beginnings Learning Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Brite%20Beginnings%20Learning%20Center.pdf",,
+"Busy Minds Child Care Center Inc","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Busy%20Minds%20Child%20Care%20Center%20Inc.pdf",,
 "C R Smith Pre-K Academy","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/C%20R%20Smith%20Pre-K%20Academy.pdf",,
 "Carlee's Home Daycare","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Carlees%20Home%20Daycare.pdf",,
 "Chapel Child Daycare Learning Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Chapel%20Child%20Daycare%20Learning%20Center.pdf",,
@@ -41,8 +40,9 @@
 "Focus Hope Ctr For Children","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Focus%20Hope%20Ctr%20For%20Children.pdf",,
 "Focus Hope-Glazer Site","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Focus%20Hope-Glazer%20Site.pdf",,
 "Fox Tots Child Development Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Fox%20Tots%20Child%20Development%20Center.pdf",,
-"Friendship Childcare Center","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Friendship%20Childcare%20Center.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Friendship%20Childcare%20Center%20-%20Fix%20Plan.pdf
+"Friendship Childcare Center","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Friendship%20Childcare%20Center.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Friendship%20Childcare%20Center%20-%20Fix%20Plan.pdf"
 "Funtime Learning Child Day Care","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Funtime%20Learning%20Child%20Day%20Care.pdf",,
+"God's Little School House","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/godslittleschoolhouse.pdf",,
 "Greater Burnette Baptist Head Start","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Greater%20Burnette%20Baptist%20Head%20Start.pdf",,
 "Greater Ebenezer Christian Childcare Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Greater%20Ebenezer%20Christian%20Childcare%20Center.pdf",,
 "Greater Sonora Early Learning Prep","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Greater%20Sonora%20Early%20Learning%20Prep.pdf",,
@@ -68,7 +68,7 @@
 "Little Scholars Child Development Center - Brightmoor/Fenkell","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Little%20Scholars%20Child%20Development%20Center%20-%20Brightmoor_Fenkell.pdf",,
 "Little Scholars Child Development Center - Grand River","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Little%20Scholars%20Child%20Development%20Center%20-%20Grand%20River.pdf",,
 "Little Scholars Child Development Center - Woodward","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Little%20Scholars%20Child%20Development%20Center%20-%20Woodward.pdf",,
-"Ma and Pa Daycare","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Ma%20and%20Pa%20Daycare.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Ma%20and%20Pa%20Daycare%20-%20fix%20plan.pdf
+"Ma and Pa Daycare","Elevated","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Ma%20and%20Pa%20Daycare.pdf","Submitted","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Ma%20and%20Pa%20Daycare%20-%20fix%20plan.pdf"
 "Matrix Head Start - East Lake Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Eastlake.pdf",,
 "Matrix Head Start - Spirit of Hope","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Spirit%20of%20Hope.pdf",,
 "Matrix Head Start Blessed Beginnings","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Matrix%20Head%20Start%20Blessed%20Beginnings.pdf",,
@@ -117,6 +117,8 @@
 "Sha-Shas Kiddy Korner Child Care LLC","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Sha-Shas%20Kiddy%20Korner%20Child%20Care%20LLC.pdf",,
 "St John Headstart","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/St%20John%20Headstart.pdf",,
 "St Paul Child Development Ct","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/St%20Paul%20Child%20Development%20Ct.pdf",,
+"St Peter Claver","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/St%20Peter%20Claver.pdf",,
+"St Timothy Head Start","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/St%20Timothy%20Head%20Start.pdf",,
 "Sugar N Spice","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Sugar%20N%20Spice.pdf",,
 "Summer Preschool Early Learning Center II","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Summer%20Preschool%20Early%20Learning%20Center%20II.pdf",,
 "SWCS Detroit Birth to Five & HeadStart","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/SWCS%20Detroit%20Birth%20to%20Five%20HeadStart.pdf",,
@@ -126,6 +128,7 @@
 "The Nurturing Nest","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/The%20Nurturing%20Nest.pdf",,
 "The Order Of The Fishermen Home Of Love Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/The%20Order%20Of%20The%20Fishermen%20Home%20Of%20Love%20Center.pdf",,
 "The Order Of The Fishermen Min Chapel Hill Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/The%20Order%20Of%20The%20Fishermen%20Min%20Chapel%20Hill%20Center.pdf",,
+"Timbuktu","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Timbuktu.pdf",,
 "Toddlers Center Daycare Early Learning Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Toddlers%20Center%20Daycare%20Early%20Learning%20Center.pdf",,
 "Tot Town Child Dev Center & K","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Tot%20Town%20Child%20Dev%20Center%20K.pdf",,
 "Totts Early Learning Center","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Totts%20Early%20Learning%20Center.pdf",,
@@ -150,6 +153,4 @@
 "WSU - COE Early Childhood Ctr","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/WSU%20-%20COE%20Early%20Childhood%20Ctr.pdf",,
 "WSU Merrill-Palmer Child Development Lab","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/WSU%20Merrill-Palmer%20Child%20Development%20Lab.pdf",,
 "Young Faith Child Day Care","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Young%20Faith%20Child%20Day%20Care.pdf",,
-"Al-Wali","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Al-Wali.pdf",,
-"Timbuktu","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Timbuktu.pdf",,
 "Youthville","Acceptable","https://www.detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/school-water-testing/Head%20Start/Youthville.pdf",,
