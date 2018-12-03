@@ -11,12 +11,15 @@ from parse_translated_content import TranslatedPage
 
 class TranslationsLoader():
 
-    db_info = get_secrets()["DATABASES"]["detroitmi.dev"]
-    ssh_host = db_info["SSH_HOST"]
-    db_name = db_info["NAME"]
-    db_engine = db_info["ENGINE"]
-    db_user = db_info["USER"]
-    db_pass = db_info["PASSWORD"]
+    def __init__(self, dbname):
+
+        self.dbname = dbname
+        self.db_info = get_secrets()["DATABASES"][self.dbname]
+        self.ssh_host = self.db_info["SSH_HOST"]
+        self.db_name = self.db_info["NAME"]
+        self.db_engine = self.db_info["ENGINE"]
+        self.db_user = self.db_info["USER"]
+        self.db_pass = self.db_info["PASSWORD"]
 
     def start(self):
         """
