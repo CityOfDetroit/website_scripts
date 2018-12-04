@@ -43,6 +43,18 @@ def ignore_link(path):
     return ".pdf" not in path.lower()
 
 
+def clean_title(title):
+
+    replacements = [
+        ("\xa0", ' ')
+    ]
+
+    for replacement in replacements:
+        title = title.replace(replacement[0], replacement[1])
+
+    return title
+
+
 class ReportInfo():
 
     def __init__(self, section, sub_section, report_title, href, display_order):
@@ -118,6 +130,7 @@ if __name__ == '__main__':
                     report_dates = []
 
                 title = (elt.text or elt.name).strip()
+                title = clean_title(title)
 
                 if report_dates:
 
