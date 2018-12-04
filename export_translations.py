@@ -10,6 +10,7 @@ from requests.auth import HTTPBasicAuth
 
 from util import get_secrets
 
+import all_site_urls
 import translated_urls
 
 
@@ -21,7 +22,10 @@ import pdb
 
 server = "http://detroitmi.theneighborhoods.org"
 
-urls = []
+# urls = []
+
+# urls = translated_urls.all_urls
+urls = all_site_urls.all_site_urls
 
 # urls = translated_urls.city_council_urls
 # urls = translated_urls.ddot_urls
@@ -50,6 +54,8 @@ class ContentExporter():
     urls_exported = {}
 
     auth_values = tuple(get_secrets()['CREDENTIALS']['DETROITMI'].values())
+
+    # max_date_changed = date(year=2018, month=9, day=1)
 
     @staticmethod
     def report_err(msg, desc):
@@ -95,6 +101,8 @@ class ContentExporter():
 
         tmp = changed[0]['value']
         date_changed = datetime.strptime(tmp[0 : 10], '%Y-%m-%d').date()
+        # if ContentExporter.max_date_changed and date_changed >= ContentExporter.max_date_changed:
+        #     return True
 
         for key in [ "field_dept_translation_date", "field_gov_translation_date" ]:
 
@@ -106,11 +114,9 @@ class ContentExporter():
                     return True
                 else:
 
-                    # pdb.set_trace()
-
                     return False
 
-        return True
+        return False
 
     @staticmethod
     def get_div(content, content_id, start=0):
