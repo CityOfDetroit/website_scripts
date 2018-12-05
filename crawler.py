@@ -314,8 +314,8 @@ class PageCrawlerAdmin():
 if __name__ == '__main__':
 
     # domain = "detroitmi.gov"
-    domain = "detroitmi.theneighborhoods.org"
-    site = "http://" + domain
+    domain = "detroitmi.gov"
+    site = "https://" + domain
 
     admin = PageCrawlerAdmin()
 
