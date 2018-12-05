@@ -20,7 +20,7 @@ import pdb
 # REVIEW:  remove all medical marijuana links?
 
 
-server = "http://detroitmi.theneighborhoods.org"
+server = "https://detroitmi.gov"
 
 # urls = []
 
@@ -291,7 +291,9 @@ class ContentExporter():
             return
 
         # also print the json to an individual file for each url
-        url_encoded = url[37 : ].replace("/", "%2F")
+
+        pos = url.find(".gov/")
+        url_encoded = url[pos + 4 : ].replace("/", "%2F")
         url_encoded = ContentExporter.cleanup_url(url_encoded)
 
         if options.get('write_to_file', True):
@@ -310,6 +312,12 @@ if __name__ == '__main__':
 
     for url in urls:
 
-        ContentExporter.do_export(url=url)
+        try:
+
+            ContentExporter.do_export(url=url)
+
+        except:
+
+            print("Fatal error exporting {}".format(url))
 
     ContentExporter.report_err_cnt()
