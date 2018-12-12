@@ -86,7 +86,9 @@ class AutoTranslator():
         """
 
         if url.startswith('http'):
-            url = url[7 : ]
+
+            pos = url.find("//")
+            url = url[pos + 2 : ]
 
             pos = url.find('/')
             url = url[pos : ]
@@ -172,7 +174,7 @@ class AutoTranslator():
 if __name__ == '__main__':
 
     # Usage:  auto_translate.py <url>
-    #  e.g.,  auto_translate.py 'http://detroitmi.theneighborhoods.org/departments/police-department'
+    #  e.g.,  auto_translate.py 'http://detroitmi.gov/departments/police-department'
     #  e.g.,  auto_translate.py '/departments/police-department'
 
     if len(sys.argv) != 2:
