@@ -17,7 +17,7 @@ class TranslationsLoader():
         self.db_info = get_secrets()["DATABASES"][self.dbname]
         self.ssh_host = self.db_info["SSH_HOST"]
         self.db_name = self.db_info["NAME"]
-        self.db_engine = self.db_info["ENGINE"]
+        self.db_engine = self.db_info["SQLALCHEMY_ENGINE"]
         self.db_user = self.db_info["USER"]
         self.db_pass = self.db_info["PASSWORD"]
 
