@@ -28,7 +28,7 @@ class TranslationsLoader():
 
         self.server = SSHTunnelForwarder(
                 ssh_address_or_host=self.ssh_host,
-                ssh_username='detroitmi.dev',
+                ssh_username=self.dbname,
                 ssh_pkey='~/.ssh/id_rsa',
                 remote_bind_address=('127.0.0.1', 3306),
                     logger=create_logger(loglevel=0))

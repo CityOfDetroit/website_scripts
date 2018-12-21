@@ -23,7 +23,7 @@ class Loader():
 
     def run_page(self, lang, page):
 
-        loader = TranslationsLoader()
+        loader = TranslationsLoader(dbname='detroitmi.prod')
 
         loader.start()
 
