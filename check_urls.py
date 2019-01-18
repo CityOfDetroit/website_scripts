@@ -27,7 +27,7 @@ if __name__ == '__main__':
             else:
                 path = url[ pos + 13 : ].strip()
 
-            url = "http://detroitmi.theneighborhoods.org" + path.strip()
+            url = "https://detroitmi.gov" + path.strip()
 
             try:
                 response = requests.get(url)
@@ -41,10 +41,10 @@ if __name__ == '__main__':
             except:
                 print("unknown error")
 
-    tmp_domain = "detroitmi.theneighborhoods.org"
+    tmp_domain = "detroitmi.gov"
 
     for url in missing_urls_list:
-        print("http://" + tmp_domain + url)
+        print("https://" + tmp_domain + url)
 
     # for url in sorted(list(missing_urls)):
     #     print("http://" + tmp_domain + url)

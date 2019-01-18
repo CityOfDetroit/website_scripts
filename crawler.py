@@ -313,7 +313,6 @@ class PageCrawlerAdmin():
 
 if __name__ == '__main__':
 
-    # domain = "detroitmi.gov"
     domain = "detroitmi.gov"
     site = "https://" + domain
 
