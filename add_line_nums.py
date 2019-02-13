@@ -13,7 +13,7 @@ if __name__ == '__main__':
         usage()
 
     file = open(sys.argv[1])
-    remove_old_nums = open(sys.argv[2])
+    remove_old_nums = sys.argv[2]
 
     if remove_old_nums not in ["yes", "no"]:
         usage()
@@ -22,11 +22,11 @@ if __name__ == '__main__':
 
     for line_num, line in enumerate(file):
 
-        if remove_old_nums:
+        if remove_old_nums and line_num > 0:
             pos = re.search(r'\,\d+', line)
             if not pos:
                 print("Error: no line number found in line {}".format(line))
             else:
-                line = line[pos.start() : ]
+                line = line[ : pos.start() ]
 
         print(line.strip() + "," + str(line_num))
