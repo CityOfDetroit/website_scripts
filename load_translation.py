@@ -49,4 +49,5 @@ if __name__ == '__main__':
     lang = sys.argv[1]
     filename = sys.argv[2]
 
-    Loader().run_file(lang=lang, filename=filename)
+    if 'node' not in filename:
+        Loader().run_file(lang=lang, filename=filename)
