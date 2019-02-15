@@ -12,6 +12,7 @@ from util import get_secrets
 
 import all_site_urls
 import translated_urls
+import urls_tmp
 
 
 import pdb
@@ -25,7 +26,8 @@ server = "https://detroitmi.gov"
 # urls = []
 
 # urls = translated_urls.all_urls
-urls = all_site_urls.all_site_urls
+# urls = all_site_urls.all_site_urls
+urls = urls_tmp.urls_tmp
 
 # urls = translated_urls.city_council_urls
 # urls = translated_urls.ddot_urls
