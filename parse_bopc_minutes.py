@@ -28,7 +28,7 @@ class ReportInfo():
     def __init__(self, year, row):
 
         self.year = year
-        self.title = row
+        self.title = row.strip()
         self.href = None
 
         link = row.find_parent('a')
@@ -40,9 +40,9 @@ class ReportInfo():
 
             pass 
 
-        else:
+        # else:
 
-            pdb.set_trace()
+        #     pdb.set_trace()
 
 
     def get_data(self):
