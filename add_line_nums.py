@@ -22,11 +22,15 @@ if __name__ == '__main__':
 
     for line_num, line in enumerate(file):
 
-        if remove_old_nums and line_num > 0:
-            pos = re.search(r'\,\d+', line)
-            if not pos:
-                print("Error: no line number found in line {}".format(line))
-            else:
-                line = line[ : pos.start() ]
+        if line_num == 0:
+            print(line.strip())
+        else:
 
-        print(line.strip() + "," + str(line_num))
+            if remove_old_nums:
+                pos = re.search(r'\,\d+', line)
+                if not pos:
+                    print("Error: no line number found in line {}".format(line))
+                else:
+                    line = line[ : pos.start() ]
+
+            print(line.strip() + "," + str(line_num))
