@@ -26,8 +26,8 @@ def print_msg(msg):
 
 class MachineURLFinder():
 
-    domain = "detroitmi.theneighborhoods.org"
-    site = "http://" + domain
+    domain = "detroitmi.gov"
+    site = "https://" + domain
 
     num_urls_processed = 0
 

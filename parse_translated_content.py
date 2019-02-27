@@ -90,7 +90,7 @@ class TranslatedPage():
         Parse homepage.
         """
 
-        self.url = "detroitmi.theneighborhoods.org"
+        self.url = "detroitmi.gov"
         self.content = input.read()
 
     def parse_file(self, filename):
