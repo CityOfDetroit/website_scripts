@@ -20,6 +20,10 @@ if __name__ == '__main__':
     with open(filename) as file:
         contents = file.read()
 
+        pos = contents.find("\n")
+        if pos > 0:
+            contents = contents[pos + 2 : ]
+
         errors = []
 
         for pattern, description in PATTERNS.items():
