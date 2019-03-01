@@ -14,7 +14,7 @@ if __name__ == '__main__':
     with open(filename) as file:
         contents = file.read()
 
-        match = re.search(r'http[s]\:\/[a-zA-Z]', contents)
+        match = re.search(r'http[s]?\:\/[a-zA-Z]', contents)
 
         code = 1 if match else 0
         exit(code=code)
