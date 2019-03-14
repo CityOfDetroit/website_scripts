@@ -57,12 +57,14 @@ if __name__ == '__main__':
 
     files = [ file for file in listdir(path) if isfile(join(path, file)) and file != script_file ]
 
+    print("URL,Title,Year")
+
     for file in files:
-        
+
         match = find_first_pattern(file)
         if not match:
             raise Exception(msg="File name {} could not be parsed".format(file))
 
         title = get_title(file, match)
         year = get_year(title)
-        print("\"{}\",\"{}\",\"{}\"".format(file, title, year))
+        print("\"{}\",\"{}\",{}".format("https://detroitmi.gov/sites/detroitmi.localhost/files/migrated_docs/nez_reports/" + file, title, year))
