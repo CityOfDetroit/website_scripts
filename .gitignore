@@ -19,7 +19,7 @@ tcl/
 eggs/
 .eggs/
 lib/
-lib64/
+lib64
 parts/
 sdist/
 var/
@@ -79,6 +79,7 @@ target/
 
 # pyenv
 .python-version
+pyvenv.cfg
 
 # celery beat schedule file
 celerybeat-schedule
@@ -109,3 +110,6 @@ google_translate_key.json
 
 # mypy
 .mypy_cache/
+
+# database
+cx_Oracle-doc/
