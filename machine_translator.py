@@ -81,7 +81,8 @@ if __name__ == '__main__':
     if len(sys.argv) != 2:
         raise Exception("Usage:  filename")
 
-    with open(sys.argv[1]) as file_in:
+    filename = sys.argv[1]
+    with open(filename) as file_in:
 
         content = file_in.read()
         translator = MachineTranslator()
