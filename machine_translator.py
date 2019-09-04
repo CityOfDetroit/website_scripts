@@ -4,6 +4,8 @@ import sys
 import time
 
 from google.cloud import translate
+from bs4 import BeautifulSoup
+
 
 from parse_translated_content import TranslatedPage
 
