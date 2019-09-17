@@ -19,7 +19,8 @@ def get_link(obj):
 
     link = obj.findChild('a')
     if link:
-        return link.get('href')
+        tmp = link.get('href')
+        return "https://detroitmi.gov" + tmp if tmp else None
 
     return None
 
