@@ -41,20 +41,33 @@ class MachineTranslator():
 
         return translation['translatedText']
 
-    def translate_chunks(self, lang, text):
+    def translate_tags(self, lang, elt):
         """
-        Parse html into chunks that are short enough to translate.
+        Traverse the html and translate each tag that has content.
         """
 
-        translated_text = ''
-        soup = BeautifulSoup(text, 'html.parser')
+        output = ""
+        for tag in elt.children:
 
-        for elt in soup.find_all('p'):
+            text = str(tag)
 
-            tmp = self.translate_internal(lang, str(elt))
-            translated_text += tmp + '\n'
+            # If the length of the tag is too long, then try recurring on the tag's children.
+            if len(text) > MachineTranslator.MAX_TEXT_LEN:
 
-        return translated_text
+                tmp = self.translate_tags(lang=lang, elt=tag)
+
+            elif text == "\n":
+
+                tmp = "\n"
+
+            else:
+
+                # Translate this tag.
+                tmp = self.translate_internal(lang=lang, text=text)
+
+            output += tmp + '\n'
+
+        return output
 
     def translate(self, lang, text):
         """
@@ -62,15 +75,10 @@ class MachineTranslator():
         """
 
         if not text:
-            return text
+            return ""
 
-        if len(text) >= self.MAX_TEXT_LEN:
-
-            return self.translate_chunks(lang, text)
-
-        else:
-
-            return self.translate_internal(lang, text)
+        soup = BeautifulSoup(text, 'html.parser')
+        return self.translate_tags(lang=lang, elt=soup)
 
 
 if __name__ == '__main__':
@@ -95,5 +103,7 @@ if __name__ == '__main__':
             with open(f"{lang}_" + filename, "w") as file_out:
 
                 file_out.write(output)
+
+                break
 
     print('\nSaved all translations\n')
