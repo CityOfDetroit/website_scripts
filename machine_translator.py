@@ -104,6 +104,6 @@ if __name__ == '__main__':
 
                 file_out.write(output)
 
-                break
+                print(f"Translated {lang}")
 
     print('\nSaved all translations\n')
