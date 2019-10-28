@@ -9,7 +9,7 @@ coverage==4.4.1
 cryptography==2.3.1
 cx-Oracle==6.0.1
 direccion==0.1
-Django==1.11.21
+Django==1.11.23
 django-cors-headers==2.1.0
 django-pyodbc-azure==1.11.0.0
 djangorestframework==3.9.4
