@@ -51,14 +51,14 @@ class MachineTranslator():
 
             text = str(tag)
 
+            if text == "\n":
+
+                tmp = ""
+
             # If the length of the tag is too long, then try recurring on the tag's children.
-            if len(text) > MachineTranslator.MAX_TEXT_LEN:
+            elif len(text) > MachineTranslator.MAX_TEXT_LEN:
 
                 tmp = self.translate_tags(lang=lang, elt=tag)
-
-            elif text == "\n":
-
-                tmp = "\n"
 
             else:
 
@@ -105,5 +105,7 @@ if __name__ == '__main__':
                 file_out.write(output)
 
                 print(f"Translated {lang}")
+
+                break
 
     print('\nSaved all translations\n')
