@@ -106,6 +106,4 @@ if __name__ == '__main__':
 
                 print(f"Translated {lang}")
 
-                break
-
     print('\nSaved all translations\n')
