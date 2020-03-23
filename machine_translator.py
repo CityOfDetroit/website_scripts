@@ -100,7 +100,7 @@ if __name__ == '__main__':
         for lang in sorted(TranslatedPage.LANG_MAP.keys()):
 
             output = translator.translate(lang, content)
-            with open(f"{lang}_" + filename, "w") as file_out:
+            with open(f"{filename}_{lang}", "w") as file_out:
 
                 file_out.write(output)
 
