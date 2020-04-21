@@ -41,31 +41,36 @@ class MachineTranslator():
 
         return translation['translatedText']
 
-    def translate_tags(self, lang, elt):
+    def translate_elt(self, lang, elt):
         """
         Traverse the html and translate each tag that has content.
         """
 
+        text = str(elt)
         output = ""
-        for tag in elt.children:
 
-            text = str(tag)
+        if text == "\n":
 
-            if text == "\n":
+            return "\n"
 
-                tmp = ""
+        # If the length of the tag is too long, then try recurring on the tag's children.
+        elif len(text) > MachineTranslator.MAX_TEXT_LEN and elt.children:
 
-            # If the length of the tag is too long, then try recurring on the tag's children.
-            elif len(text) > MachineTranslator.MAX_TEXT_LEN:
+            first_child_pos = text.find('<', len(elt.name) + 1)
+            if first_child_pos > 0:
 
-                tmp = self.translate_tags(lang=lang, elt=tag)
+                output += text[ : first_child_pos]
 
-            else:
+            for tag in elt.children:
 
-                # Translate this tag.
-                tmp = self.translate_internal(lang=lang, text=text)
+                output += self.translate_elt(lang=lang, elt=tag)
 
-            output += tmp + '\n'
+            output += "</" + elt.name + ">"
+
+        else:
+
+            # Translate this tag.
+            output = self.translate_internal(lang=lang, text=text) + "\n"
 
         return output
 
@@ -78,7 +83,13 @@ class MachineTranslator():
             return ""
 
         soup = BeautifulSoup(text, 'html.parser')
-        return self.translate_tags(lang=lang, elt=soup)
+
+        output = ""
+        for tag in soup.children:
+
+            output += self.translate_elt(lang=lang, elt=tag)
+
+        return output
 
 
 if __name__ == '__main__':
@@ -97,10 +108,14 @@ if __name__ == '__main__':
         content = file_in.read()
         translator = MachineTranslator()
 
+        pos = filename.find('.')
+        if pos > 0:
+            filename = filename[ : pos]
+
         for lang in sorted(TranslatedPage.LANG_MAP.keys()):
 
             output = translator.translate(lang, content)
-            with open(f"{filename}_{lang}", "w") as file_out:
+            with open(f"{filename}_{lang}.txt", "w") as file_out:
 
                 file_out.write(output)
 
