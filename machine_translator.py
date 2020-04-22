@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import os
 import sys
 import time
 
@@ -103,19 +104,34 @@ if __name__ == '__main__':
         raise Exception("Usage:  filename")
 
     filename = sys.argv[1]
+    dot_pos = filename.find('.')
+
+    # Figure out our output file names and go ahead
+    # and delete previous output files.
+    filenames = {}
+    for lang in TranslatedPage.LANG_MAP.keys():
+
+        filename_out = f"{filename[ : dot_pos]}_{lang}.txt"
+        filenames[lang] = filename_out
+
+        try:
+
+            os.remove(filename_out)
+
+        except FileNotFoundError:
+
+            pass
+
+    # Now read the input and translate it.
     with open(filename) as file_in:
 
         content = file_in.read()
         translator = MachineTranslator()
 
-        pos = filename.find('.')
-        if pos > 0:
-            filename = filename[ : pos]
-
-        for lang in sorted(TranslatedPage.LANG_MAP.keys()):
+        for lang in sorted(filenames.keys()):
 
             output = translator.translate(lang, content)
-            with open(f"{filename}_{lang}.txt", "w") as file_out:
+            with open(filenames[lang], "w") as file_out:
 
                 file_out.write(output)
 
