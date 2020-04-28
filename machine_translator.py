@@ -6,7 +6,7 @@ import time
 
 from google.cloud import translate
 from bs4 import BeautifulSoup
-
+from bs4.element import Comment
 
 from parse_translated_content import TranslatedPage
 
@@ -46,6 +46,10 @@ class MachineTranslator():
         """
         Traverse the html and translate each tag that has content.
         """
+
+        if type(elt) is Comment:
+
+            return "\n"
 
         text = str(elt)
         output = ""
