@@ -4,7 +4,7 @@ import os
 import sys
 import time
 
-from google.cloud import translate
+from google.cloud import translate_v2 as translate
 from bs4 import BeautifulSoup
 from bs4.element import Comment
 
