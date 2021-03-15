@@ -33,4 +33,4 @@ if __name__ == '__main__':
 
                 line = line[ : pos.start() ]
 
-        print(line.strip() + "," + str(line_num))
+            print(line.strip() + "," + str(line_num))
