@@ -19,7 +19,7 @@ lxml==4.9.1
 mypy-extensions==0.4.3
 mysqlclient==2.0.3
 packaging==20.9
-paramiko==2.10.3
+paramiko==3.4.0
 proto-plus==1.18.1
 protobuf==4.21.6
 pyasn1==0.4.8
