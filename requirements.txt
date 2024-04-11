@@ -13,7 +13,7 @@ google-cloud-translate==3.2.0
 googleapis-common-protos==1.53.0
 greenlet==1.1.0
 grpcio==1.53.2
-idna==2.10
+idna==3.7
 libcst==0.3.19
 lxml==4.9.1
 mypy-extensions==0.4.3
