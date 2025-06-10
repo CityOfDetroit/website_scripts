@@ -31,7 +31,7 @@ pyparsing==2.4.7
 pysftp==0.2.9
 pytz==2021.1
 PyYAML==5.4.1
-requests==2.32.0
+requests==2.32.4
 rsa==4.7.2
 selenium==3.141.0
 six==1.16.0
