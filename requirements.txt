@@ -25,7 +25,7 @@ protobuf==4.25.8
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
-PyNaCl==1.4.0
+PyNaCl==1.6.2
 pyodbc==4.0.30
 pyparsing==2.4.7
 pysftp==0.2.9
